@@ -5,16 +5,16 @@
 
 ## TypeScript
 
-:ru: [TypeScript: окончательное руководство](https://nauchikus.github.io/typescript-definitive-guide/)
-:ru: [TypeScript: Введение](https://canonium.com/articles/typescript-introduction)
-🇺🇸 [Новая версия официальной документации](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
-:en: [Как дописать типы для сторонних модулей](https://medium.com/@chris_72272/migrating-to-typescript-write-a-declaration-file-for-a-third-party-npm-module-b1f75808ed2)
-:en: [Интерфейсы против типов](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
-:ru: :tv: [TypeScript: the good parts, Михаил Башуров](https://www.youtube.com/watch?v=n8aope5NKfM)
-:en: [Написание документации (TypeDoc)](https://typedoc.org/guides/doccomments/)
-:en: [Описание разницы между `Object`, `{}` и `object` в TS](https://stackoverflow.com/a/49465172)
-:en: [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
-:ru: [Немного про дженерики](https://habr.com/ru/post/455473/)
+* :ru: [TypeScript: окончательное руководство](https://nauchikus.github.io/typescript-definitive-guide/)
+* :ru: [TypeScript: Введение](https://canonium.com/articles/typescript-introduction)
+* 🇺🇸 [Новая версия официальной документации](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
+* 🇺🇸 [Как дописать типы для сторонних модулей](https://medium.com/@chris_72272/migrating-to-typescript-write-a-declaration-file-for-a-third-party-npm-module-b1f75808ed2)
+* 🇺🇸 [Интерфейсы против типов](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
+* :ru: :tv: [TypeScript: the good parts, Михаил Башуров](https://www.youtube.com/watch?v=n8aope5NKfM)
+* 🇺🇸 [Написание документации (TypeDoc)](https://typedoc.org/guides/doccomments/)
+* 🇺🇸 [Описание разницы между `Object`, `{}` и `object` в TS](https://stackoverflow.com/a/49465172)
+* 🇺🇸 [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
+* :ru: [Немного про дженерики](https://habr.com/ru/post/455473/)
 
 ### TypeScript и React
 https://basarat.gitbooks.io/typescript/docs/jsx/react.html
