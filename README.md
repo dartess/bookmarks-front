@@ -34,6 +34,12 @@ https://habr.com/ru/post/450360/
 Где найти старые версии браузеров:
 https://plus.ucweb.com/download/
 https://ftp.mozilla.org/pub/firefox/releases/
+edgeHTML:
+10240: 12
+10586: 13
+14393: 14
+15063: 15
+16299: 16
 
 иммутабельность
 https://facebook.github.io/immutable-js/
