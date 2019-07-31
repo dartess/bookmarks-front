@@ -58,6 +58,7 @@ https://auth0.com/blog/testing-react-applications-with-jest/
 https://github.com/testing-library/react-testing-library
 https://www.npmjs.com/package/react-hooks-testing-library
 https://habr.com/ru/company/ruvds/blog/349452/
+https://www.npmjs.com/package/identity-obj-proxy
 
 React
 https://habr.com/ru/post/358090/
