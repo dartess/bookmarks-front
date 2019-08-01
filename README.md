@@ -3,6 +3,8 @@
 
 ## Не разобранные закладки
 
+* https://i.stack.imgur.com/dzin3.png
+
 ## TypeScript
 
 * :ru: [TypeScript: окончательное руководство](https://nauchikus.github.io/typescript-definitive-guide/)
