@@ -28,15 +28,19 @@ https://habr.com/ru/company/otus/blog/456124/
 https://medium.com/@tiago.souto/most-common-react-app-types-using-typescript-99f4d5d4c4f8
 https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680
 
-### Grid
+## Grid
 
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
 
-### CSS-библиотеки
+## CSS-библиотеки
 
-#### Сетки
+### Сетки
 
 * [Jeet](http://jeet.gs/)
+
+## Браузерные API
+
+* 🇺🇸 [IntersectionObserver — попадание элемента в область видимости (для lazy-load и прочего)](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 
 Эпики:
 https://2018.stateofjs.com/ru/javascript-flavors/overview/
