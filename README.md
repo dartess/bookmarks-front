@@ -44,7 +44,7 @@ https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-withou
 
 ## CSS-хаки (тёмная сторона!)
 
-* 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](hhttps://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
+* 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
 
 ## Про новинки в браузерах
 
