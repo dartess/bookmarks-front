@@ -32,6 +32,12 @@ https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-withou
 
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
 
+### CSS-библиотеки
+
+## Сетки
+
+* [Jeet](http://jeet.gs/)
+
 Эпики:
 https://2018.stateofjs.com/ru/javascript-flavors/overview/
 https://frontendmasters.com/books/front-end-handbook/2019/#6.36
