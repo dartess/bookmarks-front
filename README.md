@@ -46,6 +46,10 @@ https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-withou
 
 * 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](hhttps://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
 
+## Про новинки в браузерах
+
+* 🇺🇸 [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new)
+
 Эпики:
 https://2018.stateofjs.com/ru/javascript-flavors/overview/
 https://frontendmasters.com/books/front-end-handbook/2019/#6.36
