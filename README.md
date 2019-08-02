@@ -42,11 +42,6 @@ https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-withou
 
 * 🇺🇸 [IntersectionObserver — попадание элемента в область видимости (для lazy-load и прочего)](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 
-### CSS-хаки (тёмная сторона!)
-
-* 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
-* 🇺🇸 [Большой сборник браузерных хаков](http://browserhacks.com/)
-
 ## Про новинки в браузерах
 
 * 🇺🇸 [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new)
@@ -62,6 +57,11 @@ https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-withou
 ## Прочее
 
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
+
+### CSS-хаки (тёмная сторона!)
+
+* 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
+* 🇺🇸 [Большой сборник браузерных хаков](http://browserhacks.com/)
 
 Эпики:
 https://2018.stateofjs.com/ru/javascript-flavors/overview/
