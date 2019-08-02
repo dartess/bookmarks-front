@@ -42,9 +42,10 @@ https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-withou
 
 * 🇺🇸 [IntersectionObserver — попадание элемента в область видимости (для lazy-load и прочего)](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 
-## CSS-хаки (тёмная сторона!)
+### CSS-хаки (тёмная сторона!)
 
 * 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
+* 🇺🇸 [Большой сборник браузерных хаков](http://browserhacks.com/)
 
 ## Про новинки в браузерах
 
