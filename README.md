@@ -141,6 +141,7 @@ https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8
 Релиз Chrome 73. Там две интересных фичи. Во-первых поддержка PWA на Mac OS
 https://developers.google.com/web/updates/2019/03/nic73#pwas-everywhere
 https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive
+https://github.com/WICG/badging/blob/master/explainer.md
 
 Окружение
 https://htmlacademy.ru/blog/useful/programming/how-to-make-a-beautiful-console-for-mac-and-linux
