@@ -54,6 +54,10 @@ https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-withou
 
 * 🇷🇺 [Исчерпывающее руководство по стратегиям загрузки веб-шрифтов](https://css-live.ru/articles/ischerpyvayushhee-rukovodstvo-po-strategiyam-zagruzki-veb-shriftov.html)
 
+## Вёрстка E-mail
+
+* 🇺🇸 [Проверка поддерживаемости CSS в письмах](https://www.campaignmonitor.com/css/)
+
 Эпики:
 https://2018.stateofjs.com/ru/javascript-flavors/overview/
 https://frontendmasters.com/books/front-end-handbook/2019/#6.36
