@@ -18,6 +18,7 @@
 * 🇺🇸 [Описание разницы между `Object`, `{}` и `object` в TS](https://stackoverflow.com/a/49465172)
 * 🇺🇸 [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
 * 🇷🇺 [Немного про дженерики](https://habr.com/ru/post/455473/)
+* 🇺🇸 [typelevel-ts — дополнительные типы](https://gcanti.github.io/typelevel-ts/modules/index.ts.html)
 
 ### TypeScript и React
 https://basarat.gitbooks.io/typescript/docs/jsx/react.html
