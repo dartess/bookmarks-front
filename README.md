@@ -76,6 +76,7 @@ https://habr.com/ru/post/450360/
 
 Где найти старые версии браузеров:
 http://get.opera.com/ftp/pub/opera/desktop/
+Отключить обновления на Opera: "Показать содержимое пакета" -> Contents/MacOS/opera_autoupdate
 https://plus.ucweb.com/download/
 https://ftp.mozilla.org/pub/firefox/releases/
 edgeHTML:
