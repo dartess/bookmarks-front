@@ -75,6 +75,7 @@ https://frontendmasters.com/books/front-end-handbook/2019/#6.36
 https://habr.com/ru/post/450360/
 
 Где найти старые версии браузеров:
+http://get.opera.com/ftp/pub/opera/desktop/
 https://plus.ucweb.com/download/
 https://ftp.mozilla.org/pub/firefox/releases/
 edgeHTML:
