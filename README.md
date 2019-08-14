@@ -1,10 +1,6 @@
 # bookmarks-front
 Закладки по фронтэнду и смежному
 
-## Не разобранные закладки
-
-* https://i.stack.imgur.com/dzin3.png
-
 ## TypeScript
 
 * 🇷🇺 [TypeScript: окончательное руководство](https://nauchikus.github.io/typescript-definitive-guide/)
@@ -19,15 +15,16 @@
 * 🇺🇸 [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
 * 🇷🇺 [Немного про дженерики](https://habr.com/ru/post/455473/)
 * 🇺🇸 [typelevel-ts — дополнительные типы](https://gcanti.github.io/typelevel-ts/modules/index.ts.html)
+* 🇺🇸 [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/jsx/react.html)
 
 ### TypeScript и React
-https://basarat.gitbooks.io/typescript/docs/jsx/react.html
-https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c
-https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d
-https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76
-https://habr.com/ru/company/otus/blog/456124/
-https://medium.com/@tiago.souto/most-common-react-app-types-using-typescript-99f4d5d4c4f8
-https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680
+
+* 🇺🇸 [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
+* 🇺🇸 [React Hooks in TypeScript](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
+* 🇺🇸 [How to Use Typescript with React and Redux](https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76)
+* 🇷🇺 [Использование Typescript с React – руководство для новичков](https://habr.com/ru/company/otus/blog/456124/)
+* 🇺🇸 [Most Common React App Types using TypeScript](https://medium.com/@tiago.souto/most-common-react-app-types-using-typescript-99f4d5d4c4f8)
+* 🇺🇸 [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 
 ## Grid
 
@@ -63,6 +60,7 @@ https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-withou
 ## Прочее
 
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
+* [Сравнение различных способов приведения к числу](https://i.stack.imgur.com/dzin3.png)
 
 ### CSS-хаки (тёмная сторона!)
 
@@ -76,9 +74,11 @@ https://habr.com/ru/post/450360/
 
 Где найти старые версии браузеров:
 http://get.opera.com/ftp/pub/opera/desktop/
+https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3
 Отключить обновления на Opera: "Показать содержимое пакета" -> Contents/MacOS/opera_autoupdate
 https://plus.ucweb.com/download/
 https://ftp.mozilla.org/pub/firefox/releases/
+https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site
 edgeHTML:
 10240: 12
 10586: 13
@@ -110,6 +110,8 @@ https://github.com/testing-library/react-testing-library
 https://www.npmjs.com/package/react-hooks-testing-library
 https://habr.com/ru/company/ruvds/blog/349452/
 https://www.npmjs.com/package/identity-obj-proxy
+https://kentcdodds.com/blog/how-to-know-what-to-test
+https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/
 
 React
 https://habr.com/ru/post/358090/
