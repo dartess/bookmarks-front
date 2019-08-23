@@ -74,10 +74,11 @@
 * 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
 * 🇺🇸 [Большой сборник браузерных хаков](http://browserhacks.com/)
 
-Эпики:
-https://2018.stateofjs.com/ru/javascript-flavors/overview/
-https://frontendmasters.com/books/front-end-handbook/2019/#6.36
-https://habr.com/ru/post/450360/
+### Эпики:
+
+* 🇷🇺 [The State of JavaScript 2018](https://2018.stateofjs.com/ru/)
+* 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#6.36)
+* 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
 
 Где найти старые версии браузеров:
 http://get.opera.com/ftp/pub/opera/desktop/
