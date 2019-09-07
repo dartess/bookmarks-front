@@ -28,11 +28,11 @@
 * 🇺🇸 [React Refs with TypeScript](https://medium.com/@martin_hotell/react-refs-with-typescript-a32d56c4d315)
 * 🇺🇸 [Typescript interface optional properties depending on other property](https://stackoverflow.com/questions/51412872/typescript-interface-optional-properties-depending-on-other-property)
 
-## Grid
+## CSS-библиотеки
+
+### Grid
 
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
-
-## CSS-библиотеки
 
 ### Сетки
 
@@ -67,7 +67,7 @@
 ## Прочее
 
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
-* [Сравнение различных способов приведения к числу](https://i.stack.imgur.com/dzin3.png)
+* [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
 
 ### CSS-хаки (тёмная сторона!)
 
@@ -79,6 +79,15 @@
 * 🇷🇺 [The State of JavaScript 2018](https://2018.stateofjs.com/ru/)
 * 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#6.36)
 * 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
+
+### Про отладку в браузерах
+
+* [Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
+* [Отладка Mobile Filexod](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
+
+### Иммутабельность
+
+* [Immutable.js](https://facebook.github.io/immutable-js/)
 
 Где найти старые версии браузеров:
 http://get.opera.com/ftp/pub/opera/desktop/
@@ -93,12 +102,6 @@ edgeHTML:
 14393: 14
 15063: 15
 16299: 16
-
-отладка:
-https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE
-
-иммутабельность
-https://facebook.github.io/immutable-js/
 
 улучшение кодовой базы
 https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d - switch
