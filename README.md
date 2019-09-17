@@ -54,15 +54,40 @@
 
 * 🇺🇸 [Проверка поддерживаемости CSS в письмах](https://www.campaignmonitor.com/css/)
 
-## Расширения для Chrome и других браузеров
+## Доступность
+
+* 🇺🇸 [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
+
+## Браузеры
+
+### Расширения для Chrome и других браузеров
 
 * [WhatRuns — определитель технологий сайта](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 * [JsonDiscovery — самый годный просмотрщик JSON](https://github.com/discoveryjs/browser-extension-json-discovery)
 * [Обход блокировок Рунета](https://chrome.google.com/webstore/detail/%D0%BE%D0%B1%D1%85%D0%BE%D0%B4-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA-%D1%80%D1%83%D0%BD%D0%B5%D1%82%D0%B0/npgcnondjocldhldegnakemclmfkngch)
 
-## Доступность
+### Про отладку в браузерах
 
-* 🇺🇸 [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
+* [Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
+* [Отладка Mobile Filexod](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
+
+### Где найти старые версии браузеров:
+
+* [Firefox](https://ftp.mozilla.org/pub/firefox/releases/)
+* [Билды Opera Chromium, desktop](http://get.opera.com/ftp/pub/opera/desktop/)
+* [Билды Opera, все платформы](http://get.opera.com/ftp/pub/opera/)
+* [Отключить автообновление Opera 32+](https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3)
+* Отключить обновления на Opera 31- на macOS: "Показать содержимое пакета" -> удалить Contents/MacOS/opera_autoupdate
+* [UCBrowser, Android](https://plus.ucweb.com/download/)
+* [Инструкция как откопать старый билд Chrome](https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site)
+* Edge можно найти в том или ином билде Windows 10
+  * 10240: 12
+  * 10586: 13
+  * 14393: 14
+  * 15063: 15
+  * 16299: 16
+  * ?????: 17
+  * ?????: 18
 
 ## Прочее
 
@@ -80,28 +105,10 @@
 * 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#6.36)
 * 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
 
-### Про отладку в браузерах
-
-* [Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
-* [Отладка Mobile Filexod](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
-
 ### Иммутабельность
 
 * [Immutable.js](https://facebook.github.io/immutable-js/)
 
-Где найти старые версии браузеров:
-http://get.opera.com/ftp/pub/opera/desktop/
-https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3
-Отключить обновления на Opera: "Показать содержимое пакета" -> Contents/MacOS/opera_autoupdate
-https://plus.ucweb.com/download/
-https://ftp.mozilla.org/pub/firefox/releases/
-https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site
-edgeHTML:
-10240: 12
-10586: 13
-14393: 14
-15063: 15
-16299: 16
 
 улучшение кодовой базы
 https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d - switch
