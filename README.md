@@ -74,12 +74,10 @@
 ### Где найти старые версии браузеров:
 
 * [Firefox](https://ftp.mozilla.org/pub/firefox/releases/)
-* [Билды Opera Chromium, desktop](http://get.opera.com/ftp/pub/opera/desktop/)
-* [Билды Opera, все платформы](http://get.opera.com/ftp/pub/opera/)
-* [Отключить автообновление Opera 32+](https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3)
-* Отключить обновления на Opera 31- на macOS: "Показать содержимое пакета" -> удалить Contents/MacOS/opera_autoupdate
-* [UCBrowser, Android](https://plus.ucweb.com/download/)
-* [Инструкция как откопать старый билд Chrome](https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site)
+* Opera [Chromium, desktop](http://get.opera.com/ftp/pub/opera/desktop/), [все платформы](http://get.opera.com/ftp/pub/opera/)
+* Отключить автообновление Opera на macOS: [32+](https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3), 31-: "Показать содержимое пакета" -> удалить Contents/MacOS/opera_autoupdate
+* UCBrowser, [Android](https://plus.ucweb.com/download/)
+* Chrome, [инструкция как откопать старый билд](https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site)
 * Edge можно найти в том или ином билде Windows 10
   * 10240: 12
   * 10586: 13
