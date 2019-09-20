@@ -75,7 +75,9 @@
 
 * [Firefox](https://ftp.mozilla.org/pub/firefox/releases/)
 * Opera [Chromium, desktop](http://get.opera.com/ftp/pub/opera/desktop/), [все платформы](http://get.opera.com/ftp/pub/opera/)
-* Отключить автообновление Opera на macOS: [32+](https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3), 31-: "Показать содержимое пакета" -> удалить Contents/MacOS/opera_autoupdate
+* Отключить автообновление Opera на macOS:
+  * 31-: "Показать содержимое пакета" -> удалить Contents/MacOS/opera_autoupdate
+  * [32+](https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3)
 * UCBrowser, [Android](https://plus.ucweb.com/download/)
 * Chrome, [инструкция как откопать старый билд](https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site)
 * Edge можно найти в том или ином билде Windows 10
