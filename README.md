@@ -58,6 +58,21 @@
 
 * 🇺🇸 [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
 
+## Тестирование
+
+* 🇷🇺 [Основы тестирования в документации React](https://ru.reactjs.org/docs/testing.html)
+* 🇺🇸 [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+* 🇷🇺 [TDD на практическом примере](https://bespoyasov.ru/ttt-tdd/)
+* 🇺🇸 [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/dom-testing-react-application-jest-k4ll4f8sd)
+* 🇺🇸 [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/)
+* 🇺🇸 [@testing-library/react — React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+* 🇺🇸 [@testing-library/react-hooks](https://www.npmjs.com/package/@testing-library/react-hooks)
+* 🇷🇺 [Инструменты для тестирования JavaScript-проектов](https://habr.com/ru/company/ruvds/blog/349452/)
+* 🇺🇸 [Пакет для простого мока других пакетов или свойств объекта](https://www.npmjs.com/package/identity-obj-proxy)
+* 🇺🇸 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
+* 🇺🇸 [What and How to Test with Jest and Enzyme. Full Instruction on React Components Testing
+REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/)
+
 ## Браузеры
 
 ### Расширения для Chrome и других браузеров
@@ -107,33 +122,21 @@
 
 ### Иммутабельность
 
-* [Immutable.js](https://facebook.github.io/immutable-js/)
+* 🇺🇸 [Immutable.js](https://facebook.github.io/immutable-js/)
+* 🇺🇸 [Использование switch](https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d)
 
+### Архитектура проекта
 
-улучшение кодовой базы
-https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d - switch
-https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src - структура redux app
-https://github.com/OpusCapita/react-showroom-client/tree/master/src  - структура redux app
-http://nicothin.github.io/idiomatic-pre-CSS/#pre-css
+* [пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
+* [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
 
-graphql:
-https://github.com/APIs-guru/graphql-apis 
+### GraphQL
 
-webp
-https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d
+* [примеры работы открытых graphql api](https://github.com/APIs-guru/graphql-apis)
 
-Тестирование
-https://reactjs.org/docs/testing.html
-https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3
-https://bespoyasov.ru/ttt-tdd/
-https://www.codementor.io/pkodmad/dom-testing-react-application-jest-k4ll4f8sd
-https://auth0.com/blog/testing-react-applications-with-jest/
-https://github.com/testing-library/react-testing-library
-https://www.npmjs.com/package/react-hooks-testing-library
-https://habr.com/ru/company/ruvds/blog/349452/
-https://www.npmjs.com/package/identity-obj-proxy
-https://kentcdodds.com/blog/how-to-know-what-to-test
-https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/
+### Графика
+
+* 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
 
 React
 https://habr.com/ru/post/358090/
