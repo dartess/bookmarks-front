@@ -1,6 +1,19 @@
 # bookmarks-front
 Закладки по фронтэнду и смежному
 
+## React
+
+### Библиотеки
+
+#### Анимации
+
+* 🇺🇸 [react-motion](https://github.com/chenglou/react-motion)
+* 🇺🇸 [react-spring](https://github.com/react-spring/react-spring)
+
+### Redux
+
+* 🇷🇺 [Редакс в реальной жизни](https://iamakulov.com/talks/redux-in-real-life/)
+
 ## TypeScript
 
 * 🇷🇺 [TypeScript: окончательное руководство](https://nauchikus.github.io/typescript-definitive-guide/)
@@ -41,6 +54,8 @@
 ## Шрифты
 
 * 🇷🇺 [Исчерпывающее руководство по стратегиям загрузки веб-шрифтов](https://css-live.ru/articles/ischerpyvayushhee-rukovodstvo-po-strategiyam-zagruzki-veb-shriftov.html)
+* 🇺🇸 [23 minutes of work for better font loading](https://www.zachleat.com/web/23-minutes/)
+* 🇺🇸 [Web fonts and performance](https://font-display.glitch.me/)
 
 ## Вёрстка E-mail
 
@@ -137,23 +152,6 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 ### Графика
 
 * 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
-
-React
-https://habr.com/ru/post/358090/
-https://maxpfrontend.ru/perevody/samye-vazhnye-uroki-posle-goda-raboty-s-react/
-
-React библиотеки
-	анимации
-https://github.com/chenglou/react-motion
-https://github.com/react-spring/react-spring
-
-Redux
-https://iamakulov.com/talks/redux-in-real-life/
-
-Шрифты:
-https://www.zachleat.com/web/comprehensive-webfonts/
-https://www.zachleat.com/web/23-minutes/
-https://font-display.glitch.me/
 
 Библиотеки:
 https://introjs.com/
