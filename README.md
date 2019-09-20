@@ -38,14 +38,6 @@
 
 * [Jeet](http://jeet.gs/)
 
-## Браузерные API
-
-* 🇺🇸 [IntersectionObserver — попадание элемента в область видимости (для lazy-load и прочего)](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
-
-## Про новинки в браузерах
-
-* 🇺🇸 [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new)
-
 ## Шрифты
 
 * 🇷🇺 [Исчерпывающее руководство по стратегиям загрузки веб-шрифтов](https://css-live.ru/articles/ischerpyvayushhee-rukovodstvo-po-strategiyam-zagruzki-veb-shriftov.html)
@@ -75,6 +67,10 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 
 ## Браузеры
 
+### Браузерные API
+
+* 🇺🇸 [IntersectionObserver — попадание элемента в область видимости (для lazy-load и прочего)](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+
 ### Расширения для Chrome и других браузеров
 
 * [WhatRuns — определитель технологий сайта](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
@@ -85,6 +81,10 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 
 * [Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
 * [Отладка Mobile Filexod](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
+
+### Про новинки в браузерах
+
+* 🇺🇸 [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new)
 
 ### Где найти старые версии браузеров:
 
