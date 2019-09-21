@@ -142,6 +142,45 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
   * ?????: 17
   * ?????: 18
 
+## PWA
+
+### Общая информация
+
+* 🇺🇸 [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps)
+* 🇺🇸 [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+* 🇺🇸 [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+* 🇺🇸 [MDN: Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
+### Service Worker
+
+* 🇷🇺 [Создание сервис-воркера: разбор примера](http://prgssr.ru/development/sozdaem-service-worker.html)
+
+### Особенности платформ
+
+* 🇺🇸 [Don’t use iOS meta tags irresponsibly in your Progressive Web Apps](https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb)
+* 🇺🇸 [PWAs are coming to iOS 11.3: Cupertino, we have a problem](https://medium.com/@firt/pwas-are-coming-to-ios-11-3-cupertino-we-have-a-problem-2ff49fd7d6ea)
+* 🇺🇸 [What’s new on iOS 12.2 for Progressive Web Apps](https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945)
+* 🇺🇸 [PWA Bugs](https://github.com/PWA-POLICE/pwa-bugs)
+* 🇺🇸 [Десктопные PWA в Windows](https://twitter.com/firt/status/1054442657567727616)
+* 🇺🇸 [Десктопные PWA в Linux](https://twitter.com/firt/status/1054801501653221378)
+
+### PWA и магазины приложений
+
+* 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
+* 🇷🇺 [Play Store теперь принимает прогрессивные веб-приложения (PWA)](https://habr.com/ru/post/439238/)
+
+### API для работы с устройством
+
+* 🇺🇸 [Badging API Explainer](https://github.com/WICG/badging/blob/master/explainer.md)
+
+### Прочее
+
+* 🇺🇸 [How to display a "new version available" for a Progressive Web App](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/)
+
+### Вспомогательные инструменты
+
+* 🇺🇸 [PWA Builder](https://www.pwabuilder.com/generator)
+
 ## Прочее
 
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
@@ -178,27 +217,3 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 
 * 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
 
-PWA:
-https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
-http://prgssr.ru/development/sozdaem-service-worker.html#heading-section-1
-https://www.manning.com/books/progressive-web-apps
-https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0
-https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb
-https://medium.com/@firt/pwas-are-coming-to-ios-11-3-cupertino-we-have-a-problem-2ff49fd7d6ea
-https://www.pwabuilder.com/generator
-https://deanhume.com/displaying-a-new-version-available-progressive-web-app/
-https://github.com/PWA-POLICE/pwa-bugs#problem-pwa-is-added-without-a-splashscreen
-https://vk.com/wall-32017543_18537
-https://www.youtube.com/watch?v=SVX3yF2NIzo
-https://developer.mozilla.org/en-US/Apps/Progressive/Add_to_home_screen
-https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html
-https://habr.com/ru/post/439238/
-https://developers.google.com/web/ilt/pwa/
-https://github.com/WICG/badging/blob/master/explainer.md
-https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/
-pwastatus.site
-https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945
-Релиз Chrome 73. Там две интересных фичи. Во-первых поддержка PWA на Mac OS
-https://developers.google.com/web/updates/2019/03/nic73#pwas-everywhere
-https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive
-https://github.com/WICG/badging/blob/master/explainer.md
