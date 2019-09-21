@@ -100,7 +100,14 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 
 ### Браузерные API
 
-* 🇺🇸 [IntersectionObserver — попадание элемента в область видимости (для lazy-load и прочего)](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+#### IntersectionObserver — попадание элемента в область видимости
+
+* 🇺🇸 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+
+#### Shape Detection API — распознавание лиц, штрихкодов, текста
+
+* 🇺🇸 [Demo и документация](https://www.chromestatus.com/feature/4757990523535360)
+* 🇺🇸 [Barcode detection using Shape Detection API](https://paul.kinlan.me/barcode-detection/)
 
 ### Расширения для Chrome и других браузеров
 
@@ -139,6 +146,8 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
 * [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
+* 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
+* 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
 
 ### Настройка окружения
 
@@ -147,6 +156,7 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 ### Эпики:
 
 * 🇷🇺 [The State of JavaScript 2018](https://2018.stateofjs.com/ru/)
+* 🇷🇺 [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/)
 * 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#6.36)
 * 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
 
@@ -192,23 +202,3 @@ https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8
 https://developers.google.com/web/updates/2019/03/nic73#pwas-everywhere
 https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive
 https://github.com/WICG/badging/blob/master/explainer.md
-
-Прочее
-https://bespoyasov.ru/front-not-pain/#progress
-http://www.chuvyr.ru/2015/04/meta-viewport.html 
-https://dassur.ma/things/deep-copy/	- копирование объектов
-https://webkit.org/blog/8840/dark-mode-support-in-webkit/ - тёмная тема
-
-Shape Detection API
-https://habr.com/ru/post/442770/
-https://www.chromestatus.com/feature/4757990523535360
-https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html
-
-GraphQL
-https://www.youtube.com/watch?v=YgRmgHPTXr4 	- вводная	
-https://www.youtube.com/watch?v=_vjSZhnYhfI		- минусы, попозднее смотреть
-https://www.youtube.com/watch?v=F4vHSHzpO1g 	2018	0,94
-https://www.youtube.com/watch?v=rm1GalQIoXI 		2016	0,896551724137931
-https://www.youtube.com/watch?v=5GCwXh6ocxY 	2016	0,802197802197802
-& React
-https://www.youtube.com/watch?v=Y0lDGjwRYKw
