@@ -1,6 +1,17 @@
 # bookmarks-front
 Закладки по фронтэнду и смежному
 
+## JavaScript
+
+### Библиотеки
+
+* [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
+
+#### Графики
+
+* [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
+* [Carbon Charts — с адаптерами под фреймворки](https://carbon-design-system.github.io/carbon-charts/)
+
 ## React
 
 ### Библиотеки
@@ -41,15 +52,20 @@
 * 🇺🇸 [React Refs with TypeScript](https://medium.com/@martin_hotell/react-refs-with-typescript-a32d56c4d315)
 * 🇺🇸 [Typescript interface optional properties depending on other property](https://stackoverflow.com/questions/51412872/typescript-interface-optional-properties-depending-on-other-property)
 
-## CSS-библиотеки
+## CSS
 
 ### Grid
 
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
 
-### Сетки
+### Библиотеки
 
-* [Jeet](http://jeet.gs/)
+* [Jeet — сетка](http://jeet.gs/)
+
+### CSS-хаки (тёмная сторона!)
+
+* 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
+* 🇺🇸 [Большой сборник браузерных хаков](http://browserhacks.com/)
 
 ## Шрифты
 
@@ -57,7 +73,7 @@
 * 🇺🇸 [23 minutes of work for better font loading](https://www.zachleat.com/web/23-minutes/)
 * 🇺🇸 [Web fonts and performance](https://font-display.glitch.me/)
 
-## Вёрстка E-mail
+## Вёрстка писем
 
 * 🇺🇸 [Проверка поддерживаемости CSS в письмах](https://www.campaignmonitor.com/css/)
 
@@ -124,10 +140,9 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
 * [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
 
-### CSS-хаки (тёмная сторона!)
+### Настройка окружения
 
-* 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
-* 🇺🇸 [Большой сборник браузерных хаков](http://browserhacks.com/)
+* 🇷🇺 [Как сделать красивую консоль в Mac и Linux](https://htmlacademy.ru/blog/useful/programming/how-to-make-a-beautiful-console-for-mac-and-linux)
 
 ### Эпики:
 
@@ -153,13 +168,6 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 
 * 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
 
-Библиотеки:
-https://introjs.com/
-https://eventbrite.github.io/britecharts/index.html
-
-Чарты:
-https://carbon-design-system.github.io/carbon-charts/?theme=LIGHT_2
-
 PWA:
 https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
 http://prgssr.ru/development/sozdaem-service-worker.html#heading-section-1
@@ -184,9 +192,6 @@ https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8
 https://developers.google.com/web/updates/2019/03/nic73#pwas-everywhere
 https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive
 https://github.com/WICG/badging/blob/master/explainer.md
-
-Окружение
-https://htmlacademy.ru/blog/useful/programming/how-to-make-a-beautiful-console-for-mac-and-linux
 
 Прочее
 https://bespoyasov.ru/front-not-pain/#progress
