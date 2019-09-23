@@ -132,6 +132,7 @@
 #### IntersectionObserver — попадание элемента в область видимости
 
 * 🇺🇸 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+* 🇺🇸 [Intersection Observers — Explainer Doc, Draft Spec, Polyfill](https://github.com/w3c/IntersectionObserver)
 
 #### Shape Detection API — распознавание лиц, штрихкодов, текста
 
