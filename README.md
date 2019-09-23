@@ -22,6 +22,8 @@
 
 ### Библиотеки
 
+* 🇺🇸 [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
+
 #### Анимации
 
 * 🇺🇸 [react-motion](https://github.com/chenglou/react-motion)
@@ -63,6 +65,7 @@
 * 🇺🇸 [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 * 🇺🇸 [React Refs with TypeScript](https://medium.com/@martin_hotell/react-refs-with-typescript-a32d56c4d315)
 * 🇺🇸 [Typescript interface optional properties depending on other property](https://stackoverflow.com/questions/51412872/typescript-interface-optional-properties-depending-on-other-property)
+* 🇺🇸 [Передача дженериков в элементы JSX в TypeScript](https://mariusschulz.com/blog/passing-generics-to-jsx-elements-in-typescript)
 
 ## CSS
 
@@ -129,6 +132,7 @@
 ## Браузеры
 
 * 🇺🇸 [Особенности использования модулей в браузере](https://jakearchibald.com/2017/es-modules-in-browsers/)
+* 🇺🇸 [Поддержка старых браузеров без вреда для остальных](https://sgom.es/posts/2019-03-06-supporting-old-browsers-without-hurting-everyone/)
 
 ### Браузерные API
 
