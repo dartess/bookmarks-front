@@ -11,6 +11,7 @@
 * [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
 * [interactjs — JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
 * [Lottie — плеер для воспроизведения анимаций из After Effect](http://airbnb.io/lottie/)
+* [Micromodal — доступные модальные окна](https://github.com/ghosh/Micromodal)
 
 #### Графики
 
@@ -66,6 +67,7 @@
 ## CSS
 
 * 🇺🇸 [Хитрость для viewport-единиц на мобильном](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
+* 🇺🇸 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 
 ### Позиционирование
 
@@ -175,6 +177,10 @@
   * ?????: 17
   * ?????: 18
 
+### Прочее
+
+* 🇺🇸 [Техподдержка SamsungInternet](https://github.com/SamsungInternet/support)
+
 ## PWA
 
 ### Общая информация
@@ -215,6 +221,11 @@
 
 * 🇺🇸 [PWA Builder](https://www.pwabuilder.com/generator)
 
+## Git
+
+* 🇺🇸 [Интерактивный обучающий тур по git](https://githowto.com/ru)
+* 🇺🇸 [Справочник по git](https://git-scm.com/book/ru/v2)
+
 ## Svelte
 
 ### Библиотеки
@@ -223,12 +234,14 @@
 
 ## Прочее
 
+* 🇷🇺 [БЭМ](https://ru.bem.info/methodology/key-concepts/)
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
 * [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
 * 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
 * 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
 * 🇺🇸 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
+* 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
 
 ### Настройка окружения
 
