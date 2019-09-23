@@ -174,6 +174,7 @@
 ### Service Worker
 
 * 🇷🇺 [Создание сервис-воркера: разбор примера](http://prgssr.ru/development/sozdaem-service-worker.html)
+* 🇺🇸 [Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
 
 ### Особенности платформ
 
@@ -208,6 +209,7 @@
 * 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
 * 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
+* 🇺🇸 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 
 ### Настройка окружения
 
