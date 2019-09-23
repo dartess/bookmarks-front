@@ -29,6 +29,7 @@
 ### Альтернативные менеджеры состояния
 
 * 🇺🇸 [Effector](https://effector.now.sh/)
+* 🇺🇸 [ReactN — расширение реакта с менеджером состояния](https://github.com/CharlesStover/reactn)
 
 ## TypeScript
 
@@ -95,6 +96,10 @@
 
 * 🇺🇸 [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
 
+## Дизайн
+
+* 🇺🇸 [Golden Ratio Typography Calculator](https://grtcalculator.com/)
+
 ## Тестирование
 
 * 🇷🇺 [Основы тестирования в документации React](https://ru.reactjs.org/docs/testing.html)
@@ -110,6 +115,8 @@
 * 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 
 ## Браузеры
+
+* 🇺🇸 [Особенности использования модулей в браузере](https://jakearchibald.com/2017/es-modules-in-browsers/)
 
 ### Браузерные API
 
