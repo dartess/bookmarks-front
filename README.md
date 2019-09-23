@@ -10,6 +10,7 @@
 
 * [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
 * [interactjs — JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
+* [Lottie — плеер для воспроизведения анимаций из After Effect](http://airbnb.io/lottie/)
 
 #### Графики
 
