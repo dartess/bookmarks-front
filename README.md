@@ -37,6 +37,7 @@
 * 🇷🇺 [Глубокое погружение в TypeScript](https://github.com/etroynov/typescript-book)
 * 🇺🇸 [Новая версия официальной документации](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
 * 🇺🇸 [Как дописать типы для сторонних модулей](https://medium.com/@chris_72272/migrating-to-typescript-write-a-declaration-file-for-a-third-party-npm-module-b1f75808ed2)
+* 🇺🇸 [TypeScript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
 * 🇺🇸 [Интерфейсы против типов](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
 * 🇷🇺 :tv: [TypeScript: the good parts, Михаил Башуров](https://www.youtube.com/watch?v=n8aope5NKfM)
 * 🇺🇸 [Написание документации (TypeDoc)](https://typedoc.org/guides/doccomments/)
