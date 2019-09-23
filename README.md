@@ -45,7 +45,7 @@
 * 🇺🇸 [Как дописать типы для сторонних модулей](https://medium.com/@chris_72272/migrating-to-typescript-write-a-declaration-file-for-a-third-party-npm-module-b1f75808ed2)
 * 🇺🇸 [TypeScript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
 * 🇺🇸 [Интерфейсы против типов](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
-* 🇷🇺 :tv: [TypeScript: the good parts, Михаил Башуров](https://www.youtube.com/watch?v=n8aope5NKfM)
+* 🇷🇺 📺 [TypeScript: the good parts, Михаил Башуров](https://www.youtube.com/watch?v=n8aope5NKfM)
 * 🇺🇸 [Написание документации (TypeDoc)](https://typedoc.org/guides/doccomments/)
 * 🇺🇸 [Описание разницы между `Object`, `{}` и `object` в TS](https://stackoverflow.com/a/49465172)
 * 🇺🇸 [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
@@ -232,6 +232,24 @@
 
 * 🇺🇸 [MDsveX — MDX для Svelte](https://github.com/pngwn/MDsveX)
 
+## Что читать/смотреть
+
+* 🇷🇺 [Дайджест свежих материалов из мира фронтенда за последнюю неделю](https://habr.com/ru/search/?target_type=posts&order_by=date&q=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D1%85+%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%BE%D0%B2+%D0%B8%D0%B7+%D0%BC%D0%B8%D1%80%D0%B0+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0+%D0%B7%D0%B0+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8E%D1%8E+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E&flow=)
+* 🇷🇺 ✈️ [Juliarderity (ECMAScript, WebAssembly, Web APIs, specs)](https://t.me/juliarderity)
+* 🇷🇺 ✈️ [Веб-стандарты](https://t.me/webstandards_ru)
+* 🇷🇺 ✈️ [For Web — фронтенд, дизайн, программирование](https://t.me/forwebdev)
+* 🇷🇺 ✈️ [Smart Dev — веб-разработка, дизайн, программирование](https://t.me/smart_dev)
+* 🇷🇺 ✈️ [Back to basics & JavaScript](https://t.me/backtobasicsjs)
+* 🇷🇺 ✈️ [Иван Акулов про разработку](https://t.me/iamakulov_channel)
+* 🇷🇺 ✈️ [Breakfast.js](https://t.me/breakfastjs)
+* 🇺🇸 ✈️ [ThisWeekInReact && React.Newsletter](https://t.me/this_week_in_react)
+* 🇷🇺 📺 [Веб-стандарты](https://www.youtube.com/user/wstdays/)
+* 🇷🇺 📺 [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
+* 🇷🇺 📺 [MinskJS](https://www.youtube.com/channel/UClp8fFQIhFWT9uSmFYx41RA/)
+* 🇷🇺 📺 [Фронтенд — Академия Яндекса](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ)
+* 🇷🇺 📺 [JavaScript.Ninja](https://www.youtube.com/channel/UCW9pyonagDWGMCy7V_Kro6g/)
+* 🇷🇺 📺 [JavaScript.ru](https://www.youtube.com/user/iliakan/)
+
 ## Прочее
 
 * 🇷🇺 [БЭМ](https://ru.bem.info/methodology/key-concepts/)
@@ -242,6 +260,7 @@
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
 * 🇺🇸 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 * 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
+* 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
 
 ### Настройка окружения
 
