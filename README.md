@@ -3,6 +3,9 @@
 
 ## JavaScript
 
+* 🇺🇸 [Разбор новинок ES2016 и ES2017](https://exploringjs.com/es2016-es2017/)
+* 🇺🇸 [Разбор новинок ES2018 и ES2019](https://exploringjs.com/es2018-es2019/toc.html)
+
 ### Библиотеки
 
 * [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
@@ -61,6 +64,8 @@
 
 ## CSS
 
+* 🇺🇸 [Хитрость для viewport-единиц на мобильном](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
+
 ### Позиционирование
 
 * 🇷🇺 [Как на самом деле работает position: sticky в CSS](https://medium.com/web-standards/sticky-bc7ff7088693)
@@ -81,6 +86,10 @@
 
 * 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
 * 🇺🇸 [Большой сборник браузерных хаков](http://browserhacks.com/)
+
+## Canvas
+
+* 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
 
 ## Шрифты
 
@@ -139,6 +148,8 @@
 
 * [Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
 * [Отладка Mobile Filexod](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
+* [Touch Bar Demo App — эмулятор тачбара MacBook](https://github.com/bikkelbroeders/TouchBarDemoApp)
+* [Feature Queries Manager — отладка браузеров с разным значением @supports](https://github.com/ireade/feature-queries-manager)
 
 ### Про новинки в браузерах
 
@@ -201,6 +212,12 @@
 ### Вспомогательные инструменты
 
 * 🇺🇸 [PWA Builder](https://www.pwabuilder.com/generator)
+
+## Svelte
+
+### Библиотеки
+
+* 🇺🇸 [MDsveX — MDX для Svelte](https://github.com/pngwn/MDsveX)
 
 ## Прочее
 
