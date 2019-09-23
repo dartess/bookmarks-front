@@ -6,6 +6,7 @@
 ### Библиотеки
 
 * [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
+* [interactjs — JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
 
 #### Графики
 
@@ -24,6 +25,10 @@
 ### Redux
 
 * 🇷🇺 [Редакс в реальной жизни](https://iamakulov.com/talks/redux-in-real-life/)
+
+### Альтернативные менеджеры состояния
+
+* 🇺🇸 [Effector](https://effector.now.sh/)
 
 ## TypeScript
 
@@ -53,6 +58,14 @@
 * 🇺🇸 [Typescript interface optional properties depending on other property](https://stackoverflow.com/questions/51412872/typescript-interface-optional-properties-depending-on-other-property)
 
 ## CSS
+
+### Позиционирование
+
+* 🇷🇺 [Как на самом деле работает position: sticky в CSS](https://medium.com/web-standards/sticky-bc7ff7088693)
+
+### Анимации
+
+* 🇺🇸 [CSS Easing Animation Tool — онлайн построение функций анимации](https://matthewlein.com/tools/ceaser)
 
 ### Grid
 
@@ -93,8 +106,7 @@
 * 🇷🇺 [Инструменты для тестирования JavaScript-проектов](https://habr.com/ru/company/ruvds/blog/349452/)
 * 🇺🇸 [Пакет для простого мока других пакетов или свойств объекта](https://www.npmjs.com/package/identity-obj-proxy)
 * 🇺🇸 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
-* 🇺🇸 [What and How to Test with Jest and Enzyme. Full Instruction on React Components Testing
-REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/)
+* 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 
 ## Браузеры
 
@@ -187,6 +199,7 @@ REACT](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-fu
 * [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
 * 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
 * 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
+* 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
 
 ### Настройка окружения
 
