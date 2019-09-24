@@ -102,6 +102,7 @@
 * 🇷🇺 [Исчерпывающее руководство по стратегиям загрузки веб-шрифтов](https://css-live.ru/articles/ischerpyvayushhee-rukovodstvo-po-strategiyam-zagruzki-veb-shriftov.html)
 * 🇺🇸 [23 minutes of work for better font loading](https://www.zachleat.com/web/23-minutes/)
 * 🇺🇸 [Web fonts and performance](https://font-display.glitch.me/)
+* 🇺🇸 [Набор утилит для работы со шрифтами под macOS](https://github.com/bramstein/homebrew-webfonttools)
 
 ## Вёрстка писем
 
