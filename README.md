@@ -13,6 +13,10 @@
 * [Lottie — плеер для воспроизведения анимаций из After Effect](http://airbnb.io/lottie/)
 * [Micromodal — доступные модальные окна](https://github.com/ghosh/Micromodal)
 
+#### Даты и время
+
+* [Day.js — легковесная альтернатива Moment.js](https://github.com/iamkun/dayjs)
+
 #### Графики
 
 * [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
@@ -78,6 +82,7 @@
 
 ### Анимации
 
+* 🇷🇺 [Шпаргалка функций плавности](https://easings.net/ru)
 * 🇺🇸 [CSS Easing Animation Tool — онлайн построение функций анимации](https://matthewlein.com/tools/ceaser)
 
 ### Grid
