@@ -221,7 +221,10 @@
 
 ### API для работы с устройством
 
+#### Badging API — вывод меток на иконке приложения
+
 * 🇺🇸 [Badging API Explainer](https://github.com/WICG/badging/blob/master/explainer.md)
+* 🇺🇸 [Badging for App Icons](https://developers.google.com/web/updates/2018/12/badging-api)
 
 ### Прочее
 
