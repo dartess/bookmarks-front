@@ -42,6 +42,10 @@
 * 🇺🇸 [Effector](https://effector.now.sh/)
 * 🇺🇸 [ReactN — расширение реакта с менеджером состояния](https://github.com/CharlesStover/reactn)
 
+### Фреймворки
+
+* 🇺🇸 [Next.js](https://nextjs.org/)
+
 ## TypeScript
 
 * 🇷🇺 [TypeScript: окончательное руководство](https://nauchikus.github.io/typescript-definitive-guide/)
