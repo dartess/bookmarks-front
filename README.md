@@ -76,6 +76,10 @@
 * 🇺🇸 [Хитрость для viewport-единиц на мобильном](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
 * 🇺🇸 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 
+### Текст
+
+* 🇷🇺 [Неизведанные глубины CSS: метрики шрифта, line-height и vertical-align](https://css-live.ru/css/metriki-shrifta-line-height-vertical-align.html)
+
 ### Позиционирование
 
 * 🇷🇺 [Как на самом деле работает position: sticky в CSS](https://medium.com/web-standards/sticky-bc7ff7088693)
