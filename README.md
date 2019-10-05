@@ -207,6 +207,7 @@
 * 🇺🇸 [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
 * 🇺🇸 [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 * 🇺🇸 [MDN: Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+* 🇺🇸 [Progressive Web Apps Training от Google](https://developers.google.com/web/ilt/pwa/)
 
 ### Service Worker
 
@@ -279,13 +280,13 @@
 * 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
 * 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
-* 🇺🇸 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 * 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
 * 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
 
 ### Настройка окружения
 
 * 🇷🇺 [Как сделать красивую консоль в Mac и Linux](https://htmlacademy.ru/blog/useful/programming/how-to-make-a-beautiful-console-for-mac-and-linux)
+* 🇺🇸 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 
 ### Эпики:
 
@@ -311,4 +312,5 @@
 ### Графика
 
 * 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
+* 🇷🇺 [Полное руководство по отзывчивым изображениям!](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)
 
