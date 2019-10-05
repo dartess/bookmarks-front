@@ -26,12 +26,16 @@
 
 ### Библиотеки
 
-* 🇺🇸 [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
+* [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
 
-#### Анимации
+#### Анимация
 
-* 🇺🇸 [react-motion](https://github.com/chenglou/react-motion)
-* 🇺🇸 [react-spring](https://github.com/react-spring/react-spring)
+* [react-motion](https://github.com/chenglou/react-motion)
+* [react-spring](https://github.com/react-spring/react-spring)
+
+#### Markdown
+
+* [react-showdown](https://github.com/jerolimov/react-showdown)
 
 ### Redux
 
