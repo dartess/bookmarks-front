@@ -9,19 +9,26 @@
 
 ### Библиотеки
 
-* [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
-* [interactjs — JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
-* [Lottie — плеер для воспроизведения анимаций из After Effect](http://airbnb.io/lottie/)
-* [Micromodal — доступные модальные окна](https://github.com/ghosh/Micromodal)
+* 🇺🇸 [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
+* 🇺🇸 [interactjs — JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
+* 🇺🇸 [Lottie — плеер для воспроизведения анимаций из After Effect](http://airbnb.io/lottie/)
+* 🇺🇸 [Micromodal — доступные модальные окна](https://github.com/ghosh/Micromodal)
 
 #### Даты и время
 
-* [Day.js — легковесная альтернатива Moment.js](https://github.com/iamkun/dayjs)
+* 🇺🇸 [Day.js — легковесная альтернатива Moment.js](https://github.com/iamkun/dayjs)
 
 #### Графики
 
-* [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
-* [Carbon Charts — с адаптерами под фреймворки](https://carbon-design-system.github.io/carbon-charts/)
+* 🇺🇸 [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
+* 🇺🇸 [Carbon Charts — с адаптерами под фреймворки](https://carbon-design-system.github.io/carbon-charts/)
+
+#### Шаблонизаторы / библиотеки для рендеринга HTML
+
+* 🇺🇸 [lit-html](https://lit-html.polymer-project.org/)
+* 🇺🇸 [hyperHTML](https://viperhtml.js.org/)
+* 🇺🇸 [lighterhtml](https://github.com/WebReflection/lighterhtml#lighterhtml)
+* 🇺🇸 [lit-html vs hyperHTML vs lighterhtml](https://medium.com/@WebReflection/lit-html-vs-hyperhtml-vs-lighterhtml-c084abfe1285)
 
 ## React
 
