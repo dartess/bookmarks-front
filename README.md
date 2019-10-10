@@ -325,8 +325,8 @@
 
 ### Архитектура проекта
 
-* [пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
-* [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
+* 🇺🇸 [пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
+* 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
 
 ### GraphQL
 
@@ -335,5 +335,5 @@
 ### Графика
 
 * 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
-* 🇷🇺 [Полное руководство по отзывчивым изображениям!](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)
+* 🇷🇺 [Полное руководство по отзывчивым изображениям!](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)
 
