@@ -6,6 +6,7 @@
 * 🇺🇸 [Разбор новинок ES2016 и ES2017](https://exploringjs.com/es2016-es2017/)
 * 🇺🇸 [Разбор новинок ES2018 и ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 * 🇺🇸 [Примерный разбор новинок ES2020 и некоторых stage 3](https://itnext.io/javascript-new-features-part-1-f1a4360466)
+* 🇺🇸 [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 
 ### Библиотеки
 
@@ -261,6 +262,11 @@
 
 * 🇺🇸 [PWA Builder](https://www.pwabuilder.com/generator)
 
+## Тёмная тема
+
+* 🇺🇸 [A guide to implementing dark modes on websites](https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website?ref=heydesigner)
+* 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
+
 ## Git
 
 * 🇺🇸 [Интерактивный обучающий тур по git](https://githowto.com/ru)
@@ -296,7 +302,6 @@
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
 * [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
 * 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
-* 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
 * 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
 * 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
