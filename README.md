@@ -14,6 +14,7 @@
 * 🇺🇸 [interactjs — JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
 * 🇺🇸 [Lottie — плеер для воспроизведения анимаций из After Effect](http://airbnb.io/lottie/)
 * 🇺🇸 [Micromodal — доступные модальные окна](https://github.com/ghosh/Micromodal)
+* 🇺🇸 [markdown-it — Markdown parser](https://github.com/markdown-it/markdown-it)
 
 #### Даты и время
 
@@ -32,6 +33,10 @@
 * 🇺🇸 [lit-html vs hyperHTML vs lighterhtml](https://medium.com/@WebReflection/lit-html-vs-hyperhtml-vs-lighterhtml-c084abfe1285)
 
 ## React
+
+### Хуки
+
+* 🇺🇸 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
 
 ### Библиотеки
 
@@ -109,6 +114,10 @@
 
 * 🇷🇺 [Шпаргалка функций плавности](https://easings.net/ru)
 * 🇺🇸 [CSS Easing Animation Tool — онлайн построение функций анимации](https://matthewlein.com/tools/ceaser)
+
+### Flexbox
+
+* 🇷🇺 [11 вещей которые я узнал, читая спецификацию flexbox](https://habr.com/ru/post/329820/)
 
 ### Grid
 
@@ -305,6 +314,17 @@
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
 * 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
 * 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
+
+### Онлайн-инструменты
+
+* 🇺🇸 [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
+* 🇺🇸 [Base64 File Encoder](http://jpillora.com/base64-encoder/)
+* 🇷🇺 [Типограф Лебедева](https://www.artlebedev.ru/typograf/)
+* 🇺🇸 [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/ )
+* 🇺🇸 [CSS Sprite Generator](https://instantsprite.com/)
+* 🇺🇸 [convert — конвертер с поддержкой конвертирования видео](https://cloudconvert.com/)
+* 🇺🇸 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
+* 🇺🇸 [FontDrop! —просмотр информации о шрифте](https://fontdrop.info/)
 
 ### Настройка окружения
 
