@@ -293,7 +293,6 @@
 * 🇷🇺 ✈️ [Juliarderity (ECMAScript, WebAssembly, Web APIs, specs)](https://t.me/juliarderity)
 * 🇷🇺 ✈️ [Веб-стандарты](https://t.me/webstandards_ru)
 * 🇷🇺 ✈️ [For Web — фронтенд, дизайн, программирование](https://t.me/forwebdev)
-* 🇷🇺 ✈️ [Smart Dev — веб-разработка, дизайн, программирование](https://t.me/smart_dev)
 * 🇷🇺 ✈️ [Back to basics & JavaScript](https://t.me/backtobasicsjs)
 * 🇷🇺 ✈️ [Иван Акулов про разработку](https://t.me/iamakulov_channel)
 * 🇷🇺 ✈️ [Breakfast.js](https://t.me/breakfastjs)
