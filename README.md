@@ -3,6 +3,7 @@
 
 ## JavaScript
 
+* 🇺🇸 [Lists and examples for new Javascript features](https://github.com/daumann/ECMAScript-new-features-list)
 * 🇺🇸 [Разбор новинок ES2016 и ES2017](https://exploringjs.com/es2016-es2017/)
 * 🇺🇸 [Разбор новинок ES2018 и ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 * 🇺🇸 [Примерный разбор новинок ES2020 и некоторых stage 3](https://itnext.io/javascript-new-features-part-1-f1a4360466)
@@ -15,6 +16,11 @@
 * 🇺🇸 [Lottie — плеер для воспроизведения анимаций из After Effect](http://airbnb.io/lottie/)
 * 🇺🇸 [Micromodal — доступные модальные окна](https://github.com/ghosh/Micromodal)
 * 🇺🇸 [markdown-it — Markdown parser](https://github.com/markdown-it/markdown-it)
+* 🇺🇸 [FileSaver.js](https://github.com/eligrey/FileSaver.js)
+
+#### Слайдеры
+
+* 🇺🇸 [glide](https://github.com/glidejs/glide)
 
 #### Даты и время
 
@@ -40,16 +46,22 @@
 
 ### Библиотеки
 
-* [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
+* 🇺🇸 [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
+* 🇺🇸 [react-yandex-maps — Yandex Maps API bindings for React](https://github.com/gribnoysup/react-yandex-maps)
 
 #### Анимация
 
-* [react-motion](https://github.com/chenglou/react-motion)
-* [react-spring](https://github.com/react-spring/react-spring)
+* 🇺🇸 [react-motion](https://github.com/chenglou/react-motion)
+* 🇺🇸 [react-spring](https://github.com/react-spring/react-spring)
 
 #### Markdown
 
-* [react-showdown](https://github.com/jerolimov/react-showdown)
+* 🇺🇸 [react-showdown](https://github.com/jerolimov/react-showdown)
+* 🇺🇸 [blocks](https://mdx-blocks.com/)
+
+#### Графики
+
+* 🇺🇸 [victory](https://formidable.com/open-source/victory/)
 
 ### Redux
 
@@ -87,6 +99,7 @@
 
 ### TypeScript и React
 
+* 🇺🇸 [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
 * 🇺🇸 [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 * 🇺🇸 [React Hooks in TypeScript](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
 * 🇺🇸 [How to Use Typescript with React and Redux](https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76)
@@ -143,6 +156,8 @@
 * 🇺🇸 [23 minutes of work for better font loading](https://www.zachleat.com/web/23-minutes/)
 * 🇺🇸 [Web fonts and performance](https://font-display.glitch.me/)
 * 🇺🇸 [Набор утилит для работы со шрифтами под macOS](https://github.com/bramstein/homebrew-webfonttools)
+* 🇺🇸 [CSS font-display: The Future of Font Rendering on the Web — про font-display](https://www.sitepoint.com/css-font-display-future-font-rendering-web/)
+
 
 ## Вёрстка писем
 
@@ -175,6 +190,7 @@
 
 * 🇺🇸 [Особенности использования модулей в браузере](https://jakearchibald.com/2017/es-modules-in-browsers/)
 * 🇺🇸 [Поддержка старых браузеров без вреда для остальных](https://sgom.es/posts/2019-03-06-supporting-old-browsers-without-hurting-everyone/)
+* 🇷🇺 [Как рисует браузер. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/468165/)
 
 ### Браузерные API
 
@@ -263,9 +279,10 @@
 * 🇺🇸 [Badging API Explainer](https://github.com/WICG/badging/blob/master/explainer.md)
 * 🇺🇸 [Badging for App Icons](https://developers.google.com/web/updates/2018/12/badging-api)
 
-### Прочее
+### Совсем прочее
 
 * 🇺🇸 [How to display a "new version available" for a Progressive Web App](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/)
+* 🇺🇸 [Mock Service Worker](https://github.com/open-draft/msw)
 
 ### Вспомогательные инструменты
 
@@ -355,4 +372,9 @@
 
 * 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
 * 🇷🇺 [Полное руководство по отзывчивым изображениям!](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)
+
+### Демо
+
+* 🇺🇸 [Trippy CSS Distortion Effects](https://1stwebdesigner.com/trippy-css-distortion-effects/)
+* 🇺🇸 [Демо webgl-эффекта на курсоре](https://domenicobrz.github.io/webgl/index.html) 
 
