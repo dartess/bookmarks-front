@@ -213,7 +213,7 @@
 ### Про отладку в браузерах
 
 * [Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
-* [Отладка Mobile Filexod](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
+* [Отладка Mobile Firefox](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
 * [Touch Bar Demo App — эмулятор тачбара MacBook](https://github.com/bikkelbroeders/TouchBarDemoApp)
 * [Feature Queries Manager — отладка браузеров с разным значением @supports](https://github.com/ireade/feature-queries-manager)
 
