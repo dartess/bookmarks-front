@@ -72,6 +72,10 @@
 * 🇺🇸 [Effector](https://effector.now.sh/)
 * 🇺🇸 [ReactN — расширение реакта с менеджером состояния](https://github.com/CharlesStover/reactn)
 
+### Тулкиты
+
+* 🇺🇸 [Blueprint](https://blueprintjs.com/docs/)
+
 ### Фреймворки
 
 * 🇺🇸 [Next.js](https://nextjs.org/)
