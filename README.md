@@ -52,7 +52,7 @@
 #### Анимация
 
 * 🇺🇸 [react-motion](https://github.com/chenglou/react-motion)
-* 🇺🇸 [react-spring](https://github.com/react-spring/react-spring)
+* 🇺🇸 [react-spring](https://www.react-spring.io/docs/hooks/basics)
 
 #### Markdown
 
