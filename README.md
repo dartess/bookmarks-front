@@ -9,6 +9,11 @@
 * 🇺🇸 [Примерный разбор новинок ES2020 и некоторых stage 3](https://itnext.io/javascript-new-features-part-1-f1a4360466)
 * 🇺🇸 [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 
+### Теория
+
+* 🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
+
+
 ### Библиотеки
 
 * 🇺🇸 [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
@@ -53,6 +58,7 @@
 
 * 🇺🇸 [react-motion](https://github.com/chenglou/react-motion)
 * 🇺🇸 [react-spring](https://www.react-spring.io/docs/hooks/basics)
+* 🇺🇸 [react-reveal](https://github.com/rnosov/react-reveal)
 
 #### Markdown
 
@@ -63,9 +69,14 @@
 
 * 🇺🇸 [victory](https://formidable.com/open-source/victory/)
 
+#### Интернационализация
+
+* 🇺🇸 [react-i18next](https://react.i18next.com/)
+
 ### Redux
 
 * 🇷🇺 [Редакс в реальной жизни](https://iamakulov.com/talks/redux-in-real-life/)
+* 🇷🇺 [Перевод документации (устарел, не содрежит многих тем)](https://rajdee.gitbooks.io/redux-in-russian/content/)
 
 ### Альтернативные менеджеры состояния
 
@@ -79,6 +90,10 @@
 ### Фреймворки
 
 * 🇺🇸 [Next.js](https://nextjs.org/)
+
+### SEO
+
+* 🇺🇸 [A Definitive Guide to SEO with a Serverless React Application in 2019](https://www.codemochi.com/blog/2019-06-12-guide-to-seo-with-serverless-react)
 
 ### Server-Side Rendering
 
@@ -118,6 +133,8 @@
 
 * 🇺🇸 [Хитрость для viewport-единиц на мобильном](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
 * 🇺🇸 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
+* 🇷🇺 [CSS 3 Timing Functions и с чем их едят](https://habr.com/ru/post/220715/)
+* 🇷🇺 [Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
 
 ### Текст
 
@@ -134,6 +151,7 @@
 
 ### Flexbox
 
+* 🇷🇺 [FLEXBOX FROGGY — игра с основами раскладки flexbox, не охватывает basis/grow/shrink](http://flexboxfroggy.com/)
 * 🇷🇺 [11 вещей которые я узнал, читая спецификацию flexbox](https://habr.com/ru/post/329820/)
 
 ### Grid
@@ -171,6 +189,9 @@
 
 * 🇺🇸 [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
 * 🇷🇺 [Drag-&-Drop компоненты для слепых пользователей? Вы шутите?](https://habr.com/ru/company/oleg-bunin/blog/468541/)
+* 🇷🇺/🇺🇸 Инклюзивные компоненты: сворачиваемые секции [оригинал](https://inclusive-components.design/collapsible-sections/)/[перевод](https://medium.com/web-standards/collapsibl-sections-c0de689e0ebe)
+* 🇷🇺 [Доступность и закон](https://medium.com/web-standards/a11y-and-law-a81dd9dd5fc8)
+* 🇺🇸 [Hiding DOM elements](https://allyjs.io/tutorials/hiding-elements.html)
 
 ## Дизайн
 
@@ -208,6 +229,14 @@
 * 🇺🇸 [Demo и документация](https://www.chromestatus.com/feature/4757990523535360)
 * 🇺🇸 [Barcode detection using Shape Detection API](https://paul.kinlan.me/barcode-detection/)
 
+#### SMS Receiver API — получение одноразовых кодов из СМС
+
+* 🇺🇸 [Verify phone numbers on the web with the SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
+
+#### Адаптивные иконки
+
+* 🇷🇺 [Адаптивные значки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
+
 ### Расширения для Chrome и других браузеров
 
 * [WhatRuns — определитель технологий сайта](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
@@ -216,6 +245,7 @@
 
 ### Про отладку в браузерах
 
+* 🇷🇺 [10 малоизвестных возможностей инструментов разработчика Chrome](https://habr.com/ru/company/ruvds/blog/470411/)
 * [Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
 * [Отладка Mobile Firefox](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
 * [Touch Bar Demo App — эмулятор тачбара MacBook](https://github.com/bikkelbroeders/TouchBarDemoApp)
@@ -325,6 +355,20 @@
 * 🇷🇺 📺 [JavaScript.Ninja](https://www.youtube.com/channel/UCW9pyonagDWGMCy7V_Kro6g/)
 * 🇷🇺 📺 [JavaScript.ru](https://www.youtube.com/user/iliakan/)
 
+## SEO и метрики
+
+* 🇷🇺 [Новые типы микроразметки для расширенных интерактивных сниппетов](https://habr.com/ru/company/promopult/blog/465577/)
+* 🇷🇺 [Гид по Метрике: как проверить работу цели](https://yandex.ru/blog/metrika-club/gid-po-metrike-kak-proverit-rabotu-tseli)
+
+## WebAssembly
+
+* 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
+
+## Оптимизация производительности
+
+* 🇷🇺 [Ускоряем загрузку ресурсов для сайта: preconnect, prefetch, prerender, preloading…](https://ymatuhin.ru/front-end/html5-link-prefetch/)
+* 🇷🇺 [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/useful/css/better-webfont-loading-with-localstorage-and-woff2)
+
 ## Прочее
 
 * 🇷🇺 [БЭМ](https://ru.bem.info/methodology/key-concepts/)
@@ -334,6 +378,9 @@
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
 * 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
 * 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
+* 🇷🇺 [Фантастические веб-спецификации и где они обитают](https://css-live.ru/css/fantasticheskie-veb-specifikacii-i-gde-oni-obitayut.html)
+* 🇷🇺 [Шесть задачек для Front-End разработчика](https://habr.com/ru/company/edison/blog/473894/)
+* 🇷🇺 [«Алиса, пойдём во фронтенд!»](https://habr.com/ru/company/oleg-bunin/blog/468545/)
 
 ### Онлайн-инструменты
 
