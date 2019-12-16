@@ -235,7 +235,9 @@
 
 #### Адаптивные иконки
 
-* 🇷🇺 [Адаптивные значки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
+* 🇺🇸 [Адаптивные значки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
+* 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
+* 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
 
 ### Расширения для Chrome и других браузеров
 
