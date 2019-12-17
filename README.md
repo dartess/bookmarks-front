@@ -8,6 +8,7 @@
 * 🇺🇸 [Разбор новинок ES2018 и ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 * 🇺🇸 [Примерный разбор новинок ES2020 и некоторых stage 3](https://itnext.io/javascript-new-features-part-1-f1a4360466)
 * 🇺🇸 [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
+* 🇺🇸 [Modern Script Loading](https://jasonformat.com/modern-script-loading/)
 
 ### Теория
 
