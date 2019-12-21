@@ -29,15 +29,15 @@
 
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
 
-### Библиотеки
+### Библиотеки и фреймворки
 
-* [Jeet — сетка](http://jeet.gs/)
+* 🇺🇸 [Jeet — сетка](http://jeet.gs/)
+* 🇺🇸 [MUI — Material Design-like фреймворк](https://www.muicss.com/)
 
 ### CSS-хаки (тёмная сторона!)
 
 * 🇺🇸 [CSS Hacks for Windows 10 and Microsoft’s Edge](https://jeffclayton.wordpress.com/2015/04/07/css-hacks-for-windows-10-and-spartan-browser-preview/)
 * 🇺🇸 [Большой сборник браузерных хаков](http://browserhacks.com/)
-
 
 ## Шрифты
 
@@ -46,6 +46,8 @@
 * 🇺🇸 [Web fonts and performance](https://font-display.glitch.me/)
 * 🇺🇸 [Набор утилит для работы со шрифтами под macOS](https://github.com/bramstein/homebrew-webfonttools)
 * 🇺🇸 [CSS font-display: The Future of Font Rendering on the Web — про font-display](https://www.sitepoint.com/css-font-display-future-font-rendering-web/)
+* 🇷🇺/🇺🇸 Glyphhanger — инструмент для оптимизации шрифтов [перевод](https://anatolykulikov.ru/review/glyphhanger-tool-to-optimize-fonts/)/[оригинал](https://www.zachleat.com/web/glyphhanger/)
+
 
 ## Вёрстка писем
 
