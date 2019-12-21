@@ -6,6 +6,7 @@
 * 🇺🇸 [A Definitive Guide to SEO with a Serverless React Application in 2019](https://www.codemochi.com/blog/2019-06-12-guide-to-seo-with-serverless-react)
 * 🇷🇺 [Новые типы микроразметки для расширенных интерактивных сниппетов](https://habr.com/ru/company/promopult/blog/465577/)
 * 🇷🇺 [Гид по Метрике: как проверить работу цели](https://yandex.ru/blog/metrika-club/gid-po-metrike-kak-proverit-rabotu-tseli)
+* 🇺🇸 [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 
 ### Server-Side Rendering
 
@@ -115,3 +116,7 @@
 
 * 🇺🇸 [Trippy CSS Distortion Effects](https://1stwebdesigner.com/trippy-css-distortion-effects/)
 * 🇺🇸 [Демо webgl-эффекта на курсоре](https://domenicobrz.github.io/webgl/index.html) 
+* 🇺🇸 [Making Gooey Image Hover Effects with Three.js](https://tympanus.net/codrops/2019/10/23/making-gooey-image-hover-effects-with-three-js/)
+* 🇺🇸 [3D Particle Explorations](https://github.com/jackrugile/3d-particle-explorations)
+* 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
+
