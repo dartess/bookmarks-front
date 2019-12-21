@@ -10,6 +10,8 @@
 ## Теория
 
 * 🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
+* 🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
+* 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 
 ## Библиотеки
 
@@ -20,9 +22,10 @@
 * 🇺🇸 [markdown-it — Markdown parser](https://github.com/markdown-it/markdown-it)
 * 🇺🇸 [FileSaver.js](https://github.com/eligrey/FileSaver.js)
 
-### Слайдеры
+### Карусели
 
 * 🇺🇸 [glide](https://github.com/glidejs/glide)
+* 🇺🇸 [Flickity](https://flickity.metafizzy.co/)
 
 ### Даты и время
 
@@ -32,6 +35,7 @@
 
 * 🇺🇸 [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
 * 🇺🇸 [Carbon Charts — с адаптерами под фреймворки](https://carbon-design-system.github.io/carbon-charts/)
+* 🇺🇸 [Google Charts](https://developers.google.com/chart)
 
 ### Шаблонизаторы / библиотеки для рендеринга HTML
 
@@ -45,10 +49,18 @@
 * 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
 * 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
 
+## Сборка
+
+* 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
+
 ## React
+
+* 🇷🇺 [Основы React (2-е издание, React 16.4)](https://yadi.sk/d/E31I1kD7_onkwg/React-v2.0.0)
+* 🇷🇺 [Redux для начинающих (2-е издание)](https://yadi.sk/d/E31I1kD7_onkwg/Redux-v2.0.0)
 
 ### Хуки
 
+* 🇺🇸 [react-use — библиотека хуков](https://github.com/streamich/react-use)
 * 🇺🇸 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
 
 ### Библиотеки
@@ -79,6 +91,7 @@
 
 * 🇷🇺 [Редакс в реальной жизни](https://iamakulov.com/talks/redux-in-real-life/)
 * 🇷🇺 [Перевод документации (устарел, не содрежит многих тем)](https://rajdee.gitbooks.io/redux-in-russian/content/)
+* 🇺🇸 [Redux Style Guide](https://redux.js.org/style-guide/style-guide/)
 
 ### Альтернативные менеджеры состояния
 
@@ -132,3 +145,7 @@
 ## WebAssembly
 
 * 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
+
+## Линтинг кода
+
+* 🇺🇸 [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
