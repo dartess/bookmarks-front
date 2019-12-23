@@ -58,6 +58,7 @@
 
 * 🇷🇺 [Основы React (2-е издание, React 16.4)](https://yadi.sk/d/E31I1kD7_onkwg/React-v2.0.0)
 * 🇷🇺 [Redux для начинающих (2-е издание)](https://yadi.sk/d/E31I1kD7_onkwg/Redux-v2.0.0)
+* 🇺🇸 [React.lazy without default export](https://dev.to/iamandrewluca/react-lazy-without-default-export-4b65)
 
 ### Хуки
 
