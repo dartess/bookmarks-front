@@ -51,6 +51,7 @@
 * 🇷🇺 📺 [Фронтенд — Академия Яндекса](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ)
 * 🇷🇺 📺 [JavaScript.Ninja](https://www.youtube.com/channel/UCW9pyonagDWGMCy7V_Kro6g/)
 * 🇷🇺 📺 [JavaScript.ru](https://www.youtube.com/user/iliakan/)
+* 🇷🇺 📺 [FrontendConf](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A/videos)
 
 ## Оптимизация производительности
 
