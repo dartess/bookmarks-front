@@ -10,6 +10,7 @@
 ## Теория
 
 * 🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
+* 🇷🇺/🇺🇸 Вы не знаете JS (You Don't Know JS) [перевод (в процессе)](https://github.com/azat-io/you-dont-know-js-ru)/[оригинал](https://github.com/getify/You-Dont-Know-JS)
 * 🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
 * 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 
