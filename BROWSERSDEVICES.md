@@ -56,14 +56,16 @@
   * [32+](https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3)
 * UCBrowser, [Android](https://plus.ucweb.com/download/)
 * Chrome, [инструкция как откопать старый билд](https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site)
-* Edge можно найти в том или ином билде Windows 10
-  * 10240: 12
-  * 10586: 13
-  * 14393: 14
-  * 15063: 15
-  * 16299: 16
-  * ?????: 17
-  * ?????: 18
+* Edge на движке EdgeHTML можно найти в том или ином билде Windows 10
+  * version 1507 build 10240: 12
+  * version 1511 build 10586: 13
+  * version 1607 build 14393: 14
+  * version 1703 build 15063: 15
+  * version 1709 build 16299: 16
+  * version 1803 build 17134: 17
+  * version 1809 build 17763: 18
+  * version 1903 build 18362: 18
+  * version 1909 build 18363: 18
 
 ### Прочее
 
