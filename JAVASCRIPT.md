@@ -125,6 +125,10 @@
 
 * 🇺🇸 [Next.js](https://nextjs.org/)
 
+### Server-Side Rendering
+
+* 🇺🇸 [Улучшение производительности передачи состояния Redux с помощью JSON.parse()](https://joreteg.com/blog/improving-redux-state-transfer-performance)
+
 ## TypeScript
 
 * 🇷🇺 [TypeScript: окончательное руководство](https://nauchikus.github.io/typescript-definitive-guide/)
