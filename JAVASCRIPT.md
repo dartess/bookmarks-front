@@ -61,6 +61,11 @@
 
 * 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
 
+## NPM
+
+* 🇺🇸 [Using Github Actions to Publish the HTML5 Boilerplate npm Package](https://htmlcssjavascript.com/web/using-github-actions-to-publish-the-html5-boilerplate-npm-package/)
+* 🇺🇸 [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
+
 ## Линтинг кода
 
 * 🇺🇸 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
