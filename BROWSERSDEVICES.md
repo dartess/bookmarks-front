@@ -7,33 +7,15 @@
 * 🇷🇺 [Как рисует браузер. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/468165/)
 * 🇺🇸 [Hide iPhone HTML5 video play button](https://stackoverflow.com/questions/8911247/hide-iphone-html5-video-play-button)
 
-### Браузерные API
-
-#### IntersectionObserver — попадание элемента в область видимости
-
-* 🇺🇸 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
-* 🇺🇸 [Intersection Observers — Explainer Doc, Draft Spec, Polyfill](https://github.com/w3c/IntersectionObserver)
-
-#### Shape Detection API — распознавание лиц, штрихкодов, текста
-
-* 🇺🇸 [Demo и документация](https://www.chromestatus.com/feature/4757990523535360)
-* 🇺🇸 [Barcode detection using Shape Detection API](https://paul.kinlan.me/barcode-detection/)
-
-#### SMS Receiver API — получение одноразовых кодов из СМС
-
-* 🇺🇸 [Verify phone numbers on the web with the SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
-
-#### Адаптивные иконки
-
-* 🇺🇸 [Адаптивные значки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
-* 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
-* 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
-
-### Расширения для Chrome и других браузеров
+### Полезные расширения для Chrome и других браузеров
 
 * [WhatRuns — определитель технологий сайта](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 * [JsonDiscovery — самый годный просмотрщик JSON](https://github.com/discoveryjs/browser-extension-json-discovery)
 * [Обход блокировок Рунета](https://chrome.google.com/webstore/detail/%D0%BE%D0%B1%D1%85%D0%BE%D0%B4-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA-%D1%80%D1%83%D0%BD%D0%B5%D1%82%D0%B0/npgcnondjocldhldegnakemclmfkngch)
+
+### Разработка расширений
+
+* 🇺🇸 [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter)
 
 ### Про отладку в браузерах
 
@@ -81,11 +63,14 @@
 * 🇺🇸 [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 * 🇺🇸 [MDN: Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 * 🇺🇸 [Progressive Web Apps Training от Google](https://developers.google.com/web/ilt/pwa/)
+* 🇺🇸 [pwa-install-prompt](https://jacobdb.github.io/pwa-install-prompt/demo/)
+* 🇺🇸 [Myth Busting PWAs – The New Edge Edition](https://www.davrous.com/2019/10/18/myth-busting-pwas-the-new-edge-edition/)
 
 ### Service Worker
 
 * 🇷🇺 [Создание сервис-воркера: разбор примера](http://prgssr.ru/development/sozdaem-service-worker.html)
 * 🇺🇸 [Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
+* 🇺🇸  📺 [Максим Сальников — Сервис-воркеры: используем накопленный опыт и смотрим в будущее](https://www.youtube.com/watch?v=sly5O_f6w6g)
 
 ### Особенности платформ
 
@@ -100,18 +85,52 @@
 
 * 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
 * 🇷🇺 [Play Store теперь принимает прогрессивные веб-приложения (PWA)](https://habr.com/ru/post/439238/)
+* 🇺🇸 [Introducing Progressive Web Apps to Samsung Galaxy Store](https://medium.com/samsung-internet-dev/introducing-progressive-web-apps-to-samsung-galaxy-store-47ecd317725b)
 
-### API для работы с устройством
+### API
+
+#### Push API — уведомления из браузера
+
+* 🇺🇸 [Web Push Book — книга про Push API и всё, что с ними связано](https://web-push-book.gauntface.com/)
+
+#### IntersectionObserver — попадание элемента в область видимости
+
+* 🇺🇸 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
+* 🇺🇸 [Intersection Observers — Explainer Doc, Draft Spec, Polyfill](https://github.com/w3c/IntersectionObserver)
+
+#### Shape Detection API — распознавание лиц, штрихкодов, текста
+
+* 🇺🇸 [Demo и документация](https://www.chromestatus.com/feature/4757990523535360)
+* 🇺🇸 [Barcode detection using Shape Detection API](https://paul.kinlan.me/barcode-detection/)
+
+#### SMS Receiver API — получение одноразовых кодов из СМС
+
+* 🇺🇸 [Verify phone numbers on the web with the SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
+
+#### Маскируемеые иконки
+
+* 🇺🇸 [Маскируемеые иконки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
+* 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
+* 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
 
 #### Badging API — вывод меток на иконке приложения
 
 * 🇺🇸 [Badging API Explainer](https://github.com/WICG/badging/blob/master/explainer.md)
 * 🇺🇸 [Badging for App Icons](https://developers.google.com/web/updates/2018/12/badging-api)
 
+#### Payment Request API — оплата на сайте
+
+* 🇺🇸 [What’s New in the Payment Request API for Apple Pay (Jun 6, 2019)](https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/)
+
+#### Web Bundles — упаковка сайта в один файл
+
+* 🇺🇸 [Get started with Web Bundles](https://web.dev/web-bundles/)
+
 ### Совсем прочее
 
 * 🇺🇸 [How to display a "new version available" for a Progressive Web App](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/)
 * 🇺🇸 [Mock Service Worker](https://github.com/open-draft/msw)
+* 🇺🇸 [How to Detect an Ad Blocker — как определить наличие блокировщика рекламы](https://davidwalsh.name/detect-ad-blocker)
 
 ### Вспомогательные инструменты
 
