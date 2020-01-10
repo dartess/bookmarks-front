@@ -8,10 +8,6 @@
 * 🇷🇺 [Гид по Метрике: как проверить работу цели](https://yandex.ru/blog/metrika-club/gid-po-metrike-kak-proverit-rabotu-tseli)
 * 🇺🇸 [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 
-### Server-Side Rendering
-
-* 🇺🇸 [Улучшение производительности передачи состояния Redux с помощью JSON.parse()](https://joreteg.com/blog/improving-redux-state-transfer-performance)
-
 ## Дизайн
 
 * 🇺🇸 [Golden Ratio Typography Calculator](https://grtcalculator.com/)
@@ -74,6 +70,11 @@
 * 🇷🇺 [Как сделать красивую консоль в Mac и Linux](https://htmlacademy.ru/blog/useful/programming/how-to-make-a-beautiful-console-for-mac-and-linux)
 * 🇺🇸 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 
+## Создание PDF из браузера
+
+* 🇺🇸 [How To Create A PDF From Your Web Application](https://www.smashingmagazine.com/2019/06/create-pdf-web-application/)
+* 🇺🇸 [pdfmake — Client/server side PDF printing in pure JavaScript](http://pdfmake.org)
+
 ## Прочее
 
 * 🇷🇺 [БЭМ](https://ru.bem.info/methodology/key-concepts/)
@@ -86,6 +87,7 @@
 * 🇷🇺 [Фантастические веб-спецификации и где они обитают](https://css-live.ru/css/fantasticheskie-veb-specifikacii-i-gde-oni-obitayut.html)
 * 🇷🇺 [Шесть задачек для Front-End разработчика](https://habr.com/ru/company/edison/blog/473894/)
 * 🇷🇺 [«Алиса, пойдём во фронтенд!»](https://habr.com/ru/company/oleg-bunin/blog/468545/)
+* 🇷🇺 [Руководство по современному Make](https://ru.makefile.site/)
 
 ## Эпики:
 
