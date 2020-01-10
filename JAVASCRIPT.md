@@ -22,6 +22,8 @@
 * 🇺🇸 [Micromodal — доступные модальные окна](https://github.com/ghosh/Micromodal)
 * 🇺🇸 [markdown-it — Markdown parser](https://github.com/markdown-it/markdown-it)
 * 🇺🇸 [FileSaver.js](https://github.com/eligrey/FileSaver.js)
+* 🇺🇸 [Vanilla Tilt — анимированные 3D-плашки](https://micku7zu.github.io/vanilla-tilt.js/index.html)
+* 🇺🇸 [yup — до смерти простой валидатор объектов](https://github.com/jquense/yup)
 
 ### Карусели
 
@@ -37,6 +39,7 @@
 * 🇺🇸 [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
 * 🇺🇸 [Carbon Charts — с адаптерами под фреймворки](https://carbon-design-system.github.io/carbon-charts/)
 * 🇺🇸 [Google Charts](https://developers.google.com/chart)
+* 🇺🇸 [Chart.js](https://www.chartjs.org/)
 
 ### Шаблонизаторы / библиотеки для рендеринга HTML
 
@@ -44,6 +47,10 @@
 * 🇺🇸 [hyperHTML](https://viperhtml.js.org/)
 * 🇺🇸 [lighterhtml](https://github.com/WebReflection/lighterhtml#lighterhtml)
 * 🇺🇸 [lit-html vs hyperHTML vs lighterhtml](https://medium.com/@WebReflection/lit-html-vs-hyperhtml-vs-lighterhtml-c084abfe1285)
+
+### RxJS
+
+* 🇺🇸 [RxJS: A Simple Introduction](https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67)
 
 ## Canvas
 
@@ -54,11 +61,21 @@
 
 * 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
 
+## Линтинг кода
+
+* 🇺🇸 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* 🇺🇸 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+* 🇺🇸 [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
+* 🇺🇸 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+* 🇺🇸 [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+
 ## React
 
 * 🇷🇺 [Основы React (2-е издание, React 16.4)](https://yadi.sk/d/E31I1kD7_onkwg/React-v2.0.0)
 * 🇷🇺 [Redux для начинающих (2-е издание)](https://yadi.sk/d/E31I1kD7_onkwg/Redux-v2.0.0)
 * 🇺🇸 [React.lazy without default export](https://dev.to/iamandrewluca/react-lazy-without-default-export-4b65)
+* 🇷🇺 [React Things — коллекция материалов для изучения ES2015, React, Redux, Webpack, Babel и всего остального](https://github.com/rtivital/react-things)
+* 🇺🇸 [Build your own React](https://pomb.us/build-your-own-react/)
 
 ### Хуки
 
@@ -122,8 +139,10 @@
 * 🇺🇸 [Описание разницы между `Object`, `{}` и `object` в TS](https://stackoverflow.com/a/49465172)
 * 🇺🇸 [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
 * 🇷🇺 [Немного про дженерики](https://habr.com/ru/post/455473/)
-* 🇺🇸 [typelevel-ts — дополнительные типы](https://gcanti.github.io/typelevel-ts/modules/index.ts.html)
 * 🇺🇸 [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/jsx/react.html)
+* 🇷🇺 [5 заповедей TypeScript-разработчика](https://habr.com/ru/post/461565/)
+* 🇺🇸 [typelevel-ts — дополнительные расширенные типы](https://gcanti.github.io/typelevel-ts/)
+* 🇺🇸 [Type Zoo — дополнительные расширенные типы](https://github.com/pelotom/type-zoo)
 
 ### TypeScript и React
 
@@ -144,10 +163,10 @@
 
 * 🇺🇸 [MDsveX — MDX для Svelte](https://github.com/pngwn/MDsveX)
 
+## Web Components (веб-компоненты)
+
+* 🇺🇸 [Web Components bookmarks](https://www.notion.so/Web-Components-bookmarks-64066078f891433dbc74997dc4d64302)
+
 ## WebAssembly
 
 * 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
-
-## Линтинг кода
-
-* 🇺🇸 [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
