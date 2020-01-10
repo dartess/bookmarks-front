@@ -126,3 +126,6 @@
 * 🇺🇸 [Making Gooey Image Hover Effects with Three.js](https://tympanus.net/codrops/2019/10/23/making-gooey-image-hover-effects-with-three-js/)
 * 🇺🇸 [3D Particle Explorations](https://github.com/jackrugile/3d-particle-explorations)
 * 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
+* 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)
+* 🇺🇸 [CSS-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
+
