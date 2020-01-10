@@ -11,6 +11,7 @@
 ## Дизайн
 
 * 🇺🇸 [Golden Ratio Typography Calculator](https://grtcalculator.com/)
+* 🇺🇸 [Figma Ninja — интерактивный учебник](https://www.figma.com/c/file/769694576496801916)
 
 ## Тестирование
 
@@ -49,10 +50,12 @@
 * 🇷🇺 📺 [JavaScript.ru](https://www.youtube.com/user/iliakan/)
 * 🇷🇺 📺 [FrontendConf](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A/videos)
 
-## Оптимизация производительности
+## Оптимизация
 
 * 🇷🇺 [Ускоряем загрузку ресурсов для сайта: preconnect, prefetch, prerender, preloading…](https://ymatuhin.ru/front-end/html5-link-prefetch/)
 * 🇷🇺 [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/useful/css/better-webfont-loading-with-localstorage-and-woff2)
+* 🇺🇸 [Performance Tips for Background Video](https://calendar.perfplanet.com/2019/performance-tips-for-background-video/)
+* 🇺🇸 [babel/preset-modules](https://github.com/babel/preset-modules)
 
 ## Онлайн-инструменты
 
@@ -105,6 +108,7 @@
 
 * 🇺🇸 [пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
+* 🇷🇺 👍 [UIKit: типичная «ошибка» — разбор недостатков булевых пропсов](https://medium.com/@ibnRubaXa/uikit-%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-33702309cec4?)
 
 ## GraphQL
 
@@ -122,4 +126,3 @@
 * 🇺🇸 [Making Gooey Image Hover Effects with Three.js](https://tympanus.net/codrops/2019/10/23/making-gooey-image-hover-effects-with-three-js/)
 * 🇺🇸 [3D Particle Explorations](https://github.com/jackrugile/3d-particle-explorations)
 * 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
-
