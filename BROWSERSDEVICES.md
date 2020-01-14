@@ -6,6 +6,12 @@
 * 🇺🇸 [Поддержка старых браузеров без вреда для остальных](https://sgom.es/posts/2019-03-06-supporting-old-browsers-without-hurting-everyone/)
 * 🇷🇺 [Как рисует браузер. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/468165/)
 * 🇺🇸 [Hide iPhone HTML5 video play button](https://stackoverflow.com/questions/8911247/hide-iphone-html5-video-play-button)
+* 🇺🇸 [Browser Bug Searcher](https://browser-issue-tracker-search.appspot.com/)
+* 🇺🇸 [ECMAScript features compatibility table](https://kangax.github.io/compat-table/es6/)
+* 🇺🇸 [Event loop explainer](https://github.com/atotic/event-loop)
+* 🇷🇺 [Browser Fingerprint — анонимная идентификация браузеров](https://habr.com/ru/company/oleg-bunin/blog/321294/)
+* 🇺🇸/🇷🇺 Современная загрузка скриптов [перевод](https://habr.com/ru/company/raiffeisenbank/blog/473994/)/[оригинал](https://jasonformat.com/modern-script-loading/)
+* 🇷🇺 [Взаимодействие сайта в браузере и локально запущенной программы](https://habr.com/ru/post/438166/)
 
 ### Полезные расширения для Chrome и других браузеров
 
@@ -65,6 +71,13 @@
 * 🇺🇸 [Progressive Web Apps Training от Google](https://developers.google.com/web/ilt/pwa/)
 * 🇺🇸 [pwa-install-prompt](https://jacobdb.github.io/pwa-install-prompt/demo/)
 * 🇺🇸 [Myth Busting PWAs – The New Edge Edition](https://www.davrous.com/2019/10/18/myth-busting-pwas-the-new-edge-edition/)
+* 🇷🇺 [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
+* 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
+* 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12)
+* 🇷🇺 [Внедряем Sign in with Apple — систему авторизации от Apple](https://habr.com/ru/company/cian/blog/475062/)
+* 🇺🇸 [List of PWA Bugs and workarounds](https://github.com/PWA-POLICE/pwa-bugs)
+* 🇺🇸 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
+* 🇺🇸 [Building offline-first web and mobile apps using event-sourcing](https://flpvsk.com/blog/2019-07-20-offline-first-apps-event-sourcing/)
 
 ### Service Worker
 
@@ -81,6 +94,10 @@
 * 🇺🇸 [Десктопные PWA в Windows](https://twitter.com/firt/status/1054442657567727616)
 * 🇺🇸 [Десктопные PWA в Linux](https://twitter.com/firt/status/1054801501653221378)
 
+### TWA
+
+* 🇺🇸 (Introducing a Trusted Web Activity for Android)[https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html]
+
 ### PWA и магазины приложений
 
 * 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
@@ -92,6 +109,10 @@
 #### Push API — уведомления из браузера
 
 * 🇺🇸 [Web Push Book — книга про Push API и всё, что с ними связано](https://web-push-book.gauntface.com/)
+
+#### MediaStream API
+
+* 🇺🇸 [JS Tidbits - MediaStream API](https://areknawo.com/js-tidbits-mediastream-api/)
 
 #### IntersectionObserver — попадание элемента в область видимости
 
@@ -107,12 +128,6 @@
 
 * 🇺🇸 [Verify phone numbers on the web with the SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
 
-#### Маскируемеые иконки
-
-* 🇺🇸 [Маскируемеые иконки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
-* 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
-* 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
-
 #### Badging API — вывод меток на иконке приложения
 
 * 🇺🇸 [Badging API Explainer](https://github.com/WICG/badging/blob/master/explainer.md)
@@ -122,9 +137,23 @@
 
 * 🇺🇸 [What’s New in the Payment Request API for Apple Pay (Jun 6, 2019)](https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/)
 
-#### Web Bundles — упаковка сайта в один файл
+#### Native File System API
 
-* 🇺🇸 [Get started with Web Bundles](https://web.dev/web-bundles/)
+* 🇺🇸 [The Native File System API: Simplifying access to local files](https://web.dev/native-file-system/)
+
+#### Payment Handler API
+
+* 🇺🇸 [Payment Handler API W3C Editor's Draft](https://w3c.github.io/payment-handler/)
+
+#### Layout Instability API
+
+* 🇺🇸 [Fixing layout instability](https://web.dev/fixing-layout-instability/)
+
+#### Маскируемеые иконки
+
+* 🇺🇸 [Маскируемеые иконки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
+* 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
+* 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
 
 ### Совсем прочее
 
@@ -140,3 +169,11 @@
 
 * 🇺🇸 [A guide to implementing dark modes on websites](https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website?ref=heydesigner)
 * 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
+
+## Web Bundles — упаковка сайта в один файл
+
+* 🇺🇸 [Get started with Web Bundles](https://web.dev/web-bundles/)
+
+## Web Workers
+
+* 🇺🇸 [Use web workers to run JavaScript off the browser's main thread](https://web.dev/off-main-thread/)
