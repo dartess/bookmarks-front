@@ -5,6 +5,7 @@
 ### Формы
 
 * 🇺🇸 [Disable Autocomplete, Autocapitalize, and Autocorrect](https://davidwalsh.name/disable-autocorrect) 
+* 🇺🇸 [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
 
 ## CSS
 
@@ -12,6 +13,7 @@
 * 🇺🇸 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 * 🇷🇺 [CSS 3 Timing Functions и с чем их едят](https://habr.com/ru/post/220715/)
 * 🇷🇺 [Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
+* 🇷🇺/🇺🇸 Введение в CSS Shapes [перевод](http://htmlbook.ru/blog/vvedenie-v-css-shapes)/[оригинал](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
 
 ### Текст
 
@@ -33,6 +35,7 @@
 
 * 🇷🇺/🇺🇸 Именование в CSS Grid [перевод](https://habr.com/ru/post/478850/)/[оригинал](https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/)
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
+* 🇺🇸/🇷🇺 CSS Grid — швейцарский армейский нож для макетов сайтов и приложений [перевод](https://habr.com/ru/company/poiskvps/blog/423709/)/[оригинал](https://medium.com/@js_tut/css-grid-the-swiss-army-knife-for-cutting-website-and-application-layouts-c1bd7a6b4e56)
 
 ### Анимации
 
@@ -66,10 +69,13 @@
 * 🇺🇸 [Набор утилит для работы со шрифтами под macOS](https://github.com/bramstein/homebrew-webfonttools)
 * 🇺🇸 [CSS font-display: The Future of Font Rendering on the Web — про font-display](https://www.sitepoint.com/css-font-display-future-font-rendering-web/)
 * 🇷🇺/🇺🇸 Glyphhanger — инструмент для оптимизации шрифтов [перевод](https://anatolykulikov.ru/review/glyphhanger-tool-to-optimize-fonts/)/[оригинал](https://www.zachleat.com/web/glyphhanger/)
-
+* 🇷🇺/🇺🇸 Введение в вариативные шрифты [перевод](https://medium.com/web-standards/3f2b6123e1cd)/[оригинал](https://24ways.org/2019/an-introduction-to-variable-fonts/)
+* 🇷🇺/🇺🇸 Вариативные веб шрифты [перевод](https://habr.com/ru/post/413297/)/[оригинал](https://zeichenschatz.net/demos/vf/variable-web-typo/)
+ 
 ## Вёрстка писем
 
 * 🇺🇸 [Проверка поддерживаемости CSS в письмах](https://www.campaignmonitor.com/css/)
+* 🕐 не используйте Helvetica и Arial в письмах: 🇷🇺 [Шрифт ваших писем портит вам жизнь](https://habr.com/ru/company/pechkin/blog/272403/)
 
 ## Вёрстка под нестандартные устройства, экраны и пр.
 
@@ -84,6 +90,10 @@
 * 🇺🇸 [Hiding DOM elements](https://allyjs.io/tutorials/hiding-elements.html)
 * 🇺🇸 [Fix 85% of your Web Accessibility issues in 5 easy steps](https://dev.to/alvaromontoro/fix-85-of-your-web-accessibility-issues-in-5-easy-steps-pnf)
 * 🇷🇺 [Всё, что нужно знать про ARIA Live Regions](https://medium.com/web-standards/aria-live-regions-713f6a7813d3)
+* 🇷🇺 Инклюзивные компоненты: интерфейсы со вкладками [перевод](https://medium.com/web-standards/tabbed-interfaces-a125212e6c35)/[оригинал](https://inclusive-components.design/tabbed-interfaces/)
+* 🇺🇸 [The “D” in the DOM](https://www.24a11y.com/2018/the-d-in-the-dom/)
+* 🇺🇸 [Move Ya! Or maybe, don't, if the user prefers-reduced-motion!](https://developers.google.com/web/updates/2019/03/prefers-reduced-motion)
+* 🇺🇸 [What the Heck is ARIA? A Beginner's Guide to ARIA for Accessibility](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility)
 
 ## SVG
 
