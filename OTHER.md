@@ -12,6 +12,10 @@
 
 * 🇺🇸 [Golden Ratio Typography Calculator](https://grtcalculator.com/)
 * 🇺🇸 [Figma Ninja — интерактивный учебник](https://www.figma.com/c/file/769694576496801916)
+* 🇷🇺 [Почему минималистский дизайн всё ещё правит вебом](https://habr.com/ru/company/nix/blog/268227/)
+* 🇺🇸 [Checklist Design — сборник лучших UI и UX практик](https://www.checklist.design/)
+* 🇷🇺 [Как подружить дизайнера, верстальщика и «Фигму» с помощью дизайн-системы, ломика и какой-то матери™](https://habr.com/ru/post/464115/)
+* 🇷🇺 [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
 
 ## Тестирование
 
@@ -26,6 +30,7 @@
 * 🇺🇸 [Пакет для простого мока других пакетов или свойств объекта](https://www.npmjs.com/package/identity-obj-proxy)
 * 🇺🇸 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
 * 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
+* 🇺🇸 [флаги для WebRTC-related testing](https://webrtc.org/testing/)
 
 ## Git
 
@@ -50,12 +55,27 @@
 * 🇷🇺 📺 [JavaScript.ru](https://www.youtube.com/user/iliakan/)
 * 🇷🇺 📺 [FrontendConf](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A/videos)
 
+### Эпики:
+
+* 🇷🇺 [The State of JavaScript 2018](https://2018.stateofjs.com/ru/)
+* 🇷🇺 [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/)
+* 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#6.36)
+* 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
+* 🇷🇺 [Сборник рекомендаций от CSSSR](https://github.com/CSSSR/sputnik)
+
 ## Оптимизация
 
 * 🇷🇺 [Ускоряем загрузку ресурсов для сайта: preconnect, prefetch, prerender, preloading…](https://ymatuhin.ru/front-end/html5-link-prefetch/)
 * 🇷🇺 [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/useful/css/better-webfont-loading-with-localstorage-and-woff2)
 * 🇺🇸 [Performance Tips for Background Video](https://calendar.perfplanet.com/2019/performance-tips-for-background-video/)
 * 🇺🇸 [babel/preset-modules](https://github.com/babel/preset-modules)
+* 🇺🇸 [Adaptive loading: improving web performance on slow devices](https://web.dev/adaptive-loading-cds-2019/)
+* 🇷🇺/🇺🇸 Используйте свойства, вызывающие только компоновку, и контролируйте количество слоев [оригинал](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count)/[перевод](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count?hl=ru)
+* 🇺🇸 [Profiling React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
+* 🇺🇸 [Front-End Performance Checklist 2020 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+* 🇷🇺/🇺🇸 Цена JavaScript в 2019 году [перевод](https://habr.com/ru/company/ruvds/blog/459296/)/[оригинал](https://v8.dev/blog/cost-of-javascript-2019)
+* 🇺🇸 [CSS Triggers](https://csstriggers.com/)
+* 🇺🇸 [Getting started with web performance? Here's what you need to focus on.](https://speedcurve.com/blog/getting-started-web-performance/)
 
 ## Онлайн-инструменты
 
@@ -91,24 +111,19 @@
 * 🇷🇺 [Шесть задачек для Front-End разработчика](https://habr.com/ru/company/edison/blog/473894/)
 * 🇷🇺 [«Алиса, пойдём во фронтенд!»](https://habr.com/ru/company/oleg-bunin/blog/468545/)
 * 🇷🇺 [Руководство по современному Make](https://ru.makefile.site/)
-
-## Эпики:
-
-* 🇷🇺 [The State of JavaScript 2018](https://2018.stateofjs.com/ru/)
-* 🇷🇺 [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/)
-* 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#6.36)
-* 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
+* 🇺🇸 [What’s the Difference Between a URI and a URL?](https://danielmiessler.com/study/difference-between-uri-url/)
 
 ## Иммутабельность
 
 * 🇺🇸 [Immutable.js](https://facebook.github.io/immutable-js/)
 * 🇺🇸 [Использование switch](https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d)
 
-## Архитектура проекта
+## Архитектура и разработка
 
-* 🇺🇸 [пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
+* 🇺🇸 [Пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
 * 🇷🇺 👍 [UIKit: типичная «ошибка» — разбор недостатков булевых пропсов](https://medium.com/@ibnRubaXa/uikit-%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-33702309cec4?)
+* 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
 
 ## GraphQL
 
@@ -128,4 +143,6 @@
 * 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
 * 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)
 * 🇺🇸 [CSS-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
+* 🇺🇸 [The Boat — анимированная история](http://www.sbs.com.au/theboat/)
+
 
