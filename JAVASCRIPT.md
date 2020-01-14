@@ -1,11 +1,14 @@
 # JavaScript
 
+* 🇷🇺 [Современный учебник JavaScript](https://learn.javascript.ru/)
 * 🇺🇸 [Lists and examples for new Javascript features](https://github.com/daumann/ECMAScript-new-features-list)
 * 🇺🇸 [Разбор новинок ES2016 и ES2017](https://exploringjs.com/es2016-es2017/)
 * 🇺🇸 [Разбор новинок ES2018 и ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 * 🇺🇸 [Примерный разбор новинок ES2020 и некоторых stage 3](https://itnext.io/javascript-new-features-part-1-f1a4360466)
 * 🇺🇸 [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * 🇺🇸 [Modern Script Loading](https://jasonformat.com/modern-script-loading/)
+* 🇺🇸 [5 interesting and not-necessarily-useful Javascript tricks](https://areknawo.com/5-interesting-and-not-necessarily-useful-javascript-tricks/)
+* 🇺🇸 [Understanding JavaScript Decorators](https://www.simplethread.com/understanding-js-decorators/)
 
 ## Теория
 
@@ -24,6 +27,7 @@
 * 🇺🇸 [FileSaver.js](https://github.com/eligrey/FileSaver.js)
 * 🇺🇸 [Vanilla Tilt — анимированные 3D-плашки](https://micku7zu.github.io/vanilla-tilt.js/index.html)
 * 🇺🇸 [yup — до смерти простой валидатор объектов](https://github.com/jquense/yup)
+* 🇺🇸 [Pure JavaScript Image Crop Component](https://dev.vizuina.com/cropper/)
 
 ### Карусели
 
@@ -65,6 +69,8 @@
 
 * 🇺🇸 [Using Github Actions to Publish the HTML5 Boilerplate npm Package](https://htmlcssjavascript.com/web/using-github-actions-to-publish-the-html5-boilerplate-npm-package/)
 * 🇺🇸 [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
+* 🇺🇸 [Hybrid npm packages (ESM and CommonJS)](https://2ality.com/2019/10/hybrid-npm-packages.html)
+* 🇺🇸 [Microbundle — микробандлер для сборки пакетов](https://github.com/developit/microbundle)
 
 ## Линтинг кода
 
@@ -92,6 +98,10 @@
 * 🇺🇸 [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
 * 🇺🇸 [react-yandex-maps — Yandex Maps API bindings for React](https://github.com/gribnoysup/react-yandex-maps)
 
+#### Слайдеры (карусели)
+
+* 🇺🇸 [nuka-carousel — Pure ReactJS Carousel Component](https://github.com/FormidableLabs/nuka-carousel)
+
 #### Анимация
 
 * 🇺🇸 [react-motion](https://github.com/chenglou/react-motion)
@@ -116,6 +126,7 @@
 * 🇷🇺 [Редакс в реальной жизни](https://iamakulov.com/talks/redux-in-real-life/)
 * 🇷🇺 [Перевод документации (устарел, не содрежит многих тем)](https://rajdee.gitbooks.io/redux-in-russian/content/)
 * 🇺🇸 [Redux Style Guide](https://redux.js.org/style-guide/style-guide/)
+* 🇺🇸 [Повышение производительности React/Redux-приложений с помощью библиотеки Reselect](https://medium.com/better-programming/increase-your-react-redux-application-performance-with-reselect-library-3f4d632a08c5)
 
 ### Альтернативные менеджеры состояния
 
@@ -132,6 +143,7 @@
 
 ### Server-Side Rendering
 
+* 🇺🇸 [Why you should render React on the server side](https://blog.logrocket.com/why-you-should-render-react-on-the-server-side-a50507163b79/)
 * 🇺🇸 [Улучшение производительности передачи состояния Redux с помощью JSON.parse()](https://joreteg.com/blog/improving-redux-state-transfer-performance)
 
 ## TypeScript
@@ -152,9 +164,12 @@
 * 🇷🇺 [5 заповедей TypeScript-разработчика](https://habr.com/ru/post/461565/)
 * 🇺🇸 [typelevel-ts — дополнительные расширенные типы](https://gcanti.github.io/typelevel-ts/)
 * 🇺🇸 [Type Zoo — дополнительные расширенные типы](https://github.com/pelotom/type-zoo)
+* 🇺🇸 [TypeScript Cheatsheets — сборники шпаргалок по TS применимо к различным платформам](https://github.com/typescript-cheatsheets)
+* 🇷🇺 [TypeScript. Мощь never](https://habr.com/ru/post/471026/)
 
 ### TypeScript и React
 
+* 🇺🇸 [React TypeScript Cheatsheets — сборник шпаргалок по TS для React](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 * 🇺🇸 [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
 * 🇺🇸 [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 * 🇺🇸 [React Hooks in TypeScript](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
@@ -165,6 +180,10 @@
 * 🇺🇸 [React Refs with TypeScript](https://medium.com/@martin_hotell/react-refs-with-typescript-a32d56c4d315)
 * 🇺🇸 [Typescript interface optional properties depending on other property](https://stackoverflow.com/questions/51412872/typescript-interface-optional-properties-depending-on-other-property)
 * 🇺🇸 [Передача дженериков в элементы JSX в TypeScript](https://mariusschulz.com/blog/passing-generics-to-jsx-elements-in-typescript)
+
+## Vue.JS
+
+* 🇺🇸 [How to Learn Vue.js in 2018](https://zendev.com/2018/10/18/how-to-learn-vue-js.html)
 
 ## Svelte
 
@@ -179,3 +198,8 @@
 ## WebAssembly
 
 * 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
+
+## Node.JS
+
+* 🇺🇸 [Node.js Features Support — kangax's compat-table applied only to Node.js](https://node.green/)
+* 🇷🇺/🇺🇸 Руководство по логированию в Node.js [перевод](https://habr.com/ru/company/funcorp/blog/461881/)/[оригинал](https://www.twilio.com/blog/guide-node-js-logging)
