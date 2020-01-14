@@ -16,6 +16,7 @@
 * 🇷🇺/🇺🇸 Вы не знаете JS (You Don't Know JS) [перевод (в процессе)](https://github.com/azat-io/you-dont-know-js-ru)/[оригинал](https://github.com/getify/You-Dont-Know-JS)
 * 🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
 * 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
+* 🇷🇺 [Функциональное программирование — это не то, что нам рассказывают](https://habr.com/ru/post/479238/)
 
 ## Библиотеки
 
