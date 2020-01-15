@@ -84,6 +84,7 @@
 * 🇷🇺 [Создание сервис-воркера: разбор примера](http://prgssr.ru/development/sozdaem-service-worker.html)
 * 🇺🇸 [Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
 * 🇺🇸  📺 [Максим Сальников — Сервис-воркеры: используем накопленный опыт и смотрим в будущее](https://www.youtube.com/watch?v=sly5O_f6w6g)
+* 🇺🇸 [Workbox — JavaScript Libraries for adding offline support to web apps](https://developers.google.com/web/tools/workbox/)
 
 ### Особенности платформ
 
@@ -137,17 +138,29 @@
 
 * 🇺🇸 [What’s New in the Payment Request API for Apple Pay (Jun 6, 2019)](https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/)
 
+#### Serial API
+
+* 🇺🇸 [Serial API — черновик спецификации](https://wicg.github.io/serial/)
+
 #### Native File System API
 
 * 🇺🇸 [The Native File System API: Simplifying access to local files](https://web.dev/native-file-system/)
 
+#### Payment Request API
+
+* 🇺🇸 [Payment Request API — спецификация](https://www.w3.org/TR/payment-request/)
+* 🇷🇺 [Стандартный браузерный API Payment Request](https://habr.com/ru/company/ruvds/blog/460799/)
+
 #### Payment Handler API
 
-* 🇺🇸 [Payment Handler API W3C Editor's Draft](https://w3c.github.io/payment-handler/)
+* 🇺🇸 [Payment Handler API — черновик спецификации](https://w3c.github.io/payment-handler/)
 
 #### Layout Instability API
 
 * 🇺🇸 [Fixing layout instability](https://web.dev/fixing-layout-instability/)
+
+#### Periodic Background Sync API
+* 🇺🇸 [Richer offline experiences with the Periodic Background Sync API](https://web.dev/periodic-background-sync/)
 
 #### Маскируемеые иконки
 
@@ -167,6 +180,7 @@
 
 ## Тёмная тема
 
+* 🇺🇸 [prefers-color-scheme: Hello darkness, my old friend](https://web.dev/prefers-color-scheme/)
 * 🇺🇸 [A guide to implementing dark modes on websites](https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website?ref=heydesigner)
 * 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
 
