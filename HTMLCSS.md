@@ -36,6 +36,7 @@
 * 🇷🇺/🇺🇸 Именование в CSS Grid [перевод](https://habr.com/ru/post/478850/)/[оригинал](https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/)
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
 * 🇺🇸/🇷🇺 CSS Grid — швейцарский армейский нож для макетов сайтов и приложений [перевод](https://habr.com/ru/company/poiskvps/blog/423709/)/[оригинал](https://medium.com/@js_tut/css-grid-the-swiss-army-knife-for-cutting-website-and-application-layouts-c1bd7a6b4e56)
+* 🇺🇸 [CSS grid tutorial: 13 tips and tricks which you should know as a web developer](https://medium.com/quick-code/css-grid-cheatsheet-13-tips-and-tricks-which-you-should-know-as-a-web-developer-b4e58f5614c3)
 
 ### Анимации
 
@@ -63,6 +64,7 @@
 
 ## Шрифты
 
+* 🇷🇺 [20 вопросов про веб-шрифты](https://habr.com/ru/company/adv/blog/184864/)
 * 🇷🇺 [Исчерпывающее руководство по стратегиям загрузки веб-шрифтов](https://css-live.ru/articles/ischerpyvayushhee-rukovodstvo-po-strategiyam-zagruzki-veb-shriftov.html)
 * 🇺🇸 [23 minutes of work for better font loading](https://www.zachleat.com/web/23-minutes/)
 * 🇺🇸 [Web fonts and performance](https://font-display.glitch.me/)
