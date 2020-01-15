@@ -45,6 +45,7 @@
 * 🇺🇸 [Carbon Charts — с адаптерами под фреймворки](https://carbon-design-system.github.io/carbon-charts/)
 * 🇺🇸 [Google Charts](https://developers.google.com/chart)
 * 🇺🇸 [Chart.js](https://www.chartjs.org/)
+* 🇺🇸 [Plotly.js](https://plot.ly/javascript/)
 
 ### Шаблонизаторы / библиотеки для рендеринга HTML
 
@@ -192,9 +193,14 @@
 
 * 🇺🇸 [MDsveX — MDX для Svelte](https://github.com/pngwn/MDsveX)
 
+## Intl
+
+* 🇺🇸 [Polyfill](https://github.com/andyearnshaw/Intl.js)
+
 ## Web Components (веб-компоненты)
 
 * 🇺🇸 [Web Components bookmarks](https://www.notion.so/Web-Components-bookmarks-64066078f891433dbc74997dc4d64302)
+* 🇺🇸 [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 
 ## WebAssembly
 
