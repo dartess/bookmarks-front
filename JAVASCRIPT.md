@@ -53,6 +53,7 @@
 * 🇺🇸 [hyperHTML](https://viperhtml.js.org/)
 * 🇺🇸 [lighterhtml](https://github.com/WebReflection/lighterhtml#lighterhtml)
 * 🇺🇸 [lit-html vs hyperHTML vs lighterhtml](https://medium.com/@WebReflection/lit-html-vs-hyperhtml-vs-lighterhtml-c084abfe1285)
+* 🇺🇸 [Awesome lit-html](https://github.com/web-padawan/awesome-lit-html)
 
 ### RxJS
 
