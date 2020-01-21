@@ -34,6 +34,7 @@
 ### Про новинки в браузерах
 
 * 🇺🇸 [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new)
+* 🇺🇸 [Safari (WebKit)](https://webkit.org/blog/)
 
 ### Где найти старые версии браузеров:
 
