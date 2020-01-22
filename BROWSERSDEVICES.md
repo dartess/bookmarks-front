@@ -35,6 +35,7 @@
 
 * 🇺🇸 [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new)
 * 🇺🇸 [Safari (WebKit)](https://webkit.org/blog/)
+* 🇺🇸 [Firefox developer release notes](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases)
 
 ### Где найти старые версии браузеров:
 
