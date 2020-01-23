@@ -9,6 +9,7 @@
 * 🇺🇸 [Modern Script Loading](https://jasonformat.com/modern-script-loading/)
 * 🇺🇸 [5 interesting and not-necessarily-useful Javascript tricks](https://areknawo.com/5-interesting-and-not-necessarily-useful-javascript-tricks/)
 * 🇺🇸 [Understanding JavaScript Decorators](https://www.simplethread.com/understanding-js-decorators/)
+* 🇺🇸 [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
 
 ## Теория
 
@@ -17,6 +18,10 @@
 * 🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
 * 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 * 🇷🇺 [Функциональное программирование — это не то, что нам рассказывают](https://habr.com/ru/post/479238/)
+
+## RegExp
+
+* 🇺🇸 [Опережающие и ретроспективные проверки в регулярных выражениях](https://habr.com/ru/post/159483/)
 
 ## Библиотеки
 
@@ -29,6 +34,9 @@
 * 🇺🇸 [Vanilla Tilt — анимированные 3D-плашки](https://micku7zu.github.io/vanilla-tilt.js/index.html)
 * 🇺🇸 [yup — до смерти простой валидатор объектов](https://github.com/jquense/yup)
 * 🇺🇸 [Pure JavaScript Image Crop Component](https://dev.vizuina.com/cropper/)
+* 🇺🇸 [Сборник библиотек для визуализации (карты, графики, данные, цвета](http://selection.datavisualization.ch/)
+* 🇺🇸 [The Vanilla JavaScript Repository — сборник различных библиотек](https://vanillalist.top/)
+* 🇺🇸 [DataMaps — интерактивные карты](http://datamaps.github.io/)
 
 ### Карусели
 
@@ -59,14 +67,29 @@
 
 * 🇺🇸 [RxJS: A Simple Introduction](https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67)
 
+### Карты
+
+* 🇷🇺 [Google Maps — кастомизируй меня полностью](https://habr.com/ru/post/324880/)
+
 ## Canvas
 
 * 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
 * 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
 
+## WebGL
+
+* 🇺🇸 [JavaScript in 3D: an Introduction to Three.js](https://medium.com/javascript-in-plain-english/javascript-in-3d-an-introduction-to-three-js-780f1e4a2e6d)
+
 ## Сборка
 
 * 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
+* 🇺🇸 [Hash vs chunkhash vs ContentHash](https://medium.com/@sahilkkrazy/hash-vs-chunkhash-vs-contenthash-e94d38a32208)
+* 🇺🇸 [<link rel="prefetch/preload"> in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
+* 🇺🇸 [Why is my webpack build slow?](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html)
+
+## CSS Modules
+
+* 🇷🇺/🇺🇸 Конец эры глобального CSS [перевод](https://habr.com/ru/post/276417/)/[оригинал](https://medium.com/seek-blog/the-end-of-global-css-90d2a4a06284#.rx1co7cd0)
 
 ## NPM
 
@@ -95,6 +118,7 @@
 
 * 🇺🇸 [react-use — библиотека хуков](https://github.com/streamich/react-use)
 * 🇺🇸 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
+* 🇺🇸 [react-use-gesture — работа с жестами (тач, мышь)](https://github.com/react-spring/react-use-gesture)
 
 ### Библиотеки
 
@@ -170,6 +194,8 @@
 * 🇺🇸 [Type Zoo — дополнительные расширенные типы](https://github.com/pelotom/type-zoo)
 * 🇺🇸 [TypeScript Cheatsheets — сборники шпаргалок по TS применимо к различным платформам](https://github.com/typescript-cheatsheets)
 * 🇷🇺 [TypeScript. Мощь never](https://habr.com/ru/post/471026/)
+* 🇺🇸 [Typescript and validations at runtime boundaries](https://lorefnon.tech/2018/03/25/typescript-and-validations-at-runtime-boundaries/)
+
 
 ### TypeScript и React
 
@@ -188,6 +214,7 @@
 ## Vue.JS
 
 * 🇺🇸 [How to Learn Vue.js in 2018](https://zendev.com/2018/10/18/how-to-learn-vue-js.html)
+* 🇺🇸 [What You Need to Know About Vue3 in 2020](https://medium.com/swlh/what-you-need-to-know-about-vue3-in-2020-b36a2feb5dad)
 
 ## Svelte
 
@@ -207,6 +234,7 @@
 ## WebAssembly
 
 * 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
+* 🇺🇸 [WebAssembly Studio](https://webassembly.studio/)
 
 ## Node.JS
 
