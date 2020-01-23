@@ -12,6 +12,7 @@
 * 🇷🇺 [Browser Fingerprint — анонимная идентификация браузеров](https://habr.com/ru/company/oleg-bunin/blog/321294/)
 * 🇺🇸/🇷🇺 Современная загрузка скриптов [перевод](https://habr.com/ru/company/raiffeisenbank/blog/473994/)/[оригинал](https://jasonformat.com/modern-script-loading/)
 * 🇷🇺 [Взаимодействие сайта в браузере и локально запущенной программы](https://habr.com/ru/post/438166/)
+* 🇺🇸 [Modern Script Loading](https://jasonformat.com/modern-script-loading/)
 
 ### Полезные расширения для Chrome и других браузеров
 
@@ -30,6 +31,8 @@
 * [Отладка Mobile Firefox](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE)
 * [Touch Bar Demo App — эмулятор тачбара MacBook](https://github.com/bikkelbroeders/TouchBarDemoApp)
 * [Feature Queries Manager — отладка браузеров с разным значением @supports](https://github.com/ireade/feature-queries-manager)
+* 🇷🇺/🇺🇸 Используем console на полную [перевод](https://habr.com/ru/post/114483/)/[оригинал](https://www.thecssninja.com/javascript/console)
+* 🇺🇸 [CSS Feature Toggles](https://github.com/keithclark/css-feature-toggle-devtools-extension)
 
 ### Про новинки в браузерах
 
@@ -80,6 +83,7 @@
 * 🇺🇸 [List of PWA Bugs and workarounds](https://github.com/PWA-POLICE/pwa-bugs)
 * 🇺🇸 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
 * 🇺🇸 [Building offline-first web and mobile apps using event-sourcing](https://flpvsk.com/blog/2019-07-20-offline-first-apps-event-sourcing/)
+* 🇺🇸 [Add to Home Screen](https://developers.google.com/web/fundamentals/app-install-banners/)
 
 ### Service Worker
 
@@ -87,12 +91,15 @@
 * 🇺🇸 [Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
 * 🇺🇸  📺 [Максим Сальников — Сервис-воркеры: используем накопленный опыт и смотрим в будущее](https://www.youtube.com/watch?v=sly5O_f6w6g)
 * 🇺🇸 [Workbox — JavaScript Libraries for adding offline support to web apps](https://developers.google.com/web/tools/workbox/)
+* 🇺🇸 [Service workers at TPAC](https://jakearchibald.com/2019/service-workers-tpac/)
+
 
 ### Особенности платформ
 
 * 🇺🇸 [Don’t use iOS meta tags irresponsibly in your Progressive Web Apps](https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb)
 * 🇺🇸 [PWAs are coming to iOS 11.3: Cupertino, we have a problem](https://medium.com/@firt/pwas-are-coming-to-ios-11-3-cupertino-we-have-a-problem-2ff49fd7d6ea)
 * 🇺🇸 [What’s new on iOS 12.2 for Progressive Web Apps](https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945)
+* 🇺🇸 [iPhone 11, iPadOS and iOS 13 for PWAs and web development](https://medium.com/@firt/iphone-11-ipados-and-ios-13-for-pwas-and-web-development-5d5d9071cc49)
 * 🇺🇸 [PWA Bugs](https://github.com/PWA-POLICE/pwa-bugs)
 * 🇺🇸 [Десктопные PWA в Windows](https://twitter.com/firt/status/1054442657567727616)
 * 🇺🇸 [Десктопные PWA в Linux](https://twitter.com/firt/status/1054801501653221378)
@@ -106,6 +113,10 @@
 * 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
 * 🇷🇺 [Play Store теперь принимает прогрессивные веб-приложения (PWA)](https://habr.com/ru/post/439238/)
 * 🇺🇸 [Introducing Progressive Web Apps to Samsung Galaxy Store](https://medium.com/samsung-internet-dev/introducing-progressive-web-apps-to-samsung-galaxy-store-47ecd317725b)
+
+### favicon и другие изображения для иконок
+
+* 🇷🇺 [Разработка анимированных фавиконов](https://habr.com/ru/company/ruvds/blog/464127/)
 
 ### API
 
@@ -140,7 +151,21 @@
 
 * 🇺🇸 [What’s New in the Payment Request API for Apple Pay (Jun 6, 2019)](https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/)
 
-#### Serial API
+#### API для работы с устройствами
+
+##### Gamepad API
+
+##### Web Bluetooth API
+
+##### USB API
+
+* 🇺🇸 [Access USB Devices on the Web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
+
+##### WebHID API
+
+* 🇺🇸 [Upcoming WebHID API - access Bluetooth/USB HID devices in web applications](https://blog.scottlogic.com/2019/04/03/upcoming-webhid-api.html)
+
+##### Serial API
 
 * 🇺🇸 [Serial API — черновик спецификации](https://wicg.github.io/serial/)
 
@@ -162,7 +187,22 @@
 * 🇺🇸 [Fixing layout instability](https://web.dev/fixing-layout-instability/)
 
 #### Periodic Background Sync API
+
 * 🇺🇸 [Richer offline experiences with the Periodic Background Sync API](https://web.dev/periodic-background-sync/)
+
+#### Web Authentication API (WebAuthn), Credential Management API и другие способы авторизации
+
+* 🇺🇸 [Guide to Web Authentication](https://webauthn.guide/)
+* 🇷🇺 [Внедряем Sign in with Apple — систему авторизации от Apple](https://habr.com/ru/company/cian/blog/475062/)
+* 🇷🇺 [Автоматический вход на сайт с использованием Credential Management API](https://noteskeeper.ru/1373/)
+
+#### Presentation API и Presentation Receiver API
+
+* 🇺🇸 [Present web pages to secondary attached displays](https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays)
+
+#### MediaStream Recording API
+
+* 🇺🇸 [Building a Dictaphone Using Media Recorder and getUserMedia](https://24ways.org/2019/building-a-dictaphone-using-media-recorder-and-getusermedia)
 
 #### Маскируемеые иконки
 
