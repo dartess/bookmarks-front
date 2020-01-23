@@ -18,6 +18,7 @@
 * 🇷🇺 [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
 * 🇷🇺 [Как проектировать для людей с цветовой слепотой](https://habr.com/ru/post/275001/)
 * 🇷🇺 [Как создавать Pixel Perfect изображения в Adobe Illustrator](https://habr.com/ru/post/259723/)
+* 🇷🇺 [Тысяча и один UI-баг, или Как помочь разработчику избегать типовых ошибок в UI](https://habr.com/ru/company/badoo/blog/479970/)
 
 ## Тестирование
 
@@ -78,6 +79,10 @@
 * 🇷🇺/🇺🇸 Цена JavaScript в 2019 году [перевод](https://habr.com/ru/company/ruvds/blog/459296/)/[оригинал](https://v8.dev/blog/cost-of-javascript-2019)
 * 🇺🇸 [CSS Triggers](https://csstriggers.com/)
 * 🇺🇸 [Getting started with web performance? Here's what you need to focus on.](https://speedcurve.com/blog/getting-started-web-performance/)
+* 🇺🇸 [Bundling JavaScript for Performance: Best Practices](https://calendar.perfplanet.com/2019/bundling-javascript-for-performance-best-practices/)
+* 🇺🇸 [React Performance – A Definitive Guide to React js Performance Optimization](https://www.simform.com/react-performance/)
+* 🇺🇸 [Why Moving Elements With Translate() Is Better Than Pos:abs Top/left](https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
+* 🇺🇸 [The Low Hanging Fruit of Web Performance](https://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
 
 ## Онлайн-инструменты
 
@@ -114,6 +119,8 @@
 * 🇷🇺 [«Алиса, пойдём во фронтенд!»](https://habr.com/ru/company/oleg-bunin/blog/468545/)
 * 🇷🇺 [Руководство по современному Make](https://ru.makefile.site/)
 * 🇺🇸 [What’s the Difference Between a URI and a URL?](https://danielmiessler.com/study/difference-between-uri-url/)
+* 🇺🇸 [do you know your tags?](https://tags.isthe.link/)
+* 🇷🇺 [Так все же, зачем нужен make?](https://habr.com/ru/post/477656/)
 
 ## Иммутабельность
 
@@ -126,15 +133,11 @@
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
 * 🇷🇺 👍 [UIKit: типичная «ошибка» — разбор недостатков булевых пропсов](https://medium.com/@ibnRubaXa/uikit-%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-33702309cec4?)
 * 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
+* 🇷🇺 [Do good code: 8 правил хорошего кода](https://habr.com/ru/company/geekbrains/blog/270001/)
 
 ## GraphQL
 
-* [примеры работы открытых graphql api](https://github.com/APIs-guru/graphql-apis)
-
-## Графика
-
-* 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
-* 🇷🇺 [Полное руководство по отзывчивым изображениям!](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)
+🇺🇸 [Public GraphQL APIs](https://github.com/APIs-guru/graphql-apis)
 
 ## Демо
 
@@ -146,5 +149,7 @@
 * 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)
 * 🇺🇸 [CSS-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
 * 🇺🇸 [The Boat — анимированная история](http://www.sbs.com.au/theboat/)
+* 🏳 [Динамический плейсхолдер](https://codepen.io/joelewis/pen/ePOrmV/)
+* 🏳 [Webamp — Winamp 2 in your browser](https://webamp.org/)
 
 
