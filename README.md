@@ -5,7 +5,9 @@
 * HTML, CSS, SVG
 * Доступность
 * Шрифты
-* Особенности вёрстки
+* Графика
+* Особенности вёрстки рассылок
+* Особенности вёрстки под нестандратные устройства и экраны
 
 ## [JavaScript](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT.md)
 
