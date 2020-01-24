@@ -118,99 +118,116 @@
 
 * 🇷🇺 [Разработка анимированных фавиконов](https://habr.com/ru/company/ruvds/blog/464127/)
 
-### API
+## API
 
-#### Push API — уведомления из браузера
+### Push API — уведомления из браузера
 
 * 🇺🇸 [Web Push Book — книга про Push API и всё, что с ними связано](https://web-push-book.gauntface.com/)
 
-#### MediaStream API
+### API для работы с камерой и микрофоном (Media Capture and Streams API (MediaStream API))
 
 * 🇺🇸 [JS Tidbits - MediaStream API](https://areknawo.com/js-tidbits-mediastream-api/)
 
-#### IntersectionObserver — попадание элемента в область видимости
+#### Media Capture and Streams API (MediaStream API) — получение аудио и видео
+
+* 🇺🇸 [MDN — Media Capture and Streams API (Media Stream)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
+* 🇺🇸 [Audio & Video Capture](https://whatwebcando.today/camera-microphone.html)
+
+#### MediaStream Image Capture API — продвинутое управление камерой
+
+* 🇺🇸 [MDN — MediaStream Image Capture API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Image_Capture_API)
+* 🇺🇸 [Advanced Camera Controls](https://whatwebcando.today/photos.html)
+
+#### MediaStream Recording API — запись медиа
+
+* 🇺🇸 [MDN — MediaStream Recording API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
+* 🇺🇸 [Recording Media](https://whatwebcando.today/recording.html)
+* 🇺🇸 [Building a Dictaphone Using Media Recorder and getUserMedia](https://24ways.org/2019/building-a-dictaphone-using-media-recorder-and-getusermedia)
+
+#### WebRTC API — реал-тайм коммуникация
+
+* 🇺🇸 [MDN — WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+* 🇺🇸 [Real-Time Communication](https://whatwebcando.today/realtime.html)
+
+### IntersectionObserver — попадание элемента в область видимости
 
 * 🇺🇸 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 * 🇺🇸 [Intersection Observers — Explainer Doc, Draft Spec, Polyfill](https://github.com/w3c/IntersectionObserver)
 
-#### Shape Detection API — распознавание лиц, штрихкодов, текста
+### Shape Detection API — распознавание лиц, штрихкодов, текста
 
 * 🇺🇸 [Demo и документация](https://www.chromestatus.com/feature/4757990523535360)
 * 🇺🇸 [Barcode detection using Shape Detection API](https://paul.kinlan.me/barcode-detection/)
 
-#### SMS Receiver API — получение одноразовых кодов из СМС
+### SMS Receiver API — получение одноразовых кодов из СМС
 
 * 🇺🇸 [Verify phone numbers on the web with the SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
 
-#### Badging API — вывод меток на иконке приложения
+### Badging API — вывод меток на иконке приложения
 
 * 🇺🇸 [Badging API Explainer](https://github.com/WICG/badging/blob/master/explainer.md)
 * 🇺🇸 [Badging for App Icons](https://developers.google.com/web/updates/2018/12/badging-api)
 
-#### Payment Request API — оплата на сайте
+### Payment Request API — оплата на сайте
 
 * 🇺🇸 [What’s New in the Payment Request API for Apple Pay (Jun 6, 2019)](https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/)
 
-#### API для работы с устройствами
+### API для работы с устройствами
 
-##### Gamepad API
+#### Gamepad API
 
-##### Web Bluetooth API
+#### Web Bluetooth API
 
-##### USB API
+#### USB API
 
 * 🇺🇸 [Access USB Devices on the Web](https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web)
 
-##### WebHID API
+#### WebHID API
 
 * 🇺🇸 [Upcoming WebHID API - access Bluetooth/USB HID devices in web applications](https://blog.scottlogic.com/2019/04/03/upcoming-webhid-api.html)
 
-##### Serial API
+#### Serial API
 
 * 🇺🇸 [Serial API — черновик спецификации](https://wicg.github.io/serial/)
 
-#### Native File System API
+### Native File System API
 
 * 🇺🇸 [The Native File System API: Simplifying access to local files](https://web.dev/native-file-system/)
 
-#### Payment Request API
+### Payment Request API
 
 * 🇺🇸 [Payment Request API — спецификация](https://www.w3.org/TR/payment-request/)
 * 🇷🇺 [Стандартный браузерный API Payment Request](https://habr.com/ru/company/ruvds/blog/460799/)
 
-#### Payment Handler API
+### Payment Handler API
 
 * 🇺🇸 [Payment Handler API — черновик спецификации](https://w3c.github.io/payment-handler/)
 
-#### Layout Instability API
+### Layout Instability API
 
 * 🇺🇸 [Fixing layout instability](https://web.dev/fixing-layout-instability/)
 
-#### Periodic Background Sync API
+### Periodic Background Sync API
 
 * 🇺🇸 [Richer offline experiences with the Periodic Background Sync API](https://web.dev/periodic-background-sync/)
 
-#### Web Authentication API (WebAuthn), Credential Management API и другие способы авторизации
+### Web Authentication API (WebAuthn), Credential Management API и другие способы авторизации
 
 * 🇺🇸 [Guide to Web Authentication](https://webauthn.guide/)
 * 🇷🇺 [Внедряем Sign in with Apple — систему авторизации от Apple](https://habr.com/ru/company/cian/blog/475062/)
 * 🇷🇺 [Автоматический вход на сайт с использованием Credential Management API](https://noteskeeper.ru/1373/)
 
-#### Presentation API и Presentation Receiver API
+### Presentation API и Presentation Receiver API
 
 * 🇺🇸 [Present web pages to secondary attached displays](https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays)
 
-#### MediaStream Recording API
-
-* 🇺🇸 [Building a Dictaphone Using Media Recorder and getUserMedia](https://24ways.org/2019/building-a-dictaphone-using-media-recorder-and-getusermedia)
-
-#### Маскируемеые иконки
+### Маскируемеые иконки
 
 * 🇺🇸 [Маскируемеые иконки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
 * 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
 * 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
 
-### Совсем прочее
+## Совсем прочее
 
 * 🇺🇸 [How to display a "new version available" for a Progressive Web App](https://deanhume.com/displaying-a-new-version-available-progressive-web-app/)
 * 🇺🇸 [Mock Service Worker](https://github.com/open-draft/msw)
