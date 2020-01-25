@@ -79,7 +79,6 @@
 * 🇷🇺 [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
 * 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
 * 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12)
-* 🇷🇺 [Внедряем Sign in with Apple — систему авторизации от Apple](https://habr.com/ru/company/cian/blog/475062/)
 * 🇺🇸 [List of PWA Bugs and workarounds](https://github.com/PWA-POLICE/pwa-bugs)
 * 🇺🇸 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
 * 🇺🇸 [Building offline-first web and mobile apps using event-sourcing](https://flpvsk.com/blog/2019-07-20-offline-first-apps-event-sourcing/)
@@ -119,10 +118,6 @@
 
 ## API
 
-### Push API — уведомления из браузера
-
-* 🇺🇸 [Web Push Book — книга про Push API и всё, что с ними связано](https://web-push-book.gauntface.com/)
-
 ### API для работы с камерой и микрофоном (Media Capture and Streams API (MediaStream API))
 
 * 🇺🇸 [JS Tidbits - MediaStream API](https://areknawo.com/js-tidbits-mediastream-api/)
@@ -147,6 +142,37 @@
 
 * 🇺🇸 [MDN — WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 * 🇺🇸 [Real-Time Communication](https://whatwebcando.today/realtime.html)
+
+### Доступ к аппаратным ресурсам (Device Features)
+
+#### Network Information API
+
+* 🇺🇸 [MDN — Network Information API](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API)
+* 🇺🇸 [Network Type & Speed](https://whatwebcando.today/network-type-speed.html)
+
+#### NavigatorOnLine
+
+* 🇺🇸 [MDN — NavigatorOnLine](https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine)
+* 🇺🇸 [Online State](https://whatwebcando.today/online-state.html)
+
+#### Vibration API
+
+* 🇺🇸 [MDN — Vibration API](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
+* 🇺🇸 [Vibration](https://whatwebcando.today/vibration.html)
+
+#### Battery Status API
+
+* 🇺🇸 [MDN — Battery Status API](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
+* 🇺🇸 [Battery Status](https://whatwebcando.today/battery-status.html)
+
+#### Device Memory API
+
+* 🇺🇸 [MDN — Device Memory API](https://developer.mozilla.org/en-US/docs/Web/API/Device_Memory_API)
+* 🇺🇸 [Device Memory](https://whatwebcando.today/memory.html)
+
+### Push API — уведомления из браузера
+
+* 🇺🇸 [Web Push Book — книга про Push API и всё, что с ними связано](https://web-push-book.gauntface.com/)
 
 ### IntersectionObserver — попадание элемента в область видимости
 
