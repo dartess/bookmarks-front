@@ -143,7 +143,7 @@
 * 🇺🇸 [MDN — WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 * 🇺🇸 [Real-Time Communication](https://whatwebcando.today/realtime.html)
 
-### Доступ к аппаратным ресурсам (Device Features)
+### Доступ к аппаратным ресурсам устройства (Device Features)
 
 #### Network Information API
 
