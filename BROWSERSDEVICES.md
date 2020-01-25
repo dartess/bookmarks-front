@@ -104,15 +104,14 @@
 * 🇺🇸 [Десктопные PWA в Windows](https://twitter.com/firt/status/1054442657567727616)
 * 🇺🇸 [Десктопные PWA в Linux](https://twitter.com/firt/status/1054801501653221378)
 
-### TWA
-
-* 🇺🇸 (Introducing a Trusted Web Activity for Android)[https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html]
-
 ### PWA и магазины приложений
 
-* 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
 * 🇷🇺 [Play Store теперь принимает прогрессивные веб-приложения (PWA)](https://habr.com/ru/post/439238/)
 * 🇺🇸 [Introducing Progressive Web Apps to Samsung Galaxy Store](https://medium.com/samsung-internet-dev/introducing-progressive-web-apps-to-samsung-galaxy-store-47ecd317725b)
+
+#### TWA
+
+* 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
 
 ### favicon и другие изображения для иконок
 
