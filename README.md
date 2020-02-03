@@ -15,7 +15,7 @@
 * Intl
 * WebAssembly
 
-## [JavaScript и Браузеры, API, PWA](https://github.com/dartess/bookmarks-front/blob/master/BROWSERSDEVICES.md)
+## [JavaScript: браузеры, API, PWA](https://github.com/dartess/bookmarks-front/blob/master/BROWSERSDEVICES.md)
 
 * Общая информация
 * VanillaJS библиотеки
