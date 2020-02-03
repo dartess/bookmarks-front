@@ -64,6 +64,54 @@
 
 * 🇺🇸 [Техподдержка SamsungInternet](https://github.com/SamsungInternet/support)
 
+## Библиотеки
+
+* 🇺🇸 [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
+* 🇺🇸 [interactjs — JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
+* 🇺🇸 [Lottie — плеер для воспроизведения анимаций из After Effect](http://airbnb.io/lottie/)
+* 🇺🇸 [Micromodal — доступные модальные окна](https://github.com/ghosh/Micromodal)
+* 🇺🇸 [markdown-it — Markdown parser](https://github.com/markdown-it/markdown-it)
+* 🇺🇸 [FileSaver.js](https://github.com/eligrey/FileSaver.js)
+* 🇺🇸 [Vanilla Tilt — анимированные 3D-плашки](https://micku7zu.github.io/vanilla-tilt.js/index.html)
+* 🇺🇸 [yup — до смерти простой валидатор объектов](https://github.com/jquense/yup)
+* 🇺🇸 [Pure JavaScript Image Crop Component](https://dev.vizuina.com/cropper/)
+* 🇺🇸 [Сборник библиотек для визуализации (карты, графики, данные, цвета](http://selection.datavisualization.ch/)
+* 🇺🇸 [The Vanilla JavaScript Repository — сборник различных библиотек](https://vanillalist.top/)
+* 🇺🇸 [DataMaps — интерактивные карты](http://datamaps.github.io/)
+
+### Карусели
+
+* 🇺🇸 [glide](https://github.com/glidejs/glide)
+* 🇺🇸 [Flickity](https://flickity.metafizzy.co/)
+
+### Даты и время
+
+* 🇺🇸 [Day.js — легковесная альтернатива Moment.js](https://github.com/iamkun/dayjs)
+
+### Графики
+
+* 🇺🇸 [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
+* 🇺🇸 [Carbon Charts — с адаптерами под фреймворки](https://carbon-design-system.github.io/carbon-charts/)
+* 🇺🇸 [Google Charts](https://developers.google.com/chart)
+* 🇺🇸 [Chart.js](https://www.chartjs.org/)
+* 🇺🇸 [Plotly.js](https://plot.ly/javascript/)
+
+### Шаблонизаторы / библиотеки для рендеринга HTML
+
+* 🇺🇸 [lit-html](https://lit-html.polymer-project.org/)
+* 🇺🇸 [hyperHTML](https://viperhtml.js.org/)
+* 🇺🇸 [lighterhtml](https://github.com/WebReflection/lighterhtml#lighterhtml)
+* 🇺🇸 [lit-html vs hyperHTML vs lighterhtml](https://medium.com/@WebReflection/lit-html-vs-hyperhtml-vs-lighterhtml-c084abfe1285)
+* 🇺🇸 [Awesome lit-html](https://github.com/web-padawan/awesome-lit-html)
+
+### RxJS
+
+* 🇺🇸 [RxJS: A Simple Introduction](https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67)
+
+### Карты
+
+* 🇷🇺 [Google Maps — кастомизируй меня полностью](https://habr.com/ru/post/324880/)
+
 ## PWA
 
 ### Общая информация
@@ -91,7 +139,6 @@
 * 🇺🇸  📺 [Максим Сальников — Сервис-воркеры: используем накопленный опыт и смотрим в будущее](https://www.youtube.com/watch?v=sly5O_f6w6g)
 * 🇺🇸 [Workbox — JavaScript Libraries for adding offline support to web apps](https://developers.google.com/web/tools/workbox/)
 * 🇺🇸 [Service workers at TPAC](https://jakearchibald.com/2019/service-workers-tpac/)
-
 
 ### Особенности платформ
 
@@ -275,3 +322,17 @@
 ## Web Workers
 
 * 🇺🇸 [Use web workers to run JavaScript off the browser's main thread](https://web.dev/off-main-thread/)
+
+## Canvas
+
+* 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
+* 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
+
+## WebGL
+
+* 🇺🇸 [JavaScript in 3D: an Introduction to Three.js](https://medium.com/javascript-in-plain-english/javascript-in-3d-an-introduction-to-three-js-780f1e4a2e6d)
+
+## Web Components (веб-компоненты)
+
+* 🇺🇸 [Web Components bookmarks](https://www.notion.so/Web-Components-bookmarks-64066078f891433dbc74997dc4d64302)
+* 🇺🇸 [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
