@@ -25,3 +25,8 @@
 * 🇺🇸 [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 * 🇺🇸 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
 * 🇺🇸 [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+
+## Node.JS
+
+* 🇺🇸 [Node.js Features Support — kangax's compat-table applied only to Node.js](https://node.green/)
+* 🇷🇺/🇺🇸 Руководство по логированию в Node.js [перевод](https://habr.com/ru/company/funcorp/blog/461881/)/[оригинал](https://www.twilio.com/blog/guide-node-js-logging)
