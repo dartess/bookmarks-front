@@ -16,6 +16,7 @@
 * 🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
 * 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 * 🇷🇺 [Функциональное программирование — это не то, что нам рассказывают](https://habr.com/ru/post/479238/)
+* 🇷🇺 👍 [Визуализация принципа действия throttle / debounce](https://codepen.io/dartess/full/pGJYmj)
 
 ## RegExp
 
