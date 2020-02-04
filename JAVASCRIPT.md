@@ -8,15 +8,20 @@
 * 🇺🇸 [5 interesting and not-necessarily-useful Javascript tricks](https://areknawo.com/5-interesting-and-not-necessarily-useful-javascript-tricks/)
 * 🇺🇸 [Understanding JavaScript Decorators](https://www.simplethread.com/understanding-js-decorators/)
 * 🇺🇸 [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
-
-## Теория
-
 * 🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
 * 🇷🇺/🇺🇸 Вы не знаете JS (You Don't Know JS) [перевод (в процессе)](https://github.com/azat-io/you-dont-know-js-ru)/[оригинал](https://github.com/getify/You-Dont-Know-JS)
 * 🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
-* 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 * 🇷🇺 [Функциональное программирование — это не то, что нам рассказывают](https://habr.com/ru/post/479238/)
 * 🇷🇺 👍 [Визуализация принципа действия throttle / debounce](https://codepen.io/dartess/full/pGJYmj)
+* 🇺🇸 [The State of JavaScript 2019](https://2019.stateofjs.com/)
+* 🇷🇺 [Случайные числа не случайны](https://medium.com/@frontman/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-%D0%BD%D0%B5-%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B-252e08e60828)
+* 🇷🇺 [Разбираемся в алгоритмах и структурах данных. Доступно и понятно](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
+* 🇷🇺 Как работать с денежными значениями в JavaScript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
+
+### Типы и структуры данных
+
+* 🇺🇸 [The Essential Guide To JavaScript’s Newest Data Type: BigInt](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/)
+* 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 
 ## RegExp
 
