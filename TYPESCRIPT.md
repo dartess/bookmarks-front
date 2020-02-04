@@ -19,7 +19,8 @@
 * 🇺🇸 [TypeScript Cheatsheets — сборники шпаргалок по TS применимо к различным платформам](https://github.com/typescript-cheatsheets)
 * 🇷🇺 [TypeScript. Мощь never](https://habr.com/ru/post/471026/)
 * 🇺🇸 [Typescript and validations at runtime boundaries](https://lorefnon.tech/2018/03/25/typescript-and-validations-at-runtime-boundaries/)
-
+* 🇺🇸 👍 [ts-node — запуск TS на Node.js](https://github.com/TypeStrong/ts-node)
+* 🇺🇸 👍 [tsconfig-paths — модуль для резолвинга алиасов в ts-node](https://www.npmjs.com/package/tsconfig-paths)
 
 ### TypeScript и React
 
