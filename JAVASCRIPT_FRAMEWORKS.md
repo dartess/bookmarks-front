@@ -9,13 +9,20 @@
 ### Хуки
 
 * 🇺🇸 [react-use — библиотека хуков](https://github.com/streamich/react-use)
-* 🇺🇸 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
+* 🇺🇸 👍 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
 * 🇺🇸 [react-use-gesture — работа с жестами (тач, мышь)](https://github.com/react-spring/react-use-gesture)
+* 🇺🇸 👍 [use-debounce](https://www.npmjs.com/package/use-debounce)
+* 🇺🇸 👍 [use-query-params](https://www.npmjs.com/package/use-query-params)
 
 ### Библиотеки
 
 * 🇺🇸 [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
 * 🇺🇸 [react-yandex-maps — Yandex Maps API bindings for React](https://github.com/gribnoysup/react-yandex-maps)
+* 🇺🇸 👍 [react-dropzone](https://react-dropzone.netlify.com/)
+* 🇺🇸 👍 [React Final Form](https://final-form.org/react)
+* 🇺🇸 👍 [React Final Form Arrays — работа с массивами в React Final Form](https://www.npmjs.com/package/react-final-form-arrays)
+* 🇺🇸 👍 [React Select](https://react-select.com/home)
+* 🇺🇸 👍 [React Text Mask](https://github.com/text-mask/text-mask/tree/master/react/#readme)
 
 #### Слайдеры (карусели)
 
@@ -35,6 +42,8 @@
 #### Графики
 
 * 🇺🇸 [victory](https://formidable.com/open-source/victory/)
+* 🇺🇸 👍 [Recharts](http://recharts.org/en-US/)
+* 🇺🇸 👍 [React Mobile DatePicker Component](https://www.npmjs.com/package/rmc-date-picker)
 
 #### Интернационализация
 
@@ -46,6 +55,8 @@
 * 🇷🇺 [Перевод документации (устарел, не содрежит многих тем)](https://rajdee.gitbooks.io/redux-in-russian/content/)
 * 🇺🇸 [Redux Style Guide](https://redux.js.org/style-guide/style-guide/)
 * 🇺🇸 [Повышение производительности React/Redux-приложений с помощью библиотеки Reselect](https://medium.com/better-programming/increase-your-react-redux-application-performance-with-reselect-library-3f4d632a08c5)
+* 🇺🇸 👍 [Redux-State-Sync](https://www.npmjs.com/package/redux-state-sync)
+* 🇺🇸 👍 [redux-persist](https://github.com/rt2zz/redux-persist)
 
 ### Альтернативные менеджеры состояния
 
