@@ -14,6 +14,8 @@
 * 🇷🇺 [CSS 3 Timing Functions и с чем их едят](https://habr.com/ru/post/220715/)
 * 🇷🇺 [Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
 * 🇷🇺/🇺🇸 Введение в CSS Shapes [перевод](http://htmlbook.ru/blog/vvedenie-v-css-shapes)/[оригинал](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
+* 🇺🇸 [Collection of CSS snippets](https://justmarkup.com/articles/2018-03-27-collection-of-css-snippets/)
+* 🇷🇺 (Чего мне никогда не говорили о CSS)[https://medium.com/webbdev/css-48a2eded605b]
 
 ### Текст
 
@@ -119,23 +121,29 @@
 
 * 🇷🇺/🇺🇸 Понимание вьюпорта WebView в iOS 11 [перевод](https://css-live.ru/articles/ponimanie-vyuporta-webview-v-ios-11.html)/[оригинал](https://ayogo.com/blog/ios11-viewport/)
 * 🇺🇸 [watchOS, the wrist and the web for smaller screens](https://dev.to/meduzen/watchos-the-wrist-and-the-web-bbj)
+* 🇺🇸 [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/)
 
 ## Доступность
 
 * 🇺🇸 [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
-* 🇷🇺 [Drag-&-Drop компоненты для слепых пользователей? Вы шутите?](https://habr.com/ru/company/oleg-bunin/blog/468541/)
-* 🇷🇺/🇺🇸 Инклюзивные компоненты: сворачиваемые секции [перевод](https://medium.com/web-standards/collapsibl-sections-c0de689e0ebe)/[оригинал](https://inclusive-components.design/collapsible-sections/)
 * 🇷🇺 [Доступность и закон](https://medium.com/web-standards/a11y-and-law-a81dd9dd5fc8)
 * 🇺🇸 [Hiding DOM elements](https://allyjs.io/tutorials/hiding-elements.html)
 * 🇺🇸 [Fix 85% of your Web Accessibility issues in 5 easy steps](https://dev.to/alvaromontoro/fix-85-of-your-web-accessibility-issues-in-5-easy-steps-pnf)
 * 🇷🇺 [Всё, что нужно знать про ARIA Live Regions](https://medium.com/web-standards/aria-live-regions-713f6a7813d3)
-* 🇷🇺 Инклюзивные компоненты: интерфейсы со вкладками [перевод](https://medium.com/web-standards/tabbed-interfaces-a125212e6c35)/[оригинал](https://inclusive-components.design/tabbed-interfaces/)
 * 🇺🇸 [The “D” in the DOM](https://www.24a11y.com/2018/the-d-in-the-dom/)
 * 🇺🇸 [Move Ya! Or maybe, don't, if the user prefers-reduced-motion!](https://developers.google.com/web/updates/2019/03/prefers-reduced-motion)
 * 🇺🇸 [What the Heck is ARIA? A Beginner's Guide to ARIA for Accessibility](https://www.lullabot.com/articles/what-heck-aria-beginners-guide-aria-accessibility)
-* 🇺🇸 [Tooltips in the time of WCAG 2.1](https://sarahmhigley.com/writing/tooltips-in-wcag-21/)
 * 🇺🇸 [The difference between keyboard and screen reader navigation](https://tink.uk/the-difference-between-keyboard-and-screen-reader-navigation/)
 * 🇺🇸 [Top 5 Questions Asked in Accessibility Trainings](https://www.deque.com/blog/top-5-questions-asked-in-accessibility-trainings/)
+* 🇺🇸 [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/)
+
+### Инклюзивные компоненты
+
+* 🇷🇺/🇺🇸 Инклюзивные компоненты: тултипы и тоглтипы [перевод](https://medium.com/web-standards/tooltips-toggletips-c20691665ac7)/[оригинал](https://inclusive-components.design/tooltips-toggletips/)
+* 🇺🇸 [Tooltips in the time of WCAG 2.1](https://sarahmhigley.com/writing/tooltips-in-wcag-21/)
+* 🇷🇺 Инклюзивные компоненты: интерфейсы со вкладками [перевод](https://medium.com/web-standards/tabbed-interfaces-a125212e6c35)/[оригинал](https://inclusive-components.design/tabbed-interfaces/)
+* 🇷🇺 [Drag-&-Drop компоненты для слепых пользователей? Вы шутите?](https://habr.com/ru/company/oleg-bunin/blog/468541/)
+* 🇷🇺/🇺🇸 Инклюзивные компоненты: сворачиваемые секции [перевод](https://medium.com/web-standards/collapsibl-sections-c0de689e0ebe)/[оригинал](https://inclusive-components.design/collapsible-sections/)
 
 ## Графика
 
