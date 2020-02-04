@@ -78,6 +78,15 @@
 * 🇺🇸 [Сборник библиотек для визуализации (карты, графики, данные, цвета](http://selection.datavisualization.ch/)
 * 🇺🇸 [The Vanilla JavaScript Repository — сборник различных библиотек](https://vanillalist.top/)
 * 🇺🇸 [DataMaps — интерактивные карты](http://datamaps.github.io/)
+* 🇺🇸 👍 [ZXing  — библиотека для распознавания штрихкодов](https://www.npmjs.com/package/@zxing/library)
+* 🇺🇸 👍 [Browser or Node.js — определение окружения](https://www.npmjs.com/package/browser-or-node)
+* 🇺🇸 👍 [Browser, please — определение версии браузера](https://dartess.github.io/browser-please/)
+* 🇺🇸 👍 [Final Form — работа с формами](https://final-form.org/)
+* 🇺🇸 👍 [Final Form Arrays — работа с массивами в Final Form](https://www.npmjs.com/package/final-form-arrays)
+* 🇺🇸 👍 [js-cookie](https://www.npmjs.com/package/js-cookie)
+* 🇺🇸 👍 [Text Mask](https://text-mask.github.io/text-mask/)
+* 🇺🇸 👍 [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
+* 🇺🇸 👍 [uuid — генератор UUID (universally unique identifier «универсальный уникальный идентификатор»)](https://www.npmjs.com/package/uuid)
 
 ### Карусели
 
@@ -165,6 +174,10 @@
 
 ## API
 
+### FormData
+
+* 🇺🇸 👍 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
+
 ### API для работы с камерой и микрофоном (Media Capture and Streams API (MediaStream API))
 
 * 🇺🇸 [JS Tidbits - MediaStream API](https://areknawo.com/js-tidbits-mediastream-api/)
@@ -225,6 +238,7 @@
 
 * 🇺🇸 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 * 🇺🇸 [Intersection Observers — Explainer Doc, Draft Spec, Polyfill](https://github.com/w3c/IntersectionObserver)
+* 🇺🇸 👍 [IntersectionObserver polyfill](https://www.npmjs.com/package/intersection-observer)
 
 ### Shape Detection API — распознавание лиц, штрихкодов, текста
 
