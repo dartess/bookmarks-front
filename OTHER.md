@@ -34,6 +34,7 @@
 * 🇺🇸 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
 * 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 * 🇺🇸 [флаги для WebRTC-related testing](https://webrtc.org/testing/)
+* 🇺🇸 👍 [Sentry — Application Monitoring and Error Tracking Software](https://sentry.io/)
 
 ## Git
 
