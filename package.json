@@ -1,0 +1,23 @@
+{
+  "name": "bookmarks-front",
+  "version": "1.0.0",
+  "description": "## [Вёрстка](https://github.com/dartess/bookmarks-front/blob/master/HTMLCSS.md)",
+  "main": "check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dartess/bookmarks-front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dartess/bookmarks-front/issues"
+  },
+  "homepage": "https://github.com/dartess/bookmarks-front#readme",
+  "dependencies": {
+    "node-html-parser": "^1.2.4",
+    "string.prototype.matchall": "^4.0.2"
+  }
+}
