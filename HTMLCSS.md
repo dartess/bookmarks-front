@@ -22,7 +22,8 @@
 🇷🇺 [Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
 🇷🇺/🇺🇸 Введение в CSS Shapes [перевод](http://htmlbook.ru/blog/vvedenie-v-css-shapes)/[оригинал](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
 🇺🇸 [Collection of CSS snippets](https://justmarkup.com/articles/2018-03-27-collection-of-css-snippets/)
-🇷🇺 (Чего мне никогда не говорили о CSS)[https://medium.com/webbdev/css-48a2eded605b]
+🇷🇺 [Чего мне никогда не говорили о CSS](https://medium.com/webbdev/css-48a2eded605b)
+🇺🇸 [Pointing Device Adaptation](https://whatwebcando.today/pointer-adaptation.html)
 
 ### Текст
 
@@ -128,7 +129,7 @@
 
 🇷🇺/🇺🇸 Понимание вьюпорта WebView в iOS 11 [перевод](https://css-live.ru/articles/ponimanie-vyuporta-webview-v-ios-11.html)/[оригинал](https://ayogo.com/blog/ios11-viewport/)
 🇺🇸 [watchOS, the wrist and the web for smaller screens](https://dev.to/meduzen/watchos-the-wrist-and-the-web-bbj)
-🇺🇸 [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/)
+🇷🇺/🇺🇸 Микробраузеры повсюду. Но что мы о них знаем? [перевод](https://habr.com/ru/company/dcmiran/blog/485386/)/[оригинал](https://24ways.org/2019/microbrowsers-are-everywhere/)
 
 ## Доступность
 

@@ -266,6 +266,8 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 🇺🇸 [Generic Sensor API — черновик спецификации](https://w3c.github.io/sensors/)
 🇺🇸 [Getting started with the Ambient Light Sensor](https://w3c.github.io/ambient-light/)
+🇺🇸 [Device Position](https://whatwebcando.today/device-position.html)
+🇺🇸 [Device Motion](https://whatwebcando.today/device-motion.html)
 
 ### Доступ к средствам операционной системы
 
@@ -285,6 +287,7 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 #### Native File System API — доступ к файловой системе
 
+🇺🇸 [Native File System API — explainer](https://github.com/WICG/native-file-system/blob/master/EXPLAINER.md)
 🇺🇸 [The Native File System API: Simplifying access to local files](https://web.dev/native-file-system/)
 
 #### Contact Picker API — доступ к контактам
@@ -292,7 +295,7 @@ Edge на движке EdgeHTML можно найти в том или ином 
 🇺🇸 [Contact Picker API, или как поделиться своими контактами с браузером](https://habr.com/ru/post/486892/)
 🇺🇸 [Contact Picker API Demo](https://contact-picker.glitch.me/)
 🇺🇸 [Contact Picker API — черновик предложения](https://wicg.github.io/contact-api/spec/)
-🇺🇸 [Contact Picker API explainer](https://github.com/WICG/contact-api/)
+🇺🇸 [Contact Picker API — explainer](https://github.com/WICG/contact-api/)
 🇺🇸 [A contact picker for the web](https://web.dev/contact-picker/)
 🇺🇸 [Автозаполнение из контактов в Safari](https://github.com/mozilla/standards-positions/issues/153#issuecomment-487817706)
 
@@ -342,6 +345,10 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 🇺🇸 [Foreground Detection](https://whatwebcando.today/foreground-detection.html)
 
+#### Geolocation API
+
+🇺🇸 [Geolocation](https://whatwebcando.today/geolocation.html)
+
 #### Permissions API
 
 🇺🇸 [Permissions](https://whatwebcando.today/permissions.html)
@@ -377,7 +384,7 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 ### API для авторизации
 
-### Credential Management API
+#### Credential Management API
 
 🇷🇺 [Автоматический вход на сайт с использованием Credential Management API](https://noteskeeper.ru/1373/)
 🇺🇸 [Credentials](https://whatwebcando.today/credentials.html)
@@ -386,11 +393,23 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 🇺🇸 [Guide to Web Authentication](https://webauthn.guide/)
 
-### Прочие API, связанные с авторизацией
+#### Прочие API, связанные с авторизацией
 
 🇷🇺 [Внедряем Sign in with Apple — систему авторизации от Apple](https://habr.com/ru/company/cian/blog/475062/)
 
-### Экран и другой вывод информации
+### Ввод/вывод информации
+
+#### Touch-экраны
+
+🇺🇸 [Touch Gestures](https://whatwebcando.today/touch.html)
+
+#### Web Speech API — распознавание и синтезация речи
+
+🇺🇸 [Speech Recognition](https://whatwebcando.today/speech-recognition.html)
+
+#### Clipboard API — работа с буфером обмена
+
+🇺🇸 [Clipboard (Copy & Paste)](https://whatwebcando.today/clipboard.html)
 
 #### WebXR Device API
 
