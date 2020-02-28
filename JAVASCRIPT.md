@@ -1,53 +1,64 @@
 # JavaScript
 
 <!--
-🇺🇸 []()
-🇷🇺 []()
-🏳 []()
-🇷🇺/🇺🇸 [перевод]()/[оригинал]()
+* 🇺🇸 []()
+* 🇷🇺 []()
+* 🏳 []()
+* 🇷🇺/🇺🇸 [перевод]()/[оригинал]()
 -->
 
-🇷🇺 [Современный учебник JavaScript](https://learn.javascript.ru/)
-🇺🇸 [Lists and examples for new Javascript features](https://github.com/daumann/ECMAScript-new-features-list)
-🇺🇸 [Разбор новинок ES2016 и ES2017](https://exploringjs.com/es2016-es2017/)
-🇺🇸 [Разбор новинок ES2018 и ES2019](https://exploringjs.com/es2018-es2019/toc.html)
-🇺🇸 [Примерный разбор новинок ES2020 и некоторых stage 3](https://itnext.io/javascript-new-features-part-1-f1a4360466)
-🇺🇸 [5 interesting and not-necessarily-useful Javascript tricks](https://areknawo.com/5-interesting-and-not-necessarily-useful-javascript-tricks/)
-🇺🇸 [Understanding JavaScript Decorators](https://www.simplethread.com/understanding-js-decorators/)
-🇺🇸 [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
-🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
-🇷🇺/🇺🇸 Вы не знаете JS (You Don't Know JS) [перевод (в процессе)](https://github.com/azat-io/you-dont-know-js-ru)/[оригинал](https://github.com/getify/You-Dont-Know-JS)
-🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
-🇷🇺 [Функциональное программирование — это не то, что нам рассказывают](https://habr.com/ru/post/479238/)
-🇷🇺 👍 [Визуализация принципа действия throttle / debounce](https://codepen.io/dartess/full/pGJYmj)
-🇺🇸 [The State of JavaScript 2019](https://2019.stateofjs.com/)
-🇷🇺 [Случайные числа не случайны](https://medium.com/@frontman/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-%D0%BD%D0%B5-%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B-252e08e60828)
-🇷🇺 [Разбираемся в алгоритмах и структурах данных. Доступно и понятно](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
-🇷🇺 Как работать с денежными значениями в JavaScript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
-🇷🇺/🇺🇸 О функциональном программировании в фронтенде [перевод](https://habr.com/ru/post/324308/)/[оригинал](https://blog.daftcode.pl/get-functional-3eaceb76258f)
+* 🇷🇺 [Современный учебник JavaScript](https://learn.javascript.ru/)
+* 🇺🇸 [Lists and examples for new Javascript features](https://github.com/daumann/ECMAScript-new-features-list)
+* 🇺🇸 [Разбор новинок ES2016 и ES2017](https://exploringjs.com/es2016-es2017/)
+* 🇺🇸 [Разбор новинок ES2018 и ES2019](https://exploringjs.com/es2018-es2019/toc.html)
+* 🇺🇸 [Примерный разбор новинок ES2020 и некоторых stage 3](https://itnext.io/javascript-new-features-part-1-f1a4360466)
+* 🇺🇸 [5 interesting and not-necessarily-useful Javascript tricks](https://areknawo.com/5-interesting-and-not-necessarily-useful-javascript-tricks/)
+* 🇺🇸 [Understanding JavaScript Decorators](https://www.simplethread.com/understanding-js-decorators/)
+* 🇺🇸 [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
+* 🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
+* 🇷🇺/🇺🇸 Вы не знаете JS (You Don't Know JS) [перевод (в процессе)](https://github.com/azat-io/you-dont-know-js-ru)/[оригинал](https://github.com/getify/You-Dont-Know-JS)
+* 🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
+* 🇷🇺 [Функциональное программирование — это не то, что нам рассказывают](https://habr.com/ru/post/479238/)
+* 🇷🇺 👍 [Визуализация принципа действия throttle / debounce](https://codepen.io/dartess/full/pGJYmj)
+* 🇺🇸 [The State of JavaScript 2019](https://2019.stateofjs.com/)
+* 🇷🇺 [Случайные числа не случайны](https://medium.com/@frontman/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-%D0%BD%D0%B5-%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B-252e08e60828)
+* 🇷🇺 [Разбираемся в алгоритмах и структурах данных. Доступно и понятно](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
+* 🇷🇺 Как работать с денежными значениями в JavaScript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
+* 🇷🇺/🇺🇸 О функциональном программировании в фронтенде [перевод](https://habr.com/ru/post/324308/)/[оригинал](https://blog.daftcode.pl/get-functional-3eaceb76258f)
 
 ## Типы и структуры данных
 
-🇺🇸 [The Essential Guide To JavaScript’s Newest Data Type: BigInt](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/)
-🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
+* 🇺🇸 [Data structures in JavaScript](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/)
+* 🇺🇸 [Attributes of object properties in JavaScript](https://2ality.com/2019/11/object-property-attributes.html)
+* 🇺🇸 [The Essential Guide To JavaScript’s Newest Data Type: BigInt](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/)
+* 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта (When to Use Map instead of Plain JavaScript Object)](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
+* 🇺🇸 [A Practical Guide to Symbols in JavaScript](http://thecodebarbarian.com/a-practical-guide-to-symbols-in-javascript.html)
+
+## Шаблоны проектирования
+
+* 🇷🇺/🇺🇸 Шаблон Facade в JavaScript [перевод](https://webdevblog.ru/shablon-facade-v-javascript/)/[оригинал](https://dev.to/tomekbuszewski/facade-pattern-in-javascript-3on4)
 
 ## Итераторы и генераторы
 
-🇷🇺 [Как перестать бояться и полюбить Итераторы](https://webdevblog.ru/kak-perestat-boyatsya-i-poljubit-iteratory/)
+* 🇷🇺 [Как перестать бояться и полюбить Итераторы](https://webdevblog.ru/kak-perestat-boyatsya-i-poljubit-iteratory/)
 
 ## RegExp
 
-🇺🇸 [Опережающие и ретроспективные проверки в регулярных выражениях](https://habr.com/ru/post/159483/)
+* 🇺🇸 [Опережающие и ретроспективные проверки в регулярных выражениях](https://habr.com/ru/post/159483/)
+* 🇺🇸 [JavaScript regular expressions: /g, /y, and .lastIndex](https://2ality.com/2020/01/regexp-lastindex.html)
 
 ## Intl
 
-🇺🇸 [Simple pluralization via Intl.PluralRules](https://2ality.com/2019/12/intl-pluralrules.html)
-🇺🇸 [Polyfill](https://github.com/andyearnshaw/Intl.js)
+* 🇺🇸 [Polyfill](https://github.com/andyearnshaw/Intl.js)
+* 🇺🇸 [Simple pluralization via Intl.PluralRules](https://2ality.com/2019/12/intl-pluralrules.html)
+
+### Intl.NumberFormat Unified API
+
+* 🇺🇸 [Intl.NumberFormat Unified API Proposal](https://github.com/tc39/proposal-unified-intl-numberformat)
 
 ## WebAssembly
 
-🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
-🇺🇸 [WebAssembly Studio](https://webassembly.studio/)
-🇷🇺/🇺🇸 Первое знакомство с AssemblyScript [перевод](https://habr.com/ru/company/ruvds/blog/477272/)/[оригинал](https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/)
-🇷🇺/🇺🇸 Как мы при помощи WebAssembly в 20 раз веб-приложение ускорили [перевод](https://habr.com/ru/company/skillbox/blog/452190/)/[оригинал](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
-
+* 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
+* 🇺🇸 [WebAssembly Studio](https://webassembly.studio/)
+* 🇷🇺/🇺🇸 Первое знакомство с AssemblyScript [перевод](https://habr.com/ru/company/ruvds/blog/477272/)/[оригинал](https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/)
+* 🇷🇺/🇺🇸 Как мы при помощи WebAssembly в 20 раз веб-приложение ускорили [перевод](https://habr.com/ru/company/skillbox/blog/452190/)/[оригинал](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
