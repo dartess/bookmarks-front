@@ -110,6 +110,11 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 * 🇺🇸 [glide](https://github.com/glidejs/glide)
 * 🇺🇸 [Flickity](https://flickity.metafizzy.co/)
+* 🇺🇸 [Siema](https://pawelgrzybek.github.io/siema/)
+
+### Выпадающие списки
+
+* 🇺🇸 [Choices](https://joshuajohnson.co.uk/Choices/)
 
 ### Даты и время
 

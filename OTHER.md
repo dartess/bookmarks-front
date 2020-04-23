@@ -91,6 +91,7 @@
 ## Оптимизация
 
 * 🇷🇺 [Ускоряем загрузку ресурсов для сайта: preconnect, prefetch, prerender, preloading…](https://ymatuhin.ru/front-end/html5-link-prefetch/)
+* 🇺🇸 [Resource Hints - What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints)
 * 🇷🇺 [Предзагрузка ресурсов в HTML5](https://frontender.info/html5-prefetch/)
 * 🇷🇺 [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/useful/css/better-webfont-loading-with-localstorage-and-woff2)
 * 🇺🇸 [Performance Tips for Background Video](https://calendar.perfplanet.com/2019/performance-tips-for-background-video/)
@@ -107,6 +108,7 @@
 * 🇺🇸 [Why Moving Elements With Translate() Is Better Than Pos:abs Top/left](https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
 * 🇺🇸 [The Low Hanging Fruit of Web Performance](https://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
 * 🇷🇺/🇺🇸 Оптимизация шрифтов [перевод](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)/[оригинал](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
+* 🇺🇸 [subfont](https://www.npmjs.com/package/subfont)
 
 ## Онлайн-инструменты
 
@@ -148,6 +150,7 @@
 * 🇷🇺/🇺🇸 Вопросы кандидату на должность front-end разработчика [перевод](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/)/[оригинал](https://h5bp.org/Front-end-Developer-Interview-Questions/)
 * 🇷🇺 [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/dictionary.md)
 * 🇷🇺 [Чем заняться айтишнику в армии или как я на VBA игры писал](https://habr.com/ru/post/237641/)
+* 🇺🇸 [Chrome's NOSCRIPT Intervention](https://timkadlec.com/remembers/2018-09-06-chromes-noscript-intervention/)
 
 ## Иммутабельность
 

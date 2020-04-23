@@ -34,6 +34,7 @@
 #### Слайдеры (карусели)
 
 * 🇺🇸 [nuka-carousel — Pure ReactJS Carousel Component](https://github.com/FormidableLabs/nuka-carousel)
+* 🇺🇸 [ReactSiema](https://www.npmjs.com/package/react-siema)
 
 #### Анимация
 
@@ -75,8 +76,8 @@
 
 ### Тулкиты (ui-киты)
 
+* 🇺🇸 👍 [Material-UI](https://material-ui.com/ru/)
 * 🇺🇸 [Blueprint](https://blueprintjs.com/docs/)
-* 🇺🇸 [Material-UI](https://material-ui.com/)
 * 🇺🇸 [dialog components](https://dialogs.github.io/dialog-web-components/)
 
 ### Фреймворки
