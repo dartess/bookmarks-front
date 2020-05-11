@@ -26,7 +26,7 @@
 
 ## [JavaScript: сборка, NPM, Node.js](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT_NODE.md)
 
-* Node.js,
+* Node.js
 * NPM
 * сборка (бандлинг)
 * линтинг кода

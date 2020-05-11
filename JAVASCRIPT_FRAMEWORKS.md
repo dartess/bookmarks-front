@@ -12,6 +12,8 @@
 * 🇺🇸 [React.lazy without default export](https://dev.to/iamandrewluca/react-lazy-without-default-export-4b65)
 * 🇷🇺 [React Things — коллекция материалов для изучения ES2015, React, Redux, Webpack, Babel и всего остального](https://github.com/rtivital/react-things)
 * 🇺🇸 [Build your own React](https://pomb.us/build-your-own-react/)
+* 🇺🇸 [Статьи о React на web.dev](https://web.dev/react/)
+* 🇷🇺/🇺🇸 Что такое виртуальный DOM [перевод](https://www.awesomeandrew.ru/2019/03/28/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-dom/)/[оригинал](https://bitsofco.de/understanding-the-virtual-dom/)
 
 ### Хуки
 
@@ -25,11 +27,15 @@
 
 * 🇺🇸 [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
 * 🇺🇸 [react-yandex-maps — Yandex Maps API bindings for React](https://github.com/gribnoysup/react-yandex-maps)
+
+#### Формы и элементы ввода
+
 * 🇺🇸 👍 [react-dropzone](https://react-dropzone.netlify.com/)
 * 🇺🇸 👍 [React Final Form](https://final-form.org/react)
 * 🇺🇸 👍 [React Final Form Arrays — работа с массивами в React Final Form](https://www.npmjs.com/package/react-final-form-arrays)
 * 🇺🇸 👍 [React Select](https://react-select.com/home)
 * 🇺🇸 👍 [React Text Mask](https://github.com/text-mask/text-mask/tree/master/react/#readme)
+* 🇺🇸 [Formik — build forms in React, without the tears](https://jaredpalmer.com/formik)
 
 #### Слайдеры (карусели)
 
@@ -69,25 +75,47 @@
 * 🇺🇸 👍 [redux-persist](https://github.com/rt2zz/redux-persist)
 * 🇷🇺 👍 [Redux Toolkit как средство эффективной Redux-разработки](https://habr.com/ru/company/inobitec/blog/481288/)
 
+### Create React App (CRA)
+
+* 🇺🇸 [Статьи о Create React App на web.dev](https://web.dev/react/#create-react-app)
+* 🇺🇸 [Get started: optimize your React app](https://web.dev/get-started-optimize-react/)
+* 🇺🇸 [Code splitting with React.lazy and Suspense](https://web.dev/code-splitting-suspense/)
+* 🇺🇸 [Virtualize large lists with react-window](https://web.dev/virtualize-long-lists-react-window/)
+* 🇺🇸 [Precaching in Create React App with Workbox](https://web.dev/precache-with-workbox-react/)
+* 🇺🇸 [Pre-render routes with react-snap](https://web.dev/prerender-with-react-snap/)
+* 🇺🇸 [Add a web app manifest with Create React App](https://web.dev/add-manifest-react/)
+* 🇺🇸 [Accessibility auditing with react-axe and eslint-plugin-jsx-a11y](https://web.dev/accessibility-auditing-react/)
+
 ### Альтернативные менеджеры состояния
 
 * 🇺🇸 [Effector](https://effector.now.sh/)
 * 🇺🇸 [ReactN — расширение реакта с менеджером состояния](https://github.com/CharlesStover/reactn)
 
-### Тулкиты (ui-киты)
+### Тулкиты (UI-киты)
 
 * 🇺🇸 👍 [Material-UI](https://material-ui.com/ru/)
 * 🇺🇸 [Blueprint](https://blueprintjs.com/docs/)
 * 🇺🇸 [dialog components](https://dialogs.github.io/dialog-web-components/)
 
-### Фреймворки
+### Фреймворки на основе React
+
+#### Next.js
 
 * 🇺🇸 [Next.js](https://nextjs.org/)
+* 🇺🇸 [Статьи о Next.js на web.dev](https://web.dev/react/#next.js)
+* 🇺🇸 [Performance as a default with Next.js](https://web.dev/performance-as-a-default-with-nextjs/)
+* 🇺🇸 [Route prefetching in Next.js](https://web.dev/route-prefetching-in-nextjs/)
+* 🇺🇸 [Code splitting with dynamic imports in Next.js](https://web.dev/code-splitting-with-dynamic-imports-in-nextjs/)
+* 🇺🇸 [How AMP can guarantee fastness in your Next.js app](https://web.dev/how-amp-can-guarantee-fastness-in-your-nextjs-app/)
 
 ### Server-Side Rendering
 
 * 🇺🇸 [Why you should render React on the server side](https://blog.logrocket.com/why-you-should-render-react-on-the-server-side-a50507163b79/)
 * 🇺🇸 [Улучшение производительности передачи состояния Redux с помощью JSON.parse()](https://joreteg.com/blog/improving-redux-state-transfer-performance)
+
+### Генераторы статических сайтов
+
+* 🇷🇺 [Gatsby.js в деталях](https://habr.com/ru/post/442298/)
 
 ## Vue.JS
 
@@ -100,6 +128,3 @@
 
 * 🇺🇸 [MDsveX — MDX для Svelte](https://github.com/pngwn/MDsveX)
 
-## Генераторы статических сайтов
-
-* 🇷🇺 [Gatsby.js в деталях](https://habr.com/ru/post/442298/)

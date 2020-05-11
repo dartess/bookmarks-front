@@ -17,6 +17,7 @@
 * 🇺🇸 [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
 * 🇷🇺 [Особенности атрибута inputmode для мобильных ОС и браузеров](https://habr.com/ru/post/454606/)
 * 🇺🇸 [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
+* 🇺🇸 [HTML5 Input Types: Where Are They Now?](https://www.smashingmagazine.com/2019/01/html5-input-types/)
 
 ## CSS
 
@@ -28,6 +29,7 @@
 * 🇺🇸 [Collection of CSS snippets](https://justmarkup.com/articles/2018-03-27-collection-of-css-snippets/)
 * 🇷🇺 [Чего мне никогда не говорили о CSS](https://medium.com/webbdev/css-48a2eded605b)
 * 🇺🇸 [Pointing Device Adaptation](https://whatwebcando.today/pointer-adaptation.html)
+* 🇷🇺/🇺🇸 Странности CSS, о которых полезно знать [перевод](https://habr.com/ru/company/ruvds/blog/350658/)/[оригинал](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
 
 ### Текст
 
@@ -36,11 +38,12 @@
 * 🇺🇸 [Multi-Line Inline Gradient](https://css-tricks.com/multi-line-inline-gradient/)
 * 🇺🇸 [CSS Writing Modes](https://24ways.org/2016/css-writing-modes/)
 
-### Позиционирование
+### Позиционирование и блочная модель
 
 * 🇷🇺 [Расстановка полей и отступов в CSS](https://habr.com/ru/company/netcracker/blog/281008/)
-* 🇷🇺 [Как на самом деле работает position: sticky в CSS](https://medium.com/web-standards/sticky-bc7ff7088693)
+* 🇷🇺 Как на самом деле работает position: sticky в CSS [превод](https://medium.com/web-standards/sticky-bc7ff7088693)/[оригинал](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
 * 🇺🇸 [The two-value syntax of the CSS Display property](https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/)
+* 🇷🇺 [Новый display:flow-root — не clearfix, но что это и зачем?](https://css-live.ru/faq/displayflow-root-not-clearfix.html?utm_source=forwebdev&utm_medium=announcement&utm_campaign=novyy-displayflow-root--ne-clearfix--n)
 
 ### Flexbox
 
@@ -90,6 +93,7 @@
 
 * 🇺🇸 [Jeet — сетка](http://jeet.gs/)
 * 🇺🇸 [MUI — Material Design-like фреймворк](https://www.muicss.com/)
+* 🇺🇸 [awsm.css — библиотека для стилизации стандартных тегов без классов](https://igoradamenko.github.io/awsm.css/)
 
 ### CSS-хаки (тёмная сторона!)
 
@@ -128,8 +132,10 @@
 * 🇷🇺/🇺🇸 Введение в вариативные шрифты [перевод](https://medium.com/web-standards/3f2b6123e1cd)/[оригинал](https://24ways.org/2019/an-introduction-to-variable-fonts/)
 * 🇷🇺 [Вариативные шрифты](http://css.yoksel.ru/opentype-variable-fonts/)
 * 🇷🇺/🇺🇸 Вариативные веб шрифты [перевод](https://habr.com/ru/post/413297/)/[оригинал](https://zeichenschatz.net/demos/vf/variable-web-typo/)
+* 🇷🇺/🇺🇸 👍 Как использовать вариативные шрифты в реальном мире [перевод](https://css-live.ru/articles/kak-ispolzovat-variativnye-shrifty-v-realnom-mire.html)/[оригинал](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
 * 🇺🇸 [Variable Fonts — каталог вариативных шрифтов](https://v-fonts.com/)
 * 🇺🇸 [How New Font Technologies Will Improve The Web](https://www.smashingmagazine.com/2017/09/new-font-technologies-improve-web/)
+* 🇺🇸 [Вариативные шрифты, доступные в Google Fonts](https://codepen.io/nlwilliams/full/JjPJewp)
  
 ## Вёрстка писем
 
@@ -137,6 +143,7 @@
 * 🇷🇺 [Шрифт ваших писем портит вам жизнь](https://habr.com/ru/company/pechkin/blog/272403/) 🕐 не используйте Helvetica и Arial в письмах
 * 🇺🇸 [Bulletproof email buttons — генератор кнопок-ссылок с поддержкой Outlook](https://buttons.cm/)
 * 🇺🇸 [Can I email...](https://www.caniemail.com/)
+* 🇺🇸 [HEML — markup language for building responsive email](https://heml.io/)
 
 ## Вёрстка под нестандартные устройства, экраны и пр.
 
@@ -169,7 +176,7 @@
 
 * 🇷🇺/🇺🇸 Инклюзивные компоненты: тултипы и тоглтипы [перевод](https://medium.com/web-standards/tooltips-toggletips-c20691665ac7)/[оригинал](https://inclusive-components.design/tooltips-toggletips/)
 * 🇺🇸 [Tooltips in the time of WCAG 2.1](https://sarahmhigley.com/writing/tooltips-in-wcag-21/)
-🇷🇺 Инклюзивные компоненты: интерфейсы со вкладками [перевод](https://medium.com/web-standards/tabbed-interfaces-a125212e6c35)/[оригинал](https://inclusive-components.design/tabbed-interfaces/)
+* 🇷🇺 Инклюзивные компоненты: интерфейсы со вкладками [перевод](https://medium.com/web-standards/tabbed-interfaces-a125212e6c35)/[оригинал](https://inclusive-components.design/tabbed-interfaces/)
 * 🇷🇺 [Drag-&-Drop компоненты для слепых пользователей? Вы шутите?](https://habr.com/ru/company/oleg-bunin/blog/468541/)
 * 🇷🇺/🇺🇸 Инклюзивные компоненты: сворачиваемые секции [перевод](https://medium.com/web-standards/collapsibl-sections-c0de689e0ebe)/[оригинал](https://inclusive-components.design/collapsible-sections/)
 
@@ -179,6 +186,10 @@
 * 🇷🇺 [Полное руководство по отзывчивым изображениям!](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)
 * 🇺🇸 [image orientation on the web](https://justmarkup.com/articles/2019-10-21-image-orientation/)
 * 🇺🇸 [Native lazy-loading for the web](https://web.dev/native-lazy-loading/)
+
+## Аудио и видео
+
+* 🇷🇺/🇺🇸 Новый кодек AV1: ускоряем загрузку видео в браузере [перевод](https://habr.com/ru/post/442020/)/[оригинал](https://evilmartians.com/chronicles/better-web-video-with-av1-codec)
 
 ## SVG
 

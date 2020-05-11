@@ -14,6 +14,7 @@
 * 🇷🇺 [Гид по Метрике: как проверить работу цели](https://yandex.ru/blog/metrika-club/gid-po-metrike-kak-proverit-rabotu-tseli)
 * 🇺🇸 [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 * 🇺🇸 📺 [JavaScript SEO](https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
+* 🇺🇸 [Fix a single-page app for Google Search](https://codelabs.developers.google.com/codelabs/making-a-single-page-app-search-friendly/#0)
 
 ## Дизайн
 
@@ -28,6 +29,9 @@
 * 🇷🇺 [Тысяча и один UI-баг, или Как помочь разработчику избегать типовых ошибок в UI](https://habr.com/ru/company/badoo/blog/479970/)
 * 🇷🇺/🇺🇸 10 советов по дизайну интерфейса [перевод](https://habr.com/ru/post/417959/)/[оригинал](https://www.onepixelout.com/design-academy/10-tips-to-designing-forms/)
 * 🇺🇸 UX And HTML5: Let’s Help Users Fill In Your Mobile Form [Part 1](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/) [Part 2](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
+* 🇺🇸 [Smart Interface Design Patterns Checklists (нужно подписаться на рассылку для доступа)](https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/)
+* 🇺🇸 [Better Search UX Through Microcopy](https://www.smashingmagazine.com/2019/06/better-search-ux-microcopy/)
+* 🇺🇸 [The Art of UI Skeletons](http://farmdev.com/)
 
 ## Тестирование
 
@@ -90,6 +94,8 @@
 
 ## Оптимизация
 
+* 🇷🇺 📺 👍 [Ivan Akulov "I reviewed 200 perf-related webpack plugins so that you don’t have to"](https://youtu.be/Nmjy_wMlTuQ?list=PLPcgQFk9n9y97vTsPnvpzDXBTLe0l1JDI)
+* 🇺🇸 [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
 * 🇷🇺 [Ускоряем загрузку ресурсов для сайта: preconnect, prefetch, prerender, preloading…](https://ymatuhin.ru/front-end/html5-link-prefetch/)
 * 🇺🇸 [Resource Hints - What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints)
 * 🇷🇺 [Предзагрузка ресурсов в HTML5](https://frontender.info/html5-prefetch/)
@@ -109,6 +115,12 @@
 * 🇺🇸 [The Low Hanging Fruit of Web Performance](https://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
 * 🇷🇺/🇺🇸 Оптимизация шрифтов [перевод](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)/[оригинал](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
 * 🇺🇸 [subfont](https://www.npmjs.com/package/subfont)
+* 🇺🇸 [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
+* 🇺🇸 [Web Vitals — Essential metrics for a healthy site](https://web.dev/vitals/)
+
+## Документация
+
+* 🇺🇸 [Mermaid — генератор диаграм, графиков, схем связей и пр. на основе текста](https://mermaid-js.github.io/mermaid/#/)
 
 ## Онлайн-инструменты
 
@@ -151,17 +163,17 @@
 * 🇷🇺 [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/dictionary.md)
 * 🇷🇺 [Чем заняться айтишнику в армии или как я на VBA игры писал](https://habr.com/ru/post/237641/)
 * 🇺🇸 [Chrome's NOSCRIPT Intervention](https://timkadlec.com/remembers/2018-09-06-chromes-noscript-intervention/)
-
-## Иммутабельность
-
-* 🇺🇸 [Immutable.js](https://facebook.github.io/immutable-js/)
-* 🇺🇸 [Использование switch](https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d)
+* 🇷🇺 [Договор на разработку сайта: так, а не иначе](https://habr.com/ru/company/sibirix/blog/188690/)
+* 🇺🇸 [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens)
+* 🇺🇸 [ShareDrop — HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC](https://github.com/cowbell/sharedrop)
+* 🇷🇺 📺 👍 [Docker для фронтендера / Алексей Авдеев (Neuron.Digital)](https://www.youtube.com/watch?v=SMM3bsYyFls)
 
 ## Архитектура и разработка
 
 * 🇺🇸 [Пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
 * 🇷🇺 👍 [UIKit: типичная «ошибка» — разбор недостатков булевых пропсов](https://medium.com/@ibnRubaXa/uikit-%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-33702309cec4?)
+* 🇷🇺 👍 [Качество кода](https://habr.com/ru/company/oleg-bunin/blog/433326/)
 * 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
 * 🇷🇺 [Do good code: 8 правил хорошего кода](https://habr.com/ru/company/geekbrains/blog/270001/)
 

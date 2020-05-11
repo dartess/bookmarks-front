@@ -17,6 +17,9 @@
 ## CSS Modules
 
 * 🇷🇺/🇺🇸 Конец эры глобального CSS [перевод](https://habr.com/ru/post/276417/)/[оригинал](https://medium.com/seek-blog/the-end-of-global-css-90d2a4a06284#.rx1co7cd0)
+* 🇺🇸 [CSS modules, part 1: What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
+* 🇺🇸 [CSS modules, part 2: Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/)
+* 🇺🇸 [CSS modules, part 3: CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/)
 
 ## PostCSS
 
@@ -87,4 +90,5 @@
 ## Node.JS
 
 * 🇺🇸 [Node.js Features Support — kangax's compat-table applied only to Node.js](https://node.green/)
+* 🇷🇺 [Выкладываем Node.js приложение в сеть](https://telegra.ph/Vykladyvaem-Nodejs-prilozhenie-v-set-09-21)
 * 🇷🇺/🇺🇸 Руководство по логированию в Node.js [перевод](https://habr.com/ru/company/funcorp/blog/461881/)/[оригинал](https://www.twilio.com/blog/guide-node-js-logging)

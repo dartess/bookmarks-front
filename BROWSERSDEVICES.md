@@ -22,6 +22,7 @@
 * 🇺🇸 [Modern Script Loading](https://jasonformat.com/modern-script-loading/)
 * 🇷🇺 [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
 * 🇷🇺/🇺🇸 DevTips: Советы веб-разработчику [частичный перевод 1](https://habr.com/ru/company/mailru/blog/268519/), [частичный перевод 2](https://habr.com/ru/company/mailru/blog/268777/), [частичный перевод 3](https://habr.com/ru/company/mailru/blog/275425/), [частичный перевод 4](https://habr.com/ru/company/mailru/blog/278021/)/[оригинал](https://umaar.com/dev-tips/)
+* 🇺🇸 [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
 
 ### Полезные расширения для Chrome и других браузеров
 
@@ -55,23 +56,23 @@
 
 ### Где найти старые версии браузеров:
 
-[Firefox](https://ftp.mozilla.org/pub/firefox/releases/)
-Opera [Chromium, desktop](http://get.opera.com/ftp/pub/opera/desktop/), [все платформы](http://get.opera.com/ftp/pub/opera/)
-Отключить автообновление Opera на macOS:
-  31-: "Показать содержимое пакета" -> удалить Contents/MacOS/opera_autoupdate
-  [32+](https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3)
-UCBrowser, [Android](https://plus.ucweb.com/download/)
-Chrome, [инструкция как откопать старый билд](https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site)
-Edge на движке EdgeHTML можно найти в том или ином билде Windows 10
-  version 1507 build 10240: 12
-  version 1511 build 10586: 13
-  version 1607 build 14393: 14
-  version 1703 build 15063: 15
-  version 1709 build 16299: 16
-  version 1803 build 17134: 17
-  version 1809 build 17763: 18
-  version 1903 build 18362: 18
-  version 1909 build 18363: 18
+* [Firefox](https://ftp.mozilla.org/pub/firefox/releases/)
+* Opera [Chromium desktop](http://get.opera.com/ftp/pub/opera/desktop/), [все платформы](http://get.opera.com/ftp/pub/opera/)
+  * Отключить автообновление Opera на macOS 31-: "Показать содержимое пакета" -> удалить Contents/MacOS/opera_autoupdate
+  * Отключить автообновление Opera на macOS [32+](https://forums.opera.com/topic/11657/how-to-disable-auto-update-in-the-macos-version-for-those-who-need-that/3)
+* UCBrowser, [Android](https://plus.ucweb.com/download/)
+* Chrome, [инструкция как откопать старый билд](https://stackoverflow.com/questions/54927496/how-to-download-older-versions-of-chrome-from-a-google-official-site)
+* Edge на движке EdgeHTML можно найти в том или ином билде Windows 10
+  * 12: v.1507, build 10240
+  * 13: v.1511, build 10586
+  * 14: v.1607, build 14393
+  * 15: v.1703, build 15063
+  * 16: v.1709, build 16299
+  * 17: v.1803, build 17134
+  * 18: v.1809, build 17763
+  * 18: v.1903, build 18362
+  * 18: v.1909, build 18363
+  * Chromium-based: v.2004
 
 ### Explainers — объяснение мотивации для разработки новых API и других вещей
 
@@ -105,6 +106,7 @@ Edge на движке EdgeHTML можно найти в том или ином 
 * 🇺🇸 👍 [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
 * 🇺🇸 👍 [uuid — генератор UUID (universally unique identifier «универсальный уникальный идентификатор»)](https://www.npmjs.com/package/uuid)
 * 🇺🇸 [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
+* 🇺🇸 [Piecon — Pie charts in your favicon!](http://lipka.github.io/piecon/)
 
 ### Карусели
 
@@ -135,6 +137,7 @@ Edge на движке EdgeHTML можно найти в том или ином 
 * 🇺🇸 [Google Charts](https://developers.google.com/chart)
 * 🇺🇸 [Chart.js](https://www.chartjs.org/)
 * 🇺🇸 [Plotly.js](https://plot.ly/javascript/)
+* 🇺🇸 [Chartist - Simple responsive charts](http://gionkunz.github.io/chartist-js/)
 
 #### D3.js
 
@@ -157,6 +160,10 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 * 🇷🇺 [Google Maps — кастомизируй меня полностью](https://habr.com/ru/post/324880/)
 
+### Иммутабельность
+
+* 🇺🇸 [Immutable.js](https://facebook.github.io/immutable-js/)
+
 ## PWA
 
 * 🇺🇸 📺 [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
@@ -176,6 +183,7 @@ Edge на движке EdgeHTML можно найти в том или ином 
 * 🇺🇸 [Add to Home Screen](https://developers.google.com/web/fundamentals/app-install-banners/)
 * 🇺🇸 [PWA series: the manifest file cheatsheet](https://medium.com/samsung-internet-dev/pwa-series-the-manifest-file-cheatsheet-459b4a5e2098)
 * 🇷🇺 [Выйти за грань браузера (theme-color)](https://habr.com/ru/post/245007/)
+* 🇺🇸 [Progressive Web Apps. The future of the Mobile Web.](https://www.awwwards.com/PWA-ebook/)
 
 ### Service Worker
 
@@ -186,6 +194,8 @@ Edge на движке EdgeHTML можно найти в том или ином 
 * 🇺🇸 [Service workers at TPAC](https://jakearchibald.com/2019/service-workers-tpac/)
 * 🇷🇺 [Продуманные запросы: стратегии кэширования в век PWA](https://habr.com/ru/company/ruvds/blog/478326/)
 * 🇺🇸 [ServiceWorker Cookbook](https://serviceworke.rs/)
+* 🇷🇺 [Подводные камни Service Workers](https://habr.com/ru/post/351194/)
+* 🇺🇸 [Two HTTP headers related to Service Workers you never may have heard of](https://medium.com/dev-channel/two-http-headers-related-to-service-workers-you-never-may-have-heard-of-c8862f76cc60)
 
 ### Особенности платформ
 
@@ -206,6 +216,7 @@ Edge на движке EdgeHTML можно найти в том или ином 
 #### TWA
 
 * 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
+* 🇺🇸 [Bubblewrap — CLI that helps developers to create a Project for an Android application that launches an existing (PWAs) using a TWA](https://github.com/GoogleChromeLabs/bubblewrap)
 
 ### favicon и другие изображения для иконок
 
@@ -220,11 +231,16 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 ### API для работы с DOM
 
-#### IntersectionObserver — попадание элемента в область видимости
+#### IntersectionObserver — слежение за попаданием элемента в область видимости
 
 * 🇺🇸 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 * 🇺🇸 [Intersection Observers — Explainer Doc, Draft Spec, Polyfill](https://github.com/w3c/IntersectionObserver)
 * 🇺🇸 👍 [IntersectionObserver polyfill](https://www.npmjs.com/package/intersection-observer)
+
+#### ResizeObserver — слежение за изменением размеров элемента
+
+* 🇷🇺/🇺🇸 ResizeObserver — новый мощный инструмент для работы с адаптивностью [перевод](https://habr.com/ru/post/487146/)/[оригинал](https://medium.com/@barvysta/resizeobserver-a-new-powerful-tool-for-responsive-web-f9a53ed71952)
+* 🇺🇸 [Resize Observer Polyfill](https://juggle.studio/resize-observer/)
 
 ### API для работы с камерой и микрофоном
 
@@ -330,8 +346,9 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 * 🇺🇸 [Web Push Book — книга про Push API и всё, что с ними связано](https://web-push-book.gauntface.com/)
 
-#### Shape Detection API — распознавание лиц, штрихкодов, текста
+#### Shape Detection API — распознавание штрихкодов, текста, лиц с изображений
 
+* 🇺🇸 [The Shape Detection API: a picture is worth a thousand words, faces, and barcodes](https://web.dev/shape-detection/)
 * 🇺🇸 [Demo и документация](https://www.chromestatus.com/feature/4757990523535360)
 * 🇺🇸 [Barcode detection using Shape Detection API](https://paul.kinlan.me/barcode-detection/)
 
@@ -542,6 +559,7 @@ Edge на движке EdgeHTML можно найти в том или ином 
 
 ## Web Workers
 
+* 🇷🇺 [JavaScript Web Workers: руководство для начинающих](https://webdevblog.ru/javascript-web-workers-rukovodstvo-dlya-nachinajushhih/)
 * 🇺🇸 [Use web workers to run JavaScript off the browser's main thread](https://web.dev/off-main-thread/)
 
 ## Canvas
