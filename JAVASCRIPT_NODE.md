@@ -9,10 +9,7 @@
 
 * 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
 * 🇺🇸 [Hash vs chunkhash vs ContentHash](https://medium.com/@sahilkkrazy/hash-vs-chunkhash-vs-contenthash-e94d38a32208)
-* 🇺🇸 [link rel="prefetch/preload" in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
-* 🇺🇸 [Why is my webpack build slow?](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html)
 * 🇺🇸 [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
-* 🇺🇸 [Modern Script Loading](https://jasonformat.com/modern-script-loading/)
 
 ## CSS Modules
 
@@ -39,14 +36,21 @@
 * 🇺🇸 [Hybrid npm packages (ESM and CommonJS)](https://2ality.com/2019/10/hybrid-npm-packages.html)
 * 🇺🇸 [Microbundle — микробандлер для сборки пакетов](https://github.com/developit/microbundle)
 
+## Webpack
+
+* 🇺🇸 👍 [Webpack Manifest Plugin — плагин для генерации файла с информацией о собранных файлах](https://www.npmjs.com/package/webpack-manifest-plugin)
+* 🇺🇸 👍 [webpack-merge — объединение нескольких конфигов вебпака](https://www.npmjs.com/package/webpack-merge)
+* 🇺🇸 [link rel="prefetch/preload" in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
+* 🇺🇸 [Why is my webpack build slow?](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html)
+* 🇺🇸 👍 [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)
+
 ## Библиотеки
 
 * 🇺🇸 👍 [cross-env — кроссплатформенная установка переменных окружения](https://www.npmjs.com/package/cross-env)
 * 🇺🇸 👍 [dotenv — заполнение переменных окружения из .env-файла](https://www.npmjs.com/package/dotenv)
 * 🇺🇸 👍 [minimist — получение аргументов запуска](https://www.npmjs.com/package/minimist)
 * 🇺🇸 👍 [rimraf — rm -rf for Node](https://www.npmjs.com/package/rimraf)
-* 🇺🇸 👍 [Webpack Manifest Plugin — плагин для генерации файла с информацией о собранных файлах](https://www.npmjs.com/package/webpack-manifest-plugin)
-* 🇺🇸 👍 [webpack-merge — объединение нескольких конфигов вебпака](https://www.npmjs.com/package/webpack-merge)
+* 🇺🇸 [gauge — A nearly stateless terminal based horizontal gauge / progress bar](https://www.npmjs.com/package/gauge)
 
 ## Линтинг кода
 

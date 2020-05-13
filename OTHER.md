@@ -35,6 +35,7 @@
 
 ## Тестирование
 
+* 🇺🇸 [An Overview of JavaScript Testing in 2020](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870)
 * 🇷🇺 [Основы тестирования в документации React](https://ru.reactjs.org/docs/testing.html)
 * 🇺🇸 [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 * 🇷🇺 [TDD на практическом примере](https://bespoyasov.ru/ttt-tdd/)
@@ -95,7 +96,7 @@
 ## Оптимизация
 
 * 🇷🇺 📺 👍 [Ivan Akulov "I reviewed 200 perf-related webpack plugins so that you don’t have to"](https://youtu.be/Nmjy_wMlTuQ?list=PLPcgQFk9n9y97vTsPnvpzDXBTLe0l1JDI)
-* 🇺🇸 [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
+* 🇷🇺/🇺🇸 Preload, prefetch и другие теги [перевод](https://habr.com/ru/post/445264/)/[оригинал](https://3perf.com/blog/link-rels/)
 * 🇷🇺 [Ускоряем загрузку ресурсов для сайта: preconnect, prefetch, prerender, preloading…](https://ymatuhin.ru/front-end/html5-link-prefetch/)
 * 🇺🇸 [Resource Hints - What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints)
 * 🇷🇺 [Предзагрузка ресурсов в HTML5](https://frontender.info/html5-prefetch/)
@@ -117,6 +118,7 @@
 * 🇺🇸 [subfont](https://www.npmjs.com/package/subfont)
 * 🇺🇸 [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
 * 🇺🇸 [Web Vitals — Essential metrics for a healthy site](https://web.dev/vitals/)
+* 🇷🇺/🇺🇸 Время до первого байта: что это такое и почему это важно [перевод](https://habr.com/ru/company/ruvds/blog/470868/)/[оригинал](https://csswizardry.com/2019/08/time-to-first-byte-what-it-is-and-why-it-matters/)
 
 ## Документация
 
@@ -136,7 +138,11 @@
 ## Настройка окружения
 
 * 🇷🇺 [Как сделать красивую консоль в Mac и Linux](https://htmlacademy.ru/blog/useful/programming/how-to-make-a-beautiful-console-for-mac-and-linux)
-* 🇺🇸 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
+
+## Редакторы кода и IDE
+
+* 🇺🇸 👍 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
+* 🇷🇺/🇺🇸 Почему, ну почему, эти #?@! придурки используют vi? [перевод](https://habr.com/ru/post/307084/)/[оригинал](http://www.viemu.com/a-why-vi-vim.html)
 
 ## Создание PDF из браузера
 
@@ -167,6 +173,9 @@
 * 🇺🇸 [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens)
 * 🇺🇸 [ShareDrop — HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC](https://github.com/cowbell/sharedrop)
 * 🇷🇺 📺 👍 [Docker для фронтендера / Алексей Авдеев (Neuron.Digital)](https://www.youtube.com/watch?v=SMM3bsYyFls)
+* 🇷🇺 [Введение в компиляторы, интерпретаторы и JIT’ы](https://habr.com/ru/company/mailru/blog/304748/)
+* 🇺🇸 👍 [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
+* 🏳 [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 ## Архитектура и разработка
 
@@ -176,6 +185,7 @@
 * 🇷🇺 👍 [Качество кода](https://habr.com/ru/company/oleg-bunin/blog/433326/)
 * 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
 * 🇷🇺 [Do good code: 8 правил хорошего кода](https://habr.com/ru/company/geekbrains/blog/270001/)
+* 🇺🇸 [On Code Reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
 
 ## GraphQL
 

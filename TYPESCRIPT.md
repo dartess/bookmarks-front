@@ -30,6 +30,8 @@
 * 🇺🇸 👍 [tsconfig-paths — модуль для резолвинга алиасов в ts-node](https://www.npmjs.com/package/tsconfig-paths)
 * 🇺🇸 [ts-toolbelt](https://pirix-gh.github.io/ts-toolbelt/index.html)
 * 🇺🇸 [TypeScript: Create a condition-based subset types](https://medium.com/dailyjs/typescript-create-a-condition-based-subset-types-9d902cea5b8c)
+* 🇺🇸 [Typing objects in TypeScript](https://2ality.com/2020/01/typing-objects-typescript.html)
+* 🇷🇺/🇺🇸 Часто задаваемые вопросы о системах типов [перевод](https://habr.com/ru/company/ruvds/blog/462481/)/[оригинал](https://dev.to/stereobooster/type-system-faq-3oi0)
 
 ## TypeScript и React
 

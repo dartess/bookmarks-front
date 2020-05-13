@@ -33,6 +33,7 @@
 * 🇺🇸 [The Essential Guide To JavaScript’s Newest Data Type: BigInt](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/)
 * 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта (When to Use Map instead of Plain JavaScript Object)](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 * 🇺🇸 [A Practical Guide to Symbols in JavaScript](http://thecodebarbarian.com/a-practical-guide-to-symbols-in-javascript.html)
+* 🇷🇺/🇺🇸 Структуры данных. Неформальный гайд [перевод](https://habr.com/ru/post/263765/)/[оригинал](http://algosaur.us/data-structures-basics/)
 
 ## Шаблоны проектирования
 

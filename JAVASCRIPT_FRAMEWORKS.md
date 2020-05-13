@@ -64,6 +64,7 @@
 #### Интернационализация
 
 * 🇺🇸 [react-i18next](https://react.i18next.com/)
+* 🇺🇸 [localize-react — Lightweight React Localization Library](https://github.com/yankouskia/localize-react)
 
 ### Redux
 

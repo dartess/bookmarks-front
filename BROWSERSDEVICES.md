@@ -19,7 +19,6 @@
 * 🇷🇺 [Browser Fingerprint — анонимная идентификация браузеров](https://habr.com/ru/company/oleg-bunin/blog/321294/)
 * 🇷🇺/🇺🇸 Современная загрузка скриптов [перевод](https://habr.com/ru/company/raiffeisenbank/blog/473994/)/[оригинал](https://jasonformat.com/modern-script-loading/)
 * 🇷🇺 [Взаимодействие сайта в браузере и локально запущенной программы](https://habr.com/ru/post/438166/)
-* 🇺🇸 [Modern Script Loading](https://jasonformat.com/modern-script-loading/)
 * 🇷🇺 [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
 * 🇷🇺/🇺🇸 DevTips: Советы веб-разработчику [частичный перевод 1](https://habr.com/ru/company/mailru/blog/268519/), [частичный перевод 2](https://habr.com/ru/company/mailru/blog/268777/), [частичный перевод 3](https://habr.com/ru/company/mailru/blog/275425/), [частичный перевод 4](https://habr.com/ru/company/mailru/blog/278021/)/[оригинал](https://umaar.com/dev-tips/)
 * 🇺🇸 [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
@@ -129,6 +128,10 @@
 * 🇺🇸 👍 [Final Form Arrays — работа с массивами в Final Form](https://www.npmjs.com/package/final-form-arrays)
 * 🇺🇸 👍 [Text Mask](https://text-mask.github.io/text-mask/)
 
+### Физические движки
+
+* 🇺🇸 [Matter.js](https://brm.io/matter-js/)
+
 ### Графики и визуализация
 
 * 🇺🇸 [Сборник библиотек для визуализации (карты, графики, данные, цвета](http://selection.datavisualization.ch/)
@@ -143,6 +146,7 @@
 
 * 🇺🇸 [How to learn D3.js](https://wattenberger.com/blog/d3)
 * 🇺🇸 [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
+* 🇷🇺 [Визуализация геоданных в D3.js](https://frontender.info/d3js-map-visualization/)
 
 ### Шаблонизаторы / библиотеки для рендеринга HTML
 
@@ -316,6 +320,7 @@
 * 🇺🇸 [MDN — Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 * 🇺🇸 [MDN — Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Storage_API)
 * 🇺🇸 [Storage Quotas](https://whatwebcando.today/storage-quota.html)
+* 🇺🇸 [Test of localStorage limits/quota](https://arty.name/localstorage.html)
 
 #### File — доступ к выбранным файлам
 
@@ -354,6 +359,7 @@
 
 #### Badging API — вывод меток на иконке приложения
 
+* 🇺🇸 [Badging for app icons](https://web.dev/badging-api/)
 * 🇺🇸 [Badging API Explainer](https://github.com/WICG/badging/blob/master/explainer.md)
 * 🇺🇸 [Badging for App Icons](https://developers.google.com/web/updates/2018/12/badging-api)
 
@@ -453,6 +459,7 @@
 
 #### Clipboard API — работа с буфером обмена
 
+* 🇺🇸 [Clipboard API and events Editor’s Draft](https://w3c.github.io/clipboard-apis/)
 * 🇺🇸 [Clipboard (Copy & Paste)](https://whatwebcando.today/clipboard.html)
 
 #### WebXR Device API
@@ -460,6 +467,9 @@
 * 🇺🇸 [Virtual & Augmented Reality](https://whatwebcando.today/vr.html)
 * 🇺🇸 [WebXR Device API Explained](https://github.com/immersive-web/webxr/blob/master/explainer.md)
 * 🇺🇸 [WebXR Device API Specification](https://immersive-web.github.io/webxr/)
+* 🇺🇸 [Virtual reality comes to the web](https://web.dev/vr-comes-to-the-web/)
+* 🇺🇸 [Virtual reality comes to the web, part II](https://web.dev/vr-comes-to-the-web-pt-ii/)
+* 🇺🇸 [Positioning virtual objects in real-world views](https://web.dev/ar-hit-test/)
 
 #### Fullscreen API
 
@@ -552,6 +562,7 @@
 * 🇺🇸 [prefers-color-scheme: Hello darkness, my old friend](https://web.dev/prefers-color-scheme/)
 * 🇺🇸 [A guide to implementing dark modes on websites](https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website?ref=heydesigner)
 * 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
+* 🇷🇺 [Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты](https://habr.com/ru/company/yandex/blog/446780/)
 
 ## Web Bundles — упаковка сайта в один файл
 
@@ -564,6 +575,7 @@
 
 ## Canvas
 
+* 🇷🇺 [Как мы учились рисовать тексты на Canvas](https://habr.com/ru/company/miro/blog/458624/)
 * 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
 * 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
 

@@ -22,7 +22,6 @@
 ## CSS
 
 * 🇺🇸 [Хитрость для viewport-единиц на мобильном](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
-* 🇺🇸 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 * 🇷🇺 [CSS 3 Timing Functions и с чем их едят](https://habr.com/ru/post/220715/)
 * 🇷🇺 [Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
 * 🇷🇺/🇺🇸 Введение в CSS Shapes [перевод](http://htmlbook.ru/blog/vvedenie-v-css-shapes)/[оригинал](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
@@ -30,6 +29,7 @@
 * 🇷🇺 [Чего мне никогда не говорили о CSS](https://medium.com/webbdev/css-48a2eded605b)
 * 🇺🇸 [Pointing Device Adaptation](https://whatwebcando.today/pointer-adaptation.html)
 * 🇷🇺/🇺🇸 Странности CSS, о которых полезно знать [перевод](https://habr.com/ru/company/ruvds/blog/350658/)/[оригинал](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
+* 🇺🇸 [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 
 ### Текст
 
@@ -37,6 +37,7 @@
 * 🇺🇸 [Multi-Line Padded Text](https://css-tricks.com/multi-line-padded-text/)
 * 🇺🇸 [Multi-Line Inline Gradient](https://css-tricks.com/multi-line-inline-gradient/)
 * 🇺🇸 [CSS Writing Modes](https://24ways.org/2016/css-writing-modes/)
+* 🇷🇺 [Комбинации в CSS: ::before и ::first-letter](https://medium.com/front-end-in-regions-grodno/61a05d17c736)
 
 ### Позиционирование и блочная модель
 
@@ -44,6 +45,7 @@
 * 🇷🇺 Как на самом деле работает position: sticky в CSS [превод](https://medium.com/web-standards/sticky-bc7ff7088693)/[оригинал](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
 * 🇺🇸 [The two-value syntax of the CSS Display property](https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/)
 * 🇷🇺 [Новый display:flow-root — не clearfix, но что это и зачем?](https://css-live.ru/faq/displayflow-root-not-clearfix.html?utm_source=forwebdev&utm_medium=announcement&utm_campaign=novyy-displayflow-root--ne-clearfix--n)
+* 🇺🇸 [Overflow In CSS](https://ishadeed.com/article/overflow-css/)
 
 ### Flexbox
 
@@ -73,6 +75,10 @@
 
 * 🇷🇺 [Понятно про CSS Masking и Shapes Modules, или Будущая революция дизайна контента](https://habr.com/ru/post/190246/)
 
+### CSS Containment
+
+* 🇺🇸 [Helping Browsers Optimize With The CSS Contain Property](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/)
+
 ### Анимации
 
 * 🇷🇺 [Шпаргалка функций плавности](https://easings.net/ru)
@@ -82,6 +88,11 @@
 ### Единицы измерения
 
 * 🇺🇸 [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
+
+### Скроллбар
+
+* 🇺🇸 Заходят как-то два браузера в скроллбар… [перевод](https://habr.com/ru/company/ruvds/blog/468405/)/[оригинал](https://www.filamentgroup.com/lab/scrollbars/)
+* 🇺🇸 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 
 ### Пользовательские свойства (CSS-переменные)
 
@@ -129,6 +140,7 @@
 
 ### Вариантивные шрифты
 
+* 🇺🇸 [Introduction to variable fonts on the web](https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts)
 * 🇷🇺/🇺🇸 Введение в вариативные шрифты [перевод](https://medium.com/web-standards/3f2b6123e1cd)/[оригинал](https://24ways.org/2019/an-introduction-to-variable-fonts/)
 * 🇷🇺 [Вариативные шрифты](http://css.yoksel.ru/opentype-variable-fonts/)
 * 🇷🇺/🇺🇸 Вариативные веб шрифты [перевод](https://habr.com/ru/post/413297/)/[оригинал](https://zeichenschatz.net/demos/vf/variable-web-typo/)
@@ -144,6 +156,7 @@
 * 🇺🇸 [Bulletproof email buttons — генератор кнопок-ссылок с поддержкой Outlook](https://buttons.cm/)
 * 🇺🇸 [Can I email...](https://www.caniemail.com/)
 * 🇺🇸 [HEML — markup language for building responsive email](https://heml.io/)
+* 🇷🇺 [Рассылай и властвуй: вёрстка рассылки тогда и сейчас](https://habr.com/ru/company/2gis/blog/427653/)
 
 ## Вёрстка под нестандартные устройства, экраны и пр.
 
@@ -158,6 +171,7 @@
 
 ## Доступность
 
+* 🇷🇺/🇺🇸 Чему меня научил год изучения и преподавания доступности [перевод](https://medium.com/web-standards/what-accessibility-taught-me-207d1ff0e80c)/[оригинал](https://www.sarasoueidan.com/blog/what-accessibility-taught-me/)
 * 🇺🇸 [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
 * 🇷🇺 [Доступность и закон](https://medium.com/web-standards/a11y-and-law-a81dd9dd5fc8)
 * 🇺🇸 [Hiding DOM elements](https://allyjs.io/tutorials/hiding-elements.html)
@@ -171,6 +185,7 @@
 * 🇺🇸 [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/)
 * 🇺🇸 [The Anatomy of Accessible Forms: Required Form Fields](https://www.deque.com/blog/anatomy-of-accessible-forms-required-form-fields/)
 * 🇷🇺 [Разработка доступных интерфейсов](https://habr.com/ru/company/oleg-bunin/blog/425447/)
+* 🇺🇸 [Using the HTML title attribute – Updated March 2020](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
 
 ### Инклюзивные компоненты
 
@@ -194,6 +209,7 @@
 ## SVG
 
 * 🇺🇸 [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
+* 🇺🇸 [SVG Filter Effects: Duotone Images with feComponentTransfer](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
 
 ## Open Graph
 
