@@ -89,7 +89,7 @@
 * 🇷🇺 [The State of JavaScript 2018](https://2018.stateofjs.com/ru/)
 * 🇷🇺/🇺🇸 [frontend case studies](https://github.com/andrew--r/frontend-case-studies)
 * 🇷🇺 [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/)
-* 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#6.36)
+* 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 * 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
 * 🇷🇺 [Сборник рекомендаций от CSSSR](https://github.com/CSSSR/sputnik)
 
