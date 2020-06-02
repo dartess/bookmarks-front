@@ -34,6 +34,7 @@
 * 🇺🇸 [Когда использовать Map вместо простого JavaScript-объекта (When to Use Map instead of Plain JavaScript Object)](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 * 🇺🇸 [A Practical Guide to Symbols in JavaScript](http://thecodebarbarian.com/a-practical-guide-to-symbols-in-javascript.html)
 * 🇷🇺/🇺🇸 Структуры данных. Неформальный гайд [перевод](https://habr.com/ru/post/263765/)/[оригинал](http://algosaur.us/data-structures-basics/)
+* 🇷🇺/🇺🇸 👍 Разбираемся в проверке JavaScript-типов с помощью typeof [перевод](https://medium.com/devschacht/javascript-typeof-43591ab15bef)/[оригинал](https://blog.logrocket.com/javascript-typeof-2511d53a1a62/)
 
 ## Шаблоны проектирования
 

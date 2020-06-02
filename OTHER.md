@@ -153,7 +153,7 @@
 
 * 🇷🇺 [БЭМ](https://ru.bem.info/methodology/key-concepts/)
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
-[Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
+* 🏳 [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
 * 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
 * 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
@@ -175,7 +175,8 @@
 * 🇷🇺 📺 👍 [Docker для фронтендера / Алексей Авдеев (Neuron.Digital)](https://www.youtube.com/watch?v=SMM3bsYyFls)
 * 🇷🇺 [Введение в компиляторы, интерпретаторы и JIT’ы](https://habr.com/ru/company/mailru/blog/304748/)
 * 🇺🇸 👍 [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
-* 🏳 [Learn X in Y minutes](https://learnxinyminutes.com/)
+* 🇷🇺/🇺🇸 [Learn X in Y minutes](https://learnxinyminutes.com/)
+
 
 ## Архитектура и разработка
 
@@ -186,6 +187,10 @@
 * 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
 * 🇷🇺 [Do good code: 8 правил хорошего кода](https://habr.com/ru/company/geekbrains/blog/270001/)
 * 🇺🇸 [On Code Reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
+
+## Машинное обучение
+
+* 🇷🇺/🇺🇸 Машинное обучение для фронтенд разработчиков с Tensorflow.js [перевод](https://medium.com/maria-machine/charlie-gerard-machine-learning-for-front-end-developers-with-tensorflowjs-9c908fbfa8ec)/[оригинал](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/)
 
 ## GraphQL
 
@@ -200,11 +205,12 @@
 * 🇺🇸 [3D Particle Explorations](https://github.com/jackrugile/3d-particle-explorations)
 * 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
 * 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)
-* 🇺🇸 [CSS-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
 * 🇺🇸 [The Boat — анимированная история](http://www.sbs.com.au/theboat/)
 * 🏳 [Динамический плейсхолдер](https://codepen.io/joelewis/pen/ePOrmV/)
 * 🏳 [Webamp — Winamp 2 in your browser](https://webamp.org/)
 * 🇺🇸 [VOIDCALL – MAKING OF](https://phoboslab.org/log/2019/09/voidcall-making-of)
 
+### HTML/CSS only
 
-
+* 🇺🇸 [CSS-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
+* 🇺🇸 [CSS-only double-click](https://codepen.io/MartijnCuppens/pen/GZWgaQ)

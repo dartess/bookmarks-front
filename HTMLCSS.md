@@ -46,6 +46,7 @@
 * 🇺🇸 [The two-value syntax of the CSS Display property](https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/)
 * 🇷🇺 [Новый display:flow-root — не clearfix, но что это и зачем?](https://css-live.ru/faq/displayflow-root-not-clearfix.html?utm_source=forwebdev&utm_medium=announcement&utm_campaign=novyy-displayflow-root--ne-clearfix--n)
 * 🇺🇸 [Overflow In CSS](https://ishadeed.com/article/overflow-css/)
+* 🇺🇸 [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/#use-cases-for-min-and-max-properties)
 
 ### Flexbox
 
@@ -61,6 +62,7 @@
 * 🇷🇺/🇺🇸 CSS Grid — швейцарский армейский нож для макетов сайтов и приложений [перевод](https://habr.com/ru/company/poiskvps/blog/423709/)/[оригинал](https://medium.com/@js_tut/css-grid-the-swiss-army-knife-for-cutting-website-and-application-layouts-c1bd7a6b4e56)
 * 🇺🇸 [CSS grid tutorial: 13 tips and tricks which you should know as a web developer](https://medium.com/quick-code/css-grid-cheatsheet-13-tips-and-tricks-which-you-should-know-as-a-web-developer-b4e58f5614c3)
 * 🇷🇺 [GRID GARDEN](http://cssgridgarden.com/#ru)
+* 🇷🇺/🇺🇸 Гибкая разметка без медиа-запросов: функции min(), max(), clamp() [перевод](https://habr.com/ru/post/499088/)/[оригинал](https://blog.logrocket.com/flexible-layouts-without-media-queries/)
 
 ### Таблицы
 
@@ -186,6 +188,7 @@
 * 🇺🇸 [The Anatomy of Accessible Forms: Required Form Fields](https://www.deque.com/blog/anatomy-of-accessible-forms-required-form-fields/)
 * 🇷🇺 [Разработка доступных интерфейсов](https://habr.com/ru/company/oleg-bunin/blog/425447/)
 * 🇺🇸 [Using the HTML title attribute – Updated March 2020](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
+* 🇺🇸 [I Used The Web For A Day Using A Screen Reader](https://www.smashingmagazine.com/2018/12/voiceover-screen-reader-web-apps/)
 
 ### Инклюзивные компоненты
 
@@ -194,6 +197,7 @@
 * 🇷🇺 Инклюзивные компоненты: интерфейсы со вкладками [перевод](https://medium.com/web-standards/tabbed-interfaces-a125212e6c35)/[оригинал](https://inclusive-components.design/tabbed-interfaces/)
 * 🇷🇺 [Drag-&-Drop компоненты для слепых пользователей? Вы шутите?](https://habr.com/ru/company/oleg-bunin/blog/468541/)
 * 🇷🇺/🇺🇸 Инклюзивные компоненты: сворачиваемые секции [перевод](https://medium.com/web-standards/collapsibl-sections-c0de689e0ebe)/[оригинал](https://inclusive-components.design/collapsible-sections/)
+* 🇷🇺/🇺🇸 👍 Инклюзивные компоненты: слайдер [перевод](https://medium.com/web-standards/a-content-slider-a9ebddaae274)/[оригинал](https://inclusive-components.design/a-content-slider/)
 
 ## Графика
 

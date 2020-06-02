@@ -97,6 +97,7 @@
 * 🇺🇸 👍 [Material-UI](https://material-ui.com/ru/)
 * 🇺🇸 [Blueprint](https://blueprintjs.com/docs/)
 * 🇺🇸 [dialog components](https://dialogs.github.io/dialog-web-components/)
+* 🇺🇸 [React95 — A React components library with Win95 UI](https://github.com/React95/React95)
 
 ### Фреймворки на основе React
 

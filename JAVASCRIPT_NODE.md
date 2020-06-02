@@ -8,6 +8,7 @@
 -->
 
 * 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
+* 🇺🇸 [Понимание (всех) «модульных» форматов и инструментов JavaScript](https://habr.com/ru/post/501198/)
 * 🇺🇸 [Hash vs chunkhash vs ContentHash](https://medium.com/@sahilkkrazy/hash-vs-chunkhash-vs-contenthash-e94d38a32208)
 * 🇺🇸 [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 
@@ -35,6 +36,7 @@
 * 🇺🇸 [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
 * 🇺🇸 [Hybrid npm packages (ESM and CommonJS)](https://2ality.com/2019/10/hybrid-npm-packages.html)
 * 🇺🇸 [Microbundle — микробандлер для сборки пакетов](https://github.com/developit/microbundle)
+* 🇷🇺/🇺🇸 Node.js-проекты, в которых лучше не использовать lock-файлы [перевод](https://habr.com/ru/company/ruvds/blog/453582/)/[оригинал](https://www.twilio.com/blog/lockfiles-nodejs)
 
 ## Webpack
 
@@ -43,6 +45,15 @@
 * 🇺🇸 [link rel="prefetch/preload" in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
 * 🇺🇸 [Why is my webpack build slow?](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html)
 * 🇺🇸 👍 [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)
+
+## Rollup
+
+## Parcel
+
+## Rome
+
+* 🇺🇸 [Rome — an experimental JavaScript toolchain](https://romejs.dev/)
+* 🇺🇸 [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
 
 ## Библиотеки
 
@@ -83,6 +94,7 @@
 * 🇺🇸 👍 [stylelint-scss — расширение для SCSS](https://www.npmjs.com/package/stylelint-scss)
 * 🇺🇸 👍 [stylelint-config-recommended — рекомендуемый конфиг](https://github.com/stylelint/stylelint-config-recommended)
 * 🇺🇸 👍 [stylelint-config-recommended-scss— рекомендуемый конфиг в случае SCSS](https://github.com/kristerkari/stylelint-config-recommended-scss)
+* 🇺🇸 👍 [Stylelint Config Generator](https://maximgatilin.github.io/stylelint-config/)
 
 #### Плагины к Stylelint
 

@@ -41,11 +41,9 @@
 [Отладка Mobile Firefox](https://developer.mozilla.org/en-US/docs/Tools/about:debugging)
 [Touch Bar Demo App — эмулятор тачбара MacBook](https://github.com/bikkelbroeders/TouchBarDemoApp)
 [Feature Queries Manager — отладка браузеров с разным значением @supports](https://github.com/ireade/feature-queries-manager)
-* 🇷🇺/🇺🇸 Используем console на полную [перевод](https://habr.com/ru/post/114483/)/[оригинал](https://www.thecssninja.com/javascript/console)
 * 🇺🇸 [CSS Feature Toggles](https://github.com/keithclark/css-feature-toggle-devtools-extension)
 * 🇺🇸 [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/)
 * 🇺🇸 [Chrome flag: Insecure origins treated as secure — позволяет помечать локальные домены как secure для отладки требущих этого API](chrome://flags/#unsafely-treat-insecure-origin-as-secure)
-* 🇷🇺/🇺🇸 Руководство по API командной строки [перевод](https://medium.com/@stylesam/api-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4-d5b87608cbf1)/[оригинал](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
 
 ### Про новинки в браузерах
 
@@ -128,10 +126,6 @@
 * 🇺🇸 👍 [Final Form Arrays — работа с массивами в Final Form](https://www.npmjs.com/package/final-form-arrays)
 * 🇺🇸 👍 [Text Mask](https://text-mask.github.io/text-mask/)
 
-### Физические движки
-
-* 🇺🇸 [Matter.js](https://brm.io/matter-js/)
-
 ### Графики и визуализация
 
 * 🇺🇸 [Сборник библиотек для визуализации (карты, графики, данные, цвета](http://selection.datavisualization.ch/)
@@ -147,6 +141,14 @@
 * 🇺🇸 [How to learn D3.js](https://wattenberger.com/blog/d3)
 * 🇺🇸 [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
 * 🇷🇺 [Визуализация геоданных в D3.js](https://frontender.info/d3js-map-visualization/)
+
+### Медиа (аудио, видео)
+
+* 🇺🇸 [Plyr — a simple, accessible and customisable media player](https://plyr.io/)
+
+### Физические движки
+
+* 🇺🇸 [Matter.js](https://brm.io/matter-js/)
 
 ### Шаблонизаторы / библиотеки для рендеринга HTML
 
@@ -200,6 +202,7 @@
 * 🇺🇸 [ServiceWorker Cookbook](https://serviceworke.rs/)
 * 🇷🇺 [Подводные камни Service Workers](https://habr.com/ru/post/351194/)
 * 🇺🇸 [Two HTTP headers related to Service Workers you never may have heard of](https://medium.com/dev-channel/two-http-headers-related-to-service-workers-you-never-may-have-heard-of-c8862f76cc60)
+* 🇺🇸 [Service workers: the little heroes behind Progressive Web Apps](https://www.freecodecamp.org/news/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16/)
 
 ### Особенности платформ
 
@@ -232,6 +235,12 @@
 * 🇺🇸 [Project Fugu 🐡 at W3C TPAC](https://blog.tomayac.com/2019/09/21/project-fugu-at-w3c-tpac/)
 
 ## API
+
+### Console API / Command Line API
+
+* 🇷🇺/🇺🇸 Используем console на полную [перевод](https://habr.com/ru/post/114483/)/[оригинал](https://www.thecssninja.com/javascript/console)
+* 🇷🇺/🇺🇸 Руководство по API командной строки [перевод](https://medium.com/@stylesam/api-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4-d5b87608cbf1)/[оригинал](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
+* 🇺🇸 [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
 
 ### API для работы с DOM
 
@@ -321,6 +330,7 @@
 * 🇺🇸 [MDN — Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Storage_API)
 * 🇺🇸 [Storage Quotas](https://whatwebcando.today/storage-quota.html)
 * 🇺🇸 [Test of localStorage limits/quota](https://arty.name/localstorage.html)
+* 🇺🇸 [React, Web Workers and IndexedDB](https://dev.to/daviddalbusco/react-web-workers-and-indexeddb-55ip)
 
 #### File — доступ к выбранным файлам
 
@@ -563,6 +573,7 @@
 * 🇺🇸 [A guide to implementing dark modes on websites](https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website?ref=heydesigner)
 * 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
 * 🇷🇺 [Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты](https://habr.com/ru/company/yandex/blog/446780/)
+* 🇺🇸 [Light and dark themed SVG favicon using the CSS prefers-color-scheme media feature](https://catalin.red/svg-favicon-light-dark-theme/)
 
 ## Web Bundles — упаковка сайта в один файл
 
@@ -572,6 +583,7 @@
 
 * 🇷🇺 [JavaScript Web Workers: руководство для начинающих](https://webdevblog.ru/javascript-web-workers-rukovodstvo-dlya-nachinajushhih/)
 * 🇺🇸 [Use web workers to run JavaScript off the browser's main thread](https://web.dev/off-main-thread/)
+* 🇺🇸 [Threading the web with module workers](https://web.dev/module-workers/)
 
 ## Canvas
 
