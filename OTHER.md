@@ -10,6 +10,7 @@
 ## SEO и метрики
 
 * 🇺🇸 [A Definitive Guide to SEO with a Serverless React Application in 2019](https://www.codemochi.com/blog/2019-06-12-guide-to-seo-with-serverless-react)
+* 🇺🇸 [Fix a single-page app for Google Search](https://codelabs.developers.google.com/codelabs/making-a-single-page-app-search-friendly/#0)
 * 🇷🇺 [Новые типы микроразметки для расширенных интерактивных сниппетов](https://habr.com/ru/company/promopult/blog/465577/)
 * 🇷🇺 [Гид по Метрике: как проверить работу цели](https://yandex.ru/blog/metrika-club/gid-po-metrike-kak-proverit-rabotu-tseli)
 * 🇺🇸 [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
@@ -32,6 +33,7 @@
 * 🇺🇸 [Smart Interface Design Patterns Checklists (нужно подписаться на рассылку для доступа)](https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/)
 * 🇺🇸 [Better Search UX Through Microcopy](https://www.smashingmagazine.com/2019/06/better-search-ux-microcopy/)
 * 🇺🇸 [The Art of UI Skeletons](http://farmdev.com/)
+* 🇺🇸 [Design System Checklist](https://designsystemchecklist.com/)
 
 ## Тестирование
 
@@ -117,7 +119,37 @@
 * 🇷🇺/🇺🇸 Оптимизация шрифтов [перевод](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)/[оригинал](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
 * 🇺🇸 [subfont](https://www.npmjs.com/package/subfont)
 * 🇺🇸 [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
+* 🇺🇸 [React, performance и -500 миллисекунд на старте — история наших оптимизаций в цифрах](https://habr.com/ru/post/495984/)
+* 🇺🇸 [Optimising SVGs for the Web](https://css-irl.info/optimising-svgs-for-the-web/)
+
+### Метрики производительности
+
+#### Web Vitals (LCP + FID + CLS)
+
 * 🇺🇸 [Web Vitals — Essential metrics for a healthy site](https://web.dev/vitals/)
+* 🇺🇸 [web-vitals](https://github.com/GoogleChrome/web-vitals)
+* 🇺🇸 [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
+* 🇺🇸 [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)
+* 🇺🇸 [First Input Delay (FID)](https://web.dev/fid/)
+* 🇺🇸 [Optimize First Input Delay](https://web.dev/optimize-fid/)
+* 🇺🇸 [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+* 🇺🇸 [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)
+
+#### Total Blocking Time (TBT)
+
+* 🇺🇸 [Total Blocking Time (TBT)](https://web.dev/tbt/)
+
+#### Time to Interactive (TTI)
+
+* 🇺🇸 [Time to Interactive (TTI)](https://web.dev/tti/)
+
+#### First Contentful Paint (FCP)
+
+* 🇺🇸 [First Contentful Paint (FCP)](https://web.dev/fcp/)
+
+#### Time to First Byte (TTFB)
+
+* 🇺🇸 [Reduce server response times (TTFB)](https://web.dev/time-to-first-byte/)
 * 🇷🇺/🇺🇸 Время до первого байта: что это такое и почему это важно [перевод](https://habr.com/ru/company/ruvds/blog/470868/)/[оригинал](https://csswizardry.com/2019/08/time-to-first-byte-what-it-is-and-why-it-matters/)
 
 ## Документация
@@ -132,8 +164,10 @@
 * 🇺🇸 [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/ )
 * 🇺🇸 [CSS Sprite Generator](https://instantsprite.com/)
 * 🇺🇸 [convert — конвертер с поддержкой конвертирования видео](https://cloudconvert.com/)
+* 🇺🇸 [FontDrop! — просмотр информации о шрифте](https://fontdrop.info/)
+* 🇺🇸 [TinyPNG — оптимизация png](https://tinypng.com/)
+* 🇺🇸 [Squoosh — оптимизация и конвертация изображений (с поддержкой webp)](https://squoosh.app/)
 * 🇺🇸 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
-* 🇺🇸 [FontDrop! —просмотр информации о шрифте](https://fontdrop.info/)
 
 ## Настройка окружения
 
@@ -176,7 +210,7 @@
 * 🇷🇺 [Введение в компиляторы, интерпретаторы и JIT’ы](https://habr.com/ru/company/mailru/blog/304748/)
 * 🇺🇸 👍 [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 * 🇷🇺/🇺🇸 [Learn X in Y minutes](https://learnxinyminutes.com/)
-
+* 🇺🇸 [FE webdev on iPad (2019)](https://medium.com/@pixelthing/fe-webdev-on-ipad-2019-d2a63e2d2177)
 
 ## Архитектура и разработка
 
@@ -187,6 +221,12 @@
 * 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
 * 🇷🇺 [Do good code: 8 правил хорошего кода](https://habr.com/ru/company/geekbrains/blog/270001/)
 * 🇺🇸 [On Code Reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
+* 🇺🇸 [Layout-isolated components](https://visly.app/blog/layout-isolated-components)
+* 🇺🇸 [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)   
+
+## Деплой
+
+* 🇺🇸 [Deploy React.js app on Firebase](https://medium.com/@julienrioux/deploy-react-js-app-on-firebase-c7fa6ddc153f)
 
 ## Машинное обучение
 

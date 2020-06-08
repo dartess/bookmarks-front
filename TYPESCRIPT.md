@@ -47,6 +47,10 @@
 * 🇺🇸 [Typescript interface optional properties depending on other property](https://stackoverflow.com/questions/51412872/typescript-interface-optional-properties-depending-on-other-property)
 * 🇺🇸 [Передача дженериков в элементы JSX в TypeScript](https://mariusschulz.com/blog/passing-generics-to-jsx-elements-in-typescript)
 
+### Библиотеки
+
+* 🇺🇸 [Type Route](https://www.type-route.org/)
+
 ## TypeScript и Vue
 
 * 🇺🇸 [How I do Vue in 2019: TypeScript and TSX](https://medium.com/@lachlanmiller_52885/how-i-do-vue-in-2019-typescript-and-tsx-6b648a4decd3)

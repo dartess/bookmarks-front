@@ -37,20 +37,26 @@
 * 🇺🇸 [Hybrid npm packages (ESM and CommonJS)](https://2ality.com/2019/10/hybrid-npm-packages.html)
 * 🇺🇸 [Microbundle — микробандлер для сборки пакетов](https://github.com/developit/microbundle)
 * 🇷🇺/🇺🇸 Node.js-проекты, в которых лучше не использовать lock-файлы [перевод](https://habr.com/ru/company/ruvds/blog/453582/)/[оригинал](https://www.twilio.com/blog/lockfiles-nodejs)
+* 🇷🇺 👍 [Вы используете devDependencies неправильно](https://incubator.flaks.dev/devdependencies-mistake)
 
-## Webpack
+## Сборка проекта (бандлинг)
+
+### Webpack
 
 * 🇺🇸 👍 [Webpack Manifest Plugin — плагин для генерации файла с информацией о собранных файлах](https://www.npmjs.com/package/webpack-manifest-plugin)
 * 🇺🇸 👍 [webpack-merge — объединение нескольких конфигов вебпака](https://www.npmjs.com/package/webpack-merge)
 * 🇺🇸 [link rel="prefetch/preload" in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
 * 🇺🇸 [Why is my webpack build slow?](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html)
 * 🇺🇸 👍 [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)
+* 🇺🇸 [Poi — bundler built on the top of webpack, trying to make developing and bundling apps with webpack as easy as possible](https://poi.js.org/)
 
-## Rollup
+### Rollup
 
-## Parcel
+### Parcel
 
-## Rome
+* 🇷🇺/🇺🇸 [Parcel — молниеносно быстрый упаковщик для веб-приложений без настроек](https://parceljs.org/)
+
+### Rome
 
 * 🇺🇸 [Rome — an experimental JavaScript toolchain](https://romejs.dev/)
 * 🇺🇸 [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)

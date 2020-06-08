@@ -22,6 +22,7 @@
 * 🇺🇸 [react-use-gesture — работа с жестами (тач, мышь)](https://github.com/react-spring/react-use-gesture)
 * 🇺🇸 👍 [use-debounce](https://www.npmjs.com/package/use-debounce)
 * 🇺🇸 👍 [use-query-params](https://www.npmjs.com/package/use-query-params)
+* 🇺🇸 [react-virtual — Hooks for virtualizing scrollable elements in React](https://github.com/tannerlinsley/react-virtual)
 
 ### Библиотеки
 
@@ -118,6 +119,11 @@
 ### Генераторы статических сайтов
 
 * 🇷🇺 [Gatsby.js в деталях](https://habr.com/ru/post/442298/)
+
+### React-like альтернативы
+
+* 🇺🇸 [Preact](https://preactjs.com/)
+* 🇺🇸 [Nerv](https://nerv.aotu.io/)
 
 ## Vue.JS
 

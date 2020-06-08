@@ -22,6 +22,7 @@
 * 🇷🇺 [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
 * 🇷🇺/🇺🇸 DevTips: Советы веб-разработчику [частичный перевод 1](https://habr.com/ru/company/mailru/blog/268519/), [частичный перевод 2](https://habr.com/ru/company/mailru/blog/268777/), [частичный перевод 3](https://habr.com/ru/company/mailru/blog/275425/), [частичный перевод 4](https://habr.com/ru/company/mailru/blog/278021/)/[оригинал](https://umaar.com/dev-tips/)
 * 🇺🇸 [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+* 🇺🇸 [Browser Architecture: Web-to-App Communication Overview](https://textslashplain.com/2019/08/28/browser-architecture-web-to-app-communication-overview/)
 
 ### Полезные расширения для Chrome и других браузеров
 
@@ -33,6 +34,7 @@
 
 * 🇷🇺 [Пишем безопасное браузерное расширение](https://habr.com/ru/company/waves/blog/451796/)
 * 🇺🇸 [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter)
+* 🇺🇸 [Getting started with web-ext](https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/)
 
 ### Про отладку в браузерах
 
@@ -104,6 +106,7 @@
 * 🇺🇸 👍 [uuid — генератор UUID (universally unique identifier «универсальный уникальный идентификатор»)](https://www.npmjs.com/package/uuid)
 * 🇺🇸 [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
 * 🇺🇸 [Piecon — Pie charts in your favicon!](http://lipka.github.io/piecon/)
+* 🇺🇸 [AR.js - Augmented Reality on the Web](https://github.com/AR-js-org/AR.js)
 
 ### Карусели
 
@@ -170,6 +173,10 @@
 
 * 🇺🇸 [Immutable.js](https://facebook.github.io/immutable-js/)
 
+### WebGL
+
+* 🇺🇸 [ogl](https://oframe.github.io/ogl/)
+
 ## PWA
 
 * 🇺🇸 📺 [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
@@ -183,13 +190,14 @@
 * 🇷🇺 [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
 * 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
 * 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12)
-* 🇺🇸 [List of PWA Bugs and workarounds](https://github.com/PWA-POLICE/pwa-bugs)
 * 🇺🇸 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
 * 🇺🇸 [Building offline-first web and mobile apps using event-sourcing](https://flpvsk.com/blog/2019-07-20-offline-first-apps-event-sourcing/)
 * 🇺🇸 [Add to Home Screen](https://developers.google.com/web/fundamentals/app-install-banners/)
 * 🇺🇸 [PWA series: the manifest file cheatsheet](https://medium.com/samsung-internet-dev/pwa-series-the-manifest-file-cheatsheet-459b4a5e2098)
 * 🇷🇺 [Выйти за грань браузера (theme-color)](https://habr.com/ru/post/245007/)
 * 🇺🇸 [Progressive Web Apps. The future of the Mobile Web.](https://www.awwwards.com/PWA-ebook/)
+* 🇺🇸 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
+* 🇺🇸 [iWAM — An experiment to polyfill Web App Manifest (WAM) into Safari on iOS useful for Progressive Web Apps](https://github.com/firtman/iWAM)
 
 ### Service Worker
 
@@ -345,10 +353,11 @@
 #### Contact Picker API — доступ к контактам
 
 * 🇺🇸 [Contact Picker API, или как поделиться своими контактами с браузером](https://habr.com/ru/post/486892/)
+* 🇺🇸 [A contact picker for the web](https://web.dev/contact-picker/)
+* 🇺🇸 [An introduction to the Web Contact Picker API](https://dev.to/twilio/an-introduction-to-the-web-contact-picker-api-43ap)
 * 🇺🇸 [Contact Picker API Demo](https://contact-picker.glitch.me/)
 * 🇺🇸 [Contact Picker API — черновик предложения](https://wicg.github.io/contact-api/spec/)
 * 🇺🇸 [Contact Picker API — explainer](https://github.com/WICG/contact-api/)
-* 🇺🇸 [A contact picker for the web](https://web.dev/contact-picker/)
 * 🇺🇸 [Автозаполнение из контактов в Safari](https://github.com/mozilla/standards-positions/issues/153#issuecomment-487817706)
 
 #### SMS Receiver API — получение одноразовых кодов из СМС
@@ -387,8 +396,14 @@
 
 * 🇺🇸 [Richer offline experiences with the Periodic Background Sync API](https://web.dev/periodic-background-sync/)
 
+#### Background Fetch API
+
+* 🇺🇸 [Background Fetch API — черновик спецификации](https://wicg.github.io/background-fetch/)
+* 🇺🇸 [Introducing Background Fetch](https://developers.google.com/web/updates/2018/12/background-fetch)
+
 #### Notifications API
 
+* 🇺🇸 📺 [Implementing Web Notifications](https://channel9.msdn.com/Blogs/One-Dev-Minute/Implementing-Web-Notifications)
 * 🇺🇸 [Local Notifications](https://whatwebcando.today/local-notifications.html)
 * 🇺🇸 [Notification Triggers Explainer](https://github.com/rknoll/notification-triggers)
 
@@ -432,6 +447,7 @@
 * 🇺🇸 [Web Payments Overview](https://developers.google.com/web/fundamentals/payments/)
 * 🇺🇸 [Deep Dive into the Payment Request API](https://developers.google.com/web/fundamentals/payments/merchant-guide/deep-dive-into-payment-request)
 * 🇷🇺 [Стандартный браузерный API Payment Request](https://habr.com/ru/company/ruvds/blog/460799/)
+* 🇺🇸 [Introducing Web Payments: Easier Online Purchases With The Payment Request API](https://www.smashingmagazine.com/2018/01/online-purchase-payment-request-api/)
 * 🇺🇸 [What’s New in the Payment Request API for Apple Pay (Jun 6, 2019)](https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/)
 
 #### Payment Handler API
@@ -590,6 +606,10 @@
 * 🇷🇺 [Как мы учились рисовать тексты на Canvas](https://habr.com/ru/company/miro/blog/458624/)
 * 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
 * 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
+
+## Beacon API
+
+* 🇺🇸 [Logging Activity With The Web Beacon API](https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/)
 
 ## WebGL
 

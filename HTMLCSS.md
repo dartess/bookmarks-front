@@ -10,6 +10,7 @@
 ## HTML
 
 * 🇺🇸 [Quoting in HTML: Quotations, Citations, and Blockquotes](https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/)
+* 🇷🇺/🇺🇸 Исчерпывающий путеводитель по тегу iframe [перевод](https://habr.com/ru/post/488516/)/[оригинал](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
 
 ### Формы
 
@@ -54,6 +55,8 @@
 * 🇷🇺 [11 вещей которые я узнал, читая спецификацию flexbox](https://habr.com/ru/post/329820/)
 * 🇺🇸 [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 * 🇺🇸 [Flexbugs](https://github.com/philipwalton/flexbugs)
+* 🇺🇸 [Understanding Flexbox: Everything you need to know](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=vsyo--chto-vam-nuzhno-znat-o-fleksbokse-o#.lvfe7wt7h)
+* 🇺🇸 [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/)
 
 ### Grid
 
@@ -63,6 +66,7 @@
 * 🇺🇸 [CSS grid tutorial: 13 tips and tricks which you should know as a web developer](https://medium.com/quick-code/css-grid-cheatsheet-13-tips-and-tricks-which-you-should-know-as-a-web-developer-b4e58f5614c3)
 * 🇷🇺 [GRID GARDEN](http://cssgridgarden.com/#ru)
 * 🇷🇺/🇺🇸 Гибкая разметка без медиа-запросов: функции min(), max(), clamp() [перевод](https://habr.com/ru/post/499088/)/[оригинал](https://blog.logrocket.com/flexible-layouts-without-media-queries/)
+* 🇺🇸 [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/)
 
 ### Таблицы
 
@@ -76,6 +80,7 @@
 ### CSS masking & CSS Shapes
 
 * 🇷🇺 [Понятно про CSS Masking и Shapes Modules, или Будущая революция дизайна контента](https://habr.com/ru/post/190246/)
+* 🇷🇺/🇺🇸 Аватары с рваными краями при помощи CSS clip-path [перевод](https://frontender.info/sketchy-avatars-css-clip-path/)/[оригинал](https://css-tricks.com/sketchy-avatars-css-clip-path/)
 
 ### CSS Containment
 
@@ -129,6 +134,10 @@
 
 #### Font Metrics API
 
+### Эффекты и демо
+
+* 🇺🇸 [A Single Div](https://a.singlediv.com/)
+
 ## Шрифты
 
 * 🇷🇺 [20 вопросов про веб-шрифты](https://habr.com/ru/company/adv/blog/184864/)
@@ -165,6 +174,7 @@
 * 🇷🇺/🇺🇸 Понимание вьюпорта WebView в iOS 11 [перевод](https://css-live.ru/articles/ponimanie-vyuporta-webview-v-ios-11.html)/[оригинал](https://ayogo.com/blog/ios11-viewport/)
 * 🇺🇸 [watchOS, the wrist and the web for smaller screens](https://dev.to/meduzen/watchos-the-wrist-and-the-web-bbj)
 * 🇷🇺/🇺🇸 Микробраузеры повсюду. Но что мы о них знаем? [перевод](https://habr.com/ru/company/dcmiran/blog/485386/)/[оригинал](https://24ways.org/2019/microbrowsers-are-everywhere/)
+* 🇺🇸 [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26)
 
 ## Вёрстка текстов с направлением письма справа налево
 
@@ -189,6 +199,8 @@
 * 🇷🇺 [Разработка доступных интерфейсов](https://habr.com/ru/company/oleg-bunin/blog/425447/)
 * 🇺🇸 [Using the HTML title attribute – Updated March 2020](https://developer.paciellogroup.com/blog/2010/11/using-the-html-title-attribute/)
 * 🇺🇸 [I Used The Web For A Day Using A Screen Reader](https://www.smashingmagazine.com/2018/12/voiceover-screen-reader-web-apps/)
+* 🇷🇺/🇺🇸 Как правильно “делать” семантику [перевод](https://medium.com/@niktariy/c6c20f26b776)/[оригинал](https://blog.logrocket.com/how-to-do-semantics-the-right-way/)
+* 🇺🇸 [Why use a form element when submitting fields with JavaScript?](https://gomakethings.com/why-use-a-form-element-when-submitting-fields-with-javascript/)
 
 ### Инклюзивные компоненты
 
@@ -214,6 +226,7 @@
 
 * 🇺🇸 [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
 * 🇺🇸 [SVG Filter Effects: Duotone Images with feComponentTransfer](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
+* 🇺🇸 [Understanding the SVG viewBox](http://thenewcode.com/1151/Understanding-the-SVG-viewBox)
 
 ## Open Graph
 

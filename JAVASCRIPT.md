@@ -25,6 +25,8 @@
 * 🇷🇺 [Разбираемся в алгоритмах и структурах данных. Доступно и понятно](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
 * 🇷🇺 Как работать с денежными значениями в JavaScript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
 * 🇷🇺 [Выразительный Javascript (Eloquent JavaScript)[перевод, 2-е издание](https://eloquent-javascript.karmazzin.ru/)/[оригинал, 3-е издание](https://eloquentjavascript.net/)
+* 🇺🇸 [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://www.freecodecamp.org/news/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32/)
+* 🇷🇺 [Классические алгоритмы и структуры данных на JavaScript](https://habr.com/ru/post/359192/)
 
 ## Типы и структуры данных
 
@@ -43,6 +45,7 @@
 ## Асинхронное программирование, promises, async/await
 
 * 🇺🇸 [Simplify JavaScript Promises](https://dev.to/sunnysingh/simplify-javascript-promises-4djb)
+* 🇺🇸 [What You Need to Know About Asynchronous Programming in Javascript](https://medium.com/swlh/what-you-need-to-know-about-asynchronous-programming-in-javascript-894f90a97941)
 
 ## Итераторы и генераторы
 
