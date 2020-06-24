@@ -38,14 +38,15 @@
 
 ### Про отладку в браузерах
 
+* 🇷🇺 [Мои любимые инструменты разработчика в Chrome](https://habr.com/ru/post/489284/)
 * 🇷🇺 [10 малоизвестных возможностей инструментов разработчика Chrome](https://habr.com/ru/company/ruvds/blog/470411/)
-[Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
-[Отладка Mobile Firefox](https://developer.mozilla.org/en-US/docs/Tools/about:debugging)
-[Touch Bar Demo App — эмулятор тачбара MacBook](https://github.com/bikkelbroeders/TouchBarDemoApp)
-[Feature Queries Manager — отладка браузеров с разным значением @supports](https://github.com/ireade/feature-queries-manager)
+* 🇺🇸 [Eruda — подключаемый DevTools для мобильных браузеров](https://github.com/liriliri/eruda)
+* 🇺🇸 [Отладка Mobile Firefox](https://developer.mozilla.org/en-US/docs/Tools/about:debugging)
+* 🇺🇸 [Touch Bar Demo App — эмулятор тачбара MacBook](https://github.com/bikkelbroeders/TouchBarDemoApp)
+* 🇺🇸 [Feature Queries Manager — отладка браузеров с разным значением @supports](https://github.com/ireade/feature-queries-manager)
 * 🇺🇸 [CSS Feature Toggles](https://github.com/keithclark/css-feature-toggle-devtools-extension)
 * 🇺🇸 [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/)
-* 🇺🇸 [Chrome flag: Insecure origins treated as secure — позволяет помечать локальные домены как secure для отладки требущих этого API](chrome://flags/#unsafely-treat-insecure-origin-as-secure)
+* 🇺🇸 [Enabling the Microphone/Camera in Chrome for (Local) Unsecure Origins](https://medium.com/@Carmichaelize/enabling-the-microphone-camera-in-chrome-for-local-unsecure-origins-9c90c3149339)
 
 ### Про новинки в браузерах
 
@@ -78,11 +79,6 @@
 * 🇺🇸 [WebKit Explainers](https://github.com/WebKit/explainers)
 * 🇺🇸 [Microsoft Edge Explainers](https://github.com/MicrosoftEdge/MSEdgeExplainers)
 
-### История
-
-* 🇷🇺/🇺🇸 Браузерный войны, часть 1: когда Netscape встретил Microsoft [перевод](https://medium.com/@slonoed/351dcf170e59)/[оригинал](http://thehistoryoftheweb.com/browser-wars/)
-* 🇷🇺/🇺🇸 Браузерные войны, часть 2: как победил веб [перевод](https://medium.com/@slonoed/92168ce17ae5)/[оригинал](https://thehistoryoftheweb.com/browser-wars/)
-
 ### Прочее
 
 * 🇺🇸 [Техподдержка SamsungInternet](https://github.com/SamsungInternet/support) 
@@ -107,6 +103,8 @@
 * 🇺🇸 [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
 * 🇺🇸 [Piecon — Pie charts in your favicon!](http://lipka.github.io/piecon/)
 * 🇺🇸 [AR.js - Augmented Reality on the Web](https://github.com/AR-js-org/AR.js)
+* 🇺🇸 [Fuse.js — powerful, lightweight fuzzy-search library](https://fusejs.io/)
+* 🇺🇸 [lax.js — imple & light weight (<3kb gzipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll!](https://github.com/alexfoxy/lax.js)
 
 ### Карусели
 
@@ -120,6 +118,7 @@
 
 ### Даты и время
 
+* 🇺🇸 [date-fns — Modern JavaScript date utility library](https://date-fns.org/)
 * 🇺🇸 [Day.js — легковесная альтернатива Moment.js](https://github.com/iamkun/dayjs)
 
 ### Формы
@@ -135,15 +134,26 @@
 * 🇺🇸 [DataMaps — интерактивные карты](http://datamaps.github.io/)
 * 🇺🇸 [Carbon Charts — с адаптерами под фреймворки](https://carbon-design-system.github.io/carbon-charts/)
 * 🇺🇸 [Google Charts](https://developers.google.com/chart)
-* 🇺🇸 [Chart.js](https://www.chartjs.org/)
 * 🇺🇸 [Plotly.js](https://plot.ly/javascript/)
 * 🇺🇸 [Chartist - Simple responsive charts](http://gionkunz.github.io/chartist-js/)
+
+#### ECharts
+
+* 🇺🇸 [ECharts](https://echarts.apache.org/en/index.html)
+* 🇺🇸 [Why we chose ECharts for data visualizations](https://about.gitlab.com/blog/2019/09/30/why-we-chose-echarts/)
+
+#### Chart.js
+
+* 🇺🇸 [Chart.js](https://www.chartjs.org/)
+* 🇺🇸 [Data visualization with Chart.js: An introduction](https://tobiasahlin.com/blog/introduction-to-chartjs/)
 
 #### D3.js
 
 * 🇺🇸 [How to learn D3.js](https://wattenberger.com/blog/d3)
 * 🇺🇸 [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
 * 🇷🇺 [Визуализация геоданных в D3.js](https://frontender.info/d3js-map-visualization/)
+* 🇺🇸 [d3-pre](https://github.com/fivethirtyeight/d3-pre)
+* 🇺🇸 [Rendering One Million Datapoints with D3 and WebGL](https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html)
 
 ### Медиа (аудио, видео)
 
@@ -173,12 +183,13 @@
 
 * 🇺🇸 [Immutable.js](https://facebook.github.io/immutable-js/)
 
-### WebGL
+### WYSIWYG
 
-* 🇺🇸 [ogl](https://oframe.github.io/ogl/)
+* 🇺🇸 [pell](https://jaredreich.com/pell/)
 
 ## PWA
 
+* 🇺🇸 [Progressive Web Apps — Websites that took all the right vitamins](https://web.dev/progressive-web-apps/)
 * 🇺🇸 📺 [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 * 🇺🇸 [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps)
 * 🇺🇸 [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
@@ -190,14 +201,27 @@
 * 🇷🇺 [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
 * 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
 * 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12)
-* 🇺🇸 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
 * 🇺🇸 [Building offline-first web and mobile apps using event-sourcing](https://flpvsk.com/blog/2019-07-20-offline-first-apps-event-sourcing/)
+* 🇺🇸 [Progressive Web Apps. The future of the Mobile Web.](https://www.awwwards.com/PWA-ebook/)
+* 🇺🇸 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
+* 🇺🇸 Designing And Building A Progressive Web Application Without A Framework [Part 1](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-1/), [Part 2](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-2/), [Part 3](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-3/)
+* 🇺🇸 [Progressive Web Apps. The future of the Mobile Web](https://www.awwwards.com/PWA-ebook/)
+* 🇺🇸 [Progressive Web Apps. The Superpowers of the Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/)
+
+### Web App Manifest
+
+* 🇺🇸 [PWACompat to bring Web App Manifest to older browsers](https://github.com/GoogleChromeLabs/pwacompat)
+* 🇺🇸 [iWAM — An experiment to polyfill Web App Manifest (WAM) into Safari on iOS useful for Progressive Web Apps](https://github.com/firtman/iWAM)
 * 🇺🇸 [Add to Home Screen](https://developers.google.com/web/fundamentals/app-install-banners/)
 * 🇺🇸 [PWA series: the manifest file cheatsheet](https://medium.com/samsung-internet-dev/pwa-series-the-manifest-file-cheatsheet-459b4a5e2098)
 * 🇷🇺 [Выйти за грань браузера (theme-color)](https://habr.com/ru/post/245007/)
-* 🇺🇸 [Progressive Web Apps. The future of the Mobile Web.](https://www.awwwards.com/PWA-ebook/)
-* 🇺🇸 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
-* 🇺🇸 [iWAM — An experiment to polyfill Web App Manifest (WAM) into Safari on iOS useful for Progressive Web Apps](https://github.com/firtman/iWAM)
+
+#### Маскируемеые иконки
+
+* 🇺🇸 [Adaptive icon support in PWAs with maskable icons](https://web.dev/maskable-icon/)
+* 🇺🇸 [Маскируемеые иконки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
+* 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
+* 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
 
 ### Service Worker
 
@@ -211,6 +235,8 @@
 * 🇷🇺 [Подводные камни Service Workers](https://habr.com/ru/post/351194/)
 * 🇺🇸 [Two HTTP headers related to Service Workers you never may have heard of](https://medium.com/dev-channel/two-http-headers-related-to-service-workers-you-never-may-have-heard-of-c8862f76cc60)
 * 🇺🇸 [Service workers: the little heroes behind Progressive Web Apps](https://www.freecodecamp.org/news/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16/)
+* 🇺🇸 [Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/#0)
+* 🇺🇸 [Stuff I wish I'd known sooner about service workers](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9)
 
 ### Особенности платформ
 
@@ -222,6 +248,8 @@
 * 🇺🇸 [Десктопные PWA в Windows](https://twitter.com/firt/status/1054442657567727616)
 * 🇺🇸 [Десктопные PWA в Linux](https://twitter.com/firt/status/1054801501653221378)
 * 🇺🇸 [Adding Custom iOS Splash Screens To Your Progressive Web App](https://medium.com/appscope/adding-custom-ios-splash-screens-to-your-progressive-web-app-41a9b18bdca3)
+* 🇺🇸 [Changing The iOS Status Bar Of Your Progressive Web App](https://medium.com/appscope/changing-the-ios-status-bar-of-your-progressive-web-app-9fc8fbe8e6ab)
+* 🇺🇸 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
 
 ### PWA и магазины приложений
 
@@ -249,6 +277,7 @@
 * 🇷🇺/🇺🇸 Используем console на полную [перевод](https://habr.com/ru/post/114483/)/[оригинал](https://www.thecssninja.com/javascript/console)
 * 🇷🇺/🇺🇸 Руководство по API командной строки [перевод](https://medium.com/@stylesam/api-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4-d5b87608cbf1)/[оригинал](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
 * 🇺🇸 [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
+* 🇺🇸 [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
 
 ### API для работы с DOM
 
@@ -369,6 +398,7 @@
 #### Push API — уведомления из браузера
 
 * 🇺🇸 [Web Push Book — книга про Push API и всё, что с ними связано](https://web-push-book.gauntface.com/)
+* 🇺🇸 [web-push-libs](https://github.com/web-push-libs/)
 
 #### Shape Detection API — распознавание штрихкодов, текста, лиц с изображений
 
@@ -431,6 +461,7 @@
 
 #### Web Share API
 
+* 🇺🇸 [Share like a native app with the Web Share API](https://web.dev/web-share/)
 * 🇺🇸 [Web Share API — черновик спецификации](https://w3c.github.io/web-share/)
 * 🇺🇸 [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
 
@@ -448,6 +479,7 @@
 * 🇺🇸 [Deep Dive into the Payment Request API](https://developers.google.com/web/fundamentals/payments/merchant-guide/deep-dive-into-payment-request)
 * 🇷🇺 [Стандартный браузерный API Payment Request](https://habr.com/ru/company/ruvds/blog/460799/)
 * 🇺🇸 [Introducing Web Payments: Easier Online Purchases With The Payment Request API](https://www.smashingmagazine.com/2018/01/online-purchase-payment-request-api/)
+* 🇺🇸 [Introducing the Payment Request API for Apple Pay](https://webkit.org/blog/8182/introducing-the-payment-request-api-for-apple-pay/)
 * 🇺🇸 [What’s New in the Payment Request API for Apple Pay (Jun 6, 2019)](https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/)
 
 #### Payment Handler API
@@ -510,6 +542,7 @@
 * 🇺🇸 [Wake Lock](https://whatwebcando.today/wake-lock.html)
 * 🇺🇸 [Stay awake with the Wake Lock API](https://web.dev/wakelock/)
 * 🇺🇸 [Wake Lock API Specification](https://w3c.github.io/wake-lock/)
+* 🇺🇸 [Wake Lock API case study: 300% increase in purchase intent indicators on BettyCrocker.com](https://web.dev/betty-crocker/)
 
 #### Presentation API
 
@@ -529,6 +562,7 @@
 #### Gamepad API
 
 🇷🇺/🇺🇸 Серфинг интернета геймпадом (Javascript) [перевод](https://habr.com/ru/post/485562/)/[оригинал](https://www.voorhoede.nl/en/blog/navigating-the-web-with-a-gamepad/)
+* 🇺🇸 [The Gamepad Reloaded](https://medium.com/samsung-internet-dev/the-gamepad-reloaded-5ba866770003)
 
 #### Web Bluetooth API
 
@@ -548,15 +582,21 @@
 
 * 🇺🇸 [Serial API — черновик предложения](https://wicg.github.io/serial/)
 
-### Layout Instability API
+### API для отладки и оптимизации
+
+#### Layout Instability API
 
 * 🇺🇸 [Fixing layout instability](https://web.dev/fixing-layout-instability/)
 
-### Reporting API — апи для сбора информации о клиентских ошибках
+#### Reporting API — апи для сбора информации о клиентских ошибках
 
 * 🇺🇸 [Reporting API Editor’s Draft](https://w3c.github.io/reporting/)
 * 🇷🇺/🇺🇸 API ReportingObserver: взгляд на код веб-страниц с новой точки зрения [перевод](https://habr.com/ru/company/ruvds/blog/427403/)/[оригинал](https://www.codementor.io/@robertwozniak/reportingobserver-new-look-at-your-code-o6xd479b3)
 * 🇺🇸 [The Reporting API](https://developers.google.com/web/updates/2018/09/reportingapi)
+
+#### Server Timing
+
+* 🇺🇸 Server Timing [Working Draft](https://www.w3.org/TR/server-timing/), [Editor's Draft](https://w3c.github.io/geolocation-sensor/)
 
 ### Streams API
 
@@ -566,12 +606,6 @@
 ### FormData
 
 * 🇺🇸 👍 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
-
-### Маскируемеые иконки
-
-* 🇺🇸 [Маскируемеые иконки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
-* 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
-* 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
 
 ## Совсем прочее
 
@@ -614,8 +648,21 @@
 ## WebGL
 
 * 🇷🇺 [Введение в программирование шейдеров для верстальщиков](https://habr.com/ru/post/420847/)
+* 🇺🇸 [Raw WebGL — An overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL](https://alain.xyz/blog/raw-webgl)
+* 🇷🇺 [Введение в программирование шейдеров для верстальщиков](https://habr.com/ru/post/420847/)
+* 🇷🇺 [Применяем мозаику Вороного, пикселизацию и геометрические маски в шейдерах для украшения сайта](https://habr.com/ru/post/421821/)
+
+### Библиотеки для WebGL
+
+* 🇺🇸 [ogl](https://oframe.github.io/ogl/)
+* 🇺🇸 [Post Processing](https://vanruesc.github.io/postprocessing/)
+* 🇺🇸 [three.js](https://threejs.org/)
+
+#### Three.js
+
 * 🇺🇸 [JavaScript in 3D: an Introduction to Three.js](https://medium.com/javascript-in-plain-english/javascript-in-3d-an-introduction-to-three-js-780f1e4a2e6d)
 * 🇷🇺 [Трехмерные презентации товаров на Three.js для самых маленьких](https://habr.com/ru/post/433876/)
+* 🇷🇺 [Продвинутый Three.js: шейдерные материалы и постобработка](https://habr.com/ru/post/436482/)
 
 ## Web Components (веб-компоненты)
 

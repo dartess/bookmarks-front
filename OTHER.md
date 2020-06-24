@@ -15,25 +15,36 @@
 * 🇷🇺 [Гид по Метрике: как проверить работу цели](https://yandex.ru/blog/metrika-club/gid-po-metrike-kak-proverit-rabotu-tseli)
 * 🇺🇸 [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 * 🇺🇸 📺 [JavaScript SEO](https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
-* 🇺🇸 [Fix a single-page app for Google Search](https://codelabs.developers.google.com/codelabs/making-a-single-page-app-search-friendly/#0)
 
 ## Дизайн
 
 * 🇺🇸 [Golden Ratio Typography Calculator](https://grtcalculator.com/)
-* 🇺🇸 [Figma Ninja — интерактивный учебник](https://www.figma.com/c/file/769694576496801916)
 * 🇷🇺 [Почему минималистский дизайн всё ещё правит вебом](https://habr.com/ru/company/nix/blog/268227/)
-* 🇺🇸 [Checklist Design — сборник лучших UI и UX практик](https://www.checklist.design/)
-* 🇷🇺 [Как подружить дизайнера, верстальщика и «Фигму» с помощью дизайн-системы, ломика и какой-то матери™](https://habr.com/ru/post/464115/)
-* 🇷🇺 [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
 * 🇷🇺 [Как проектировать для людей с цветовой слепотой](https://habr.com/ru/post/275001/)
-* 🇷🇺 [Как создавать Pixel Perfect изображения в Adobe Illustrator](https://habr.com/ru/post/259723/)
-* 🇷🇺 [Тысяча и один UI-баг, или Как помочь разработчику избегать типовых ошибок в UI](https://habr.com/ru/company/badoo/blog/479970/)
 * 🇷🇺/🇺🇸 10 советов по дизайну интерфейса [перевод](https://habr.com/ru/post/417959/)/[оригинал](https://www.onepixelout.com/design-academy/10-tips-to-designing-forms/)
-* 🇺🇸 UX And HTML5: Let’s Help Users Fill In Your Mobile Form [Part 1](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/) [Part 2](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
 * 🇺🇸 [Smart Interface Design Patterns Checklists (нужно подписаться на рассылку для доступа)](https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/)
-* 🇺🇸 [Better Search UX Through Microcopy](https://www.smashingmagazine.com/2019/06/better-search-ux-microcopy/)
 * 🇺🇸 [The Art of UI Skeletons](http://farmdev.com/)
 * 🇺🇸 [Design System Checklist](https://designsystemchecklist.com/)
+
+### UX
+
+* 🇺🇸 [Checklist Design — сборник лучших UI и UX практик](https://www.checklist.design/)
+* 🇺🇸 UX And HTML5: Let’s Help Users Fill In Your Mobile Form [Part 1](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/) [Part 2](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)
+* 🇷🇺 [Полное руководство по правильному использованию анимации в UX](https://habr.com/ru/post/424383/)
+* 🇷🇺 [Тысяча и один UI-баг, или Как помочь разработчику избегать типовых ошибок в UI](https://habr.com/ru/company/badoo/blog/479970/)
+* 🇺🇸 [Better Search UX Through Microcopy](https://www.smashingmagazine.com/2019/06/better-search-ux-microcopy/)
+* 🇺🇸 [The problem with tooltips and what to do instead](https://adamsilver.io/articles/the-problem-with-tooltips-and-what-to-do-instead/)
+
+### Инструменты
+
+* 🇺🇸 [Figma Ninja — интерактивный учебник](https://www.figma.com/c/file/769694576496801916)
+* 🇷🇺 [Как подружить дизайнера, верстальщика и «Фигму» с помощью дизайн-системы, ломика и какой-то матери™](https://habr.com/ru/post/464115/)
+* 🇺🇸 [Moving From Sketch To Figma: A Case Study Of Migrating Design Systems](https://www.smashingmagazine.com/2019/09/migrating-design-systems-sketch-figma/)
+* 🇷🇺 [Как создавать Pixel Perfect изображения в Adobe Illustrator](https://habr.com/ru/post/259723/)
+
+### Тёмная тема
+
+* 🇺🇸 [Designing a Dark Theme for OLED iPhones](https://medium.com/lookup-design/designing-a-dark-theme-for-oled-iphones-e13cdfea7ffe)
 
 ## Тестирование
 
@@ -53,6 +64,11 @@
 * 🇺🇸 👍 [Sentry — Application Monitoring and Error Tracking Software](https://sentry.io/)
 * 🇺🇸 [Playwright — Node library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
 * 🇺🇸 [Что такое TDD и BDD на пальцах, и что должен знать о них фронтендер](https://medium.com/@lucyhackwrench/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-tdd-%D0%B8-bdd-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D1%85-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-%D0%BD%D0%B8%D1%85-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-701a10e06bb9)
+* 🇺🇸 [Measuring Code Quality with Test Coverage Metrics](https://reqtest.com/testing-blog/test-coverage-metrics/)
+
+### Визуальное тестирование
+
+* 🇷🇺 [Разработка визуальных тестов на базе Gemini и Storybook](https://habr.com/ru/post/454464/)
 
 ### Puppeteer
 
@@ -62,6 +78,7 @@
 
 * 🇺🇸 [Интерактивный обучающий тур по git](https://githowto.com/ru)
 * 🇺🇸 [Справочник по git](https://git-scm.com/book/ru/v2)
+* 🇷🇺 [Глоссарий терминов для Git и GitHub](https://htmlacademy.ru/blog/boost/tools/git-and-github-glossary)
 * 🇷🇺 [Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://habr.com/ru/company/yandex/blog/431432/)
 
 ## Безопасность
@@ -84,6 +101,11 @@
 * 🇷🇺 📺 [JavaScript.ru](https://www.youtube.com/user/iliakan/)
 * 🇷🇺 📺 [FrontendConf](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A/videos)
 * 🇺🇸 [web.dev](https://web.dev/)
+* 🇷🇺 [CSS-LIVE — жизнь во фронтенде](https://css-live.ru/)
+
+### Другие списки:
+
+* 🇺🇸 [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ### Эпики:
 
@@ -119,8 +141,17 @@
 * 🇷🇺/🇺🇸 Оптимизация шрифтов [перевод](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)/[оригинал](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
 * 🇺🇸 [subfont](https://www.npmjs.com/package/subfont)
 * 🇺🇸 [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
-* 🇺🇸 [React, performance и -500 миллисекунд на старте — история наших оптимизаций в цифрах](https://habr.com/ru/post/495984/)
 * 🇺🇸 [Optimising SVGs for the Web](https://css-irl.info/optimising-svgs-for-the-web/)
+* 🇺🇸 [Perf audit for new york times](https://docs.google.com/document/d/1Oax3j0-wsYlNQCfgJTtPHlOWJ-ilRvk-I9E3mhiyl5I/edit#heading=h.mxlya9axneww)
+
+### Разбор практических кейсов
+
+* 🇷🇺/🇺🇸 Ускорение instagram.com, перевод [часть 1](https://habr.com/ru/company/ruvds/blog/468227/), [часть 2](https://habr.com/ru/company/ruvds/blog/468413/), [часть 3](https://habr.com/ru/company/ruvds/blog/472336/)/[оригинал](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
+
+### Оптимизация React-приложений
+
+* 🇺🇸 [React, performance и -500 миллисекунд на старте — история наших оптимизаций в цифрах](https://habr.com/ru/post/495984/)
+* 🇷🇺/🇺🇸 Анализ и оптимизация React-приложений [перевод](https://habr.com/ru/company/ruvds/blog/442650/)/[оригинал](https://houssein.me/progressive-react)
 
 ### Метрики производительности
 
@@ -176,7 +207,11 @@
 ## Редакторы кода и IDE
 
 * 🇺🇸 👍 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
+
+### vi
+
 * 🇷🇺/🇺🇸 Почему, ну почему, эти #?@! придурки используют vi? [перевод](https://habr.com/ru/post/307084/)/[оригинал](http://www.viemu.com/a-why-vi-vim.html)
+* 🇷🇺/🇺🇸 Коаны Vim [перевод](https://habr.com/ru/post/176187/)/[оригинал](https://sanctum.geek.nz/arabesque/vim-koans/)
 
 ## Создание PDF из браузера
 
@@ -211,6 +246,9 @@
 * 🇺🇸 👍 [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 * 🇷🇺/🇺🇸 [Learn X in Y minutes](https://learnxinyminutes.com/)
 * 🇺🇸 [FE webdev on iPad (2019)](https://medium.com/@pixelthing/fe-webdev-on-ipad-2019-d2a63e2d2177)
+* 🇷🇺/🇺🇸 Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, перевод [часть 1](https://habr.com/ru/post/158639/), [часть 2](https://habr.com/ru/post/158895/)/[оригинал](https://kunststube.net/encoding/)
+* 🇷🇺 [На что обратить внимание, когда делаешь поиск](http://mikeozornin.ru/blog/all/search-ui-tricks/)
+* 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
 
 ## Архитектура и разработка
 
@@ -218,11 +256,19 @@
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
 * 🇷🇺 👍 [UIKit: типичная «ошибка» — разбор недостатков булевых пропсов](https://medium.com/@ibnRubaXa/uikit-%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-33702309cec4?)
 * 🇷🇺 👍 [Качество кода](https://habr.com/ru/company/oleg-bunin/blog/433326/)
-* 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
 * 🇷🇺 [Do good code: 8 правил хорошего кода](https://habr.com/ru/company/geekbrains/blog/270001/)
-* 🇺🇸 [On Code Reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
 * 🇺🇸 [Layout-isolated components](https://visly.app/blog/layout-isolated-components)
-* 🇺🇸 [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)   
+* 🇺🇸 [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)
+
+## Код ревью
+
+* 🇷🇺/🇺🇸 Code review по-человечески, перевод [часть 1](https://habr.com/ru/post/340550/), [часть 2](https://habr.com/ru/post/342244/)/оригинал [часть 1](https://mtlynch.io/human-code-reviews-1/), [часть 2](https://mtlynch.io/human-code-reviews-2/)
+* 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
+* 🇺🇸 [On Code Reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
+
+## Bash
+
+* 🇺🇸 [bash-guide — A guide to learn bash](https://github.com/Idnan/bash-guide)
 
 ## Деплой
 
@@ -237,20 +283,27 @@
 * 🇺🇸 [Public GraphQL APIs](https://github.com/APIs-guru/graphql-apis)
 * 🇺🇸 [How we learned to stop worrying and love GraphQL](https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9)
 
+## История
+
+* 🇷🇺/🇺🇸 Браузерный войны, часть 1: когда Netscape встретил Microsoft, перевод [часть 1](https://medium.com/@slonoed/351dcf170e59), [часть 2](https://medium.com/@slonoed/92168ce17ae5)/[оригинал](http://thehistoryoftheweb.com/browser-wars/)
+* 🇷🇺 [SGVsbG8gd29ybGQh или история base64](https://habr.com/ru/post/88077/)
+* 🇺🇸 [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
+
 ## Демо
 
 * 🇺🇸 [Trippy CSS Distortion Effects](https://1stwebdesigner.com/trippy-css-distortion-effects/)
 * 🇺🇸 [Демо webgl-эффекта на курсоре](https://domenicobrz.github.io/webgl/index.html) 
 * 🇺🇸 [Making Gooey Image Hover Effects with Three.js](https://tympanus.net/codrops/2019/10/23/making-gooey-image-hover-effects-with-three-js/)
 * 🇺🇸 [3D Particle Explorations](https://github.com/jackrugile/3d-particle-explorations)
-* 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
-* 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)
 * 🇺🇸 [The Boat — анимированная история](http://www.sbs.com.au/theboat/)
 * 🏳 [Динамический плейсхолдер](https://codepen.io/joelewis/pen/ePOrmV/)
 * 🏳 [Webamp — Winamp 2 in your browser](https://webamp.org/)
 * 🇺🇸 [VOIDCALL – MAKING OF](https://phoboslab.org/log/2019/09/voidcall-making-of)
+* 🏳 [Ghost Mouse](https://codepen.io/shubniggurath/full/LrXQBe/)
 
 ### HTML/CSS only
 
 * 🇺🇸 [CSS-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
 * 🇺🇸 [CSS-only double-click](https://codepen.io/MartijnCuppens/pen/GZWgaQ)
+* 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
+* 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)

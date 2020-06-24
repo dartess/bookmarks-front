@@ -14,9 +14,13 @@
 * 🇺🇸 [Build your own React](https://pomb.us/build-your-own-react/)
 * 🇺🇸 [Статьи о React на web.dev](https://web.dev/react/)
 * 🇷🇺/🇺🇸 Что такое виртуальный DOM [перевод](https://www.awesomeandrew.ru/2019/03/28/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-dom/)/[оригинал](https://bitsofco.de/understanding-the-virtual-dom/)
+* 🇺🇸 [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
+* 🇺🇸 [Creating a Gauge in React](https://wattenberger.com/blog/gauge)
+* 🇷🇺/🇺🇸 Как работает Virtual DOM? [перевод](https://medium.com/@abraztsov/how-virtual-dom-work-567128ed77e9)/[оригинал](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
 
 ### Хуки
 
+* 🇷🇺 [Функциональные компоненты с React Hooks. Чем они лучше?](https://habr.com/ru/post/443488/)
 * 🇺🇸 [react-use — библиотека хуков](https://github.com/streamich/react-use)
 * 🇺🇸 👍 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
 * 🇺🇸 [react-use-gesture — работа с жестами (тач, мышь)](https://github.com/react-spring/react-use-gesture)
@@ -28,6 +32,7 @@
 
 * 🇺🇸 [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
 * 🇺🇸 [react-yandex-maps — Yandex Maps API bindings for React](https://github.com/gribnoysup/react-yandex-maps)
+* 🇺🇸 [react-tooltip](https://wwayne.github.io/react-tooltip/)
 
 #### Формы и элементы ввода
 

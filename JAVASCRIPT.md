@@ -27,6 +27,8 @@
 * 🇷🇺 [Выразительный Javascript (Eloquent JavaScript)[перевод, 2-е издание](https://eloquent-javascript.karmazzin.ru/)/[оригинал, 3-е издание](https://eloquentjavascript.net/)
 * 🇺🇸 [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://www.freecodecamp.org/news/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32/)
 * 🇷🇺 [Классические алгоритмы и структуры данных на JavaScript](https://habr.com/ru/post/359192/)
+* 🇺🇸 Understanding the ECMAScript spec, [part 1](https://v8.dev/blog/understanding-ecmascript-part-1), [part 2](https://v8.dev/blog/understanding-ecmascript-part-2), [part 3](https://v8.dev/blog/understanding-ecmascript-part-3), [part 4](https://v8.dev/blog/understanding-ecmascript-part-4)
+* 🇷🇺 [Явные возможности JavaScript](https://habr.com/ru/post/432102/)
 
 ## Типы и структуры данных
 
@@ -76,6 +78,7 @@
 * 🇺🇸 [Immutable objects with property descriptors in javascript?](https://medium.com/@neetishop/immutable-objects-with-property-descriptors-in-javascript-31693faaf03)
 * 🇺🇸 [Making objects Immutable with freeze(), seal(), & preventExtensions()](https://medium.com/@neetishop/making-objects-immutable-with-freeze-seal-preventextensions-6876bb23e0a3)
 * 🇺🇸 [Использование switch](https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d)
+* 🇺🇸 [Why you shouldn’t reassign values in JavaScript](https://zellwk.com/blog/dont-reassign/)
 
 ## WebAssembly
 

@@ -11,6 +11,8 @@
 
 * 🇺🇸 [Quoting in HTML: Quotations, Citations, and Blockquotes](https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/)
 * 🇷🇺/🇺🇸 Исчерпывающий путеводитель по тегу iframe [перевод](https://habr.com/ru/post/488516/)/[оригинал](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
+* 🇺🇸 [HTML can do that?](https://dev.to/ananyaneogi/html-can-do-that-c0n)
+* 🇺🇸 [You’re using〈em〉wrong](https://blog.logrocket.com/youre-using-em-wrong/)
 
 ### Формы
 
@@ -31,6 +33,8 @@
 * 🇺🇸 [Pointing Device Adaptation](https://whatwebcando.today/pointer-adaptation.html)
 * 🇷🇺/🇺🇸 Странности CSS, о которых полезно знать [перевод](https://habr.com/ru/company/ruvds/blog/350658/)/[оригинал](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
 * 🇺🇸 [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
+* 🇺🇸 [Presentation Attributes vs Inline Styles](https://css-tricks.com/presentation-attributes-vs-inline-styles/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=chem-prezentatsionnye-atributy-otlichayutsya)
+* 🇺🇸 [Considerations for styling the "pre" tag](https://mediatemple.net/blog/design-creative/considerations-for-styling-the-pre-tag/)
 
 ### Текст
 
@@ -39,6 +43,7 @@
 * 🇺🇸 [Multi-Line Inline Gradient](https://css-tricks.com/multi-line-inline-gradient/)
 * 🇺🇸 [CSS Writing Modes](https://24ways.org/2016/css-writing-modes/)
 * 🇷🇺 [Комбинации в CSS: ::before и ::first-letter](https://medium.com/front-end-in-regions-grodno/61a05d17c736)
+* 🇷🇺/🇺🇸 Рендеринг текста вас ненавидит [перевод](https://habr.com/ru/post/469529/)/[оригинал](https://gankra.github.io/blah/text-hates-you/)
 
 ### Позиционирование и блочная модель
 
@@ -92,6 +97,14 @@
 * 🇺🇸 [CSS Easing Animation Tool — онлайн построение функций анимации](https://matthewlein.com/tools/ceaser)
 * 🇺🇸 [Dynamic Bézier Curves](https://www.joshwcomeau.com/posts/dynamic-bezier-curves/)
 
+### Цвета
+
+* 🇷🇺/🇺🇸 LCH-цвета в CSS [перевод](https://habr.com/ru/company/ruvds/blog/496966/)/[оригинал](https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
+
+### Режимы наложения
+
+* 🇷🇺 [Укрощаем режимы наложения в CSS](https://medium.com/@juwain/selective-desaturation-with-blend-modes-54eb1143f105)
+
 ### Единицы измерения
 
 * 🇺🇸 [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
@@ -100,12 +113,14 @@
 
 * 🇺🇸 Заходят как-то два браузера в скроллбар… [перевод](https://habr.com/ru/company/ruvds/blog/468405/)/[оригинал](https://www.filamentgroup.com/lab/scrollbars/)
 * 🇺🇸 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
+* 🇺🇸 [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
 
 ### Пользовательские свойства (CSS-переменные)
 
 * 🇺🇸 [Patterns for Practical CSS Custom Properties Use](https://css-tricks.com/patterns-for-practical-css-custom-properties-use/)
 * 🇷🇺 [Маленькие хитрости кастомных свойств (CSS-переменных)](https://css-live.ru/tricks/malenkie-xitrosti-kastomnyx-svojstv-css-peremennyx.html)
 * 🇷🇺/🇺🇸 Топ 5 причин, почему мне нравятся пользовательские свойства CSS [перевод](https://habr.com/ru/post/480806/)/[оригинал](https://dev.to/melnik909/the-5-reasons-why-i-like-css-custom-properties-4g18)
+* 🇷🇺 [Введение в пользовательские CSS-свойства](https://habr.com/ru/company/netologyru/blog/431616/)
 
 ### Библиотеки и фреймворки
 
@@ -120,11 +135,14 @@
 
 ### CSS Houdini
 
+* 🇷🇺/🇺🇸 Тёмная сторона использования полифиллов CSS [перевод](https://habr.com/ru/post/326056/)/[оригинал](https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/)
+
 #### Layout API
 
 #### Paint API
 
 * 🇺🇸 [Say Hello to Houdini and the CSS Paint API](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/)
+* 🇺🇸 [A CSS Houdini library for making your site a little more #extra](https://extra-css.netlify.app/)
 
 #### Parser API
 
@@ -137,6 +155,9 @@
 ### Эффекты и демо
 
 * 🇺🇸 [A Single Div](https://a.singlediv.com/)
+* 🇺🇸 [Textured Gradients in Pure CSS](https://rentafounder.com/textured-gradients-in-pure-css/)
+* 🇺🇸 [Gradient Shapes — Shapes generated with CSS background gradients](https://codepen.io/yuanchuan/full/vVRKRQ/)
+* 🇺🇸 [Diagonal Containers in CSS](https://codyhouse.co/blog/post/css-diagonal-containers)
 
 ## Шрифты
 
@@ -201,6 +222,11 @@
 * 🇺🇸 [I Used The Web For A Day Using A Screen Reader](https://www.smashingmagazine.com/2018/12/voiceover-screen-reader-web-apps/)
 * 🇷🇺/🇺🇸 Как правильно “делать” семантику [перевод](https://medium.com/@niktariy/c6c20f26b776)/[оригинал](https://blog.logrocket.com/how-to-do-semantics-the-right-way/)
 * 🇺🇸 [Why use a form element when submitting fields with JavaScript?](https://gomakethings.com/why-use-a-form-element-when-submitting-fields-with-javascript/)
+* 🇺🇸 [Create Amazing Password Forms](https://www.chromium.org/developers/design-documents/create-amazing-password-forms)
+* 🇷🇺 [Государственный сайт, доступный для людей с ограниченными возможностями](http://gov.design/blog/2016/11/08/accessibility.html)
+* 🇷🇺 [Доступность сайтов для «самых маленьких»](https://netology.ru/blog/dostupnost)
+* 🇺🇸 [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
+* 🇷🇺/🇺🇸 Дело не в моральных принципах: доступность нужна всем [перевод](https://css-live.ru/articles/delo-ne-v-moralnyx-principax-dostupnost-nuzhna-vsem.html)/[оригинал](https://una.im/a11y-for-the-masses/)
 
 ### Инклюзивные компоненты
 
@@ -214,13 +240,14 @@
 ## Графика
 
 * 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
-* 🇷🇺 [Полное руководство по отзывчивым изображениям!](https://www.notion.so/b5c7c2ad93f840db82a2c353251411cb)
+* 🇷🇺/🇺🇸 Полное руководство по отзывчивым изображениям! [перевод](https://medium.com/@ABatickaya/responsive-imgs-998f103a7a32)/[оригинал](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7)
 * 🇺🇸 [image orientation on the web](https://justmarkup.com/articles/2019-10-21-image-orientation/)
 * 🇺🇸 [Native lazy-loading for the web](https://web.dev/native-lazy-loading/)
 
 ## Аудио и видео
 
 * 🇷🇺/🇺🇸 Новый кодек AV1: ускоряем загрузку видео в браузере [перевод](https://habr.com/ru/post/442020/)/[оригинал](https://evilmartians.com/chronicles/better-web-video-with-av1-codec)
+* 🇺🇸 [AV1: next generation video – The Constrained Directional Enhancement Filter](https://hacks.mozilla.org/2018/06/av1-next-generation-video-the-constrained-directional-enhancement-filter/)
 
 ## SVG
 
