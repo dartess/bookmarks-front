@@ -33,6 +33,7 @@
 * 🇺🇸 [Typing objects in TypeScript](https://2ality.com/2020/01/typing-objects-typescript.html)
 * 🇷🇺/🇺🇸 Часто задаваемые вопросы о системах типов [перевод](https://habr.com/ru/company/ruvds/blog/462481/)/[оригинал](https://dev.to/stereobooster/type-system-faq-3oi0)
 * 🇺🇸 [Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
+* 🇺🇸 [Symbols in JavaScript and TypeScript](https://fettblog.eu/symbols-in-javascript-and-typescript/)
 
 ## TypeScript и React
 

@@ -35,6 +35,11 @@
 * 🇺🇸 [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 * 🇺🇸 [Presentation Attributes vs Inline Styles](https://css-tricks.com/presentation-attributes-vs-inline-styles/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=chem-prezentatsionnye-atributy-otlichayutsya)
 * 🇺🇸 [Considerations for styling the "pre" tag](https://mediatemple.net/blog/design-creative/considerations-for-styling-the-pre-tag/)
+* 🇷🇺/🇺🇸 Свойство background [перевод](https://medium.com/@ABatickaya/%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-background-4f3b67451794)/[оригинал](https://bitsofco.de/the-background-properties/)
+
+### Медиазапросы
+
+* 🇺🇸 [CSS media queries are not just max-width](https://medium.com/mabiloft/css-media-queries-are-not-just-max-width-e543ee5d1a5b)
 
 ### Текст
 
@@ -158,6 +163,7 @@
 * 🇺🇸 [Textured Gradients in Pure CSS](https://rentafounder.com/textured-gradients-in-pure-css/)
 * 🇺🇸 [Gradient Shapes — Shapes generated with CSS background gradients](https://codepen.io/yuanchuan/full/vVRKRQ/)
 * 🇺🇸 [Diagonal Containers in CSS](https://codyhouse.co/blog/post/css-diagonal-containers)
+* 🇺🇸 [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
 
 ## Шрифты
 
@@ -227,6 +233,7 @@
 * 🇷🇺 [Доступность сайтов для «самых маленьких»](https://netology.ru/blog/dostupnost)
 * 🇺🇸 [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
 * 🇷🇺/🇺🇸 Дело не в моральных принципах: доступность нужна всем [перевод](https://css-live.ru/articles/delo-ne-v-moralnyx-principax-dostupnost-nuzhna-vsem.html)/[оригинал](https://una.im/a11y-for-the-masses/)
+* 🇺🇸 [External Links, New Tabs, and Accessibility](https://codersblock.com/blog/external-links-new-tabs-and-accessibility/)
 
 ### Инклюзивные компоненты
 
@@ -248,13 +255,10 @@
 
 * 🇷🇺/🇺🇸 Новый кодек AV1: ускоряем загрузку видео в браузере [перевод](https://habr.com/ru/post/442020/)/[оригинал](https://evilmartians.com/chronicles/better-web-video-with-av1-codec)
 * 🇺🇸 [AV1: next generation video – The Constrained Directional Enhancement Filter](https://hacks.mozilla.org/2018/06/av1-next-generation-video-the-constrained-directional-enhancement-filter/)
+* 🇺🇸 [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 
 ## SVG
 
 * 🇺🇸 [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
 * 🇺🇸 [SVG Filter Effects: Duotone Images with feComponentTransfer](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
 * 🇺🇸 [Understanding the SVG viewBox](http://thenewcode.com/1151/Understanding-the-SVG-viewBox)
-
-## Open Graph
-
-* 🇷🇺 [Крутой шаринг страниц в соцсети с помощью Open Graph](https://habr.com/ru/post/278459/)

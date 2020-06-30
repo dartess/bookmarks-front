@@ -152,6 +152,7 @@
 
 * 🇺🇸 [React, performance и -500 миллисекунд на старте — история наших оптимизаций в цифрах](https://habr.com/ru/post/495984/)
 * 🇷🇺/🇺🇸 Анализ и оптимизация React-приложений [перевод](https://habr.com/ru/company/ruvds/blog/442650/)/[оригинал](https://houssein.me/progressive-react)
+* 🇺🇸 [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
 
 ### Метрики производительности
 
@@ -249,6 +250,7 @@
 * 🇷🇺/🇺🇸 Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, перевод [часть 1](https://habr.com/ru/post/158639/), [часть 2](https://habr.com/ru/post/158895/)/[оригинал](https://kunststube.net/encoding/)
 * 🇷🇺 [На что обратить внимание, когда делаешь поиск](http://mikeozornin.ru/blog/all/search-ui-tricks/)
 * 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
+* 🇷🇺/🇺🇸 CORS [перевод](https://frontendian.co/cors-ru)/[оригинал](https://frontendian.co/cors)
 
 ## Архитектура и разработка
 
@@ -283,6 +285,10 @@
 * 🇺🇸 [Public GraphQL APIs](https://github.com/APIs-guru/graphql-apis)
 * 🇺🇸 [How we learned to stop worrying and love GraphQL](https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9)
 
+## Open Graph
+
+* 🇷🇺 [Крутой шаринг страниц в соцсети с помощью Open Graph](https://habr.com/ru/post/278459/)
+
 ## История
 
 * 🇷🇺/🇺🇸 Браузерный войны, часть 1: когда Netscape встретил Microsoft, перевод [часть 1](https://medium.com/@slonoed/351dcf170e59), [часть 2](https://medium.com/@slonoed/92168ce17ae5)/[оригинал](http://thehistoryoftheweb.com/browser-wars/)
@@ -307,3 +313,9 @@
 * 🇺🇸 [CSS-only double-click](https://codepen.io/MartijnCuppens/pen/GZWgaQ)
 * 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
 * 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)
+
+## Стандарты около web-технологий
+
+### base64
+
+* 🇺🇸 [Base64 Encoding: A Visual Explanation](https://www.lucidchart.com/techblog/2017/10/23/base64-encoding-a-visual-explanation/)

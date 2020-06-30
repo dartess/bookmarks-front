@@ -40,6 +40,11 @@
 * 🇷🇺/🇺🇸 Структуры данных. Неформальный гайд [перевод](https://habr.com/ru/post/263765/)/[оригинал](http://algosaur.us/data-structures-basics/)
 * 🇷🇺/🇺🇸 👍 Разбираемся в проверке JavaScript-типов с помощью typeof [перевод](https://medium.com/devschacht/javascript-typeof-43591ab15bef)/[оригинал](https://blog.logrocket.com/javascript-typeof-2511d53a1a62/)
 
+### Строки
+
+* 🇷🇺 [Нужно ли чистить строки в JavaScript?](https://habr.com/ru/post/449368/)
+* 🇷🇺 [BIDI (unicode bidirectional algorithm)](https://habr.com/ru/post/181123/)
+
 ## Шаблоны проектирования
 
 * 🇷🇺/🇺🇸 Шаблон Facade в JavaScript [перевод](https://webdevblog.ru/shablon-facade-v-javascript/)/[оригинал](https://dev.to/tomekbuszewski/facade-pattern-in-javascript-3on4)
@@ -80,9 +85,14 @@
 * 🇺🇸 [Использование switch](https://hackernoon.com/rethinking-javascript-eliminate-the-switch-statement-for-better-code-5c81c044716d)
 * 🇺🇸 [Why you shouldn’t reassign values in JavaScript](https://zellwk.com/blog/dont-reassign/)
 
+## Метапрограммирование
+
+* 🇷🇺 [Метапрограммирование в JavaScript](https://habr.com/ru/company/docsvision/blog/417097/)
+
 ## WebAssembly
 
 * 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
 * 🇺🇸 [WebAssembly Studio](https://webassembly.studio/)
 * 🇷🇺/🇺🇸 Первое знакомство с AssemblyScript [перевод](https://habr.com/ru/company/ruvds/blog/477272/)/[оригинал](https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/)
 * 🇷🇺/🇺🇸 Как мы при помощи WebAssembly в 20 раз веб-приложение ускорили [перевод](https://habr.com/ru/company/skillbox/blog/452190/)/[оригинал](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
+* 🇺🇸 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/)

@@ -174,6 +174,7 @@
 ### RxJS
 
 * 🇺🇸 [RxJS: A Simple Introduction](https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67)
+* 🇺🇸 [Push-based Architectures with RxJS](https://medium.com/@thomasburlesonIA/push-based-architectures-with-rxjs-81b327d7c32d)
 
 ### Карты
 
@@ -346,6 +347,7 @@
 
 #### Web NFC
 
+* 🇺🇸 [Interact with NFC devices on Chrome for Android](https://web.dev/nfc/)
 * 🇺🇸 [NFC](https://whatwebcando.today/nfc.html)
 * 🇺🇸 [Web NFC — черновик спецификации](https://w3c.github.io/web-nfc/)
 
@@ -459,6 +461,8 @@
 
 ### Взаимодействие между приложениями
 
+* 🇺🇸 [Web Share Demo (Web Share Level 2 and Web Share Target API Level 2)](https://github.com/GoogleChrome/samples/tree/gh-pages/web-share)
+
 #### Web Share API
 
 * 🇺🇸 [Share like a native app with the Web Share API](https://web.dev/web-share/)
@@ -467,6 +471,7 @@
 
 #### Web Share Target API
 
+* 🇺🇸 [Receiving shared data with the Web Share Target API](https://web.dev/web-share-target/)
 * 🇺🇸 [Web Share Target API — черновик предложения](https://wicg.github.io/web-share-target/)
 * 🇺🇸 [Web Share Target API — Level 2 — черновик предложения](https://wicg.github.io/web-share-target/level-2/)
 
@@ -480,6 +485,7 @@
 * 🇷🇺 [Стандартный браузерный API Payment Request](https://habr.com/ru/company/ruvds/blog/460799/)
 * 🇺🇸 [Introducing Web Payments: Easier Online Purchases With The Payment Request API](https://www.smashingmagazine.com/2018/01/online-purchase-payment-request-api/)
 * 🇺🇸 [Introducing the Payment Request API for Apple Pay](https://webkit.org/blog/8182/introducing-the-payment-request-api-for-apple-pay/)
+* 🇺🇸 [Accepting Payments using JavaScript Payment Request API](https://dev.to/attacomsian/understanding-javascript-payment-request-api-2kh)
 * 🇺🇸 [What’s New in the Payment Request API for Apple Pay (Jun 6, 2019)](https://webkit.org/blog/9167/whats-new-in-the-payment-request-api-for-apple-pay/)
 
 #### Payment Handler API
@@ -507,9 +513,9 @@
 
 ### Ввод/вывод информации
 
-#### Touch-экраны
+#### Pointer Events API
 
-* 🇺🇸 [Touch Gestures](https://whatwebcando.today/touch.html)
+* 🇺🇸 [Pointer Events API](https://developers.google.com/web/updates/2016/10/pointer-events)
 
 #### Web Speech API — распознавание и синтезация речи
 
@@ -606,6 +612,10 @@
 ### FormData
 
 * 🇺🇸 👍 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
+
+### Content Indexing API
+
+* 🇺🇸 [Indexing your offline-capable pages with the Content Indexing API](https://web.dev/content-indexing-api/)
 
 ## Совсем прочее
 

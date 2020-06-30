@@ -39,6 +39,10 @@
 * 🇷🇺 👍 [Вы используете devDependencies неправильно](https://incubator.flaks.dev/devdependencies-mistake)
 * 🇺🇸 [An abbreviated history of JavaScript package managers](https://medium.com/javascript-in-plain-english/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e)
 
+### semver
+
+* 🇺🇸 [What's the difference between tilde(~) and caret(^) in package.json?](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json/33067594#33067594)
+
 ## Сборка проекта (бандлинг)
 
 ### Webpack
