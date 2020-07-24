@@ -7,14 +7,23 @@
 * 🇷🇺/🇺🇸 [перевод]()/[оригинал]()
 -->
 
-## SEO и метрики
+## SEO и аналитические метрики
 
 * 🇺🇸 [A Definitive Guide to SEO with a Serverless React Application in 2019](https://www.codemochi.com/blog/2019-06-12-guide-to-seo-with-serverless-react)
 * 🇺🇸 [Fix a single-page app for Google Search](https://codelabs.developers.google.com/codelabs/making-a-single-page-app-search-friendly/#0)
-* 🇷🇺 [Новые типы микроразметки для расширенных интерактивных сниппетов](https://habr.com/ru/company/promopult/blog/465577/)
 * 🇷🇺 [Гид по Метрике: как проверить работу цели](https://yandex.ru/blog/metrika-club/gid-po-metrike-kak-proverit-rabotu-tseli)
 * 🇺🇸 [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 * 🇺🇸 📺 [JavaScript SEO](https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
+
+### Микроразметка
+
+* 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
+* 🇷🇺 [Не только Яндексу. Микроразметка на крупнейших сайтах рунета: зачем ею пользуются и почему она пригодится и вам](https://habr.com/ru/company/yandex/blog/246003/)
+* 🇷🇺 [Новые типы микроразметки для расширенных интерактивных сниппетов](https://habr.com/ru/company/promopult/blog/465577/)
+
+## Сети
+
+* 🇺🇸 [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 
 ## Дизайн
 
@@ -25,6 +34,7 @@
 * 🇺🇸 [Smart Interface Design Patterns Checklists (нужно подписаться на рассылку для доступа)](https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/)
 * 🇺🇸 [The Art of UI Skeletons](http://farmdev.com/)
 * 🇺🇸 [Design System Checklist](https://designsystemchecklist.com/)
+* 🇷🇺 [Дизайн текста: матчасть](https://design.glvrd.ru/learn.html)
 
 ### UX
 
@@ -34,6 +44,7 @@
 * 🇷🇺 [Тысяча и один UI-баг, или Как помочь разработчику избегать типовых ошибок в UI](https://habr.com/ru/company/badoo/blog/479970/)
 * 🇺🇸 [Better Search UX Through Microcopy](https://www.smashingmagazine.com/2019/06/better-search-ux-microcopy/)
 * 🇺🇸 [The problem with tooltips and what to do instead](https://adamsilver.io/articles/the-problem-with-tooltips-and-what-to-do-instead/)
+* 🇺🇸 [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)
 
 ### Инструменты
 
@@ -73,6 +84,7 @@
 ### Puppeteer
 
 * 🇺🇸 [Getting Started with Puppeteer](https://www.sitepoint.com/getting-started-with-puppeteer/)
+* 🇺🇸 [Puppeteer examples](https://github.com/checkly/puppeteer-examples)
 
 ## Git
 
@@ -226,7 +238,6 @@
 * 🏳 [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
 * 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
-* 🇷🇺 [Микроразметка для «Яндекс» и Google: как настроить и проверить](https://www.uplab.ru/blog/the-data-markup-for-yandex-and-google-how-to-configure-and-test/)
 * 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
 * 🇷🇺 [Фантастические веб-спецификации и где они обитают](https://css-live.ru/css/fantasticheskie-veb-specifikacii-i-gde-oni-obitayut.html)
 * 🇷🇺 [Шесть задачек для Front-End разработчика](https://habr.com/ru/company/edison/blog/473894/)
@@ -279,6 +290,7 @@
 ## Машинное обучение
 
 * 🇷🇺/🇺🇸 Машинное обучение для фронтенд разработчиков с Tensorflow.js [перевод](https://medium.com/maria-machine/charlie-gerard-machine-learning-for-front-end-developers-with-tensorflowjs-9c908fbfa8ec)/[оригинал](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/)
+* 🇺🇸 [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 
 ## GraphQL
 
@@ -306,6 +318,7 @@
 * 🏳 [Webamp — Winamp 2 in your browser](https://webamp.org/)
 * 🇺🇸 [VOIDCALL – MAKING OF](https://phoboslab.org/log/2019/09/voidcall-making-of)
 * 🏳 [Ghost Mouse](https://codepen.io/shubniggurath/full/LrXQBe/)
+* 🏳 [Motion blur effect using SVG filters](https://codepen.io/damianmuti/pen/MvYPPa)
 
 ### HTML/CSS only
 

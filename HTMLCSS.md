@@ -36,6 +36,8 @@
 * 🇺🇸 [Presentation Attributes vs Inline Styles](https://css-tricks.com/presentation-attributes-vs-inline-styles/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=chem-prezentatsionnye-atributy-otlichayutsya)
 * 🇺🇸 [Considerations for styling the "pre" tag](https://mediatemple.net/blog/design-creative/considerations-for-styling-the-pre-tag/)
 * 🇷🇺/🇺🇸 Свойство background [перевод](https://medium.com/@ABatickaya/%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-background-4f3b67451794)/[оригинал](https://bitsofco.de/the-background-properties/)
+* 🇺🇸 [CSS Will Change Module Level 1 — Editor’s Draft](https://drafts.csswg.org/css-will-change/)
+* 🇷🇺/🇺🇸 Новые логические свойства в CSS! [перевод](https://medium.com/web-standards/logical-css-props-c5046c563640)/[оригинал](https://medium.com/@elad/new-css-logical-properties-bc6945311ce7)
 
 ### Медиазапросы
 
@@ -95,6 +97,7 @@
 ### CSS Containment
 
 * 🇺🇸 [Helping Browsers Optimize With The CSS Contain Property](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/)
+* 🇺🇸 [Let’s Take a Deep Dive Into the CSS Contain Property](https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/)
 
 ### Анимации
 
@@ -234,6 +237,7 @@
 * 🇺🇸 [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
 * 🇷🇺/🇺🇸 Дело не в моральных принципах: доступность нужна всем [перевод](https://css-live.ru/articles/delo-ne-v-moralnyx-principax-dostupnost-nuzhna-vsem.html)/[оригинал](https://una.im/a11y-for-the-masses/)
 * 🇺🇸 [External Links, New Tabs, and Accessibility](https://codersblock.com/blog/external-links-new-tabs-and-accessibility/)
+* 🇺🇸 [Changing the Reading Order of a Page with ARIA Flowto](https://timwright.org/blog/2016/11/05/changing-reading-order-page-aria-flowto/)
 
 ### Инклюзивные компоненты
 

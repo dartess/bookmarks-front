@@ -13,7 +13,6 @@
 * 🇺🇸 [Поддержка старых браузеров без вреда для остальных](https://sgom.es/posts/2019-03-06-supporting-old-browsers-without-hurting-everyone/)
 * 🇷🇺 [Как рисует браузер. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/468165/)
 * 🇺🇸 [Hide iPhone HTML5 video play button](https://stackoverflow.com/questions/8911247/hide-iphone-html5-video-play-button)
-* 🇺🇸 [Browser Bug Searcher](https://browser-issue-tracker-search.appspot.com/)
 * 🇺🇸 [ECMAScript features compatibility table](https://kangax.github.io/compat-table/es6/)
 * 🇺🇸 [Event loop explainer](https://github.com/atotic/event-loop)
 * 🇷🇺 [Browser Fingerprint — анонимная идентификация браузеров](https://habr.com/ru/company/oleg-bunin/blog/321294/)
@@ -23,6 +22,7 @@
 * 🇷🇺/🇺🇸 DevTips: Советы веб-разработчику [частичный перевод 1](https://habr.com/ru/company/mailru/blog/268519/), [частичный перевод 2](https://habr.com/ru/company/mailru/blog/268777/), [частичный перевод 3](https://habr.com/ru/company/mailru/blog/275425/), [частичный перевод 4](https://habr.com/ru/company/mailru/blog/278021/)/[оригинал](https://umaar.com/dev-tips/)
 * 🇺🇸 [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
 * 🇺🇸 [Browser Architecture: Web-to-App Communication Overview](https://textslashplain.com/2019/08/28/browser-architecture-web-to-app-communication-overview/)
+* 🇺🇸 👍 [What every Browser knows about you](https://webkay.robinlinus.com/)
 
 ### Полезные расширения для Chrome и других браузеров
 
@@ -103,7 +103,6 @@
 * 🇺🇸 [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
 * 🇺🇸 [Piecon — Pie charts in your favicon!](http://lipka.github.io/piecon/)
 * 🇺🇸 [AR.js - Augmented Reality on the Web](https://github.com/AR-js-org/AR.js)
-* 🇺🇸 [Fuse.js — powerful, lightweight fuzzy-search library](https://fusejs.io/)
 * 🇺🇸 [lax.js — imple & light weight (<3kb gzipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll!](https://github.com/alexfoxy/lax.js)
 
 ### Карусели
@@ -179,10 +178,16 @@
 ### Карты
 
 * 🇷🇺 [Google Maps — кастомизируй меня полностью](https://habr.com/ru/post/324880/)
+* 🇺🇸 [Google Geolocation API](https://developers.google.com/maps/documentation/geolocation/overview)
 
 ### Иммутабельность
 
 * 🇺🇸 [Immutable.js](https://facebook.github.io/immutable-js/)
+
+### Поиск
+
+* 🇺🇸 [Fuse.js — powerful, lightweight fuzzy-search library](https://fusejs.io/)
+* 🇺🇸 [Elasticlunr.js — Lightweight full-text search engine in Javascript for browser search and offline search](http://elasticlunr.com/)
 
 ### WYSIWYG
 
@@ -223,6 +228,10 @@
 * 🇺🇸 [Маскируемеые иконки (в Android)](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive)
 * 🇺🇸 [New in Chrome 79 — Maskable Icons](https://developers.google.com/web/updates/2019/12/nic79#maskable-icons)
 * 🇺🇸 [Maskable Icons: Android Adaptive Icons for Your PWA](https://css-tricks.com/maskable-icons-android-adaptive-icons-for-your-pwa/)
+
+#### App shortcuts
+
+* 🇺🇸 [Get things done quickly with app shortcuts](https://web.dev/app-shortcuts/)
 
 ### Service Worker
 
@@ -317,6 +326,7 @@
 
 * 🇺🇸 [MDN — WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 * 🇺🇸 [Real-Time Communication](https://whatwebcando.today/realtime.html)
+* 🇺🇸 [A comprehensive dive into WebRTC for client-server web games](http://blog.brkho.com/2017/03/15/dive-into-client-server-web-games-webrtc/)
 
 ### Доступ к аппаратным ресурсам устройства (Device Features)
 
@@ -363,13 +373,26 @@
 #### Хренение информации
 
 * 🇺🇸 [Offline Storage](https://whatwebcando.today/storage.html)
-* 🇺🇸 [MDN — Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
-* 🇺🇸 [MDN — IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-* 🇺🇸 [MDN — Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 * 🇺🇸 [MDN — Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Storage_API)
 * 🇺🇸 [Storage Quotas](https://whatwebcando.today/storage-quota.html)
+
+##### Web Storage API
+
+* 🇺🇸 [MDN — Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 * 🇺🇸 [Test of localStorage limits/quota](https://arty.name/localstorage.html)
+
+##### IndexedDB API
+
+* 🇺🇸 [MDN — IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * 🇺🇸 [React, Web Workers and IndexedDB](https://dev.to/daviddalbusco/react-web-workers-and-indexeddb-55ip)
+
+##### ServiceWorker Cache
+
+* 🇺🇸 [MDN — Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+
+##### Storage Access API
+
+* 🇺🇸 [Introducing the Storage Access API](https://blogs.windows.com/msedgedev/2020/07/08/introducing-storage-access-api/)
 
 #### File — доступ к выбранным файлам
 
@@ -391,9 +414,9 @@
 * 🇺🇸 [Contact Picker API — explainer](https://github.com/WICG/contact-api/)
 * 🇺🇸 [Автозаполнение из контактов в Safari](https://github.com/mozilla/standards-positions/issues/153#issuecomment-487817706)
 
-#### SMS Receiver API — получение одноразовых кодов из СМС
+#### Web OTP API — получение одноразовых кодов из СМС
 
-* 🇺🇸 [Verify phone numbers on the web with the SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
+* 🇺🇸 [Verify phone numbers on the web with the Web OTP API](https://web.dev/web-otp/)
 * 🇺🇸 [Web OTP explainer](https://github.com/samuelgoto/WebOTP)
 * 🇺🇸 [Автоподстановка OTP в Safari](https://developer.apple.com/documentation/security/password_autofill/enabling_password_autofill_on_an_html_input_element?language=objc)
 
@@ -563,6 +586,10 @@
 * 🇺🇸 [Picture-in-Picture](https://www.w3.org/TR/picture-in-picture/)
 * 🇺🇸 [How we built Picture-in-Picture in Firefox Desktop with more control over video](https://hacks.mozilla.org/2020/01/how-we-built-picture-in-picture-in-firefox-desktop/)
 
+#### Web Audio API
+
+* 🇷🇺/🇺🇸 Концепции, лежащие в основе Web Audio API [перевод](https://habr.com/ru/post/495690/)/[оригинал](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
+
 ### API для работы с устройствами
 
 #### Gamepad API
@@ -582,6 +609,7 @@
 
 #### WebHID API
 
+* 🇺🇸 [Human interface devices on the web: a few quick examples](https://web.dev/hid-examples/)
 * 🇺🇸 [Upcoming WebHID API - access Bluetooth/USB HID devices in web applications](https://blog.scottlogic.com/2019/04/03/upcoming-webhid-api.html)
 
 #### Serial API
@@ -661,6 +689,7 @@
 * 🇺🇸 [Raw WebGL — An overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL](https://alain.xyz/blog/raw-webgl)
 * 🇷🇺 [Введение в программирование шейдеров для верстальщиков](https://habr.com/ru/post/420847/)
 * 🇷🇺 [Применяем мозаику Вороного, пикселизацию и геометрические маски в шейдерах для украшения сайта](https://habr.com/ru/post/421821/)
+* 🇷🇺/D [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/)/[defront](https://defront.ru/posts/2019/03-march/12-fast-generalization-of-markers/)
 
 ### Библиотеки для WebGL
 

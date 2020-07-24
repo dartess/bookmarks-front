@@ -54,6 +54,7 @@
 * 🇺🇸 👍 [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)
 * 🇺🇸 [Poi — bundler built on the top of webpack, trying to make developing and bundling apps with webpack as easy as possible](https://poi.js.org/)
 * 🇺🇸 [Hash vs chunkhash vs ContentHash](https://medium.com/@sahilkkrazy/hash-vs-chunkhash-vs-contenthash-e94d38a32208)
+* 🇺🇸 [webpack-demos](https://github.com/ruanyf/webpack-demos)
 
 ### Rollup
 
@@ -77,6 +78,7 @@
 * 🇺🇸 👍 [minimist — получение аргументов запуска](https://www.npmjs.com/package/minimist)
 * 🇺🇸 👍 [rimraf — rm -rf for Node](https://www.npmjs.com/package/rimraf)
 * 🇺🇸 [gauge — A nearly stateless terminal based horizontal gauge / progress bar](https://www.npmjs.com/package/gauge)
+* 🇺🇸 [Hygen — The scalable code generator that saves you time](https://www.hygen.io/)
 
 ## Препроцессоры
 
