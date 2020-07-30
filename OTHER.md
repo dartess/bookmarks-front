@@ -24,6 +24,16 @@
 ## Сети
 
 * 🇺🇸 [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+* 🇷🇺/🇺🇸 CORS [перевод](https://frontendian.co/cors-ru)/[оригинал](https://frontendian.co/cors)
+* 🇺🇸 [Same Origin Policy & CORS](https://textslashplain.com/2020/06/03/same-origin-policy-cors/)
+* 🇷🇺 [Руководство по кросс-доменным запросам (CORS)](https://grishaev.me/cors/)
+
+### Кэширование
+
+* 🇺🇸 [HTTP Caching](https://frontendian.co/http-caching)
+* 🇺🇸 [Short basics of caching](https://iamakulov.com/notes/caching/)
+* 🇺🇸 [HTTP Heuristic Caching (Missing Cache-Control and Expires Headers) Explained](https://paulcalvano.com/index.php/2018/03/14/http-heuristic-caching-missing-cache-control-and-expires-headers-explained/)
+* 🇷🇺 [Кеширование одной строкой](https://t.me/iamakulov_channel/505)
 
 ## Дизайн
 
@@ -45,6 +55,7 @@
 * 🇺🇸 [Better Search UX Through Microcopy](https://www.smashingmagazine.com/2019/06/better-search-ux-microcopy/)
 * 🇺🇸 [The problem with tooltips and what to do instead](https://adamsilver.io/articles/the-problem-with-tooltips-and-what-to-do-instead/)
 * 🇺🇸 [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)
+* 🇺🇸 [Indicators, Validations, and Notifications: Pick the Correct Communication Option](https://www.nngroup.com/articles/indicators-validations-notifications/)
 
 ### Инструменты
 
@@ -96,6 +107,7 @@
 ## Безопасность
 
 * 🇺🇸 [Building Secure JavaScript Applications](https://nemethgergely.com/building-secure-javascript-applications/)
+* 🇺🇸 [Web Security 101: An Interactive Cross-Site Request Forgery (CSRF) Demo](https://victorzhou.com/blog/csrf/)
 
 ## Что читать/смотреть
 
@@ -128,6 +140,7 @@
 * 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 * 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
 * 🇷🇺 [Сборник рекомендаций от CSSSR](https://github.com/CSSSR/sputnik)
+* 🇷🇺 [Вёрстка — это не тупо. Пособие для тех, кому надо верстать.](http://webmasters.teamdev.com/)
 
 ## Оптимизация
 
@@ -212,6 +225,7 @@
 * 🇺🇸 [TinyPNG — оптимизация png](https://tinypng.com/)
 * 🇺🇸 [Squoosh — оптимизация и конвертация изображений (с поддержкой webp)](https://squoosh.app/)
 * 🇺🇸 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
+* 🇺🇸 [CSS Scroll Shadows!](https://css-scroll-shadows.now.sh/)
 
 ## Настройка окружения
 
@@ -261,7 +275,7 @@
 * 🇷🇺/🇺🇸 Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, перевод [часть 1](https://habr.com/ru/post/158639/), [часть 2](https://habr.com/ru/post/158895/)/[оригинал](https://kunststube.net/encoding/)
 * 🇷🇺 [На что обратить внимание, когда делаешь поиск](http://mikeozornin.ru/blog/all/search-ui-tricks/)
 * 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
-* 🇷🇺/🇺🇸 CORS [перевод](https://frontendian.co/cors-ru)/[оригинал](https://frontendian.co/cors)
+* 🇷🇺 [Советы для разработчика интерфейсов](https://github.com/forwebdev/ui-developer-tips)
 
 ## Архитектура и разработка
 
@@ -323,6 +337,7 @@
 ### HTML/CSS only
 
 * 🇺🇸 [CSS-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
+* 🇺🇸 [HTML-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
 * 🇺🇸 [CSS-only double-click](https://codepen.io/MartijnCuppens/pen/GZWgaQ)
 * 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
 * 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)

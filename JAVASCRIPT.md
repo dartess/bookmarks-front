@@ -8,29 +8,32 @@
 -->
 
 * 🇷🇺 [Современный учебник JavaScript](https://learn.javascript.ru/)
+* 🇷🇺 Выразительный Javascript (Eloquent JavaScript)[перевод, 2-е издание](https://eloquent-javascript.karmazzin.ru/)/[оригинал, 3-е издание](https://eloquentjavascript.net/)
+* 🇺🇸 [The State of JavaScript 2019](https://2019.stateofjs.com/)
+
+## Стандарты их обновления
+
 * 🇺🇸 [ECMAScript Language Specification](https://tc39.es/ecma262/)
 * 🇺🇸 [Lists and examples for new Javascript features](https://github.com/daumann/ECMAScript-new-features-list)
 * 🇺🇸 [Разбор новинок ES2016 и ES2017](https://exploringjs.com/es2016-es2017/)
 * 🇺🇸 [Разбор новинок ES2018 и ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 * 🇺🇸 [ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
+* 🇺🇸 Understanding the ECMAScript spec, [part 1](https://v8.dev/blog/understanding-ecmascript-part-1), [part 2](https://v8.dev/blog/understanding-ecmascript-part-2), [part 3](https://v8.dev/blog/understanding-ecmascript-part-3), [part 4](https://v8.dev/blog/understanding-ecmascript-part-4)
+
+## Концепции, теория, разное
+
 * 🇺🇸 [5 interesting and not-necessarily-useful Javascript tricks](https://areknawo.com/5-interesting-and-not-necessarily-useful-javascript-tricks/)
-* 🇺🇸 [Understanding JavaScript Decorators](https://www.simplethread.com/understanding-js-decorators/)
-* 🇺🇸 [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
-* 🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
 * 🇷🇺/🇺🇸 Вы не знаете JS (You Don't Know JS) [перевод (в процессе)](https://github.com/azat-io/you-dont-know-js-ru)/[оригинал](https://github.com/getify/You-Dont-Know-JS)
 * 🇷🇺 [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/ru/post/474852/)
 * 🇷🇺 👍 [Визуализация принципа действия throttle / debounce](https://codepen.io/dartess/full/pGJYmj)
-* 🇺🇸 [The State of JavaScript 2019](https://2019.stateofjs.com/)
 * 🇷🇺 [Случайные числа не случайны](https://medium.com/@frontman/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-%D0%BD%D0%B5-%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B-252e08e60828)
 * 🇷🇺 [Разбираемся в алгоритмах и структурах данных. Доступно и понятно](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
 * 🇷🇺 Как работать с денежными значениями в JavaScript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
-* 🇷🇺 [Выразительный Javascript (Eloquent JavaScript)[перевод, 2-е издание](https://eloquent-javascript.karmazzin.ru/)/[оригинал, 3-е издание](https://eloquentjavascript.net/)
 * 🇺🇸 [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://www.freecodecamp.org/news/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32/)
-* 🇷🇺 [Классические алгоритмы и структуры данных на JavaScript](https://habr.com/ru/post/359192/)
-* 🇺🇸 Understanding the ECMAScript spec, [part 1](https://v8.dev/blog/understanding-ecmascript-part-1), [part 2](https://v8.dev/blog/understanding-ecmascript-part-2), [part 3](https://v8.dev/blog/understanding-ecmascript-part-3), [part 4](https://v8.dev/blog/understanding-ecmascript-part-4)
 * 🇷🇺 [Явные возможности JavaScript](https://habr.com/ru/post/432102/)
+* 🇺🇸 💳 [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/)
 
-## Типы и структуры данных
+## Алгорирмы, типы и структуры данных
 
 * 🇺🇸 [Data structures in JavaScript](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/)
 * 🇺🇸 [Attributes of object properties in JavaScript](https://2ality.com/2019/11/object-property-attributes.html)
@@ -39,6 +42,7 @@
 * 🇺🇸 [A Practical Guide to Symbols in JavaScript](http://thecodebarbarian.com/a-practical-guide-to-symbols-in-javascript.html)
 * 🇷🇺/🇺🇸 Структуры данных. Неформальный гайд [перевод](https://habr.com/ru/post/263765/)/[оригинал](http://algosaur.us/data-structures-basics/)
 * 🇷🇺/🇺🇸 👍 Разбираемся в проверке JavaScript-типов с помощью typeof [перевод](https://medium.com/devschacht/javascript-typeof-43591ab15bef)/[оригинал](https://blog.logrocket.com/javascript-typeof-2511d53a1a62/)
+* 🇷🇺 [Классические алгоритмы и структуры данных на JavaScript](https://habr.com/ru/post/359192/)
 
 ### Строки
 
@@ -47,16 +51,22 @@
 
 ## Шаблоны проектирования
 
+* 🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
 * 🇷🇺/🇺🇸 Шаблон Facade в JavaScript [перевод](https://webdevblog.ru/shablon-facade-v-javascript/)/[оригинал](https://dev.to/tomekbuszewski/facade-pattern-in-javascript-3on4)
 
 ## Асинхронное программирование, promises, async/await
 
 * 🇺🇸 [Simplify JavaScript Promises](https://dev.to/sunnysingh/simplify-javascript-promises-4djb)
 * 🇺🇸 [What You Need to Know About Asynchronous Programming in Javascript](https://medium.com/swlh/what-you-need-to-know-about-asynchronous-programming-in-javascript-894f90a97941)
+* 🇺🇸 [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
 
 ## Итераторы и генераторы
 
 * 🇷🇺 [Как перестать бояться и полюбить Итераторы](https://webdevblog.ru/kak-perestat-boyatsya-i-poljubit-iteratory/)
+
+## Декораторы
+
+* 🇺🇸 [Understanding JavaScript Decorators](https://www.simplethread.com/understanding-js-decorators/)
 
 ## RegExp
 

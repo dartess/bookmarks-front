@@ -7,33 +7,39 @@
 * 🇷🇺/🇺🇸 [перевод]()/[оригинал]()
 -->
 
+## Руководства
+
 * 🇷🇺 [TypeScript: окончательное руководство](https://nauchikus.github.io/typescript-definitive-guide/)
 * 🇷🇺 [TypeScript: Введение](https://canonium.com/articles/typescript-introduction)
 * 🇷🇺 [Глубокое погружение в TypeScript](https://github.com/etroynov/typescript-book)
 * 🇺🇸 [Новая версия официальной документации](https://microsoft.github.io/TypeScript-New-Handbook/outline/)
-* 🇺🇸 [Как дописать типы для сторонних модулей](https://medium.com/@chris_72272/migrating-to-typescript-write-a-declaration-file-for-a-third-party-npm-module-b1f75808ed2)
 * 🇺🇸 [TypeScript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
-* 🇺🇸 [Интерфейсы против типов](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
 * 🇷🇺 📺 [TypeScript: the good parts, Михаил Башуров](https://www.youtube.com/watch?v=n8aope5NKfM)
-* 🇺🇸 [Написание документации (TypeDoc)](https://typedoc.org/guides/doccomments/)
-* 🇺🇸 [Описание разницы между `Object`, `{}` и `object` в TS](https://stackoverflow.com/a/49465172)
-* 🇺🇸 [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
-* 🇷🇺 [Немного про дженерики](https://habr.com/ru/post/455473/)
 * 🇺🇸 [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/jsx/react.html)
-* 🇷🇺 [5 заповедей TypeScript-разработчика](https://habr.com/ru/post/461565/)
-* 🇺🇸 [typelevel-ts — дополнительные расширенные типы](https://gcanti.github.io/typelevel-ts/)
-* 🇺🇸 [Type Zoo — дополнительные расширенные типы](https://github.com/pelotom/type-zoo)
 * 🇺🇸 [TypeScript Cheatsheets — сборники шпаргалок по TS применимо к различным платформам](https://github.com/typescript-cheatsheets)
+
+## Подробнее о типах
+
+* 🇺🇸 [Интерфейсы против типов](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
+* 🇺🇸 [Описание разницы между `Object`, `{}` и `object` в TS](https://stackoverflow.com/a/49465172)
+* 🇷🇺 [Немного про дженерики](https://habr.com/ru/post/455473/)
 * 🇷🇺 [TypeScript. Мощь never](https://habr.com/ru/post/471026/)
-* 🇺🇸 [Typescript and validations at runtime boundaries](https://lorefnon.tech/2018/03/25/typescript-and-validations-at-runtime-boundaries/)
-* 🇺🇸 👍 [ts-node — запуск TS на Node.js](https://github.com/TypeStrong/ts-node)
-* 🇺🇸 👍 [tsconfig-paths — модуль для резолвинга алиасов в ts-node](https://www.npmjs.com/package/tsconfig-paths)
-* 🇺🇸 [ts-toolbelt](https://pirix-gh.github.io/ts-toolbelt/index.html)
 * 🇺🇸 [TypeScript: Create a condition-based subset types](https://medium.com/dailyjs/typescript-create-a-condition-based-subset-types-9d902cea5b8c)
 * 🇺🇸 [Typing objects in TypeScript](https://2ality.com/2020/01/typing-objects-typescript.html)
-* 🇷🇺/🇺🇸 Часто задаваемые вопросы о системах типов [перевод](https://habr.com/ru/company/ruvds/blog/462481/)/[оригинал](https://dev.to/stereobooster/type-system-faq-3oi0)
 * 🇺🇸 [Advanced TypeScript Types with Examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 * 🇺🇸 [Symbols in JavaScript and TypeScript](https://fettblog.eu/symbols-in-javascript-and-typescript/)
+
+## Инструменты
+
+* 🇺🇸 [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
+* 🇺🇸 👍 [ts-node — запуск TS на Node.js](https://github.com/TypeStrong/ts-node)
+* 🇺🇸 👍 [tsconfig-paths — модуль для резолвинга алиасов в ts-node](https://www.npmjs.com/package/tsconfig-paths)
+
+## Библиотеки типов 
+
+* 🇺🇸 [ts-toolbelt — Higher Type Safety for TypeScript. A collection of useful types.](https://millsp.github.io/ts-toolbelt/)
+* 🇺🇸 [typelevel-ts — дополнительные расширенные типы](https://gcanti.github.io/typelevel-ts/)
+* 🇺🇸 [Type Zoo — дополнительные расширенные типы](https://github.com/pelotom/type-zoo)
 
 ## TypeScript и React
 
@@ -53,6 +59,10 @@
 
 * 🇺🇸 [Type Route](https://www.type-route.org/)
 
-## TypeScript и Vue
+## Разное
 
-* 🇺🇸 [How I do Vue in 2019: TypeScript and TSX](https://medium.com/@lachlanmiller_52885/how-i-do-vue-in-2019-typescript-and-tsx-6b648a4decd3)
+* 🇷🇺 [5 заповедей TypeScript-разработчика](https://habr.com/ru/post/461565/)
+* 🇺🇸 [Как дописать типы для сторонних модулей](https://medium.com/@chris_72272/migrating-to-typescript-write-a-declaration-file-for-a-third-party-npm-module-b1f75808ed2)
+* 🇺🇸 [Написание документации (TypeDoc)](https://typedoc.org/guides/doccomments/)
+* 🇺🇸 [Typescript and validations at runtime boundaries](https://lorefnon.tech/2018/03/25/typescript-and-validations-at-runtime-boundaries/)
+* 🇷🇺/🇺🇸 Часто задаваемые вопросы о системах типов [перевод](https://habr.com/ru/company/ruvds/blog/462481/)/[оригинал](https://dev.to/stereobooster/type-system-faq-3oi0)

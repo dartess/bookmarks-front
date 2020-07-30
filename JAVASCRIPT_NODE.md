@@ -71,6 +71,12 @@
 * 🇺🇸 [Rome — an experimental JavaScript toolchain](https://romejs.dev/)
 * 🇺🇸 [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
 
+
+
+## Babel
+
+* 🇺🇸 [ELI5: Babel and the gang](https://levelup.gitconnected.com/eli5-babel-and-the-gang-e5329313a107)
+
 ## Библиотеки
 
 * 🇺🇸 👍 [cross-env — кроссплатформенная установка переменных окружения](https://www.npmjs.com/package/cross-env)
@@ -94,11 +100,12 @@
 
 * 🇷🇺 [EditorConfig — Одни Настройки для всех Редакторов/IDE](https://habr.com/ru/post/220131/)
 
-### JavaScript/TypeScript
+### JavaScript/TypeScriptf
 
 * 🇺🇸 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * 🇺🇸 👍 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 * 🇺🇸 👍 [ESLint](https://eslint.org/)
+* 🇷🇺 👍 [Программируем лучше с ESLint, Prettier и TypeScript](https://tproger.ru/translations/setting-up-eslint-and-prettier/)
 * 🇺🇸 👍 [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
 * 🇺🇸 👍 [eslint-config-airbnb — рекомендуемый конфиг](https://www.npmjs.com/package/eslint-config-airbnb)
 

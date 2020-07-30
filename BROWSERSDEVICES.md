@@ -126,6 +126,7 @@
 * 🇺🇸 👍 [Final Form — работа с формами](https://final-form.org/)
 * 🇺🇸 👍 [Final Form Arrays — работа с массивами в Final Form](https://www.npmjs.com/package/final-form-arrays)
 * 🇺🇸 👍 [Text Mask](https://text-mask.github.io/text-mask/)
+* 🇺🇸 [Cleave.js — Format your input content when you are typing](https://nosir.github.io/cleave.js/)
 
 ### Графики и визуализация
 
@@ -193,6 +194,12 @@
 
 * 🇺🇸 [pell](https://jaredreich.com/pell/)
 
+### Локализация
+
+Также см. JAVASCRIPT_FRAMEWOKRKDS.md #### Интернационализация
+
+* 🇺🇸 [Project Fluent](https://www.projectfluent.org/)
+
 ## PWA
 
 * 🇺🇸 [Progressive Web Apps — Websites that took all the right vitamins](https://web.dev/progressive-web-apps/)
@@ -211,8 +218,9 @@
 * 🇺🇸 [Progressive Web Apps. The future of the Mobile Web.](https://www.awwwards.com/PWA-ebook/)
 * 🇺🇸 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 * 🇺🇸 Designing And Building A Progressive Web Application Without A Framework [Part 1](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-1/), [Part 2](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-2/), [Part 3](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-3/)
-* 🇺🇸 [Progressive Web Apps. The future of the Mobile Web](https://www.awwwards.com/PWA-ebook/)
+* 🇷🇺 🇺🇸 Прогрессивные веб-приложения (PWA). Будущее мобильного интернета [перевод, часть 1](https://blog.sibirix.ru/2019/11/06/PWA-book-part1/), [перевод, часть 2](https://blog.sibirix.ru/2019/11/07/PWA-book-part2/)/[оригинал](https://www.awwwards.com/PWA-ebook/)
 * 🇺🇸 [Progressive Web Apps. The Superpowers of the Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/)
+* 🇷🇺 [Как сделать из сайта приложение и выложить его в Google Play за несколько часов. Часть 1/2: Progressive Web App](https://habr.com/ru/company/mailru/blog/450504/)
 
 ### Web App Manifest
 
@@ -247,6 +255,8 @@
 * 🇺🇸 [Service workers: the little heroes behind Progressive Web Apps](https://www.freecodecamp.org/news/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16/)
 * 🇺🇸 [Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/#0)
 * 🇺🇸 [Stuff I wish I'd known sooner about service workers](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9)
+* 🇺🇸 [App shell UX with service workers and streams](https://web.dev/app-shell-ux-with-service-workers/)
+* 🇺🇸 [Service Worker Lifecycle Explained](https://felixgerschau.com/service-worker-lifecycle-update/)
 
 ### Особенности платформ
 
@@ -270,6 +280,9 @@
 
 * 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
 * 🇺🇸 [Bubblewrap — CLI that helps developers to create a Project for an Android application that launches an existing (PWAs) using a TWA](https://github.com/GoogleChromeLabs/bubblewrap)
+* 🇷🇺 [Как сделать из сайта приложение и выложить его в Google Play за несколько часов. Часть 2/2: Trusted Web Activity](https://habr.com/ru/company/mailru/blog/450506/)
+* 🇺🇸 [A complete implementation guide to Trusted Web Activity(TWA)- OYO Lite](https://medium.com/oyotech/a-complete-guide-to-trusted-web-activity-twa-oyo-case-study-3dd327d7afc5)
+* 🇺🇸 [How can I detect if my website is opened inside a Trusted Web Actvity?](https://stackoverflow.com/questions/54580414/how-can-i-detect-if-my-website-is-opened-inside-a-trusted-web-actvity)
 
 ### favicon и другие изображения для иконок
 
@@ -690,6 +703,7 @@
 * 🇷🇺 [Введение в программирование шейдеров для верстальщиков](https://habr.com/ru/post/420847/)
 * 🇷🇺 [Применяем мозаику Вороного, пикселизацию и геометрические маски в шейдерах для украшения сайта](https://habr.com/ru/post/421821/)
 * 🇷🇺/D [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/)/[defront](https://defront.ru/posts/2019/03-march/12-fast-generalization-of-markers/)
+* 🇺🇸 [WebGL guide](https://xem.github.io/articles/webgl-guide.html)
 
 ### Библиотеки для WebGL
 

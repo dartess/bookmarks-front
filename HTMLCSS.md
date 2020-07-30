@@ -39,6 +39,10 @@
 * 🇺🇸 [CSS Will Change Module Level 1 — Editor’s Draft](https://drafts.csswg.org/css-will-change/)
 * 🇷🇺/🇺🇸 Новые логические свойства в CSS! [перевод](https://medium.com/web-standards/logical-css-props-c5046c563640)/[оригинал](https://medium.com/@elad/new-css-logical-properties-bc6945311ce7)
 
+### Единицы измерения
+
+* 🇺🇸 [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
+
 ### Медиазапросы
 
 * 🇺🇸 [CSS media queries are not just max-width](https://medium.com/mabiloft/css-media-queries-are-not-just-max-width-e543ee5d1a5b)
@@ -143,22 +147,46 @@
 
 ### CSS Houdini
 
+* 🇺🇸 [Is Houdini ready yet‽](https://ishoudinireadyyet.com/)
 * 🇷🇺/🇺🇸 Тёмная сторона использования полифиллов CSS [перевод](https://habr.com/ru/post/326056/)/[оригинал](https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/)
 
 #### Layout API
 
+* 🇺🇸 [CSS Layout API Explained](https://github.com/w3c/css-houdini-drafts/blob/master/css-layout-api/EXPLAINER.md)
+* 🇺🇸 [CSS Layout API demos](https://github.com/GoogleChromeLabs/houdini-samples/tree/master/layout-worklet)
+
 #### Paint API
 
+* 🇺🇸 [CSS Paint API Explained](https://github.com/w3c/css-houdini-drafts/blob/master/css-paint-api/EXPLAINER.md)
+* 🇺🇸 [CSS Paint API demos](https://github.com/GoogleChromeLabs/houdini-samples/tree/master/paint-worklet)
 * 🇺🇸 [Say Hello to Houdini and the CSS Paint API](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/)
 * 🇺🇸 [A CSS Houdini library for making your site a little more #extra](https://extra-css.netlify.app/)
+* 🇺🇸 [CSS Paint API](https://developers.google.com/web/updates/2018/01/paintapi)
 
 #### Parser API
 
+* 🇺🇸 [CSS Parser API Explained](https://github.com/WICG/CSS-Parser-API/blob/master/README.md)
+
 #### Properties & Values API
+
+* 🇺🇸 [Smarter custom properties with Houdini’s new API](https://web.dev/css-props-and-vals/)
+* 🇺🇸 [CSS Properties & Values API demos](https://github.com/GoogleChromeLabs/houdini-samples/tree/master/properties-and-values/)
+* 🇺🇸 [@property: giving superpowers to CSS variables](https://web.dev/at-property/)
+
+#### AnimationWorklet
+
+* 🇺🇸 [Animation Worklet Explainer](https://github.com/w3c/css-houdini-drafts/tree/master/css-animation-worklet-1)
+* 🇺🇸 [Animation Worklet Samples](https://github.com/GoogleChromeLabs/houdini-samples/tree/master/animation-worklet)
+* 🇺🇸 [Houdini's Animation Worklet](https://developers.google.com/web/updates/2018/10/animation-worklet)
 
 #### Typed OM
 
+* 🇺🇸 [CSS Typed OM Explained](https://github.com/w3c/css-houdini-drafts/blob/master/css-typed-om/README.md)
+* 🇺🇸 [Working with the new CSS Typed Object Model](https://developers.google.com/web/updates/2018/03/cssom)
+
 #### Font Metrics API
+
+* 🇺🇸 [Font Metrics API Explained](https://github.com/w3c/css-houdini-drafts/blob/master/font-metrics-api/README.md)
 
 ### Эффекты и демо
 
@@ -205,6 +233,7 @@
 * 🇺🇸 [watchOS, the wrist and the web for smaller screens](https://dev.to/meduzen/watchos-the-wrist-and-the-web-bbj)
 * 🇷🇺/🇺🇸 Микробраузеры повсюду. Но что мы о них знаем? [перевод](https://habr.com/ru/company/dcmiran/blog/485386/)/[оригинал](https://24ways.org/2019/microbrowsers-are-everywhere/)
 * 🇺🇸 [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26)
+* 🇺🇸 [CSS fix for 100vh in mobile WebKit](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/)
 
 ## Вёрстка текстов с направлением письма справа налево
 
