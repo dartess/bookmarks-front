@@ -12,7 +12,7 @@
 * 🇺🇸 [Quoting in HTML: Quotations, Citations, and Blockquotes](https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/)
 * 🇷🇺/🇺🇸 Исчерпывающий путеводитель по тегу iframe [перевод](https://habr.com/ru/post/488516/)/[оригинал](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
 * 🇺🇸 [HTML can do that?](https://dev.to/ananyaneogi/html-can-do-that-c0n)
-* 🇺🇸 [You’re using〈em〉wrong](https://blog.logrocket.com/youre-using-em-wrong/)
+* 🇺🇸 [What you should know about tabindex](https://gist.github.com/nepsilon/4af89b914add3284e5a70c62311b008d)
 
 ### Формы
 
@@ -21,6 +21,10 @@
 * 🇷🇺 [Особенности атрибута inputmode для мобильных ОС и браузеров](https://habr.com/ru/post/454606/)
 * 🇺🇸 [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
 * 🇺🇸 [HTML5 Input Types: Where Are They Now?](https://www.smashingmagazine.com/2019/01/html5-input-types/)
+
+### Ссылки
+
+* 🇺🇸 [All About mailto: Links](https://css-tricks.com/all-about-mailto-links/)
 
 ## CSS
 
@@ -42,6 +46,7 @@
 ### Единицы измерения
 
 * 🇺🇸 [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
+* 🇺🇸 [You’re using〈em〉wrong](https://blog.logrocket.com/youre-using-em-wrong/)
 
 ### Медиазапросы
 
@@ -138,6 +143,7 @@
 
 * 🇺🇸 [Jeet — сетка](http://jeet.gs/)
 * 🇺🇸 [MUI — Material Design-like фреймворк](https://www.muicss.com/)
+* 🇺🇸 [Material Design Lite](https://getmdl.io/index.html)
 * 🇺🇸 [awsm.css — библиотека для стилизации стандартных тегов без классов](https://igoradamenko.github.io/awsm.css/)
 
 ### CSS-хаки (тёмная сторона!)

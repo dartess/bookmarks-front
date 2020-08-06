@@ -83,6 +83,10 @@
 
 * 🇺🇸 [Техподдержка SamsungInternet](https://github.com/SamsungInternet/support) 
 
+## Работа с событиями
+
+* 🇺🇸 [A Simple Explanation of Event Delegation in JavaScript](https://dmitripavlutin.com/javascript-event-delegation/)
+
 ## Библиотеки
 
 * 🇺🇸 [Intro.js — Step-by-step guide and feature introduction](https://introjs.com/)
@@ -100,10 +104,8 @@
 * 🇺🇸 👍 [js-cookie](https://www.npmjs.com/package/js-cookie)
 * 🇺🇸 👍 [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
 * 🇺🇸 👍 [uuid — генератор UUID (universally unique identifier «универсальный уникальный идентификатор»)](https://www.npmjs.com/package/uuid)
-* 🇺🇸 [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
 * 🇺🇸 [Piecon — Pie charts in your favicon!](http://lipka.github.io/piecon/)
 * 🇺🇸 [AR.js - Augmented Reality on the Web](https://github.com/AR-js-org/AR.js)
-* 🇺🇸 [lax.js — imple & light weight (<3kb gzipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll!](https://github.com/alexfoxy/lax.js)
 
 ### Карусели
 
@@ -127,6 +129,15 @@
 * 🇺🇸 👍 [Final Form Arrays — работа с массивами в Final Form](https://www.npmjs.com/package/final-form-arrays)
 * 🇺🇸 👍 [Text Mask](https://text-mask.github.io/text-mask/)
 * 🇺🇸 [Cleave.js — Format your input content when you are typing](https://nosir.github.io/cleave.js/)
+
+### Скролл и скроллбар
+
+* 🇺🇸 [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
+* 🇺🇸 [lax.js — imple & light weight (<3kb gzipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll!](https://github.com/alexfoxy/lax.js)
+
+### Анимация
+
+* 🇺🇸 [Anime.js — a lightweight JavaScript animation library with a simple, yet powerful API](https://animejs.com/)
 
 ### Графики и визуализация
 
@@ -202,6 +213,7 @@
 
 ## PWA
 
+* 🇷🇺 👍 📺 [Введение в Progressive Web Apps, Сергей Пугачев (Google)](https://www.youtube.com/watch?v=skmvycNQ_TM)
 * 🇺🇸 [Progressive Web Apps — Websites that took all the right vitamins](https://web.dev/progressive-web-apps/)
 * 🇺🇸 📺 [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 * 🇺🇸 [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps)
@@ -448,7 +460,6 @@
 
 * 🇺🇸 [Badging for app icons](https://web.dev/badging-api/)
 * 🇺🇸 [Badging API Explainer](https://github.com/WICG/badging/blob/master/explainer.md)
-* 🇺🇸 [Badging for App Icons](https://developers.google.com/web/updates/2018/12/badging-api)
 
 #### Task Scheduler API — запуск задач по расписанию
 
@@ -482,6 +493,11 @@
 #### Page Visibility API
 
 * 🇺🇸 [Foreground Detection](https://whatwebcando.today/foreground-detection.html)
+
+
+#### Idle Detection API — определение отсутствие активности пользователя
+
+* 🇺🇸 [Detect inactive users with the Idle Detection API](https://web.dev/idle-detection/)
 
 #### Geolocation API
 
@@ -654,6 +670,11 @@
 
 * 🇺🇸 👍 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
 
+
+### Beacon API
+
+* 🇺🇸 [Logging Activity With The Web Beacon API](https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/)
+
 ### Content Indexing API
 
 * 🇺🇸 [Indexing your offline-capable pages with the Content Indexing API](https://web.dev/content-indexing-api/)
@@ -692,10 +713,6 @@
 * 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
 * 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
 
-## Beacon API
-
-* 🇺🇸 [Logging Activity With The Web Beacon API](https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/)
-
 ## WebGL
 
 * 🇷🇺 [Введение в программирование шейдеров для верстальщиков](https://habr.com/ru/post/420847/)
@@ -716,6 +733,10 @@
 * 🇺🇸 [JavaScript in 3D: an Introduction to Three.js](https://medium.com/javascript-in-plain-english/javascript-in-3d-an-introduction-to-three-js-780f1e4a2e6d)
 * 🇷🇺 [Трехмерные презентации товаров на Three.js для самых маленьких](https://habr.com/ru/post/433876/)
 * 🇷🇺 [Продвинутый Three.js: шейдерные материалы и постобработка](https://habr.com/ru/post/436482/)
+
+## UserAgent и Client Hints
+
+* 🇺🇸 [Detect mobile browsers without user agent string parsing: Client Hints](https://medium.com/@omrilotan/detect-mobile-browsers-without-user-agent-string-parsing-66e3694ce8cd)
 
 ## Web Components (веб-компоненты)
 

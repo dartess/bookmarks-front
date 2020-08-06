@@ -14,6 +14,7 @@
 ## CSS Modules
 
 * 🇷🇺/🇺🇸 Конец эры глобального CSS [перевод](https://habr.com/ru/post/276417/)/[оригинал](https://medium.com/seek-blog/the-end-of-global-css-90d2a4a06284#.rx1co7cd0)
+* 🇷🇺/🇺🇸 Практическое руководство по использованию CSS Modules в React приложениях [перевод](https://habr.com/ru/post/335244/)/[оригинал](https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/)
 * 🇺🇸 [CSS modules, part 1: What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
 * 🇺🇸 [CSS modules, part 2: Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/)
 * 🇺🇸 [CSS modules, part 3: CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/)
@@ -28,6 +29,7 @@
 * 🇺🇸 👍 [postcss-flexbugs-fixes — автоисправление некоторых Flexbox-багов для IE](https://www.npmjs.com/package/postcss-flexbugs-fixes)
 * 🇺🇸 👍 [postcss-normalize — normalize.css с учётом browserslist](https://www.npmjs.com/package/postcss-normalize)
 * 🇺🇸 👍 [postcss-object-fit-images — хелпер для полифила object-fit](https://www.npmjs.com/package/postcss-object-fit-images)
+* 🇺🇸 [PostCSS 100vh Fix](https://github.com/postcss/postcss-100vh-fix)
 
 ## NPM
 

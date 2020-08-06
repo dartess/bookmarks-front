@@ -54,6 +54,7 @@
 * 🇺🇸 [react-spring](https://www.react-spring.io/docs/hooks/basics)
 * 🇺🇸 [Why React needed yet another animation library. Introducing: react-spring](https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce)
 * 🇺🇸 [react-reveal](https://github.com/rnosov/react-reveal)
+* 🇺🇸 [renature — A physics-based animation library for React inspired by the natural world.](https://formidable.com/open-source/renature/)
 * 🇺🇸 [Animations using React Hooks and GreenSock](https://blog.logrocket.com/animations-react-hooks-greensock/)
 
 #### Markdown

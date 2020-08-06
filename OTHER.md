@@ -14,6 +14,7 @@
 * 🇷🇺 [Гид по Метрике: как проверить работу цели](https://yandex.ru/blog/metrika-club/gid-po-metrike-kak-proverit-rabotu-tseli)
 * 🇺🇸 [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 * 🇺🇸 📺 [JavaScript SEO](https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
+* 🇷🇺 [SEO-тест: индексация JavaScript-сайтов](https://vc.ru/seo/69857-seo-test-indeksaciya-javascript-saytov)
 
 ### Микроразметка
 
@@ -27,6 +28,7 @@
 * 🇷🇺/🇺🇸 CORS [перевод](https://frontendian.co/cors-ru)/[оригинал](https://frontendian.co/cors)
 * 🇺🇸 [Same Origin Policy & CORS](https://textslashplain.com/2020/06/03/same-origin-policy-cors/)
 * 🇷🇺 [Руководство по кросс-доменным запросам (CORS)](https://grishaev.me/cors/)
+* 🇺🇸 [✋🏼🔥 CS Visualized: CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 
 ### Кэширование
 
@@ -84,7 +86,6 @@
 * 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 * 🇺🇸 [флаги для WebRTC-related testing](https://webrtc.org/testing/)
 * 🇺🇸 👍 [Sentry — Application Monitoring and Error Tracking Software](https://sentry.io/)
-* 🇺🇸 [Playwright — Node library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
 * 🇺🇸 [Что такое TDD и BDD на пальцах, и что должен знать о них фронтендер](https://medium.com/@lucyhackwrench/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-tdd-%D0%B8-bdd-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D1%85-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-%D0%BD%D0%B8%D1%85-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-701a10e06bb9)
 * 🇺🇸 [Measuring Code Quality with Test Coverage Metrics](https://reqtest.com/testing-blog/test-coverage-metrics/)
 
@@ -96,6 +97,11 @@
 
 * 🇺🇸 [Getting Started with Puppeteer](https://www.sitepoint.com/getting-started-with-puppeteer/)
 * 🇺🇸 [Puppeteer examples](https://github.com/checkly/puppeteer-examples)
+
+### Playwright
+
+* 🇺🇸 [Playwright — Node library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
+* 🇺🇸 [Fast and reliable cross-browser testing with Playwright 🎭](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 
 ## Git
 
@@ -112,7 +118,7 @@
 ## Что читать/смотреть
 
 * 🇷🇺 [Дайджест свежих материалов из мира фронтенда за последнюю неделю](https://habr.com/ru/search/?target_type=posts&order_by=date&q=%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82+%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D1%85+%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%BE%D0%B2+%D0%B8%D0%B7+%D0%BC%D0%B8%D1%80%D0%B0+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0+%D0%B7%D0%B0+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8E%D1%8E+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E&flow=)
-* 🇷🇺 ✈️ [Juliarderity (ECMAScript, WebAssembly, Web APIs, specs)](https://t.me/juliarderity)
+* 🇷🇺 ✈️ [Вебня](https://t.me/webnya)
 * 🇷🇺 ✈️ [Веб-стандарты](https://t.me/webstandards_ru)
 * 🇷🇺 ✈️ [For Web — фронтенд, дизайн, программирование](https://t.me/forwebdev)
 * 🇷🇺 ✈️ [Иван Акулов про разработку](https://t.me/iamakulov_channel)
@@ -245,38 +251,6 @@
 * 🇺🇸 [How To Create A PDF From Your Web Application](https://www.smashingmagazine.com/2019/06/create-pdf-web-application/)
 * 🇺🇸 [pdfmake — Client/server side PDF printing in pure JavaScript](http://pdfmake.org)
 
-## Прочее
-
-* 🇷🇺 [БЭМ](https://ru.bem.info/methodology/key-concepts/)
-* 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
-* 🏳 [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
-* 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
-* 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
-* 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
-* 🇷🇺 [Фантастические веб-спецификации и где они обитают](https://css-live.ru/css/fantasticheskie-veb-specifikacii-i-gde-oni-obitayut.html)
-* 🇷🇺 [Шесть задачек для Front-End разработчика](https://habr.com/ru/company/edison/blog/473894/)
-* 🇷🇺 [«Алиса, пойдём во фронтенд!»](https://habr.com/ru/company/oleg-bunin/blog/468545/)
-* 🇷🇺 [Руководство по современному Make](https://ru.makefile.site/)
-* 🇺🇸 [What’s the Difference Between a URI and a URL?](https://danielmiessler.com/study/difference-between-uri-url/)
-* 🇺🇸 [do you know your tags?](https://tags.isthe.link/)
-* 🇷🇺 [Так все же, зачем нужен make?](https://habr.com/ru/post/477656/)
-* 🇷🇺/🇺🇸 Вопросы кандидату на должность front-end разработчика [перевод](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/)/[оригинал](https://h5bp.org/Front-end-Developer-Interview-Questions/)
-* 🇷🇺 [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/dictionary.md)
-* 🇷🇺 [Чем заняться айтишнику в армии или как я на VBA игры писал](https://habr.com/ru/post/237641/)
-* 🇺🇸 [Chrome's NOSCRIPT Intervention](https://timkadlec.com/remembers/2018-09-06-chromes-noscript-intervention/)
-* 🇷🇺 [Договор на разработку сайта: так, а не иначе](https://habr.com/ru/company/sibirix/blog/188690/)
-* 🇺🇸 [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens)
-* 🇺🇸 [ShareDrop — HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC](https://github.com/cowbell/sharedrop)
-* 🇷🇺 📺 👍 [Docker для фронтендера / Алексей Авдеев (Neuron.Digital)](https://www.youtube.com/watch?v=SMM3bsYyFls)
-* 🇷🇺 [Введение в компиляторы, интерпретаторы и JIT’ы](https://habr.com/ru/company/mailru/blog/304748/)
-* 🇺🇸 👍 [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
-* 🇷🇺/🇺🇸 [Learn X in Y minutes](https://learnxinyminutes.com/)
-* 🇺🇸 [FE webdev on iPad (2019)](https://medium.com/@pixelthing/fe-webdev-on-ipad-2019-d2a63e2d2177)
-* 🇷🇺/🇺🇸 Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, перевод [часть 1](https://habr.com/ru/post/158639/), [часть 2](https://habr.com/ru/post/158895/)/[оригинал](https://kunststube.net/encoding/)
-* 🇷🇺 [На что обратить внимание, когда делаешь поиск](http://mikeozornin.ru/blog/all/search-ui-tricks/)
-* 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
-* 🇷🇺 [Советы для разработчика интерфейсов](https://github.com/forwebdev/ui-developer-tips)
-
 ## Архитектура и разработка
 
 * 🇺🇸 [Пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
@@ -320,6 +294,7 @@
 * 🇷🇺/🇺🇸 Браузерный войны, часть 1: когда Netscape встретил Microsoft, перевод [часть 1](https://medium.com/@slonoed/351dcf170e59), [часть 2](https://medium.com/@slonoed/92168ce17ae5)/[оригинал](http://thehistoryoftheweb.com/browser-wars/)
 * 🇷🇺 [SGVsbG8gd29ybGQh или история base64](https://habr.com/ru/post/88077/)
 * 🇺🇸 [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
+* 🇺🇸 [ECMAScript 4: The missing version](https://evertpot.com/ecmascript-4-the-missing-version/)
 
 ## Демо
 
@@ -347,3 +322,36 @@
 ### base64
 
 * 🇺🇸 [Base64 Encoding: A Visual Explanation](https://www.lucidchart.com/techblog/2017/10/23/base64-encoding-a-visual-explanation/)
+
+## Прочее
+
+* 🇷🇺 [БЭМ](https://ru.bem.info/methodology/key-concepts/)
+* 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
+* 🏳 [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
+* 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
+* 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
+* 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
+* 🇷🇺 [Фантастические веб-спецификации и где они обитают](https://css-live.ru/css/fantasticheskie-veb-specifikacii-i-gde-oni-obitayut.html)
+* 🇷🇺 [Шесть задачек для Front-End разработчика](https://habr.com/ru/company/edison/blog/473894/)
+* 🇷🇺 [«Алиса, пойдём во фронтенд!»](https://habr.com/ru/company/oleg-bunin/blog/468545/)
+* 🇷🇺 [Руководство по современному Make](https://ru.makefile.site/)
+* 🇺🇸 [What’s the Difference Between a URI and a URL?](https://danielmiessler.com/study/difference-between-uri-url/)
+* 🇺🇸 [do you know your tags?](https://tags.isthe.link/)
+* 🇷🇺 [Так все же, зачем нужен make?](https://habr.com/ru/post/477656/)
+* 🇷🇺/🇺🇸 Вопросы кандидату на должность front-end разработчика [перевод](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/russian/)/[оригинал](https://h5bp.org/Front-end-Developer-Interview-Questions/)
+* 🇷🇺 [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/dictionary.md)
+* 🇷🇺 [Чем заняться айтишнику в армии или как я на VBA игры писал](https://habr.com/ru/post/237641/)
+* 🇺🇸 [Chrome's NOSCRIPT Intervention](https://timkadlec.com/remembers/2018-09-06-chromes-noscript-intervention/)
+* 🇷🇺 [Договор на разработку сайта: так, а не иначе](https://habr.com/ru/company/sibirix/blog/188690/)
+* 🇺🇸 [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens)
+* 🇺🇸 [ShareDrop — HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC](https://github.com/cowbell/sharedrop)
+* 🇷🇺 📺 👍 [Docker для фронтендера / Алексей Авдеев (Neuron.Digital)](https://www.youtube.com/watch?v=SMM3bsYyFls)
+* 🇷🇺 [Введение в компиляторы, интерпретаторы и JIT’ы](https://habr.com/ru/company/mailru/blog/304748/)
+* 🇺🇸 👍 [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
+* 🇷🇺/🇺🇸 [Learn X in Y minutes](https://learnxinyminutes.com/)
+* 🇺🇸 [FE webdev on iPad (2019)](https://medium.com/@pixelthing/fe-webdev-on-ipad-2019-d2a63e2d2177)
+* 🇷🇺/🇺🇸 Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, перевод [часть 1](https://habr.com/ru/post/158639/), [часть 2](https://habr.com/ru/post/158895/)/[оригинал](https://kunststube.net/encoding/)
+* 🇷🇺 [На что обратить внимание, когда делаешь поиск](http://mikeozornin.ru/blog/all/search-ui-tricks/)
+* 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
+* 🇷🇺 [Советы для разработчика интерфейсов](https://github.com/forwebdev/ui-developer-tips)
+* 🇺🇸 [MockIt: A tool to quickly create mocked APIs](https://github.com/boyney123/mockit)
