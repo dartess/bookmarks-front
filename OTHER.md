@@ -25,6 +25,9 @@
 ## Сети
 
 * 🇺🇸 [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+
+### CORS
+
 * 🇷🇺/🇺🇸 CORS [перевод](https://frontendian.co/cors-ru)/[оригинал](https://frontendian.co/cors)
 * 🇺🇸 [Same Origin Policy & CORS](https://textslashplain.com/2020/06/03/same-origin-policy-cors/)
 * 🇷🇺 [Руководство по кросс-доменным запросам (CORS)](https://grishaev.me/cors/)
@@ -174,6 +177,7 @@
 * 🇺🇸 [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6)
 * 🇺🇸 [Optimising SVGs for the Web](https://css-irl.info/optimising-svgs-for-the-web/)
 * 🇺🇸 [Perf audit for new york times](https://docs.google.com/document/d/1Oax3j0-wsYlNQCfgJTtPHlOWJ-ilRvk-I9E3mhiyl5I/edit#heading=h.mxlya9axneww)
+* 🇷🇺 📺 [Алексей Золотых, Сжимаем Javascript по-взрослому](https://www.youtube.com/watch?v=feptFoey_bU)
 
 ### Разбор практических кейсов
 
@@ -355,3 +359,4 @@
 * 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
 * 🇷🇺 [Советы для разработчика интерфейсов](https://github.com/forwebdev/ui-developer-tips)
 * 🇺🇸 [MockIt: A tool to quickly create mocked APIs](https://github.com/boyney123/mockit)
+* 🇺🇸 [Globalize — A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data](https://github.com/globalizejs/globalize)

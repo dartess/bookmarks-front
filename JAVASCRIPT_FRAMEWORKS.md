@@ -27,6 +27,7 @@
 * 🇺🇸 👍 [use-debounce](https://www.npmjs.com/package/use-debounce)
 * 🇺🇸 👍 [use-query-params](https://www.npmjs.com/package/use-query-params)
 * 🇺🇸 [react-virtual — Hooks for virtualizing scrollable elements in React](https://github.com/tannerlinsley/react-virtual)
+* 🇺🇸 [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 
 ### Библиотеки
 
@@ -135,6 +136,7 @@
 
 * 🇺🇸 [How to Learn Vue.js in 2018](https://zendev.com/2018/10/18/how-to-learn-vue-js.html)
 * 🇺🇸 [What You Need to Know About Vue3 in 2020](https://medium.com/swlh/what-you-need-to-know-about-vue3-in-2020-b36a2feb5dad)
+* 🇷🇺 👍 [Vue JS - Быстрый курс за 50 минут (Все Включено!)](https://www.youtube.com/watch?v=OlnwgS-gk8Y)
 
 ## Svelte
 

@@ -73,8 +73,6 @@
 * 🇺🇸 [Rome — an experimental JavaScript toolchain](https://romejs.dev/)
 * 🇺🇸 [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
 
-
-
 ## Babel
 
 * 🇺🇸 [ELI5: Babel and the gang](https://levelup.gitconnected.com/eli5-babel-and-the-gang-e5329313a107)
@@ -87,6 +85,7 @@
 * 🇺🇸 👍 [rimraf — rm -rf for Node](https://www.npmjs.com/package/rimraf)
 * 🇺🇸 [gauge — A nearly stateless terminal based horizontal gauge / progress bar](https://www.npmjs.com/package/gauge)
 * 🇺🇸 [Hygen — The scalable code generator that saves you time](https://www.hygen.io/)
+* 🇺🇸 [Ervy - Bring charts to terminal](https://www.chunqiuyiyu.com/ervy/)
 
 ## Препроцессоры
 

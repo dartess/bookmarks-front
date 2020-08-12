@@ -191,6 +191,7 @@
 
 * 🇷🇺 [Google Maps — кастомизируй меня полностью](https://habr.com/ru/post/324880/)
 * 🇺🇸 [Google Geolocation API](https://developers.google.com/maps/documentation/geolocation/overview)
+* 🇺🇸 [Farewell, Google Maps](https://www.inderapotheke.de/blog/farewell-google-maps)
 
 ### Иммутабельность
 
@@ -269,6 +270,7 @@
 * 🇺🇸 [Stuff I wish I'd known sooner about service workers](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9)
 * 🇺🇸 [App shell UX with service workers and streams](https://web.dev/app-shell-ux-with-service-workers/)
 * 🇺🇸 [Service Worker Lifecycle Explained](https://felixgerschau.com/service-worker-lifecycle-update/)
+* 🇺🇸 [How much data should my Service Worker put upfront in the offline cache?](https://nicolas-hoizey.com/articles/2017/01/12/how-much-data-should-my-service-worker-put-upfront-in-the-offline-cache/)<!--- в общем, не кэшируйте всё пордяд, подумайте о пользователе; кэшируйте основу, то что пользователь посетил и то что будет полезно ему в режиме оффлайн --->
 
 ### Особенности платформ
 
@@ -443,6 +445,7 @@
 
 * 🇺🇸 [Verify phone numbers on the web with the Web OTP API](https://web.dev/web-otp/)
 * 🇺🇸 [Web OTP explainer](https://github.com/samuelgoto/WebOTP)
+* 🇺🇸 [Enhance SMS-delivered code security with domain-bound codes](https://developer.apple.com/news/?id=z0i801mg)
 * 🇺🇸 [Автоподстановка OTP в Safari](https://developer.apple.com/documentation/security/password_autofill/enabling_password_autofill_on_an_html_input_element?language=objc)
 
 #### Push API — уведомления из браузера
@@ -712,6 +715,7 @@
 * 🇷🇺 [Как мы учились рисовать тексты на Canvas](https://habr.com/ru/company/miro/blog/458624/)
 * 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
 * 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
+* 🇺🇸 [Вычисление коллизий объектов в Canvas (Simulating Object Collisions With Canvas)](https://joshbradley.me/object-collisions-with-canvas/)
 
 ## WebGL
 

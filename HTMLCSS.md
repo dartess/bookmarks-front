@@ -26,6 +26,10 @@
 
 * 🇺🇸 [All About mailto: Links](https://css-tricks.com/all-about-mailto-links/)
 
+### Айфреймы
+
+* 🇺🇸 [Iframes are just terrible. Here’s how they could be better.](https://medium.com/@bluepnume/iframes-are-just-terrible-heres-how-they-could-be-better-974b731f0fb4)
+
 ## CSS
 
 * 🇺🇸 [Хитрость для viewport-единиц на мобильном](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
@@ -201,6 +205,7 @@
 * 🇺🇸 [Gradient Shapes — Shapes generated with CSS background gradients](https://codepen.io/yuanchuan/full/vVRKRQ/)
 * 🇺🇸 [Diagonal Containers in CSS](https://codyhouse.co/blog/post/css-diagonal-containers)
 * 🇺🇸 [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
+* 🇺🇸 [CSS Mask Transition](https://tympanus.net/Tutorials/CSSMaskTransition/index.html)
 
 ## Шрифты
 
@@ -239,7 +244,7 @@
 * 🇺🇸 [watchOS, the wrist and the web for smaller screens](https://dev.to/meduzen/watchos-the-wrist-and-the-web-bbj)
 * 🇷🇺/🇺🇸 Микробраузеры повсюду. Но что мы о них знаем? [перевод](https://habr.com/ru/company/dcmiran/blog/485386/)/[оригинал](https://24ways.org/2019/microbrowsers-are-everywhere/)
 * 🇺🇸 [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26)
-* 🇺🇸 [CSS fix for 100vh in mobile WebKit](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/)
+* 🇺🇸 [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/)
 
 ## Вёрстка текстов с направлением письма справа налево
 
