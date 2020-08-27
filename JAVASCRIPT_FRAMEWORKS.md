@@ -35,6 +35,10 @@
 * 🇺🇸 [react-yandex-maps — Yandex Maps API bindings for React](https://github.com/gribnoysup/react-yandex-maps)
 * 🇺🇸 [react-tooltip](https://wwayne.github.io/react-tooltip/)
 
+### Роутинг
+
+* 🇺🇸 [wouter](https://github.com/molefrog/wouter)
+
 #### Формы и элементы ввода
 
 * 🇺🇸 👍 [react-dropzone](https://react-dropzone.netlify.com/)
@@ -48,6 +52,7 @@
 
 * 🇺🇸 [nuka-carousel — Pure ReactJS Carousel Component](https://github.com/FormidableLabs/nuka-carousel)
 * 🇺🇸 [ReactSiema](https://www.npmjs.com/package/react-siema)
+* 🇺🇸 [Embla Carousel](https://davidcetinkaya.github.io/embla-carousel/)
 
 #### Анимация
 
@@ -62,6 +67,7 @@
 
 * 🇺🇸 [react-showdown](https://github.com/jerolimov/react-showdown)
 * 🇺🇸 [blocks](https://mdx-blocks.com/)
+* 🇺🇸 [An Introduction to MDXJS](https://css-tricks.com/an-introduction-to-mdxjs/)
 
 #### Графики
 

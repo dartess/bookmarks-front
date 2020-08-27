@@ -24,11 +24,11 @@
 * 🇺🇸 [Browser Architecture: Web-to-App Communication Overview](https://textslashplain.com/2019/08/28/browser-architecture-web-to-app-communication-overview/)
 * 🇺🇸 👍 [What every Browser knows about you](https://webkay.robinlinus.com/)
 
-### Полезные расширения для Chrome и других браузеров
+### Полезные расширения
 
-[WhatRuns — определитель технологий сайта](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
-[JsonDiscovery — самый годный просмотрщик JSON](https://github.com/discoveryjs/browser-extension-json-discovery)
-[Обход блокировок Рунета](https://chrome.google.com/webstore/detail/%D0%BE%D0%B1%D1%85%D0%BE%D0%B4-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA-%D1%80%D1%83%D0%BD%D0%B5%D1%82%D0%B0/npgcnondjocldhldegnakemclmfkngch)
+* [WhatRuns — определитель технологий сайта](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
+* [JsonDiscovery — самый годный просмотрщик JSON](https://github.com/discoveryjs/browser-extension-json-discovery)
+* [Обход блокировок Рунета](https://chrome.google.com/webstore/detail/%D0%BE%D0%B1%D1%85%D0%BE%D0%B4-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA-%D1%80%D1%83%D0%BD%D0%B5%D1%82%D0%B0/npgcnondjocldhldegnakemclmfkngch)
 
 ### Разработка расширений
 
@@ -139,6 +139,11 @@
 
 * 🇺🇸 [Anime.js — a lightweight JavaScript animation library with a simple, yet powerful API](https://animejs.com/)
 
+### Canvas
+
+* 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
+* 🇺🇸 [Canvas-Txt — Render text onto canvases without breaking a sweat](https://canvas-txt.geongeorge.com/)
+
 ### Графики и визуализация
 
 * 🇺🇸 [Сборник библиотек для визуализации (карты, графики, данные, цвета](http://selection.datavisualization.ch/)
@@ -205,6 +210,7 @@
 ### WYSIWYG
 
 * 🇺🇸 [pell](https://jaredreich.com/pell/)
+* 🇺🇸 [Slate.js](https://github.com/ianstormtaylor/slate)
 
 ### Локализация
 
@@ -289,6 +295,7 @@
 
 * 🇷🇺 [Play Store теперь принимает прогрессивные веб-приложения (PWA)](https://habr.com/ru/post/439238/)
 * 🇺🇸 [Introducing Progressive Web Apps to Samsung Galaxy Store](https://medium.com/samsung-internet-dev/introducing-progressive-web-apps-to-samsung-galaxy-store-47ecd317725b)
+* 🇺🇸 [Publishing PWA to Microsoft Store](https://kolappan.dev/2020/07/27/publishing-pwa-to-ms-store)
 
 #### TWA
 
@@ -328,6 +335,13 @@
 
 * 🇷🇺/🇺🇸 ResizeObserver — новый мощный инструмент для работы с адаптивностью [перевод](https://habr.com/ru/post/487146/)/[оригинал](https://medium.com/@barvysta/resizeobserver-a-new-powerful-tool-for-responsive-web-f9a53ed71952)
 * 🇺🇸 [Resize Observer Polyfill](https://juggle.studio/resize-observer/)
+
+### Async DOM
+
+* 🇺🇸 [Async DOM proposals](https://github.com/chrishtr/async-dom/blob/master/current-proposals.md)
+* 🇺🇸 [Display locking proposal](https://github.com/WICG/display-locking)
+* 🇺🇸 [DOMChangeList proposal](https://github.com/whatwg/dom/issues/270)
+* 🇺🇸 [worker-node proposal](https://github.com/drufball/worker-node)
 
 ### API для работы с камерой и микрофоном
 
@@ -530,6 +544,10 @@
 * 🇺🇸 [Web Share Target API — черновик предложения](https://wicg.github.io/web-share-target/)
 * 🇺🇸 [Web Share Target API — Level 2 — черновик предложения](https://wicg.github.io/web-share-target/level-2/)
 
+#### File Handling
+
+* 🇺🇸 [File Handling explainer](https://github.com/WICG/file-handling/blob/master/explainer.md)
+
 ### API для платежей
 
 #### Payment Request API
@@ -561,6 +579,7 @@
 #### Web Authentication API (WebAuthn)
 
 * 🇺🇸 [Guide to Web Authentication](https://webauthn.guide/)
+* 🇷🇺 [Новые стандарты для беспарольной аутентификации: как они работают](https://habr.com/ru/company/1cloud/blog/353966)
 
 #### Прочие API, связанные с авторизацией
 
@@ -646,6 +665,7 @@
 
 #### Serial API
 
+* 🇺🇸 [Read and write from a serial port](https://web.dev/serial/)
 * 🇺🇸 [Serial API — черновик предложения](https://wicg.github.io/serial/)
 
 ### API для отладки и оптимизации
@@ -712,9 +732,10 @@
 
 ## Canvas
 
+Также см. Библиотеки - Canvas
+
 * 🇷🇺 [Как мы учились рисовать тексты на Canvas](https://habr.com/ru/company/miro/blog/458624/)
 * 🇺🇸 [HiDPI Canvas Polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill)
-* 🇺🇸 [Rough.js — библиотека для имитации рисования на canvas "от руки"](https://github.com/pshihn/rough)
 * 🇺🇸 [Вычисление коллизий объектов в Canvas (Simulating Object Collisions With Canvas)](https://joshbradley.me/object-collisions-with-canvas/)
 
 ## WebGL
@@ -737,13 +758,21 @@
 * 🇺🇸 [JavaScript in 3D: an Introduction to Three.js](https://medium.com/javascript-in-plain-english/javascript-in-3d-an-introduction-to-three-js-780f1e4a2e6d)
 * 🇷🇺 [Трехмерные презентации товаров на Three.js для самых маленьких](https://habr.com/ru/post/433876/)
 * 🇷🇺 [Продвинутый Three.js: шейдерные материалы и постобработка](https://habr.com/ru/post/436482/)
+* 🇺🇸 [How to Learn Three.js for Game Development](https://gamedevelopment.tutsplus.com/articles/how-to-learn-threejs-for-game-development--gamedev-11787)
+* 🇷🇺 [Рендер в текстуру с использованием Three.js](https://habr.com/ru/company/plarium/blog/305408/)
 
 ## UserAgent и Client Hints
 
 * 🇺🇸 [Detect mobile browsers without user agent string parsing: Client Hints](https://medium.com/@omrilotan/detect-mobile-browsers-without-user-agent-string-parsing-66e3694ce8cd)
+
+## PDF и браузер
+
+* 🇺🇸 [How To Create A PDF From Your Web Application](https://www.smashingmagazine.com/2019/06/create-pdf-web-application/)
+* 🇺🇸 [pdfmake — Client/server side PDF printing in pure JavaScript](http://pdfmake.org)
 
 ## Web Components (веб-компоненты)
 
 * 🇺🇸 [Web Components bookmarks](https://www.notion.so/Web-Components-bookmarks-64066078f891433dbc74997dc4d64302)
 * 🇺🇸 [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 * 🇺🇸 [Web Components will replace your frontend framework](https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework)
+* 🇷🇺 Веб-компоненты в реальном мире [часть 1](https://habr.com/ru/post/443032/), [часть 2](https://habr.com/ru/post/515332/)

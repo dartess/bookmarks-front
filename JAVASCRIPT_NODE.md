@@ -40,6 +40,11 @@
 * 🇷🇺/🇺🇸 Node.js-проекты, в которых лучше не использовать lock-файлы [перевод](https://habr.com/ru/company/ruvds/blog/453582/)/[оригинал](https://www.twilio.com/blog/lockfiles-nodejs)
 * 🇷🇺 👍 [Вы используете devDependencies неправильно](https://incubator.flaks.dev/devdependencies-mistake)
 * 🇺🇸 [An abbreviated history of JavaScript package managers](https://medium.com/javascript-in-plain-english/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e)
+* 🇷🇺 [Управление зависимостями JavaScript](https://habr.com/ru/company/domclick/blog/509440/)
+* 🇷🇺 [Установка и обновление зависимостей в JavaScript](https://habr.com/ru/company/domclick/blog/510812/)
+* 🇷🇺 [Выбор зависимостей JavaScript](https://habr.com/ru/company/domclick/blog/512154/)
+* 🇷🇺 [Lock-файлы npm](https://habr.com/ru/company/domclick/blog/513130/)
+* 🇷🇺 [Как npm обеспечивает безопасность](https://habr.com/ru/company/domclick/blog/515848/)
 
 ### semver
 
@@ -120,6 +125,7 @@
 * 🇺🇸 👍 [eslint-plugin-jsx-a11y — для работы с доступностью в React](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
 * 🇺🇸 👍 [eslint-plugin-no-storage — для настройки использования Storage API](https://www.npmjs.com/package/eslint-plugin-no-storage)
 * 🇺🇸 👍 [eslint-plugin-unicorn — набор дополнительных правил](https://www.npmjs.com/package/eslint-plugin-unicorn)
+* 🇺🇸 [eslint-plugin-boundaries — контроль архитектурных ограничений](https://github.com/javierbrea/eslint-plugin-boundaries)
 
 ### Стили
 

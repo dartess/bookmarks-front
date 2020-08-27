@@ -52,6 +52,7 @@
 ## Шаблоны проектирования
 
 * 🇷🇺/🇺🇸 Шаблон Модуль в JavaScript [оригинал](https://dev.to/tomekbuszewski/module-pattern-in-javascript-56jm)/[перевод](https://webdevblog.ru/shablon-modul-v-javascript/)
+* 🇷🇺/🇺🇸 Разбор паттерна «Модуль» в JavaScript [перевод](https://habr.com/ru/company/ruvds/blog/419997/)/[оригинал](https://www.codementor.io/@ajaysudani07/private-and-public-scope-in-javascript-lzgppc9js)
 * 🇷🇺/🇺🇸 Шаблон Facade в JavaScript [перевод](https://webdevblog.ru/shablon-facade-v-javascript/)/[оригинал](https://dev.to/tomekbuszewski/facade-pattern-in-javascript-3on4)
 
 ## Асинхронное программирование, promises, async/await

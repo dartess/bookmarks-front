@@ -13,6 +13,7 @@
 * 🇷🇺/🇺🇸 Исчерпывающий путеводитель по тегу iframe [перевод](https://habr.com/ru/post/488516/)/[оригинал](https://blog.logrocket.com/the-ultimate-guide-to-iframes/)
 * 🇺🇸 [HTML can do that?](https://dev.to/ananyaneogi/html-can-do-that-c0n)
 * 🇺🇸 [What you should know about tabindex](https://gist.github.com/nepsilon/4af89b914add3284e5a70c62311b008d)
+* 🇺🇸 [🗿 HEAD — A list of everything that *could* go in the `head` of your document](https://github.com/joshbuchea/HEAD)
 
 ### Формы
 
@@ -46,11 +47,15 @@
 * 🇷🇺/🇺🇸 Свойство background [перевод](https://medium.com/@ABatickaya/%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-background-4f3b67451794)/[оригинал](https://bitsofco.de/the-background-properties/)
 * 🇺🇸 [CSS Will Change Module Level 1 — Editor’s Draft](https://drafts.csswg.org/css-will-change/)
 * 🇷🇺/🇺🇸 Новые логические свойства в CSS! [перевод](https://medium.com/web-standards/logical-css-props-c5046c563640)/[оригинал](https://medium.com/@elad/new-css-logical-properties-bc6945311ce7)
+* 🇺🇸 [Next-generation web styling](https://web.dev/next-gen-css-2019/)
+* 🇺🇸 [Dashed border using background-image property](https://codepen.io/amitsheen/pen/xxZeyjO)
 
 ### Единицы измерения
 
 * 🇺🇸 [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
 * 🇺🇸 [You’re using〈em〉wrong](https://blog.logrocket.com/youre-using-em-wrong/)
+* 🇷🇺 [Единицы размеров в CSS](http://css.yoksel.ru/size-units/)
+* 🇺🇸 [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
 
 ### Медиазапросы
 
@@ -64,6 +69,7 @@
 * 🇺🇸 [CSS Writing Modes](https://24ways.org/2016/css-writing-modes/)
 * 🇷🇺 [Комбинации в CSS: ::before и ::first-letter](https://medium.com/front-end-in-regions-grodno/61a05d17c736)
 * 🇷🇺/🇺🇸 Рендеринг текста вас ненавидит [перевод](https://habr.com/ru/post/469529/)/[оригинал](https://gankra.github.io/blah/text-hates-you/)
+* 🇺🇸 [Leading-Trim: The Future of Digital Typesetting](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
 
 ### Позиционирование и блочная модель
 
@@ -92,6 +98,7 @@
 * 🇷🇺 [GRID GARDEN](http://cssgridgarden.com/#ru)
 * 🇷🇺/🇺🇸 Гибкая разметка без медиа-запросов: функции min(), max(), clamp() [перевод](https://habr.com/ru/post/499088/)/[оригинал](https://blog.logrocket.com/flexible-layouts-without-media-queries/)
 * 🇺🇸 [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/)
+* 🇺🇸 [A Lightweight Masonry Solution](https://css-tricks.com/a-lightweight-masonry-solution/)
 
 ### Таблицы
 
@@ -121,6 +128,7 @@
 ### Цвета
 
 * 🇷🇺/🇺🇸 LCH-цвета в CSS [перевод](https://habr.com/ru/company/ruvds/blog/496966/)/[оригинал](https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
+* 🇺🇸 [The possibilities of the color-adjust property](https://css-tricks.com/the-possibilities-of-the-color-adjust-property/)
 
 ### Режимы наложения
 
@@ -129,6 +137,10 @@
 ### Единицы измерения
 
 * 🇺🇸 [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
+
+### Фильтры
+
+* 🇺🇸 [Drop-Shadow: The Underrated CSS Filter](https://css-irl.info/drop-shadow-the-underrated-css-filter/)
 
 ### Скроллбар
 
@@ -157,6 +169,7 @@
 
 ### CSS Houdini
 
+* 🇺🇸 [CSS Houdini](https://houdini.glitch.me/)
 * 🇺🇸 [Is Houdini ready yet‽](https://ishoudinireadyyet.com/)
 * 🇷🇺/🇺🇸 Тёмная сторона использования полифиллов CSS [перевод](https://habr.com/ru/post/326056/)/[оригинал](https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/)
 
@@ -245,6 +258,7 @@
 * 🇷🇺/🇺🇸 Микробраузеры повсюду. Но что мы о них знаем? [перевод](https://habr.com/ru/company/dcmiran/blog/485386/)/[оригинал](https://24ways.org/2019/microbrowsers-are-everywhere/)
 * 🇺🇸 [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26)
 * 🇺🇸 [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/)
+* 🇺🇸 Gettin’ Foldy with the Dual-screen Web [part 1](https://daverupert.com/2020/07/gettin-foldy-with-the-dual-screen-web-part-i/), [part 2](https://daverupert.com/2020/07/gettin-foldy-with-the-dual-screen-web-part-ii/)
 
 ## Вёрстка текстов с направлением письма справа налево
 
@@ -278,6 +292,10 @@
 * 🇷🇺/🇺🇸 Дело не в моральных принципах: доступность нужна всем [перевод](https://css-live.ru/articles/delo-ne-v-moralnyx-principax-dostupnost-nuzhna-vsem.html)/[оригинал](https://una.im/a11y-for-the-masses/)
 * 🇺🇸 [External Links, New Tabs, and Accessibility](https://codersblock.com/blog/external-links-new-tabs-and-accessibility/)
 * 🇺🇸 [Changing the Reading Order of a Page with ARIA Flowto](https://timwright.org/blog/2016/11/05/changing-reading-order-page-aria-flowto/)
+* 🇺🇸 [The CSS "content" property accepts alternative text](https://www.stefanjudis.com/today-i-learned/css-content-accepts-alternative-text/)
+* 🇺🇸 [How to make inline error messages accessible](https://hiddedevries.nl/en/blog/2017-04-04-how-to-make-inline-error-messages-accessible?s=2017-04-04-how-to-make-error-messages-accessible)
+* 🇺🇸 [Accessibility for Vestibular Disorders: How My Temporary Disability Changed My Perspective](https://alistapart.com/article/accessibility-for-vestibular/)
+* 🇷🇺 [Технические предпочтения пользователей с нарушениями зрения в 2020 году. Исследование Яндекса](https://habr.com/ru/company/yandex/blog/515460/)
 
 ### Инклюзивные компоненты
 
@@ -290,7 +308,9 @@
 
 ## Графика
 
-* 🇷🇺 [WebP сегодня: зачем и как?](https://medium.com/web-standards/webp-%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8-%D0%BA%D0%B0%D0%BA-4f64d4330f8d)
+Также см. Оптимизация - графика
+
+* 🇷🇺 [Растровая и векторная графика](https://htmlacademy.ru/blog/boost/graphics/rastr-vector)
 * 🇷🇺/🇺🇸 Полное руководство по отзывчивым изображениям! [перевод](https://medium.com/@ABatickaya/responsive-imgs-998f103a7a32)/[оригинал](https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7)
 * 🇺🇸 [image orientation on the web](https://justmarkup.com/articles/2019-10-21-image-orientation/)
 * 🇺🇸 [Native lazy-loading for the web](https://web.dev/native-lazy-loading/)
@@ -306,3 +326,4 @@
 * 🇺🇸 [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
 * 🇺🇸 [SVG Filter Effects: Duotone Images with feComponentTransfer](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
 * 🇺🇸 [Understanding the SVG viewBox](http://thenewcode.com/1151/Understanding-the-SVG-viewBox)
+* 🏳 [SVG Animation демо](https://jsbin.com/kirupal/)
