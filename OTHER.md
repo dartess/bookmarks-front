@@ -15,6 +15,7 @@
 * 🇺🇸 [A Headless Chrome rendering solution](https://github.com/GoogleChrome/rendertron)
 * 🇺🇸 📺 [JavaScript SEO](https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
 * 🇷🇺 [SEO-тест: индексация JavaScript-сайтов](https://vc.ru/seo/69857-seo-test-indeksaciya-javascript-saytov)
+* 🇷🇺 [О чем должен помнить веб-разработчик, чтобы сделать всё по SEO-феншую](https://habr.com/ru/post/417503/)
 
 ### Микроразметка
 
@@ -65,8 +66,9 @@
 * 🇺🇸 [The problem with tooltips and what to do instead](https://adamsilver.io/articles/the-problem-with-tooltips-and-what-to-do-instead/)
 * 🇺🇸 [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)
 * 🇺🇸 [Indicators, Validations, and Notifications: Pick the Correct Communication Option](https://www.nngroup.com/articles/indicators-validations-notifications/)
+* 🇺🇸 [Reactive Web Design: The secret to building web apps that feel amazing](https://medium.com/@owencm/reactive-web-design-the-secret-to-building-web-apps-that-feel-amazing-b5cbfe9b7c50)
 
-### Таблицы
+#### Таблицы
 
 * 🇺🇸 [Table Design Patterns On The Web](https://www.smashingmagazine.com/2019/01/table-design-patterns-web/)
 * 🇺🇸 [Designing better tables for enterprise applications](https://uxdesign.cc/designing-better-tables-for-enterprise-applications-f9ef545e9fbd)
@@ -77,6 +79,7 @@
 * 🇷🇺 [Как подружить дизайнера, верстальщика и «Фигму» с помощью дизайн-системы, ломика и какой-то матери™](https://habr.com/ru/post/464115/)
 * 🇺🇸 [Moving From Sketch To Figma: A Case Study Of Migrating Design Systems](https://www.smashingmagazine.com/2019/09/migrating-design-systems-sketch-figma/)
 * 🇷🇺 [Как создавать Pixel Perfect изображения в Adobe Illustrator](https://habr.com/ru/post/259723/)
+* 🇷🇺 [Чем Figma лучше Photoshop для разработки веб-интерфейсов](https://habr.com/ru/company/skillbox/blog/359258/)
 
 ### Тёмная тема
 
@@ -93,6 +96,7 @@
 * 🇺🇸 👍 [Sentry — Application Monitoring and Error Tracking Software](https://sentry.io/)
 * 🇺🇸 [Что такое TDD и BDD на пальцах, и что должен знать о них фронтендер](https://medium.com/@lucyhackwrench/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-tdd-%D0%B8-bdd-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D1%85-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-%D0%BD%D0%B8%D1%85-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-701a10e06bb9)
 * 🇺🇸 [Measuring Code Quality with Test Coverage Metrics](https://reqtest.com/testing-blog/test-coverage-metrics/)
+* 🇷🇺 [Эффективное тестирование верстки](https://habr.com/ru/company/oleg-bunin/blog/499638/)
 
 ### Тестирование React
 
@@ -154,6 +158,8 @@
 * 🇺🇸 [Comparing file sizes of lossless WebP vs FLIF vs PNG](https://www.ctrl.blog/entry/webp-flif-comparison.html)
 * 🇺🇸 [How to Use AVIF: The New Next-Gen Image Compression Format](https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/)
 
+Также смотри: Онлайн-инструменты -> Конвертеры и оптимизаторы
+
 ### Оптимизация шрифтов
 
 * 🇷🇺 [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/useful/css/better-webfont-loading-with-localstorage-and-woff2)
@@ -163,9 +169,13 @@
 ### Оптимизация CSS
 
 * 🇺🇸 [Why Moving Elements With Translate() Is Better Than Pos:abs Top/left](https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
-* 🇺🇸 [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 * 🇺🇸 [CSS Triggers](https://csstriggers.com/)
 * 🇷🇺/🇺🇸 Используйте свойства, вызывающие только компоновку, и контролируйте количество слоев [оригинал](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count)/[перевод](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count?hl=ru)
+
+Также смотри:
+
+* HTMLCSS -> CSS -> CSS Containment
+* HTMLCSS -> CSS -> content-visibility
 
 ### Оптимизация JS
 
@@ -178,6 +188,7 @@
 * 🇺🇸 [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
 * 🇺🇸 [React Performance – A Definitive Guide to React js Performance Optimization](https://www.simform.com/react-performance/)
 * 🇺🇸 [Profiling React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
+* 🇺🇸 [What to do when your React app feels slow](https://itnext.io/what-to-do-when-your-react-app-feels-slow-3744c966ddf)
 
 ### Разбор практических кейсов
 
@@ -226,17 +237,42 @@
 * 🇷🇺 [Типограф Лебедева](https://www.artlebedev.ru/typograf/)
 * 🇺🇸 [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/ )
 * 🇺🇸 [CSS Sprite Generator](https://instantsprite.com/)
-* 🇺🇸 [convert — конвертер с поддержкой конвертирования видео](https://cloudconvert.com/)
 * 🇺🇸 [FontDrop! — просмотр информации о шрифте](https://fontdrop.info/)
+
+### Конструкторы
+
+* 🇺🇸 [CSS Scroll Shadows!](https://css-scroll-shadows.now.sh/)
+
+### Конвертеры и оптимизаторы
+
 * 🇺🇸 [TinyPNG — оптимизация png](https://tinypng.com/)
 * 🇺🇸 [Squoosh — оптимизация и конвертация изображений (с поддержкой webp)](https://squoosh.app/)
 * 🇺🇸 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
-* 🇺🇸 [CSS Scroll Shadows!](https://css-scroll-shadows.now.sh/)
+* 🇺🇸 [convert — конвертер с поддержкой конвертирования видео](https://cloudconvert.com/)
 
 ## Машинное обучение
 
 * 🇷🇺/🇺🇸 Машинное обучение для фронтенд разработчиков с Tensorflow.js [перевод](https://medium.com/maria-machine/charlie-gerard-machine-learning-for-front-end-developers-with-tensorflowjs-9c908fbfa8ec)/[оригинал](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/)
 * 🇺🇸 [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+
+
+## WebAssembly (wasm)
+
+* 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
+* 🇺🇸 [WebAssembly Studio](https://webassembly.studio/)
+* 🇷🇺/🇺🇸 Как мы при помощи WebAssembly в 20 раз веб-приложение ускорили [перевод](https://habr.com/ru/company/skillbox/blog/452190/)/[оригинал](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
+* 🇺🇸 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/)
+* 🇺🇸 [Hands-on WebAssembly: Try the basics](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+
+### AssemblyScript (компиляция из TypeScript-like подобного языка)
+
+* 🇺🇸 [AssemblyScript — A language made for WebAssembly](https://www.assemblyscript.org/)
+* 🇷🇺/🇺🇸 Первое знакомство с AssemblyScript [перевод](https://habr.com/ru/company/ruvds/blog/477272/)/[оригинал](https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/)
+* 🇺🇸 [Adding a WebAssembly component to a React App](https://blog.scottlogic.com/2019/06/14/add-webassembly-to-react-app.html)
+
+### Emscripten (компиляция из C или C++)
+
+* 🇺🇸 [Emscripten — toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins.](https://emscripten.org/)
 
 ## GraphQL
 
@@ -288,6 +324,10 @@
 * 🇷🇺 [Глоссарий терминов для Git и GitHub](https://htmlacademy.ru/blog/boost/tools/git-and-github-glossary)
 * 🇷🇺 [Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://habr.com/ru/company/yandex/blog/431432/)
 * 🇺🇸 [Better Git configuration](https://blog.scottnonnenberg.com/better-git-configuration/)
+
+#### Git GUI
+
+* 🇺🇸 [GitUp](https://gitup.co/)
 
 ### Редакторы кода и IDE
 
@@ -359,6 +399,7 @@
 * 🇷🇺 [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
 * 🇷🇺 [Сборник рекомендаций от CSSSR](https://github.com/CSSSR/sputnik)
 * 🇷🇺 [Вёрстка — это не тупо. Пособие для тех, кому надо верстать.](http://webmasters.teamdev.com/)
+* 🇷🇺 [Советы для разработчика интерфейсов](https://github.com/forwebdev/ui-developer-tips)
 
 ## Прочее
 
@@ -390,10 +431,10 @@
 * 🇷🇺/🇺🇸 Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, перевод [часть 1](https://habr.com/ru/post/158639/), [часть 2](https://habr.com/ru/post/158895/)/[оригинал](https://kunststube.net/encoding/)
 * 🇷🇺 [На что обратить внимание, когда делаешь поиск](http://mikeozornin.ru/blog/all/search-ui-tricks/)
 * 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
-* 🇷🇺 [Советы для разработчика интерфейсов](https://github.com/forwebdev/ui-developer-tips)
 * 🇺🇸 [MockIt: A tool to quickly create mocked APIs](https://github.com/boyney123/mockit)
 * 🇺🇸 [Globalize — A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data](https://github.com/globalizejs/globalize)
 * 🇷🇺/🇺🇸 Как работать с денежными значениями в Javascript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
 * 🇺🇸 [Generating UUIDs at scale on the Web](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
 * 🇺🇸 [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * 🇺🇸 [How To Control Music With A PS4 DualShock and JavaScript](https://itnext.io/how-to-control-music-with-a-ps4-dualshock-and-javascript-54237206c104)
+* 🇷🇺/🇺🇸 Противостояние SOAP и REST [перевод](https://medium.com/@slonoed/%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-soap-%D0%B8-rest-1cc092e39fee)/[оригинал](http://thehistoryoftheweb.com/soap-rest-odds/)

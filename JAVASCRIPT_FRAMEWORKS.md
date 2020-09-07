@@ -35,7 +35,7 @@
 * 🇺🇸 [react-yandex-maps — Yandex Maps API bindings for React](https://github.com/gribnoysup/react-yandex-maps)
 * 🇺🇸 [react-tooltip](https://wwayne.github.io/react-tooltip/)
 
-### Роутинг
+#### Роутинг
 
 * 🇺🇸 [wouter](https://github.com/molefrog/wouter)
 
@@ -74,11 +74,16 @@
 * 🇺🇸 [victory](https://formidable.com/open-source/victory/)
 * 🇺🇸 👍 [Recharts](http://recharts.org/en-US/)
 * 🇺🇸 👍 [React Mobile DatePicker Component](https://www.npmjs.com/package/rmc-date-picker)
+* 🇷🇺 [Оптимизация графиков Recharts](https://tproger.ru/articles/recharts-optimization/)
 
 #### Интернационализация
 
 * 🇺🇸 [react-i18next](https://react.i18next.com/)
 * 🇺🇸 [localize-react — Lightweight React Localization Library](https://github.com/yankouskia/localize-react)
+
+#### PDF
+
+* 🇺🇸 [React-PDF](https://github.com/wojtekmaj/react-pdf)
 
 ### Redux
 

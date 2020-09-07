@@ -43,6 +43,9 @@
 * 🇷🇺/🇺🇸 Структуры данных. Неформальный гайд [перевод](https://habr.com/ru/post/263765/)/[оригинал](http://algosaur.us/data-structures-basics/)
 * 🇷🇺/🇺🇸 👍 Разбираемся в проверке JavaScript-типов с помощью typeof [перевод](https://medium.com/devschacht/javascript-typeof-43591ab15bef)/[оригинал](https://blog.logrocket.com/javascript-typeof-2511d53a1a62/)
 * 🇷🇺 [Классические алгоритмы и структуры данных на JavaScript](https://habr.com/ru/post/359192/)
+* 🇷🇺 👍 [Насколько JavaScript сильный?](https://medium.com/devschacht/javascript-coercions-9a36505c1370)
+* 🇷🇺/🇺🇸 Введение в Set в JavaScript — все, что нужно знать о наборах [перевод](https://webdevblog.ru/vvedenie-v-set-v-javascript-vse-chto-nuzhno-znat-o-naborah/)/[оригинал](https://dev.to/alexdevero)
+* 🇺🇸 [Pretty algorithms — 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests](https://github.com/jiayihu/pretty-algorithms)
 
 ### Строки
 
@@ -71,8 +74,10 @@
 
 ## RegExp
 
+* 🇷🇺/🇺🇸 Практическое введение в регулярные выражения для новичков [перевод](https://proglib.io/p/dont-fear-regex/)/[оригинал](https://dev.to/hawkinjs/dont-fear-the-regex-a-practical-introduction-to-regular-expressions)
 * 🇺🇸 [Опережающие и ретроспективные проверки в регулярных выражениях](https://habr.com/ru/post/159483/)
 * 🇺🇸 [JavaScript regular expressions: /g, /y, and .lastIndex](https://2ality.com/2020/01/regexp-lastindex.html)
+* 🇺🇸 [A Practical Guide to Regular Expressions (RegEx) In JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4)
 
 ## Intl
 
@@ -99,11 +104,3 @@
 ## Метапрограммирование
 
 * 🇷🇺 [Метапрограммирование в JavaScript](https://habr.com/ru/company/docsvision/blog/417097/)
-
-## WebAssembly
-
-* 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
-* 🇺🇸 [WebAssembly Studio](https://webassembly.studio/)
-* 🇷🇺/🇺🇸 Первое знакомство с AssemblyScript [перевод](https://habr.com/ru/company/ruvds/blog/477272/)/[оригинал](https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/)
-* 🇷🇺/🇺🇸 Как мы при помощи WebAssembly в 20 раз веб-приложение ускорили [перевод](https://habr.com/ru/company/skillbox/blog/452190/)/[оригинал](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
-* 🇺🇸 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/)

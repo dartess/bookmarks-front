@@ -14,15 +14,19 @@
 * 🇷🇺 [Как рисует браузер. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/468165/)
 * 🇺🇸 [Hide iPhone HTML5 video play button](https://stackoverflow.com/questions/8911247/hide-iphone-html5-video-play-button)
 * 🇺🇸 [ECMAScript features compatibility table](https://kangax.github.io/compat-table/es6/)
-* 🇺🇸 [Event loop explainer](https://github.com/atotic/event-loop)
 * 🇷🇺 [Browser Fingerprint — анонимная идентификация браузеров](https://habr.com/ru/company/oleg-bunin/blog/321294/)
 * 🇷🇺/🇺🇸 Современная загрузка скриптов [перевод](https://habr.com/ru/company/raiffeisenbank/blog/473994/)/[оригинал](https://jasonformat.com/modern-script-loading/)
 * 🇷🇺 [Взаимодействие сайта в браузере и локально запущенной программы](https://habr.com/ru/post/438166/)
-* 🇷🇺 [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
 * 🇷🇺/🇺🇸 DevTips: Советы веб-разработчику [частичный перевод 1](https://habr.com/ru/company/mailru/blog/268519/), [частичный перевод 2](https://habr.com/ru/company/mailru/blog/268777/), [частичный перевод 3](https://habr.com/ru/company/mailru/blog/275425/), [частичный перевод 4](https://habr.com/ru/company/mailru/blog/278021/)/[оригинал](https://umaar.com/dev-tips/)
 * 🇺🇸 [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
 * 🇺🇸 [Browser Architecture: Web-to-App Communication Overview](https://textslashplain.com/2019/08/28/browser-architecture-web-to-app-communication-overview/)
 * 🇺🇸 👍 [What every Browser knows about you](https://webkay.robinlinus.com/)
+
+### Event loop
+
+* 🇺🇸 [Event loop explainer](https://github.com/atotic/event-loop)
+* 🇷🇺 [Что ты такое, Event Loop? Или как устроен цикл событий в браузере Chrome](https://habr.com/ru/post/461401/)
+* 🇺🇸 [Demystifying Asynchronous JavaScript — Event Loop, Call stack, Task Queue, and More!](https://levelup.gitconnected.com/demystifying-asynchronous-javascript-event-loop-call-stack-task-queue-and-more-51fb748a4bd4)
 
 ### Полезные расширения
 
@@ -121,6 +125,9 @@
 
 * 🇺🇸 [date-fns — Modern JavaScript date utility library](https://date-fns.org/)
 * 🇺🇸 [Day.js — легковесная альтернатива Moment.js](https://github.com/iamkun/dayjs)
+* 🇺🇸 [Luxon — A powerful, modern, and friendly wrapper for Javascript dates and times.](https://moment.github.io/luxon/)
+
+Также см. JavaScript -> Intl
 
 ### Формы
 
@@ -152,15 +159,16 @@
 * 🇺🇸 [Google Charts](https://developers.google.com/chart)
 * 🇺🇸 [Plotly.js](https://plot.ly/javascript/)
 * 🇺🇸 [Chartist - Simple responsive charts](http://gionkunz.github.io/chartist-js/)
+* 🇺🇸 [ApexCharts.js](https://apexcharts.com/)
+* 🇺🇸 [ECharts](https://echarts.apache.org/en/index.html)
+* 🇺🇸 [Chart.js](https://www.chartjs.org/)
 
 #### ECharts
 
-* 🇺🇸 [ECharts](https://echarts.apache.org/en/index.html)
 * 🇺🇸 [Why we chose ECharts for data visualizations](https://about.gitlab.com/blog/2019/09/30/why-we-chose-echarts/)
 
 #### Chart.js
 
-* 🇺🇸 [Chart.js](https://www.chartjs.org/)
 * 🇺🇸 [Data visualization with Chart.js: An introduction](https://tobiasahlin.com/blog/introduction-to-chartjs/)
 
 #### D3.js
@@ -170,10 +178,15 @@
 * 🇷🇺 [Визуализация геоданных в D3.js](https://frontender.info/d3js-map-visualization/)
 * 🇺🇸 [d3-pre](https://github.com/fivethirtyeight/d3-pre)
 * 🇺🇸 [Rendering One Million Datapoints with D3 and WebGL](https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html)
+* 🇷🇺 [Просто о D3.js](https://habr.com/ru/post/342106/)
 
 ### Медиа (аудио, видео)
 
 * 🇺🇸 [Plyr — a simple, accessible and customisable media player](https://plyr.io/)
+
+### drag & drop library
+
+* 🇺🇸 [graggable](https://shopify.github.io/draggable/)
 
 ### Физические движки
 
@@ -214,9 +227,9 @@
 
 ### Локализация
 
-Также см. JAVASCRIPT_FRAMEWOKRKDS.md #### Интернационализация
-
 * 🇺🇸 [Project Fluent](https://www.projectfluent.org/)
+
+Также смотри: JAVASCRIPT_FRAMEWORKS.md -> Интернационализация
 
 ## PWA
 
@@ -240,6 +253,7 @@
 * 🇷🇺 🇺🇸 Прогрессивные веб-приложения (PWA). Будущее мобильного интернета [перевод, часть 1](https://blog.sibirix.ru/2019/11/06/PWA-book-part1/), [перевод, часть 2](https://blog.sibirix.ru/2019/11/07/PWA-book-part2/)/[оригинал](https://www.awwwards.com/PWA-ebook/)
 * 🇺🇸 [Progressive Web Apps. The Superpowers of the Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/)
 * 🇷🇺 [Как сделать из сайта приложение и выложить его в Google Play за несколько часов. Часть 1/2: Progressive Web App](https://habr.com/ru/company/mailru/blog/450504/)
+* 🇺🇸 [Appscope - Progressive Web Apps Examples](https://appsco.pe/)
 
 ### Web App Manifest
 
@@ -464,6 +478,7 @@
 
 #### Push API — уведомления из браузера
 
+* 🇺🇸 [Push Messages](https://whatwebcando.today/push-notifications.html)
 * 🇺🇸 [Web Push Book — книга про Push API и всё, что с ними связано](https://web-push-book.gauntface.com/)
 * 🇺🇸 [web-push-libs](https://github.com/web-push-libs/)
 
@@ -483,14 +498,15 @@
 * 🇺🇸 [Task Scheduling](https://whatwebcando.today/scheduler.html)
 * 🇺🇸 [Task Scheduler API — черновик спецификации](https://www.w3.org/TR/task-scheduler/)
 
-#### Background Sync API
+#### Background Sync API — возможность отправлять данные после восстановления связи
 
 * 🇺🇸 [Background Sync](https://whatwebcando.today/background-sync.html)
 * 🇺🇸 [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync)
 
-#### Periodic Background Sync API
+#### Periodic Background Sync API — возможность периодически запрашивать свежие данные из сервис-воркера
 
 * 🇺🇸 [Richer offline experiences with the Periodic Background Sync API](https://web.dev/periodic-background-sync/)
+* 🇺🇸 [Periodic Background Sync Explained](https://felixgerschau.com/periodic-background-sync-explained/)
 
 #### Background Fetch API
 
@@ -503,14 +519,9 @@
 * 🇺🇸 [Local Notifications](https://whatwebcando.today/local-notifications.html)
 * 🇺🇸 [Notification Triggers Explainer](https://github.com/rknoll/notification-triggers)
 
-#### Push API
-
-* 🇺🇸 [Push Messages](https://whatwebcando.today/push-notifications.html)
-
 #### Page Visibility API
 
 * 🇺🇸 [Foreground Detection](https://whatwebcando.today/foreground-detection.html)
-
 
 #### Idle Detection API — определение отсутствие активности пользователя
 
@@ -527,6 +538,10 @@
 #### Permissions API
 
 * 🇺🇸 [Permissions](https://whatwebcando.today/permissions.html)
+
+#### Local Font Access API — низкоуровневая работа со шрифтами
+
+* 🇺🇸 [Use advanced typography with local fonts](https://web.dev/local-fonts/)
 
 ### Взаимодействие между приложениями
 
@@ -580,6 +595,7 @@
 
 * 🇺🇸 [Guide to Web Authentication](https://webauthn.guide/)
 * 🇷🇺 [Новые стандарты для беспарольной аутентификации: как они работают](https://habr.com/ru/company/1cloud/blog/353966)
+* 🇷🇺 [WebAuthn в реальной жизни](https://habr.com/ru/company/mailru/blog/489270/)
 
 #### Прочие API, связанные с авторизацией
 
@@ -641,6 +657,11 @@
 
 * 🇷🇺/🇺🇸 Концепции, лежащие в основе Web Audio API [перевод](https://habr.com/ru/post/495690/)/[оригинал](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
 
+#### Visual Viewport API — определение размера визуально видимой части страницы
+
+* 🇺🇸 [Visual Viewport API — черновик предложения](https://wicg.github.io/visual-viewport/)
+* 🇺🇸 [Visual Viewport API — explainer](https://github.com/WICG/visual-viewport)
+
 ### API для работы с устройствами
 
 #### Gamepad API
@@ -684,21 +705,23 @@
 
 * 🇺🇸 Server Timing [Working Draft](https://www.w3.org/TR/server-timing/), [Editor's Draft](https://w3c.github.io/geolocation-sensor/)
 
-### Streams API
+### Прочие API
+
+#### Streams API
 
 * 🇺🇸 [Streams for reactive programming](https://dassur.ma/things/streams-for-reactive-programming/)
 * 🇺🇸 [Compression Streams Explained](https://github.com/WICG/compression/blob/master/explainer.md)
 
-### FormData
+#### FormData
 
 * 🇺🇸 👍 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
 
 
-### Beacon API
+#### Beacon API
 
 * 🇺🇸 [Logging Activity With The Web Beacon API](https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/)
 
-### Content Indexing API
+#### Content Indexing API
 
 * 🇺🇸 [Indexing your offline-capable pages with the Content Indexing API](https://web.dev/content-indexing-api/)
 
@@ -770,9 +793,20 @@
 * 🇺🇸 [How To Create A PDF From Your Web Application](https://www.smashingmagazine.com/2019/06/create-pdf-web-application/)
 * 🇺🇸 [pdfmake — Client/server side PDF printing in pure JavaScript](http://pdfmake.org)
 
+Также см. React -> Библиотеки -> PDF
+
 ## Web Components (веб-компоненты)
 
 * 🇺🇸 [Web Components bookmarks](https://www.notion.so/Web-Components-bookmarks-64066078f891433dbc74997dc4d64302)
 * 🇺🇸 [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 * 🇺🇸 [Web Components will replace your frontend framework](https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework)
 * 🇷🇺 Веб-компоненты в реальном мире [часть 1](https://habr.com/ru/post/443032/), [часть 2](https://habr.com/ru/post/515332/)
+
+## Устройство браузеров
+
+* 🇺🇸 Inside look at modern web browser [part 1](https://developers.google.com/web/updates/2018/09/inside-browser-part1), [part 2](https://developers.google.com/web/updates/2018/09/inside-browser-part2), [part 3](https://developers.google.com/web/updates/2018/09/inside-browser-part3), [part 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
+* 🇺🇸 [JavaScript Engines: An Overview](https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187)
+
+## well-known URL
+
+* 🇺🇸 [Help users change passwords easily by adding a well-known URL for changing passwords](https://web.dev/change-password-url/)

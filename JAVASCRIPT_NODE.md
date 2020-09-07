@@ -7,17 +7,13 @@
 * 🇷🇺/🇺🇸 [перевод]()/[оригинал]()
 -->
 
-* 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
-* 🇺🇸 [Понимание (всех) «модульных» форматов и инструментов JavaScript](https://habr.com/ru/post/501198/)
 * 🇺🇸 [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 
-## CSS Modules
+### Модули
 
-* 🇷🇺/🇺🇸 Конец эры глобального CSS [перевод](https://habr.com/ru/post/276417/)/[оригинал](https://medium.com/seek-blog/the-end-of-global-css-90d2a4a06284#.rx1co7cd0)
-* 🇷🇺/🇺🇸 Практическое руководство по использованию CSS Modules в React приложениях [перевод](https://habr.com/ru/post/335244/)/[оригинал](https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/)
-* 🇺🇸 [CSS modules, part 1: What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
-* 🇺🇸 [CSS modules, part 2: Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/)
-* 🇺🇸 [CSS modules, part 3: CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/)
+* 🇺🇸 [JavaScript Modules: A beginner’s guide](https://www.preethikasireddy.com/post/javascript-modules-a-beginners-guide)
+* 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
+* 🇺🇸 [Понимание (всех) «модульных» форматов и инструментов JavaScript](https://habr.com/ru/post/501198/)
 
 ## PostCSS
 
@@ -77,6 +73,7 @@
 
 * 🇺🇸 [Rome — an experimental JavaScript toolchain](https://romejs.dev/)
 * 🇺🇸 [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
+* 🇷🇺 [Знакомство с Rome от создателей Babel — компилятор, сборщик, линтер, тесты в одном флаконе](https://habr.com/ru/post/515914/)
 
 ## Babel
 
@@ -155,3 +152,15 @@
 * 🇺🇸 [Node.js Features Support — kangax's compat-table applied only to Node.js](https://node.green/)
 * 🇷🇺 [Выкладываем Node.js приложение в сеть](https://telegra.ph/Vykladyvaem-Nodejs-prilozhenie-v-set-09-21)
 * 🇷🇺/🇺🇸 Руководство по логированию в Node.js [перевод](https://habr.com/ru/company/funcorp/blog/461881/)/[оригинал](https://www.twilio.com/blog/guide-node-js-logging)
+
+## CSS Modules
+
+* 🇷🇺/🇺🇸 Конец эры глобального CSS [перевод](https://habr.com/ru/post/276417/)/[оригинал](https://medium.com/seek-blog/the-end-of-global-css-90d2a4a06284#.rx1co7cd0)
+* 🇷🇺/🇺🇸 Практическое руководство по использованию CSS Modules в React приложениях [перевод](https://habr.com/ru/post/335244/)/[оригинал](https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/)
+* 🇺🇸 [CSS modules, part 1: What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
+* 🇺🇸 [CSS modules, part 2: Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/)
+* 🇺🇸 [CSS modules, part 3: CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/)
+
+## CSS-in-JS
+
+* 🇺🇸 [In what way is JS any more maintainable than CSS? How does writing CSS in JS make it any more maintainable?](https://gist.github.com/threepointone/731b0c47e78d8350ae4e105c1a83867d)

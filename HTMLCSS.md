@@ -70,6 +70,7 @@
 * 🇷🇺 [Комбинации в CSS: ::before и ::first-letter](https://medium.com/front-end-in-regions-grodno/61a05d17c736)
 * 🇷🇺/🇺🇸 Рендеринг текста вас ненавидит [перевод](https://habr.com/ru/post/469529/)/[оригинал](https://gankra.github.io/blah/text-hates-you/)
 * 🇺🇸 [Leading-Trim: The Future of Digital Typesetting](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
+* 🇺🇸 [Force Selection of Text Block](https://css-tricks.com/force-selection-text-block/)
 
 ### Позиционирование и блочная модель
 
@@ -79,6 +80,7 @@
 * 🇷🇺 [Новый display:flow-root — не clearfix, но что это и зачем?](https://css-live.ru/faq/displayflow-root-not-clearfix.html?utm_source=forwebdev&utm_medium=announcement&utm_campaign=novyy-displayflow-root--ne-clearfix--n)
 * 🇺🇸 [Overflow In CSS](https://ishadeed.com/article/overflow-css/)
 * 🇺🇸 [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/#use-cases-for-min-and-max-properties)
+* 🇺🇸 [Understanding positioning in CSS](https://chenhuijing.com/blog/understanding-positioning-in-css/)
 
 ### Flexbox
 
@@ -118,6 +120,12 @@
 
 * 🇺🇸 [Helping Browsers Optimize With The CSS Contain Property](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/)
 * 🇺🇸 [Let’s Take a Deep Dive Into the CSS Contain Property](https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/)
+* 🇺🇸 [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+
+### content-visibility
+
+* 🇺🇸 [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
+* 🇷🇺 [Новое CSS-свойство content-visibility ускоряет отрисовку страницы в несколько раз](https://habr.com/ru/company/vdsina/blog/514760/)
 
 ### Анимации
 
@@ -172,6 +180,7 @@
 * 🇺🇸 [CSS Houdini](https://houdini.glitch.me/)
 * 🇺🇸 [Is Houdini ready yet‽](https://ishoudinireadyyet.com/)
 * 🇷🇺/🇺🇸 Тёмная сторона использования полифиллов CSS [перевод](https://habr.com/ru/post/326056/)/[оригинал](https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/)
+* 🇺🇸 [Houdini Samples — Demos for different Houdini APIs](https://googlechromelabs.github.io/houdini-samples/)
 
 #### Layout API
 
@@ -211,15 +220,6 @@
 
 * 🇺🇸 [Font Metrics API Explained](https://github.com/w3c/css-houdini-drafts/blob/master/font-metrics-api/README.md)
 
-### Эффекты и демо
-
-* 🇺🇸 [A Single Div](https://a.singlediv.com/)
-* 🇺🇸 [Textured Gradients in Pure CSS](https://rentafounder.com/textured-gradients-in-pure-css/)
-* 🇺🇸 [Gradient Shapes — Shapes generated with CSS background gradients](https://codepen.io/yuanchuan/full/vVRKRQ/)
-* 🇺🇸 [Diagonal Containers in CSS](https://codyhouse.co/blog/post/css-diagonal-containers)
-* 🇺🇸 [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
-* 🇺🇸 [CSS Mask Transition](https://tympanus.net/Tutorials/CSSMaskTransition/index.html)
-
 ## Шрифты
 
 * 🇷🇺 [20 вопросов про веб-шрифты](https://habr.com/ru/company/adv/blog/184864/)
@@ -241,7 +241,11 @@
 * 🇺🇸 [Variable Fonts — каталог вариативных шрифтов](https://v-fonts.com/)
 * 🇺🇸 [How New Font Technologies Will Improve The Web](https://www.smashingmagazine.com/2017/09/new-font-technologies-improve-web/)
 * 🇺🇸 [Вариативные шрифты, доступные в Google Fonts](https://codepen.io/nlwilliams/full/JjPJewp)
- 
+
+## Стили для печати
+
+* 🇷🇺 [Инструкция: CSS-оптимизация веб-страницы для печати](https://vc.ru/flood/23660-print-style-sheets)
+
 ## Вёрстка писем
 
 * 🇺🇸 [Проверка поддерживаемости CSS в письмах](https://www.campaignmonitor.com/css/)
@@ -296,6 +300,9 @@
 * 🇺🇸 [How to make inline error messages accessible](https://hiddedevries.nl/en/blog/2017-04-04-how-to-make-inline-error-messages-accessible?s=2017-04-04-how-to-make-error-messages-accessible)
 * 🇺🇸 [Accessibility for Vestibular Disorders: How My Temporary Disability Changed My Perspective](https://alistapart.com/article/accessibility-for-vestibular/)
 * 🇷🇺 [Технические предпочтения пользователей с нарушениями зрения в 2020 году. Исследование Яндекса](https://habr.com/ru/company/yandex/blog/515460/)
+* 🇷🇺 [Недоступность в картинках](http://css.yoksel.ru/inaccessibility/)
+* 🇺🇸 [5 самых раздражающих особенностей веб-сайта, с которыми я сталкиваюсь каждый божий день, будучи слепым](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/)
+* 🇺🇸 [Разница между aria-label и aria-labelledby](https://tink.uk/the-difference-between-aria-label-and-aria-labelledby/)
 
 ### Инклюзивные компоненты
 
@@ -324,6 +331,21 @@
 ## SVG
 
 * 🇺🇸 [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
-* 🇺🇸 [SVG Filter Effects: Duotone Images with feComponentTransfer](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
 * 🇺🇸 [Understanding the SVG viewBox](http://thenewcode.com/1151/Understanding-the-SVG-viewBox)
+
+Также смотри Эффекты и демо -> Эффекты и демо SVG
+
+## Эффекты и демо
+
+* 🇺🇸 [A Single Div](https://a.singlediv.com/)
+* 🇺🇸 [Textured Gradients in Pure CSS](https://rentafounder.com/textured-gradients-in-pure-css/)
+* 🇺🇸 [Gradient Shapes — Shapes generated with CSS background gradients](https://codepen.io/yuanchuan/full/vVRKRQ/)
+* 🇺🇸 [Diagonal Containers in CSS](https://codyhouse.co/blog/post/css-diagonal-containers)
+* 🇺🇸 [Gradient Borders in CSS](https://css-tricks.com/gradient-borders-in-css/)
+* 🇺🇸 [CSS Mask Transition](https://tympanus.net/Tutorials/CSSMaskTransition/index.html)
+
+### Эффекты и демо SVG
+
+* 🇺🇸 [SVG Filter Effects: Duotone Images with feComponentTransfer](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
+* 🇺🇸 [SVG Filter Effects: Creating Texture with <feTurbulence>](https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/)
 * 🏳 [SVG Animation демо](https://jsbin.com/kirupal/)
