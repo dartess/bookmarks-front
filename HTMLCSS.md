@@ -49,6 +49,7 @@
 * 🇷🇺/🇺🇸 Новые логические свойства в CSS! [перевод](https://medium.com/web-standards/logical-css-props-c5046c563640)/[оригинал](https://medium.com/@elad/new-css-logical-properties-bc6945311ce7)
 * 🇺🇸 [Next-generation web styling](https://web.dev/next-gen-css-2019/)
 * 🇺🇸 [Dashed border using background-image property](https://codepen.io/amitsheen/pen/xxZeyjO)
+* 🇺🇸 [Custom bullets with CSS ::marker](https://web.dev/css-marker-pseudo-element/)
 
 ### Единицы измерения
 
@@ -71,6 +72,7 @@
 * 🇷🇺/🇺🇸 Рендеринг текста вас ненавидит [перевод](https://habr.com/ru/post/469529/)/[оригинал](https://gankra.github.io/blah/text-hates-you/)
 * 🇺🇸 [Leading-Trim: The Future of Digital Typesetting](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
 * 🇺🇸 [Force Selection of Text Block](https://css-tricks.com/force-selection-text-block/)
+* 🇺🇸 [Stroke Text CSS: 📕 The Definitive Guide](http://www.coding-dude.com/wp/css/css-stroke-text/)
 
 ### Позиционирование и блочная модель
 
@@ -81,6 +83,11 @@
 * 🇺🇸 [Overflow In CSS](https://ishadeed.com/article/overflow-css/)
 * 🇺🇸 [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/#use-cases-for-min-and-max-properties)
 * 🇺🇸 [Understanding positioning in CSS](https://chenhuijing.com/blog/understanding-positioning-in-css/)
+
+### Z-index и порядок отрисовки
+
+* 🇺🇸 [Managing Z-Index In A Component-Based Web Application](https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/)
+* 🇺🇸 [CSS Painting Order](https://abandonedwig.info/blog/2020/07/03/css-painting-order.html)
 
 ### Flexbox
 
@@ -162,6 +169,8 @@
 * 🇷🇺 [Маленькие хитрости кастомных свойств (CSS-переменных)](https://css-live.ru/tricks/malenkie-xitrosti-kastomnyx-svojstv-css-peremennyx.html)
 * 🇷🇺/🇺🇸 Топ 5 причин, почему мне нравятся пользовательские свойства CSS [перевод](https://habr.com/ru/post/480806/)/[оригинал](https://dev.to/melnik909/the-5-reasons-why-i-like-css-custom-properties-4g18)
 * 🇷🇺 [Введение в пользовательские CSS-свойства](https://habr.com/ru/company/netologyru/blog/431616/)
+* 🇺🇸 [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
+* 🇷🇺 Кастомные свойства в CSS. [Часть 1: что это такое и как работает](https://tproger.ru/articles/custom-properties-in-css-part-1/), [Часть 2: особенности применения](https://tproger.ru/articles/custom-properties-in-css-part-2/), [Кастомные свойства в CSS. Часть 3: ограничения](https://tproger.ru/articles/custom-properties-in-css-part-3/)
 
 ### Библиотеки и фреймворки
 
@@ -312,6 +321,7 @@
 * 🇷🇺 [Drag-&-Drop компоненты для слепых пользователей? Вы шутите?](https://habr.com/ru/company/oleg-bunin/blog/468541/)
 * 🇷🇺/🇺🇸 Инклюзивные компоненты: сворачиваемые секции [перевод](https://medium.com/web-standards/collapsibl-sections-c0de689e0ebe)/[оригинал](https://inclusive-components.design/collapsible-sections/)
 * 🇷🇺/🇺🇸 👍 Инклюзивные компоненты: слайдер [перевод](https://medium.com/web-standards/a-content-slider-a9ebddaae274)/[оригинал](https://inclusive-components.design/a-content-slider/)
+* 🇺🇸 [Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/)
 
 ## Графика
 

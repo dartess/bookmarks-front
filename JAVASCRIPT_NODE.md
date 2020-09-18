@@ -41,6 +41,7 @@
 * 🇷🇺 [Выбор зависимостей JavaScript](https://habr.com/ru/company/domclick/blog/512154/)
 * 🇷🇺 [Lock-файлы npm](https://habr.com/ru/company/domclick/blog/513130/)
 * 🇷🇺 [Как npm обеспечивает безопасность](https://habr.com/ru/company/domclick/blog/515848/)
+* 🇷🇺 Безопасность npm-проектов [часть 1](https://habr.com/ru/company/domclick/blog/516792/), [часть 2](https://habr.com/ru/company/domclick/blog/518502/)
 
 ### semver
 
@@ -164,3 +165,7 @@
 ## CSS-in-JS
 
 * 🇺🇸 [In what way is JS any more maintainable than CSS? How does writing CSS in JS make it any more maintainable?](https://gist.github.com/threepointone/731b0c47e78d8350ae4e105c1a83867d)
+
+## Deno (Node.js альтернатива)
+
+* 🇺🇸 [Everything You Need to Know to Get Started with Deno](https://www.telerik.com/blogs/how-to-get-started-with-deno)

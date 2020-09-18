@@ -51,6 +51,7 @@
 
 * 🇷🇺 [Нужно ли чистить строки в JavaScript?](https://habr.com/ru/post/449368/)
 * 🇷🇺 [BIDI (unicode bidirectional algorithm)](https://habr.com/ru/post/181123/)
+* 🇷🇺 [Emoji.prototype.length — рассказ об эмоциональных символах в Юникоде](https://habr.com/ru/post/322446/)
 
 ## Шаблоны проектирования
 
@@ -67,6 +68,7 @@
 ## Итераторы и генераторы
 
 * 🇷🇺 [Как перестать бояться и полюбить Итераторы](https://webdevblog.ru/kak-perestat-boyatsya-i-poljubit-iteratory/)
+* 🇺🇸 [Async Generators and Async Iteration in Node.js](https://alanstorm.com/async-generators-and-async-iteration-in-node-js/)
 
 ## Декораторы
 

@@ -44,6 +44,7 @@
 * 🇺🇸 [Short basics of caching](https://iamakulov.com/notes/caching/)
 * 🇺🇸 [HTTP Heuristic Caching (Missing Cache-Control and Expires Headers) Explained](https://paulcalvano.com/index.php/2018/03/14/http-heuristic-caching-missing-cache-control-and-expires-headers-explained/)
 * 🇷🇺 [Кеширование одной строкой](https://t.me/iamakulov_channel/505)
+* 🇷🇺/🇺🇸 Веб-кэширование на примере покупки молока в магазине [перевод](https://habr.com/ru/company/alconost/blog/416255/)/[оригинал](https://dev.to/kbk0125/web-caching-explained-by-buying-milk-at-the-supermarket-9k4)
 
 ## Дизайн
 
@@ -67,6 +68,7 @@
 * 🇺🇸 [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)
 * 🇺🇸 [Indicators, Validations, and Notifications: Pick the Correct Communication Option](https://www.nngroup.com/articles/indicators-validations-notifications/)
 * 🇺🇸 [Reactive Web Design: The secret to building web apps that feel amazing](https://medium.com/@owencm/reactive-web-design-the-secret-to-building-web-apps-that-feel-amazing-b5cbfe9b7c50)
+* 🇷🇺 [Как писать интерфейсные надписи](http://igorshevchenko.ru/blog/entries/interface-copy)
 
 #### Таблицы
 
@@ -116,6 +118,7 @@
 
 * 🇺🇸 [Getting Started with Puppeteer](https://www.sitepoint.com/getting-started-with-puppeteer/)
 * 🇺🇸 [Puppeteer examples](https://github.com/checkly/puppeteer-examples)
+* 🇷🇺/🇺🇸 Puppeteer для краулинга страниц сайта и сохранения их в Markdown [перевод](https://medium.com/web-standards/puppeteer-crawl-to-markdown-7752dff36b68)/[оригинал](https://justmarkup.com/articles/2019-01-04-using-puppeteer-to-crawl-pages-and-save-them-as-markdown-files/)
 
 ### Playwright
 
@@ -126,6 +129,7 @@
 
 * 🇺🇸 [Building Secure JavaScript Applications](https://nemethgergely.com/building-secure-javascript-applications/)
 * 🇺🇸 [Web Security 101: An Interactive Cross-Site Request Forgery (CSRF) Demo](https://victorzhou.com/blog/csrf/)
+* 🇷🇺/🇺🇸 Как обеспечить безопасность REST API [перевод](https://webdevblog.ru/kak-obespechit-bezopasnost-rest-api/)/[оригинал](https://www.netsparker.com/blog/web-security/rest-api-web-service-security/)
 
 ## Оптимизация
 
@@ -157,6 +161,7 @@
 * 🇺🇸 [Comparing AVIF vs WebP file sizes at the same DSSIM](https://www.ctrl.blog/entry/webp-avif-comparison.html)
 * 🇺🇸 [Comparing file sizes of lossless WebP vs FLIF vs PNG](https://www.ctrl.blog/entry/webp-flif-comparison.html)
 * 🇺🇸 [How to Use AVIF: The New Next-Gen Image Compression Format](https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/)
+* 🇺🇸 [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
 
 Также смотри: Онлайн-инструменты -> Конвертеры и оптимизаторы
 
@@ -254,7 +259,7 @@
 
 * 🇷🇺/🇺🇸 Машинное обучение для фронтенд разработчиков с Tensorflow.js [перевод](https://medium.com/maria-machine/charlie-gerard-machine-learning-for-front-end-developers-with-tensorflowjs-9c908fbfa8ec)/[оригинал](https://www.smashingmagazine.com/2019/09/machine-learning-front-end-developers-tensorflowjs/)
 * 🇺🇸 [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
-
+* 🇺🇸 [AIJS.rocks](https://aijs.rocks/)
 
 ## WebAssembly (wasm)
 
@@ -360,6 +365,7 @@
 * 🇷🇺 [Do good code: 8 правил хорошего кода](https://habr.com/ru/company/geekbrains/blog/270001/)
 * 🇺🇸 [Layout-isolated components](https://visly.app/blog/layout-isolated-components)
 * 🇺🇸 [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)
+* 🇺🇸 [Psychology of Code Readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
 
 ### Код ревью
 
@@ -438,3 +444,5 @@
 * 🇺🇸 [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * 🇺🇸 [How To Control Music With A PS4 DualShock and JavaScript](https://itnext.io/how-to-control-music-with-a-ps4-dualshock-and-javascript-54237206c104)
 * 🇷🇺/🇺🇸 Противостояние SOAP и REST [перевод](https://medium.com/@slonoed/%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-soap-%D0%B8-rest-1cc092e39fee)/[оригинал](http://thehistoryoftheweb.com/soap-rest-odds/)
+* 🇺🇸 [Improving page dismissal in synchronous XMLHttpRequest()](https://web.dev/disallow-synchronous-xhr/)
+* 🇺🇸 [Practical Cryptography for Developers](https://cryptobook.nakov.com/)

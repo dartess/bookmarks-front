@@ -183,6 +183,7 @@
 ### Медиа (аудио, видео)
 
 * 🇺🇸 [Plyr — a simple, accessible and customisable media player](https://plyr.io/)
+* 🇷🇺 [Обзор видеоплееров для веба](https://habr.com/ru/post/493674/)
 
 ### drag & drop library
 
@@ -254,6 +255,7 @@
 * 🇺🇸 [Progressive Web Apps. The Superpowers of the Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/)
 * 🇷🇺 [Как сделать из сайта приложение и выложить его в Google Play за несколько часов. Часть 1/2: Progressive Web App](https://habr.com/ru/company/mailru/blog/450504/)
 * 🇺🇸 [Appscope - Progressive Web Apps Examples](https://appsco.pe/)
+* 🇺🇸 [Javascript to check if PWA or Mobile Web](https://stackoverflow.com/questions/41742390/javascript-to-check-if-pwa-or-mobile-web)
 
 ### Web App Manifest
 
@@ -291,6 +293,7 @@
 * 🇺🇸 [App shell UX with service workers and streams](https://web.dev/app-shell-ux-with-service-workers/)
 * 🇺🇸 [Service Worker Lifecycle Explained](https://felixgerschau.com/service-worker-lifecycle-update/)
 * 🇺🇸 [How much data should my Service Worker put upfront in the offline cache?](https://nicolas-hoizey.com/articles/2017/01/12/how-much-data-should-my-service-worker-put-upfront-in-the-offline-cache/)<!--- в общем, не кэшируйте всё пордяд, подумайте о пользователе; кэшируйте основу, то что пользователь посетил и то что будет полезно ему в режиме оффлайн --->
+* 🇺🇸 [Offline POSTs with Progressive Web Apps](https://medium.com/web-on-the-edge/offline-posts-with-progressive-web-apps-fc2dc4ad895)
 
 ### Особенности платформ
 
@@ -350,7 +353,7 @@
 * 🇷🇺/🇺🇸 ResizeObserver — новый мощный инструмент для работы с адаптивностью [перевод](https://habr.com/ru/post/487146/)/[оригинал](https://medium.com/@barvysta/resizeobserver-a-new-powerful-tool-for-responsive-web-f9a53ed71952)
 * 🇺🇸 [Resize Observer Polyfill](https://juggle.studio/resize-observer/)
 
-### Async DOM
+#### Async DOM
 
 * 🇺🇸 [Async DOM proposals](https://github.com/chrishtr/async-dom/blob/master/current-proposals.md)
 * 🇺🇸 [Display locking proposal](https://github.com/WICG/display-locking)
@@ -543,6 +546,10 @@
 
 * 🇺🇸 [Use advanced typography with local fonts](https://web.dev/local-fonts/)
 
+#### Media Session API — доступ к мультимедийным клавишам и интерфейсу
+
+* 🇺🇸 [Customize media notifications and playback controls with the Media Session API](https://web.dev/media-session/)
+
 ### Взаимодействие между приложениями
 
 * 🇺🇸 [Web Share Demo (Web Share Level 2 and Web Share Target API Level 2)](https://github.com/GoogleChrome/samples/tree/gh-pages/web-share)
@@ -662,6 +669,10 @@
 * 🇺🇸 [Visual Viewport API — черновик предложения](https://wicg.github.io/visual-viewport/)
 * 🇺🇸 [Visual Viewport API — explainer](https://github.com/WICG/visual-viewport)
 
+#### Web Video Text Tracks Format (WebVTT) — формат субтитров (подписей) для video
+
+* 🇺🇸 [Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
+
 ### API для работы с устройствами
 
 #### Gamepad API
@@ -705,6 +716,10 @@
 
 * 🇺🇸 Server Timing [Working Draft](https://www.w3.org/TR/server-timing/), [Editor's Draft](https://w3c.github.io/geolocation-sensor/)
 
+#### JavaScript Self-Profiling API
+
+* 🇺🇸 [JavaScript Self-Profiling API Proposal](https://github.com/WICG/js-self-profiling)
+
 ### Прочие API
 
 #### Streams API
@@ -724,6 +739,8 @@
 #### Content Indexing API
 
 * 🇺🇸 [Indexing your offline-capable pages with the Content Indexing API](https://web.dev/content-indexing-api/)
+
+#### Raw Sockets API — низкоуровневый прямой доступ к TCP/UDP
 
 ## Совсем прочее
 
