@@ -215,6 +215,7 @@
 ### Иммутабельность
 
 * 🇺🇸 [Immutable.js](https://facebook.github.io/immutable-js/)
+* 🇺🇸 [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/)
 
 ### Поиск
 
@@ -256,6 +257,7 @@
 * 🇷🇺 [Как сделать из сайта приложение и выложить его в Google Play за несколько часов. Часть 1/2: Progressive Web App](https://habr.com/ru/company/mailru/blog/450504/)
 * 🇺🇸 [Appscope - Progressive Web Apps Examples](https://appsco.pe/)
 * 🇺🇸 [Javascript to check if PWA or Mobile Web](https://stackoverflow.com/questions/41742390/javascript-to-check-if-pwa-or-mobile-web)
+* 🇺🇸 [Awesome Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 
 ### Web App Manifest
 

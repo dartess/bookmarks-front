@@ -64,6 +64,7 @@
 * 🇺🇸 [Simplify JavaScript Promises](https://dev.to/sunnysingh/simplify-javascript-promises-4djb)
 * 🇺🇸 [What You Need to Know About Asynchronous Programming in Javascript](https://medium.com/swlh/what-you-need-to-know-about-asynchronous-programming-in-javascript-894f90a97941)
 * 🇺🇸 [JavaScript Promises: Zero To Hero Plus Cheat Sheet](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
+* 🇺🇸 [JavaScript Promise combinators: .all(), .race(), .allSettled()](https://2ality.com/2019/08/promise-combinators.html)
 
 ## Итераторы и генераторы
 
@@ -89,6 +90,10 @@
 ### Intl.NumberFormat Unified API
 
 * 🇺🇸 [Intl.NumberFormat Unified API Proposal](https://github.com/tc39/proposal-unified-intl-numberformat)
+
+## Объектно-ориентированное программирование
+
+* 🇷🇺 [Полиморфизм простыми словами](https://medium.com/devschacht/polymorphism-207d9f9cd78)
 
 ## Функциональное программирование
 
