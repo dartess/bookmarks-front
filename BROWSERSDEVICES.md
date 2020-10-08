@@ -297,16 +297,20 @@
 
 ### Особенности платформ
 
-* 🇺🇸 [Don’t use iOS meta tags irresponsibly in your Progressive Web Apps](https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb)
-* 🇺🇸 [PWAs are coming to iOS 11.3: Cupertino, we have a problem](https://medium.com/@firt/pwas-are-coming-to-ios-11-3-cupertino-we-have-a-problem-2ff49fd7d6ea)
-* 🇺🇸 [What’s new on iOS 12.2 for Progressive Web Apps](https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945)
-* 🇺🇸 [iPhone 11, iPadOS and iOS 13 for PWAs and web development](https://medium.com/@firt/iphone-11-ipados-and-ios-13-for-pwas-and-web-development-5d5d9071cc49)
 * 🇺🇸 [PWA Bugs](https://github.com/PWA-POLICE/pwa-bugs)
 * 🇺🇸 [Десктопные PWA в Windows](https://twitter.com/firt/status/1054442657567727616)
 * 🇺🇸 [Десктопные PWA в Linux](https://twitter.com/firt/status/1054801501653221378)
+* 🇺🇸 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
+
+#### Особенности PWA на iOS
+
+* 🇺🇸 [PWAs are coming to iOS 11.3: Cupertino, we have a problem](https://medium.com/@firt/pwas-are-coming-to-ios-11-3-cupertino-we-have-a-problem-2ff49fd7d6ea)
+* 🇺🇸 [What’s new on iOS 12.2 for Progressive Web Apps](https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945)
+* 🇺🇸 [iPhone 11, iPadOS and iOS 13 for PWAs and web development](https://medium.com/@firt/iphone-11-ipados-and-ios-13-for-pwas-and-web-development-5d5d9071cc49)
+* 🇺🇸 [Safari on iOS 14 and iPadOS 14 for PWA and Web Developers](https://firt.dev/ios-14/)
+* 🇺🇸 [Don’t use iOS meta tags irresponsibly in your Progressive Web Apps](https://medium.com/@firt/dont-use-ios-web-app-meta-tag-irresponsibly-in-your-progressive-web-apps-85d70f4438cb)
 * 🇺🇸 [Adding Custom iOS Splash Screens To Your Progressive Web App](https://medium.com/appscope/adding-custom-ios-splash-screens-to-your-progressive-web-app-41a9b18bdca3)
 * 🇺🇸 [Changing The iOS Status Bar Of Your Progressive Web App](https://medium.com/appscope/changing-the-ios-status-bar-of-your-progressive-web-app-9fc8fbe8e6ab)
-* 🇺🇸 [Progressive Web Apps on Desktop](https://developers.google.com/web/progressive-web-apps/desktop)
 
 ### PWA и магазины приложений
 
@@ -659,6 +663,16 @@
 
 * 🇺🇸 [Picture-in-Picture](https://www.w3.org/TR/picture-in-picture/)
 * 🇺🇸 [How we built Picture-in-Picture in Firefox Desktop with more control over video](https://hacks.mozilla.org/2020/01/how-we-built-picture-in-picture-in-firefox-desktop/)
+
+#### Multi-Screen Window Placement API
+
+* 🇺🇸 [Managing several displays with the Multi-Screen Window Placement API](https://web.dev/multi-screen-window-placement/)
+
+#### Early detection of input events
+
+* 🇺🇸 [Early detection of input events — черновик предложения](https://wicg.github.io/visual-viewport/)
+* 🇺🇸 [isInputPending — explainer](https://github.com/WICG/is-input-pending)
+* 🇷🇺/🇺🇸 Первый вклад в API браузера от Facebook [перевод](https://habr.com/ru/post/451900/)/[оригинал](https://engineering.fb.com/developer-tools/isinputpending-api/)
 
 #### Web Audio API
 

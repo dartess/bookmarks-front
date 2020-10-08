@@ -50,6 +50,7 @@
 * 🇺🇸 [Next-generation web styling](https://web.dev/next-gen-css-2019/)
 * 🇺🇸 [Dashed border using background-image property](https://codepen.io/amitsheen/pen/xxZeyjO)
 * 🇺🇸 [Custom bullets with CSS ::marker](https://web.dev/css-marker-pseudo-element/)
+* 🇺🇸 [Математические функции в CSS](http://css.yoksel.ru/css-math/)
 
 ### Единицы измерения
 
@@ -57,6 +58,7 @@
 * 🇺🇸 [You’re using〈em〉wrong](https://blog.logrocket.com/youre-using-em-wrong/)
 * 🇷🇺 [Единицы размеров в CSS](http://css.yoksel.ru/size-units/)
 * 🇺🇸 [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
+* 🇺🇸 [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
 
 ### Медиазапросы
 
@@ -122,6 +124,7 @@
 
 * 🇷🇺 [Понятно про CSS Masking и Shapes Modules, или Будущая революция дизайна контента](https://habr.com/ru/post/190246/)
 * 🇷🇺/🇺🇸 Аватары с рваными краями при помощи CSS clip-path [перевод](https://frontender.info/sketchy-avatars-css-clip-path/)/[оригинал](https://css-tricks.com/sketchy-avatars-css-clip-path/)
+* 🇺🇸 [How to use CSS clipping](https://web.dev/css-clipping/)
 
 ### CSS Containment
 
@@ -148,10 +151,6 @@
 ### Режимы наложения
 
 * 🇷🇺 [Укрощаем режимы наложения в CSS](https://medium.com/@juwain/selective-desaturation-with-blend-modes-54eb1143f105)
-
-### Единицы измерения
-
-* 🇺🇸 [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
 
 ### Фильтры
 
@@ -269,8 +268,12 @@
 * 🇷🇺/🇺🇸 Понимание вьюпорта WebView в iOS 11 [перевод](https://css-live.ru/articles/ponimanie-vyuporta-webview-v-ios-11.html)/[оригинал](https://ayogo.com/blog/ios11-viewport/)
 * 🇺🇸 [watchOS, the wrist and the web for smaller screens](https://dev.to/meduzen/watchos-the-wrist-and-the-web-bbj)
 * 🇷🇺/🇺🇸 Микробраузеры повсюду. Но что мы о них знаем? [перевод](https://habr.com/ru/company/dcmiran/blog/485386/)/[оригинал](https://24ways.org/2019/microbrowsers-are-everywhere/)
-* 🇺🇸 [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26)
 * 🇺🇸 [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/)
+
+### Вёрстка под гибкие и двойные экраны
+
+* 🇺🇸 [Introducing Web APIs for Dual Screen and Foldable Devices](https://blogs.windows.com/msedgedev/2020/09/14/introducing-dual-screen-foldable-web-apis/)
+* 🇺🇸 [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26)
 * 🇺🇸 Gettin’ Foldy with the Dual-screen Web [part 1](https://daverupert.com/2020/07/gettin-foldy-with-the-dual-screen-web-part-i/), [part 2](https://daverupert.com/2020/07/gettin-foldy-with-the-dual-screen-web-part-ii/)
 
 ## Вёрстка текстов с направлением письма справа налево

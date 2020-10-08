@@ -16,6 +16,7 @@
 * 🇺🇸 📺 [JavaScript SEO](https://www.youtube.com/playlist?list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
 * 🇷🇺 [SEO-тест: индексация JavaScript-сайтов](https://vc.ru/seo/69857-seo-test-indeksaciya-javascript-saytov)
 * 🇷🇺 [О чем должен помнить веб-разработчик, чтобы сделать всё по SEO-феншую](https://habr.com/ru/post/417503/)
+* 🇺🇸 [More options to help websites preview their content on Google Search](https://webmasters.googleblog.com/2019/09/more-controls-on-search.html)
 
 ### Микроразметка
 
@@ -69,6 +70,7 @@
 * 🇺🇸 [Indicators, Validations, and Notifications: Pick the Correct Communication Option](https://www.nngroup.com/articles/indicators-validations-notifications/)
 * 🇺🇸 [Reactive Web Design: The secret to building web apps that feel amazing](https://medium.com/@owencm/reactive-web-design-the-secret-to-building-web-apps-that-feel-amazing-b5cbfe9b7c50)
 * 🇷🇺 [Как писать интерфейсные надписи](http://igorshevchenko.ru/blog/entries/interface-copy)
+* 🇺🇸 [Enhancing User Experience With CSS Animations](https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/)
 
 #### Таблицы
 
@@ -109,6 +111,7 @@
 * 🇺🇸 [@testing-library/react — React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 * 🇺🇸 [@testing-library/react-hooks](https://www.npmjs.com/package/@testing-library/react-hooks)
 * 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
+* 🇺🇸 [Modern React testing](https://dev.to/sapegin/modern-react-testing-part-1-best-practices-1o93)
 
 ### Визуальное тестирование
 
@@ -133,6 +136,7 @@
 
 ## Оптимизация
 
+* 🇺🇸 [The Ultimate Guide to Web Performance 🚀](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 * 🇺🇸 [Front-End Performance Checklist 2020 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
 * 🇷🇺/🇺🇸 Цена JavaScript в 2019 году [перевод](https://habr.com/ru/company/ruvds/blog/459296/)/[оригинал](https://v8.dev/blog/cost-of-javascript-2019)
 * 🇺🇸 [Getting started with web performance? Here's what you need to focus on.](https://speedcurve.com/blog/getting-started-web-performance/)

@@ -110,6 +110,7 @@
 
 * 🇺🇸 [Effector](https://effector.now.sh/)
 * 🇺🇸 [ReactN — расширение реакта с менеджером состояния](https://github.com/CharlesStover/reactn)
+* 🇺🇸 [Jōtai — Primitive and flexible state management for React.](https://github.com/pmndrs/jotai)
 
 ### Тулкиты (UI-киты)
 
