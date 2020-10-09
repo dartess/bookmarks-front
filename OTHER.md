@@ -148,6 +148,7 @@
 * 🇺🇸 [babel/preset-modules](https://github.com/babel/preset-modules)
 * 🇺🇸 [Adaptive loading: improving web performance on slow devices](https://web.dev/adaptive-loading-cds-2019/)
 * 🇺🇸 [Browser Back/Forward Caches and their Benefit to Web Performance](https://paulcalvano.com/2020-08-03-browser-backforward-caches-and-their-benefit-to-web-performance/)
+* 🇺🇸 [Web Performance: Minimising DOM Reflow / Layout Shift](https://medium.com/better-programming/web-performance-dom-reflow-76ac7c4d2d4f)
 
 ### Презагрузка ресурсов
 
@@ -394,6 +395,10 @@
 * 🇷🇺 📺 [FrontendConf](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A/videos)
 * 🇺🇸 [web.dev](https://web.dev/)
 * 🇷🇺 [CSS-LIVE — жизнь во фронтенде](https://css-live.ru/)
+
+### Собеседования
+
+* 🇷🇺 [Ask About Company](https://askabout.company/)
 
 #### Другие списки:
 

@@ -246,7 +246,7 @@
 * 🇺🇸 [pwa-install-prompt](https://jacobdb.github.io/pwa-install-prompt/demo/)
 * 🇺🇸 [Myth Busting PWAs – The New Edge Edition](https://www.davrous.com/2019/10/18/myth-busting-pwas-the-new-edge-edition/)
 * 🇷🇺 [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
-* 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
+* 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support/)
 * 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12)
 * 🇺🇸 [Building offline-first web and mobile apps using event-sourcing](https://flpvsk.com/blog/2019-07-20-offline-first-apps-event-sourcing/)
 * 🇺🇸 [Progressive Web Apps. The future of the Mobile Web.](https://www.awwwards.com/PWA-ebook/)
@@ -834,6 +834,7 @@
 * 🇺🇸 [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 * 🇺🇸 [Web Components will replace your frontend framework](https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework)
 * 🇷🇺 Веб-компоненты в реальном мире [часть 1](https://habr.com/ru/post/443032/), [часть 2](https://habr.com/ru/post/515332/)
+* 🇺🇸 [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 
 ## Устройство браузеров
 
