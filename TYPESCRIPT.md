@@ -45,7 +45,7 @@
 ## TypeScript и React
 
 * 🇺🇸 [React TypeScript Cheatsheets — сборник шпаргалок по TS для React](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-* 🇺🇸 [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
+* 🇺🇸 [TypeScript Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/#typescript-with-reactjs)
 * 🇺🇸 [useTypescript — A Complete Guide to React Hooks and TypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 * 🇺🇸 [React Hooks in TypeScript](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
 * 🇺🇸 [How to Use Typescript with React and Redux](https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76)

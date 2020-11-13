@@ -91,16 +91,19 @@
 * 🇺🇸 [Managing Z-Index In A Component-Based Web Application](https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/)
 * 🇺🇸 [CSS Painting Order](https://abandonedwig.info/blog/2020/07/03/css-painting-order.html)
 
-### Flexbox
+### Flexbox и grid
+
+* 🇺🇸 [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/)
+
+#### Flexbox
 
 * 🇷🇺 [FLEXBOX FROGGY — игра с основами раскладки flexbox, не охватывает basis/grow/shrink](http://flexboxfroggy.com/)
 * 🇷🇺 [11 вещей которые я узнал, читая спецификацию flexbox](https://habr.com/ru/post/329820/)
 * 🇺🇸 [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 * 🇺🇸 [Flexbugs](https://github.com/philipwalton/flexbugs)
 * 🇺🇸 [Understanding Flexbox: Everything you need to know](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=vsyo--chto-vam-nuzhno-znat-o-fleksbokse-o#.lvfe7wt7h)
-* 🇺🇸 [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/)
 
-### Grid
+#### Grid
 
 * 🇷🇺/🇺🇸 Именование в CSS Grid [перевод](https://habr.com/ru/post/478850/)/[оригинал](https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/)
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
@@ -108,7 +111,6 @@
 * 🇺🇸 [CSS grid tutorial: 13 tips and tricks which you should know as a web developer](https://medium.com/quick-code/css-grid-cheatsheet-13-tips-and-tricks-which-you-should-know-as-a-web-developer-b4e58f5614c3)
 * 🇷🇺 [GRID GARDEN](http://cssgridgarden.com/#ru)
 * 🇷🇺/🇺🇸 Гибкая разметка без медиа-запросов: функции min(), max(), clamp() [перевод](https://habr.com/ru/post/499088/)/[оригинал](https://blog.logrocket.com/flexible-layouts-without-media-queries/)
-* 🇺🇸 [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/)
 * 🇺🇸 [A Lightweight Masonry Solution](https://css-tricks.com/a-lightweight-masonry-solution/)
 
 ### Таблицы

@@ -249,7 +249,6 @@
 * 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support/)
 * 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12)
 * 🇺🇸 [Building offline-first web and mobile apps using event-sourcing](https://flpvsk.com/blog/2019-07-20-offline-first-apps-event-sourcing/)
-* 🇺🇸 [Progressive Web Apps. The future of the Mobile Web.](https://www.awwwards.com/PWA-ebook/)
 * 🇺🇸 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 * 🇺🇸 Designing And Building A Progressive Web Application Without A Framework [Part 1](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-1/), [Part 2](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-2/), [Part 3](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-3/)
 * 🇷🇺 🇺🇸 Прогрессивные веб-приложения (PWA). Будущее мобильного интернета [перевод, часть 1](https://blog.sibirix.ru/2019/11/06/PWA-book-part1/), [перевод, часть 2](https://blog.sibirix.ru/2019/11/07/PWA-book-part2/)/[оригинал](https://www.awwwards.com/PWA-ebook/)
@@ -672,7 +671,7 @@
 
 #### Early detection of input events
 
-* 🇺🇸 [Early detection of input events — черновик предложения](https://wicg.github.io/visual-viewport/)
+* 🇺🇸 [Early detection of input events — черновик предложения](https://wicg.github.io/is-input-pending/)
 * 🇺🇸 [isInputPending — explainer](https://github.com/WICG/is-input-pending)
 * 🇷🇺/🇺🇸 Первый вклад в API браузера от Facebook [перевод](https://habr.com/ru/post/451900/)/[оригинал](https://engineering.fb.com/developer-tools/isinputpending-api/)
 
@@ -730,7 +729,7 @@
 
 #### Server Timing
 
-* 🇺🇸 Server Timing [Working Draft](https://www.w3.org/TR/server-timing/), [Editor's Draft](https://w3c.github.io/geolocation-sensor/)
+* 🇺🇸 Server Timing [Working Draft](https://www.w3.org/TR/server-timing/)
 
 #### JavaScript Self-Profiling API
 
@@ -798,7 +797,6 @@
 
 * 🇷🇺 [Введение в программирование шейдеров для верстальщиков](https://habr.com/ru/post/420847/)
 * 🇺🇸 [Raw WebGL — An overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL](https://alain.xyz/blog/raw-webgl)
-* 🇷🇺 [Введение в программирование шейдеров для верстальщиков](https://habr.com/ru/post/420847/)
 * 🇷🇺 [Применяем мозаику Вороного, пикселизацию и геометрические маски в шейдерах для украшения сайта](https://habr.com/ru/post/421821/)
 * 🇷🇺/D [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/)/[defront](https://defront.ru/posts/2019/03-march/12-fast-generalization-of-markers/)
 * 🇺🇸 [WebGL guide](https://xem.github.io/articles/webgl-guide.html)

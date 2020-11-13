@@ -9,7 +9,7 @@
 
 * 🇷🇺 [Современный учебник JavaScript](https://learn.javascript.ru/)
 * 🇷🇺 Выразительный Javascript (Eloquent JavaScript)[перевод, 2-е издание](https://eloquent-javascript.karmazzin.ru/)/[оригинал, 3-е издание](https://eloquentjavascript.net/)
-* 🇺🇸 [The State of JavaScript 2019](https://2019.stateofjs.com/)
+* 🇷🇺/🇺🇸 [The State of JavaScript 2019](https://2019.stateofjs.com/)
 
 ## Стандарты их обновления
 
@@ -28,7 +28,7 @@
 * 🇷🇺 🔥 [Визуализация принципа действия throttle / debounce](https://codepen.io/dartess/full/pGJYmj)
 * 🇷🇺 [Случайные числа не случайны](https://medium.com/@frontman/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%B0-%D0%BD%D0%B5-%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B-252e08e60828)
 * 🇷🇺 [Разбираемся в алгоритмах и структурах данных. Доступно и понятно](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
-* 🇷🇺 Как работать с денежными значениями в JavaScript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
+* 🇷🇺/🇺🇸 Как работать с денежными значениями в Javascript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
 * 🇺🇸 [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://www.freecodecamp.org/news/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32/)
 * 🇷🇺 [Явные возможности JavaScript](https://habr.com/ru/post/432102/)
 * 🇺🇸 💳 [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/)

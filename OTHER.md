@@ -314,7 +314,7 @@
 ### HTML/CSS only
 
 * 🇺🇸 [CSS-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
-* 🇺🇸 [HTML-Only Chat — полностью рабочий реалтайм-чат без JS](https://github.com/kkuchta/css-only-chat)
+* 🇺🇸 [HTML-Only Chat — Async web chat without JavaScript in browser](https://github.com/iwonz/html-only-chat)
 * 🇺🇸 [CSS-only double-click](https://codepen.io/MartijnCuppens/pen/GZWgaQ)
 * 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
 * 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)
@@ -406,8 +406,6 @@
 
 #### Эпики:
 
-* 🇺🇸 [The State of JavaScript 2019](https://2019.stateofjs.com/)
-* 🇷🇺 [The State of JavaScript 2018](https://2018.stateofjs.com/ru/)
 * 🇷🇺/🇺🇸 [frontend case studies](https://github.com/andrew--r/frontend-case-studies)
 * 🇷🇺 [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/)
 * 🇺🇸 [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
@@ -448,7 +446,6 @@
 * 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
 * 🇺🇸 [MockIt: A tool to quickly create mocked APIs](https://github.com/boyney123/mockit)
 * 🇺🇸 [Globalize — A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data](https://github.com/globalizejs/globalize)
-* 🇷🇺/🇺🇸 Как работать с денежными значениями в Javascript [перевод](https://medium.com/devschacht/how-to-handle-monetary-values-in-javascript-bb0706840f0e)/[оригинал](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)
 * 🇺🇸 [Generating UUIDs at scale on the Web](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
 * 🇺🇸 [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * 🇺🇸 [How To Control Music With A PS4 DualShock and JavaScript](https://itnext.io/how-to-control-music-with-a-ps4-dualshock-and-javascript-54237206c104)
