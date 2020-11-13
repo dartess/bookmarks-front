@@ -22,10 +22,10 @@
 
 * 🇷🇺 [Функциональные компоненты с React Hooks. Чем они лучше?](https://habr.com/ru/post/443488/)
 * 🇺🇸 [react-use — библиотека хуков](https://github.com/streamich/react-use)
-* 🇺🇸 👍 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
+* 🇺🇸 🔥 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
 * 🇺🇸 [react-use-gesture — работа с жестами (тач, мышь)](https://github.com/react-spring/react-use-gesture)
-* 🇺🇸 👍 [use-debounce](https://www.npmjs.com/package/use-debounce)
-* 🇺🇸 👍 [use-query-params](https://www.npmjs.com/package/use-query-params)
+* 🇺🇸 🔥 [use-debounce](https://www.npmjs.com/package/use-debounce)
+* 🇺🇸 🔥 [use-query-params](https://www.npmjs.com/package/use-query-params)
 * 🇺🇸 [react-virtual — Hooks for virtualizing scrollable elements in React](https://github.com/tannerlinsley/react-virtual)
 * 🇺🇸 [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 
@@ -41,11 +41,10 @@
 
 #### Формы и элементы ввода
 
-* 🇺🇸 👍 [react-dropzone](https://react-dropzone.netlify.com/)
-* 🇺🇸 👍 [React Final Form](https://final-form.org/react)
-* 🇺🇸 👍 [React Final Form Arrays — работа с массивами в React Final Form](https://www.npmjs.com/package/react-final-form-arrays)
-* 🇺🇸 👍 [React Select](https://react-select.com/home)
-* 🇺🇸 👍 [React Text Mask](https://github.com/text-mask/text-mask/tree/master/react/#readme)
+* 🇺🇸 🔥 [react-dropzone](https://react-dropzone.netlify.com/)
+* 🇺🇸 🔥 [React Final Form](https://final-form.org/react)
+* 🇺🇸 🔥 [React Final Form Arrays — работа с массивами в React Final Form](https://www.npmjs.com/package/react-final-form-arrays)
+* 🇺🇸 🔥 [React Text Mask](https://github.com/text-mask/text-mask/tree/master/react/#readme)
 * 🇺🇸 [Formik — build forms in React, without the tears](https://jaredpalmer.com/formik)
 
 #### Слайдеры (карусели)
@@ -72,8 +71,8 @@
 #### Графики
 
 * 🇺🇸 [victory](https://formidable.com/open-source/victory/)
-* 🇺🇸 👍 [Recharts](http://recharts.org/en-US/)
-* 🇺🇸 👍 [React Mobile DatePicker Component](https://www.npmjs.com/package/rmc-date-picker)
+* 🇺🇸 🔥 [Recharts](http://recharts.org/en-US/)
+* 🇺🇸 🔥 [React Mobile DatePicker Component](https://www.npmjs.com/package/rmc-date-picker)
 * 🇷🇺 [Оптимизация графиков Recharts](https://tproger.ru/articles/recharts-optimization/)
 
 #### Интернационализация
@@ -91,9 +90,9 @@
 * 🇷🇺 [Перевод документации (устарел, не содрежит многих тем)](https://rajdee.gitbooks.io/redux-in-russian/content/)
 * 🇺🇸 [Redux Style Guide](https://redux.js.org/style-guide/style-guide/)
 * 🇺🇸 [Повышение производительности React/Redux-приложений с помощью библиотеки Reselect](https://medium.com/better-programming/increase-your-react-redux-application-performance-with-reselect-library-3f4d632a08c5)
-* 🇺🇸 👍 [Redux-State-Sync](https://www.npmjs.com/package/redux-state-sync)
-* 🇺🇸 👍 [redux-persist](https://github.com/rt2zz/redux-persist)
-* 🇷🇺 👍 [Redux Toolkit как средство эффективной Redux-разработки](https://habr.com/ru/company/inobitec/blog/481288/)
+* 🇺🇸 🔥 [Redux-State-Sync](https://www.npmjs.com/package/redux-state-sync)
+* 🇺🇸 🔥 [redux-persist](https://github.com/rt2zz/redux-persist)
+* 🇷🇺 🔥 [Redux Toolkit как средство эффективной Redux-разработки](https://habr.com/ru/company/inobitec/blog/481288/)
 
 ### Create React App (CRA)
 
@@ -114,7 +113,7 @@
 
 ### Тулкиты (UI-киты)
 
-* 🇺🇸 👍 [Material-UI](https://material-ui.com/ru/)
+* 🇺🇸 🔥 [Material-UI](https://material-ui.com/ru/)
 * 🇺🇸 [Blueprint](https://blueprintjs.com/docs/)
 * 🇺🇸 [dialog components](https://dialogs.github.io/dialog-web-components/)
 * 🇺🇸 [React95 — A React components library with Win95 UI](https://github.com/React95/React95)
@@ -148,7 +147,7 @@
 
 * 🇺🇸 [How to Learn Vue.js in 2018](https://zendev.com/2018/10/18/how-to-learn-vue-js.html)
 * 🇺🇸 [What You Need to Know About Vue3 in 2020](https://medium.com/swlh/what-you-need-to-know-about-vue3-in-2020-b36a2feb5dad)
-* 🇷🇺 👍 [Vue JS - Быстрый курс за 50 минут (Все Включено!)](https://www.youtube.com/watch?v=OlnwgS-gk8Y)
+* 🇷🇺 🔥 [Vue JS - Быстрый курс за 50 минут (Все Включено!)](https://www.youtube.com/watch?v=OlnwgS-gk8Y)
 
 ## Svelte
 

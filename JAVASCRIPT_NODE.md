@@ -19,12 +19,12 @@
 
 ### PostCSS-плагины
 
-* 🇺🇸 👍 [autopreixer — автоподстановка префиксов по browserslist](https://github.com/postcss/autoprefixer) 
-* 🇺🇸 👍 [postcss-custom-media — поддержка Custom Media Queries](https://www.npmjs.com/package/postcss-custom-media)
-* 🇺🇸 👍 [postcss-discard-comments — удаление комментариев](https://www.npmjs.com/package/postcss-discard-comments)
-* 🇺🇸 👍 [postcss-flexbugs-fixes — автоисправление некоторых Flexbox-багов для IE](https://www.npmjs.com/package/postcss-flexbugs-fixes)
-* 🇺🇸 👍 [postcss-normalize — normalize.css с учётом browserslist](https://www.npmjs.com/package/postcss-normalize)
-* 🇺🇸 👍 [postcss-object-fit-images — хелпер для полифила object-fit](https://www.npmjs.com/package/postcss-object-fit-images)
+* 🇺🇸 🔥 [autopreixer — автоподстановка префиксов по browserslist](https://github.com/postcss/autoprefixer) 
+* 🇺🇸 🔥 [postcss-custom-media — поддержка Custom Media Queries](https://www.npmjs.com/package/postcss-custom-media)
+* 🇺🇸 🔥 [postcss-discard-comments — удаление комментариев](https://www.npmjs.com/package/postcss-discard-comments)
+* 🇺🇸 🔥 [postcss-flexbugs-fixes — автоисправление некоторых Flexbox-багов для IE](https://www.npmjs.com/package/postcss-flexbugs-fixes)
+* 🇺🇸 🔥 [postcss-normalize — normalize.css с учётом browserslist](https://www.npmjs.com/package/postcss-normalize)
+* 🇺🇸 🔥 [postcss-object-fit-images — хелпер для полифила object-fit](https://www.npmjs.com/package/postcss-object-fit-images)
 * 🇺🇸 [PostCSS 100vh Fix](https://github.com/postcss/postcss-100vh-fix)
 
 ## NPM
@@ -34,7 +34,7 @@
 * 🇺🇸 [Hybrid npm packages (ESM and CommonJS)](https://2ality.com/2019/10/hybrid-npm-packages.html)
 * 🇺🇸 [Microbundle — микробандлер для сборки пакетов](https://github.com/developit/microbundle)
 * 🇷🇺/🇺🇸 Node.js-проекты, в которых лучше не использовать lock-файлы [перевод](https://habr.com/ru/company/ruvds/blog/453582/)/[оригинал](https://www.twilio.com/blog/lockfiles-nodejs)
-* 🇷🇺 👍 [Вы используете devDependencies неправильно](https://incubator.flaks.dev/devdependencies-mistake)
+* 🇷🇺 🔥 [Вы используете devDependencies неправильно](https://incubator.flaks.dev/devdependencies-mistake)
 * 🇺🇸 [An abbreviated history of JavaScript package managers](https://medium.com/javascript-in-plain-english/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e)
 * 🇷🇺 [Управление зависимостями JavaScript](https://habr.com/ru/company/domclick/blog/509440/)
 * 🇷🇺 [Установка и обновление зависимостей в JavaScript](https://habr.com/ru/company/domclick/blog/510812/)
@@ -51,11 +51,11 @@
 
 ### Webpack
 
-* 🇺🇸 👍 [Webpack Manifest Plugin — плагин для генерации файла с информацией о собранных файлах](https://www.npmjs.com/package/webpack-manifest-plugin)
-* 🇺🇸 👍 [webpack-merge — объединение нескольких конфигов вебпака](https://www.npmjs.com/package/webpack-merge)
+* 🇺🇸 🔥 [Webpack Manifest Plugin — плагин для генерации файла с информацией о собранных файлах](https://www.npmjs.com/package/webpack-manifest-plugin)
+* 🇺🇸 🔥 [webpack-merge — объединение нескольких конфигов вебпака](https://www.npmjs.com/package/webpack-merge)
 * 🇺🇸 [link rel="prefetch/preload" in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
 * 🇺🇸 [Why is my webpack build slow?](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html)
-* 🇺🇸 👍 [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)
+* 🇺🇸 🔥 [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)
 * 🇺🇸 [Poi — bundler built on the top of webpack, trying to make developing and bundling apps with webpack as easy as possible](https://poi.js.org/)
 * 🇺🇸 [Hash vs chunkhash vs ContentHash](https://medium.com/@sahilkkrazy/hash-vs-chunkhash-vs-contenthash-e94d38a32208)
 * 🇺🇸 [webpack-demos](https://github.com/ruanyf/webpack-demos)
@@ -82,10 +82,10 @@
 
 ## Библиотеки
 
-* 🇺🇸 👍 [cross-env — кроссплатформенная установка переменных окружения](https://www.npmjs.com/package/cross-env)
-* 🇺🇸 👍 [dotenv — заполнение переменных окружения из .env-файла](https://www.npmjs.com/package/dotenv)
-* 🇺🇸 👍 [minimist — получение аргументов запуска](https://www.npmjs.com/package/minimist)
-* 🇺🇸 👍 [rimraf — rm -rf for Node](https://www.npmjs.com/package/rimraf)
+* 🇺🇸 🔥 [cross-env — кроссплатформенная установка переменных окружения](https://www.npmjs.com/package/cross-env)
+* 🇺🇸 🔥 [dotenv — заполнение переменных окружения из .env-файла](https://www.npmjs.com/package/dotenv)
+* 🇺🇸 🔥 [minimist — получение аргументов запуска](https://www.npmjs.com/package/minimist)
+* 🇺🇸 🔥 [rimraf — rm -rf for Node](https://www.npmjs.com/package/rimraf)
 * 🇺🇸 [gauge — A nearly stateless terminal based horizontal gauge / progress bar](https://www.npmjs.com/package/gauge)
 * 🇺🇸 [Hygen — The scalable code generator that saves you time](https://www.hygen.io/)
 * 🇺🇸 [Ervy - Bring charts to terminal](https://www.chunqiuyiyu.com/ervy/)
@@ -107,41 +107,41 @@
 ### JavaScript/TypeScriptf
 
 * 🇺🇸 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* 🇺🇸 👍 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-* 🇺🇸 👍 [ESLint](https://eslint.org/)
-* 🇷🇺 👍 [Программируем лучше с ESLint, Prettier и TypeScript](https://tproger.ru/translations/setting-up-eslint-and-prettier/)
-* 🇺🇸 👍 [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-* 🇺🇸 👍 [eslint-config-airbnb — рекомендуемый конфиг](https://www.npmjs.com/package/eslint-config-airbnb)
+* 🇺🇸 🔥 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+* 🇺🇸 🔥 [ESLint](https://eslint.org/)
+* 🇷🇺 🔥 [Программируем лучше с ESLint, Prettier и TypeScript](https://tproger.ru/translations/setting-up-eslint-and-prettier/)
+* 🇺🇸 🔥 [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+* 🇺🇸 🔥 [eslint-config-airbnb — рекомендуемый конфиг](https://www.npmjs.com/package/eslint-config-airbnb)
 
 #### Плагины к ESLint
 
-* 🇺🇸 👍 [eslint-plugin-babel — для работы с Babel](https://www.npmjs.com/package/eslint-plugin-babel)
-* 🇺🇸 👍 [eslint-plugin-import — для работы с модулями](https://www.npmjs.com/package/eslint-plugin-import)
-* 🇺🇸 👍 [eslint-plugin-jest — для работы с Jest](https://www.npmjs.com/package/eslint-plugin-jest)
-* 🇺🇸 👍 [eslint-plugin-react — для работы с React](https://www.npmjs.com/package/eslint-plugin-react)
-* 🇺🇸 👍 [eslint-plugin-react-hooks — для работы с хуками в React](https://www.npmjs.com/package/eslint-plugin-react-hooks)
-* 🇺🇸 👍 [eslint-plugin-jsx-a11y — для работы с доступностью в React](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
-* 🇺🇸 👍 [eslint-plugin-no-storage — для настройки использования Storage API](https://www.npmjs.com/package/eslint-plugin-no-storage)
-* 🇺🇸 👍 [eslint-plugin-unicorn — набор дополнительных правил](https://www.npmjs.com/package/eslint-plugin-unicorn)
+* 🇺🇸 🔥 [eslint-plugin-babel — для работы с Babel](https://www.npmjs.com/package/eslint-plugin-babel)
+* 🇺🇸 🔥 [eslint-plugin-import — для работы с модулями](https://www.npmjs.com/package/eslint-plugin-import)
+* 🇺🇸 🔥 [eslint-plugin-jest — для работы с Jest](https://www.npmjs.com/package/eslint-plugin-jest)
+* 🇺🇸 🔥 [eslint-plugin-react — для работы с React](https://www.npmjs.com/package/eslint-plugin-react)
+* 🇺🇸 🔥 [eslint-plugin-react-hooks — для работы с хуками в React](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+* 🇺🇸 🔥 [eslint-plugin-jsx-a11y — для работы с доступностью в React](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
+* 🇺🇸 🔥 [eslint-plugin-no-storage — для настройки использования Storage API](https://www.npmjs.com/package/eslint-plugin-no-storage)
+* 🇺🇸 🔥 [eslint-plugin-unicorn — набор дополнительных правил](https://www.npmjs.com/package/eslint-plugin-unicorn)
 * 🇺🇸 [eslint-plugin-boundaries — контроль архитектурных ограничений](https://github.com/javierbrea/eslint-plugin-boundaries)
 
 ### Стили
 
-* 🇺🇸 👍 [stylelint](https://github.com/stylelint/stylelint)
+* 🇺🇸 🔥 [stylelint](https://github.com/stylelint/stylelint)
 * 🇷🇺/🇺🇸 Линтинг CSS с помощью stylelint [перевод](https://habr.com/ru/post/301594/)/[оригинал](https://css-tricks.com/stylelint/)
-* 🇺🇸 👍 [stylelint-scss — расширение для SCSS](https://www.npmjs.com/package/stylelint-scss)
-* 🇺🇸 👍 [stylelint-config-recommended — рекомендуемый конфиг](https://github.com/stylelint/stylelint-config-recommended)
-* 🇺🇸 👍 [stylelint-config-recommended-scss— рекомендуемый конфиг в случае SCSS](https://github.com/kristerkari/stylelint-config-recommended-scss)
-* 🇺🇸 👍 [Stylelint Config Generator](https://maximgatilin.github.io/stylelint-config/)
-* 🇺🇸 👍 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+* 🇺🇸 🔥 [stylelint-scss — расширение для SCSS](https://www.npmjs.com/package/stylelint-scss)
+* 🇺🇸 🔥 [stylelint-config-recommended — рекомендуемый конфиг](https://github.com/stylelint/stylelint-config-recommended)
+* 🇺🇸 🔥 [stylelint-config-recommended-scss— рекомендуемый конфиг в случае SCSS](https://github.com/kristerkari/stylelint-config-recommended-scss)
+* 🇺🇸 🔥 [Stylelint Config Generator](https://maximgatilin.github.io/stylelint-config/)
+* 🇺🇸 🔥 [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
 * 🇺🇸 [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 
 #### Плагины к Stylelint
 
-* 🇺🇸 👍 [stylelint-a11y — правила для доступности](https://github.com/YozhikM/stylelint-a11y)
-* 🇺🇸 👍 [stylelint-declaration-use-variable — принудительное использование переменных на определённых правилах](https://github.com/sh-waqar/stylelint-declaration-use-variable)
-* 🇺🇸 👍 [stylelint-media-use-custom-media — принудительное использование Custom Media Queries](https://github.com/csstools/stylelint-media-use-custom-media)
-* 🇺🇸 👍 [stylelint-order — определение порядка для правил](https://github.com/hudochenkov/stylelint-order)
+* 🇺🇸 🔥 [stylelint-a11y — правила для доступности](https://github.com/YozhikM/stylelint-a11y)
+* 🇺🇸 🔥 [stylelint-declaration-use-variable — принудительное использование переменных на определённых правилах](https://github.com/sh-waqar/stylelint-declaration-use-variable)
+* 🇺🇸 🔥 [stylelint-media-use-custom-media — принудительное использование Custom Media Queries](https://github.com/csstools/stylelint-media-use-custom-media)
+* 🇺🇸 🔥 [stylelint-order — определение порядка для правил](https://github.com/hudochenkov/stylelint-order)
 
 ### Прочие линтеры
 

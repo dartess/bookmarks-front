@@ -97,7 +97,7 @@
 * 🇺🇸 [Пакет для простого мока других пакетов или свойств объекта](https://www.npmjs.com/package/identity-obj-proxy)
 * 🇺🇸 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
 * 🇺🇸 [флаги для WebRTC-related testing](https://webrtc.org/testing/)
-* 🇺🇸 👍 [Sentry — Application Monitoring and Error Tracking Software](https://sentry.io/)
+* 🇺🇸 🔥 [Sentry — Application Monitoring and Error Tracking Software](https://sentry.io/)
 * 🇺🇸 [Что такое TDD и BDD на пальцах, и что должен знать о них фронтендер](https://medium.com/@lucyhackwrench/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-tdd-%D0%B8-bdd-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D1%85-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-%D0%BD%D0%B8%D1%85-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-701a10e06bb9)
 * 🇺🇸 [Measuring Code Quality with Test Coverage Metrics](https://reqtest.com/testing-blog/test-coverage-metrics/)
 * 🇷🇺 [Эффективное тестирование верстки](https://habr.com/ru/company/oleg-bunin/blog/499638/)
@@ -152,7 +152,7 @@
 
 ### Презагрузка ресурсов
 
-* 🇷🇺 📺 👍 [Ivan Akulov "I reviewed 200 perf-related webpack plugins so that you don’t have to"](https://youtu.be/Nmjy_wMlTuQ?list=PLPcgQFk9n9y97vTsPnvpzDXBTLe0l1JDI)
+* 🇷🇺 📺 🔥 [Ivan Akulov "I reviewed 200 perf-related webpack plugins so that you don’t have to"](https://youtu.be/Nmjy_wMlTuQ?list=PLPcgQFk9n9y97vTsPnvpzDXBTLe0l1JDI)
 * 🇷🇺/🇺🇸 Preload, prefetch и другие теги [перевод](https://habr.com/ru/post/445264/)/[оригинал](https://3perf.com/blog/link-rels/)
 * 🇷🇺 [Ускоряем загрузку ресурсов для сайта: preconnect, prefetch, prerender, preloading…](https://ymatuhin.ru/front-end/html5-link-prefetch/)
 * 🇺🇸 [Resource Hints - What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints)
@@ -341,7 +341,7 @@
 
 ### Редакторы кода и IDE
 
-* 🇺🇸 👍 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
+* 🇺🇸 🔥 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 
 #### vi
 
@@ -365,8 +365,8 @@
 
 * 🇺🇸 [Пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
-* 🇷🇺 👍 [UIKit: типичная «ошибка» — разбор недостатков булевых пропсов](https://medium.com/@ibnRubaXa/uikit-%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-33702309cec4?)
-* 🇷🇺 👍 [Качество кода](https://habr.com/ru/company/oleg-bunin/blog/433326/)
+* 🇷🇺 🔥 [UIKit: типичная «ошибка» — разбор недостатков булевых пропсов](https://medium.com/@ibnRubaXa/uikit-%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-33702309cec4?)
+* 🇷🇺 🔥 [Качество кода](https://habr.com/ru/company/oleg-bunin/blog/433326/)
 * 🇷🇺 [Do good code: 8 правил хорошего кода](https://habr.com/ru/company/geekbrains/blog/270001/)
 * 🇺🇸 [Layout-isolated components](https://visly.app/blog/layout-isolated-components)
 * 🇺🇸 [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)
@@ -438,9 +438,9 @@
 * 🇷🇺 [Договор на разработку сайта: так, а не иначе](https://habr.com/ru/company/sibirix/blog/188690/)
 * 🇺🇸 [Learn how to use JSON Web Tokens (JWT) for Authentication](https://github.com/dwyl/learn-json-web-tokens)
 * 🇺🇸 [ShareDrop — HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC](https://github.com/cowbell/sharedrop)
-* 🇷🇺 📺 👍 [Docker для фронтендера / Алексей Авдеев (Neuron.Digital)](https://www.youtube.com/watch?v=SMM3bsYyFls)
+* 🇷🇺 📺 🔥 [Docker для фронтендера / Алексей Авдеев (Neuron.Digital)](https://www.youtube.com/watch?v=SMM3bsYyFls)
 * 🇷🇺 [Введение в компиляторы, интерпретаторы и JIT’ы](https://habr.com/ru/company/mailru/blog/304748/)
-* 🇺🇸 👍 [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
+* 🇺🇸 🔥 [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 * 🇷🇺/🇺🇸 [Learn X in Y minutes](https://learnxinyminutes.com/)
 * 🇺🇸 [FE webdev on iPad (2019)](https://medium.com/@pixelthing/fe-webdev-on-ipad-2019-d2a63e2d2177)
 * 🇷🇺/🇺🇸 Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, перевод [часть 1](https://habr.com/ru/post/158639/), [часть 2](https://habr.com/ru/post/158895/)/[оригинал](https://kunststube.net/encoding/)

@@ -32,8 +32,8 @@
 ## Инструменты
 
 * 🇺🇸 [Сравнение компиляции через Babel7 и TypeScript](https://kulshekhar.github.io/ts-jest/user/babel7-or-ts)
-* 🇺🇸 👍 [ts-node — запуск TS на Node.js](https://github.com/TypeStrong/ts-node)
-* 🇺🇸 👍 [tsconfig-paths — модуль для резолвинга алиасов в ts-node](https://www.npmjs.com/package/tsconfig-paths)
+* 🇺🇸 🔥 [ts-node — запуск TS на Node.js](https://github.com/TypeStrong/ts-node)
+* 🇺🇸 🔥 [tsconfig-paths — модуль для резолвинга алиасов в ts-node](https://www.npmjs.com/package/tsconfig-paths)
 * 🇺🇸 [typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules)
 
 ## Библиотеки типов 

@@ -245,7 +245,7 @@
 * 🇷🇺/🇺🇸 Введение в вариативные шрифты [перевод](https://medium.com/web-standards/3f2b6123e1cd)/[оригинал](https://24ways.org/2019/an-introduction-to-variable-fonts/)
 * 🇷🇺 [Вариативные шрифты](http://css.yoksel.ru/opentype-variable-fonts/)
 * 🇷🇺/🇺🇸 Вариативные веб шрифты [перевод](https://habr.com/ru/post/413297/)/[оригинал](https://zeichenschatz.net/demos/vf/variable-web-typo/)
-* 🇷🇺/🇺🇸 👍 Как использовать вариативные шрифты в реальном мире [перевод](https://css-live.ru/articles/kak-ispolzovat-variativnye-shrifty-v-realnom-mire.html)/[оригинал](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
+* 🇷🇺/🇺🇸 🔥 Как использовать вариативные шрифты в реальном мире [перевод](https://css-live.ru/articles/kak-ispolzovat-variativnye-shrifty-v-realnom-mire.html)/[оригинал](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
 * 🇺🇸 [Variable Fonts — каталог вариативных шрифтов](https://v-fonts.com/)
 * 🇺🇸 [How New Font Technologies Will Improve The Web](https://www.smashingmagazine.com/2017/09/new-font-technologies-improve-web/)
 * 🇺🇸 [Вариативные шрифты, доступные в Google Fonts](https://codepen.io/nlwilliams/full/JjPJewp)
@@ -323,7 +323,7 @@
 * 🇷🇺 Инклюзивные компоненты: интерфейсы со вкладками [перевод](https://medium.com/web-standards/tabbed-interfaces-a125212e6c35)/[оригинал](https://inclusive-components.design/tabbed-interfaces/)
 * 🇷🇺 [Drag-&-Drop компоненты для слепых пользователей? Вы шутите?](https://habr.com/ru/company/oleg-bunin/blog/468541/)
 * 🇷🇺/🇺🇸 Инклюзивные компоненты: сворачиваемые секции [перевод](https://medium.com/web-standards/collapsibl-sections-c0de689e0ebe)/[оригинал](https://inclusive-components.design/collapsible-sections/)
-* 🇷🇺/🇺🇸 👍 Инклюзивные компоненты: слайдер [перевод](https://medium.com/web-standards/a-content-slider-a9ebddaae274)/[оригинал](https://inclusive-components.design/a-content-slider/)
+* 🇷🇺/🇺🇸 🔥 Инклюзивные компоненты: слайдер [перевод](https://medium.com/web-standards/a-content-slider-a9ebddaae274)/[оригинал](https://inclusive-components.design/a-content-slider/)
 * 🇺🇸 [Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/)
 
 ## Графика

@@ -20,7 +20,7 @@
 * 🇷🇺/🇺🇸 DevTips: Советы веб-разработчику [частичный перевод 1](https://habr.com/ru/company/mailru/blog/268519/), [частичный перевод 2](https://habr.com/ru/company/mailru/blog/268777/), [частичный перевод 3](https://habr.com/ru/company/mailru/blog/275425/), [частичный перевод 4](https://habr.com/ru/company/mailru/blog/278021/)/[оригинал](https://umaar.com/dev-tips/)
 * 🇺🇸 [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
 * 🇺🇸 [Browser Architecture: Web-to-App Communication Overview](https://textslashplain.com/2019/08/28/browser-architecture-web-to-app-communication-overview/)
-* 🇺🇸 👍 [What every Browser knows about you](https://webkay.robinlinus.com/)
+* 🇺🇸 🔥 [What every Browser knows about you](https://webkay.robinlinus.com/)
 
 ### Event loop
 
@@ -102,12 +102,12 @@
 * 🇺🇸 [Vanilla Tilt — анимированные 3D-плашки](https://micku7zu.github.io/vanilla-tilt.js/index.html)
 * 🇺🇸 [Pure JavaScript Image Crop Component](https://dev.vizuina.com/cropper/)
 * 🇺🇸 [The Vanilla JavaScript Repository — сборник различных библиотек](https://vanillalist.top/)
-* 🇺🇸 👍 [ZXing  — библиотека для распознавания штрихкодов](https://www.npmjs.com/package/@zxing/library)
-* 🇺🇸 👍 [Browser or Node.js — определение окружения](https://www.npmjs.com/package/browser-or-node)
-* 🇺🇸 👍 [Browser, please — определение версии браузера](https://dartess.github.io/browser-please/)
-* 🇺🇸 👍 [js-cookie](https://www.npmjs.com/package/js-cookie)
-* 🇺🇸 👍 [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
-* 🇺🇸 👍 [uuid — генератор UUID (universally unique identifier «универсальный уникальный идентификатор»)](https://www.npmjs.com/package/uuid)
+* 🇺🇸 🔥 [ZXing  — библиотека для распознавания штрихкодов](https://www.npmjs.com/package/@zxing/library)
+* 🇺🇸 🔥 [Browser or Node.js — определение окружения](https://www.npmjs.com/package/browser-or-node)
+* 🇺🇸 🔥 [Browser, please — определение версии браузера](https://dartess.github.io/browser-please/)
+* 🇺🇸 🔥 [js-cookie](https://www.npmjs.com/package/js-cookie)
+* 🇺🇸 🔥 [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
+* 🇺🇸 🔥 [uuid — генератор UUID (universally unique identifier «универсальный уникальный идентификатор»)](https://www.npmjs.com/package/uuid)
 * 🇺🇸 [Piecon — Pie charts in your favicon!](http://lipka.github.io/piecon/)
 * 🇺🇸 [AR.js - Augmented Reality on the Web](https://github.com/AR-js-org/AR.js)
 
@@ -132,9 +132,9 @@
 ### Формы
 
 * 🇺🇸 [yup — до смерти простой валидатор объектов](https://github.com/jquense/yup)
-* 🇺🇸 👍 [Final Form — работа с формами](https://final-form.org/)
-* 🇺🇸 👍 [Final Form Arrays — работа с массивами в Final Form](https://www.npmjs.com/package/final-form-arrays)
-* 🇺🇸 👍 [Text Mask](https://text-mask.github.io/text-mask/)
+* 🇺🇸 🔥 [Final Form — работа с формами](https://final-form.org/)
+* 🇺🇸 🔥 [Final Form Arrays — работа с массивами в Final Form](https://www.npmjs.com/package/final-form-arrays)
+* 🇺🇸 🔥 [Text Mask](https://text-mask.github.io/text-mask/)
 * 🇺🇸 [Cleave.js — Format your input content when you are typing](https://nosir.github.io/cleave.js/)
 
 ### Скролл и скроллбар
@@ -235,7 +235,7 @@
 
 ## PWA
 
-* 🇷🇺 👍 📺 [Введение в Progressive Web Apps, Сергей Пугачев (Google)](https://www.youtube.com/watch?v=skmvycNQ_TM)
+* 🇷🇺 🔥 📺 [Введение в Progressive Web Apps, Сергей Пугачев (Google)](https://www.youtube.com/watch?v=skmvycNQ_TM)
 * 🇺🇸 [Progressive Web Apps — Websites that took all the right vitamins](https://web.dev/progressive-web-apps/)
 * 🇺🇸 📺 [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 * 🇺🇸 [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps)
@@ -352,7 +352,7 @@
 
 * 🇺🇸 [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)
 * 🇺🇸 [Intersection Observers — Explainer Doc, Draft Spec, Polyfill](https://github.com/w3c/IntersectionObserver)
-* 🇺🇸 👍 [IntersectionObserver polyfill](https://www.npmjs.com/package/intersection-observer)
+* 🇺🇸 🔥 [IntersectionObserver polyfill](https://www.npmjs.com/package/intersection-observer)
 
 #### ResizeObserver — слежение за изменением размеров элемента
 
@@ -745,7 +745,7 @@
 
 #### FormData
 
-* 🇺🇸 👍 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
+* 🇺🇸 🔥 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
 
 
 #### Beacon API
