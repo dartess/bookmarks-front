@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Закладки по фронтенду и смежному",
   "main": "check.js",
-  "pre-commit": "npm test",
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
+  },
   "scripts": {
     "test": "node utils/check-duplicates"
   },
