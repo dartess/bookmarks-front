@@ -7,6 +7,8 @@
 * 🇷🇺/🇺🇸 [перевод]()/[оригинал]()
 -->
 
+* 🇷🇺 Ошибки и спорные вопросы в HTML-CSS вёрстке: [Часть 1: общие и методологические](https://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke), [Часть 2: разметка](https://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-2), [Часть 3: стилизация](https://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke-3),
+
 ## HTML
 
 * 🇺🇸 [Quoting in HTML: Quotations, Citations, and Blockquotes](https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/)
@@ -22,6 +24,8 @@
 * 🇷🇺 [Особенности атрибута inputmode для мобильных ОС и браузеров](https://habr.com/ru/post/454606/)
 * 🇺🇸 [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/)
 * 🇺🇸 [HTML5 Input Types: Where Are They Now?](https://www.smashingmagazine.com/2019/01/html5-input-types/)
+* 🇺🇸 [Autofill on Browsers: A Deep Dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/)
+* 🇺🇸 How to Build HTML Forms Right [Part 1: Semantics](https://austingil.com/how-to-build-html-forms-right-semantics/), [Part 2: Accessibility](https://austingil.com/how-to-build-html-forms-right-accessibility/), [Part 3: Styling](https://austingil.com/build-html-forms-right-styling/), [Part 4: User Experience](https://austingil.com/build-html-forms-right-user-experience/), [Part 5: Security](https://austingil.com/how-to-build-html-forms-right-security/)
 
 ### Ссылки
 
@@ -41,7 +45,6 @@
 * 🇷🇺 [Чего мне никогда не говорили о CSS](https://medium.com/webbdev/css-48a2eded605b)
 * 🇺🇸 [Pointing Device Adaptation](https://whatwebcando.today/pointer-adaptation.html)
 * 🇷🇺/🇺🇸 Странности CSS, о которых полезно знать [перевод](https://habr.com/ru/company/ruvds/blog/350658/)/[оригинал](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
-* 🇺🇸 [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
 * 🇺🇸 [Presentation Attributes vs Inline Styles](https://css-tricks.com/presentation-attributes-vs-inline-styles/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=chem-prezentatsionnye-atributy-otlichayutsya)
 * 🇺🇸 [Considerations for styling the "pre" tag](https://mediatemple.net/blog/design-creative/considerations-for-styling-the-pre-tag/)
 * 🇷🇺/🇺🇸 Свойство background [перевод](https://medium.com/@ABatickaya/%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-background-4f3b67451794)/[оригинал](https://bitsofco.de/the-background-properties/)
@@ -49,20 +52,31 @@
 * 🇷🇺/🇺🇸 Новые логические свойства в CSS! [перевод](https://medium.com/web-standards/logical-css-props-c5046c563640)/[оригинал](https://medium.com/@elad/new-css-logical-properties-bc6945311ce7)
 * 🇺🇸 [Next-generation web styling](https://web.dev/next-gen-css-2019/)
 * 🇺🇸 [Dashed border using background-image property](https://codepen.io/amitsheen/pen/xxZeyjO)
-* 🇺🇸 [Custom bullets with CSS ::marker](https://web.dev/css-marker-pseudo-element/)
-* 🇺🇸 [Математические функции в CSS](http://css.yoksel.ru/css-math/)
+* 🇺🇸 [CSS Ruleset Terminology](https://css-tricks.com/css-ruleset-terminology/)
+* 🇺🇸 [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
+* 🇺🇸 [cssreference.io – A free visual guide to CSS](https://cssreference.io/)
+* 🇷🇺/🇺🇸 CSS: интересные возможности border-radius [перевод](https://habr.com/ru/company/ruvds/blog/426731/)/[оригинал](https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae)
 
-### Единицы измерения
+### Единицы измерения, ключевые слова, функции
 
 * 🇺🇸 [The Unexpected Power of Viewport Units in CSS](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css)
 * 🇺🇸 [You’re using〈em〉wrong](https://blog.logrocket.com/youre-using-em-wrong/)
 * 🇷🇺 [Единицы размеров в CSS](http://css.yoksel.ru/size-units/)
 * 🇺🇸 [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
 * 🇺🇸 [Pixels vs. Relative Units in CSS: why it’s still a big deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
+* 🇺🇸 [min(), max(), and clamp(): three logical CSS functions to use today](https://web.dev/min-max-clamp/)
+* 🇺🇸 [A Complete Guide to CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)
+* 🇷🇺 [Математические функции в CSS](http://css.yoksel.ru/css-math/)
+* 🇺🇸 [CSS Viewport Units: A Quick Start](https://www.sitepoint.com/css-viewport-units-quick-start/)
+
+### Псевдоклассы и псевдоэлементы
+
+* 🇺🇸 [Custom bullets with CSS ::marker](https://web.dev/css-marker-pseudo-element/)
 
 ### Медиазапросы
 
 * 🇺🇸 [CSS media queries are not just max-width](https://medium.com/mabiloft/css-media-queries-are-not-just-max-width-e543ee5d1a5b)
+* 🇺🇸 [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 
 ### Текст
 
@@ -75,16 +89,24 @@
 * 🇺🇸 [Leading-Trim: The Future of Digital Typesetting](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
 * 🇺🇸 [Force Selection of Text Block](https://css-tricks.com/force-selection-text-block/)
 * 🇺🇸 [Stroke Text CSS: 📕 The Definitive Guide](http://www.coding-dude.com/wp/css/css-stroke-text/)
+* 🇺🇸 [Linearly Scale font-size with CSS clamp() Based on the Viewport](https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/)
+* 🇺🇸 [Where Lines Break is Complicated. Here’s all the Related CSS and HTML.](https://css-tricks.com/where-lines-break-is-complicated-heres-all-the-related-css-and-html/)
 
 ### Позиционирование и блочная модель
 
 * 🇷🇺 [Расстановка полей и отступов в CSS](https://habr.com/ru/company/netcracker/blog/281008/)
 * 🇷🇺 Как на самом деле работает position: sticky в CSS [превод](https://medium.com/web-standards/sticky-bc7ff7088693)/[оригинал](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46)
-* 🇺🇸 [The two-value syntax of the CSS Display property](https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/)
 * 🇷🇺 [Новый display:flow-root — не clearfix, но что это и зачем?](https://css-live.ru/faq/displayflow-root-not-clearfix.html?utm_source=forwebdev&utm_medium=announcement&utm_campaign=novyy-displayflow-root--ne-clearfix--n)
 * 🇺🇸 [Overflow In CSS](https://ishadeed.com/article/overflow-css/)
 * 🇺🇸 [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/#use-cases-for-min-and-max-properties)
 * 🇺🇸 [Understanding positioning in CSS](https://chenhuijing.com/blog/understanding-positioning-in-css/)
+* 🇺🇸 [How display: contents; Works](https://bitsofco.de/how-display-contents-works/)
+
+#### Two-Value Display Syntax
+
+* 🇺🇸 [The two-value syntax of the CSS Display property](https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/)
+* 🇺🇸 [Two-Value Display Syntax (and Sometimes Three)](https://css-tricks.com/two-value-display-syntax-and-sometimes-three/)
+* 🇺🇸 [Digging Into The Display Property: The Two Values Of Display](https://www.smashingmagazine.com/2019/04/display-two-value/)
 
 ### Z-index и порядок отрисовки
 
@@ -112,6 +134,17 @@
 * 🇷🇺 [GRID GARDEN](http://cssgridgarden.com/#ru)
 * 🇷🇺/🇺🇸 Гибкая разметка без медиа-запросов: функции min(), max(), clamp() [перевод](https://habr.com/ru/post/499088/)/[оригинал](https://blog.logrocket.com/flexible-layouts-without-media-queries/)
 * 🇺🇸 [A Lightweight Masonry Solution](https://css-tricks.com/a-lightweight-masonry-solution/)
+* 🇺🇸 [Grid by Example](https://gridbyexample.com/)
+* 🇺🇸 [Learn CSS Grid](https://learncssgrid.com/)
+* 🇷🇺/🇺🇸 🔥 Убираем сдвиги в верстке наложением в CSS Grid [перевод](https://css-live.ru/css/ubiraem-sdvigi-v-verstke-nalozheniyem-v-css-grid.html)/[оригинал](https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/)
+
+##### Subgrid
+
+* 🇺🇸 [CSS Grid Level 2 – subgrid is coming to Firefox](https://hacks.mozilla.org/2019/06/css-grid-level-2-subgrid-is-coming-to-firefox/)
+
+##### Grid Masonry
+
+* 🇷🇺/🇺🇸 Нативный Masonry Layout в CSS Grid Level 3 [перевод](https://habr.com/ru/post/526008/)/[оригинал](https://www.smashingmagazine.com/native-css-masonry-layout-css-grid/)
 
 ### Таблицы
 
@@ -127,6 +160,8 @@
 * 🇷🇺 [Понятно про CSS Masking и Shapes Modules, или Будущая революция дизайна контента](https://habr.com/ru/post/190246/)
 * 🇷🇺/🇺🇸 Аватары с рваными краями при помощи CSS clip-path [перевод](https://frontender.info/sketchy-avatars-css-clip-path/)/[оригинал](https://css-tricks.com/sketchy-avatars-css-clip-path/)
 * 🇺🇸 [How to use CSS clipping](https://web.dev/css-clipping/)
+* 🇺🇸 [How to use CSS masking](https://web.dev/css-masking/)
+* 🇺🇸 [Shapes in clipping and masking – and how to use them](https://hacks.mozilla.org/2017/06/css-shapes-clipping-and-masking/)
 
 ### CSS Containment
 
@@ -138,6 +173,7 @@
 
 * 🇺🇸 [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 * 🇷🇺 [Новое CSS-свойство content-visibility ускоряет отрисовку страницы в несколько раз](https://habr.com/ru/company/vdsina/blog/514760/)
+* 🇺🇸 [Resize-Resilient `content-visiblity` Fixes](https://infrequently.org/2020/12/resize-resilient-deferred-rendering/)
 
 ### Анимации
 
@@ -145,10 +181,19 @@
 * 🇺🇸 [CSS Easing Animation Tool — онлайн построение функций анимации](https://matthewlein.com/tools/ceaser)
 * 🇺🇸 [Dynamic Bézier Curves](https://www.joshwcomeau.com/posts/dynamic-bezier-curves/)
 
+### CSS counters
+
+* 🇷🇺 [CSS counters](https://habr.com/ru/post/49500/)
+
+### CSS Scroll Snap
+
+* 🇺🇸 [CSS Scroll Snap](https://ishadeed.com/article/css-scroll-snap/)
+
 ### Цвета
 
 * 🇷🇺/🇺🇸 LCH-цвета в CSS [перевод](https://habr.com/ru/company/ruvds/blog/496966/)/[оригинал](https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
 * 🇺🇸 [The possibilities of the color-adjust property](https://css-tricks.com/the-possibilities-of-the-color-adjust-property/)
+* 🇺🇸 [No-Comma Color Functions in CSS](https://css-tricks.com/no-comma-color-functions-in-css/)
 
 ### Режимы наложения
 
@@ -160,9 +205,16 @@
 
 ### Скроллбар
 
-* 🇺🇸 Заходят как-то два браузера в скроллбар… [перевод](https://habr.com/ru/company/ruvds/blog/468405/)/[оригинал](https://www.filamentgroup.com/lab/scrollbars/)
+* 🇷🇺/🇺🇸 Заходят как-то два браузера в скроллбар… [перевод](https://habr.com/ru/company/ruvds/blog/468405/)/[оригинал](https://www.filamentgroup.com/lab/scrollbars/)
 * 🇺🇸 [Custom Scrollbars in WebKit](https://css-tricks.com/custom-scrollbars-in-webkit/)
 * 🇺🇸 [Scroll to the future](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
+* 🇺🇸 [Styling Scrollbars with CSS: The Modern Way to Style Scrollbars](https://www.digitalocean.com/community/tutorials/css-scrollbars)
+
+Также см. BROWSERSDEVICES -> Библиотеки -> Скролл и скроллбар
+
+### Стилизация форм
+
+* 🇺🇸 [Inclusive Considerations When Restyling Form Controls](https://24ways.org/2018/inclusive-considerations-when-restyling-form-controls/)
 
 ### Пользовательские свойства (CSS-переменные)
 
@@ -172,6 +224,8 @@
 * 🇷🇺 [Введение в пользовательские CSS-свойства](https://habr.com/ru/company/netologyru/blog/431616/)
 * 🇺🇸 [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 * 🇷🇺 Кастомные свойства в CSS. [Часть 1: что это такое и как работает](https://tproger.ru/articles/custom-properties-in-css-part-1/), [Часть 2: особенности применения](https://tproger.ru/articles/custom-properties-in-css-part-2/), [Кастомные свойства в CSS. Часть 3: ограничения](https://tproger.ru/articles/custom-properties-in-css-part-3/)
+* 🇺🇸 [The Difference Between currentColor & Custom Properties](https://www.madebymike.com.au/writing/currentcolor-and-custom-properties/)
+* 🇷🇺 [Условия для CSS-переменных](https://www.kizu.ru/ru/conditions-for-css-variables/)
 
 ### Библиотеки и фреймворки
 
@@ -188,6 +242,8 @@
 ### CSS Houdini
 
 * 🇺🇸 [CSS Houdini](https://houdini.glitch.me/)
+* 🇺🇸 [Cross-browser paint worklets and Houdini.how](https://web.dev/houdini-how/)
+* 🇺🇸 [Houdini.how](https://houdini.how/)
 * 🇺🇸 [Is Houdini ready yet‽](https://ishoudinireadyyet.com/)
 * 🇷🇺/🇺🇸 Тёмная сторона использования полифиллов CSS [перевод](https://habr.com/ru/post/326056/)/[оригинал](https://philipwalton.com/articles/the-dark-side-of-polyfilling-css/)
 * 🇺🇸 [Houdini Samples — Demos for different Houdini APIs](https://googlechromelabs.github.io/houdini-samples/)
@@ -204,6 +260,7 @@
 * 🇺🇸 [Say Hello to Houdini and the CSS Paint API](https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/)
 * 🇺🇸 [A CSS Houdini library for making your site a little more #extra](https://extra-css.netlify.app/)
 * 🇺🇸 [CSS Paint API](https://developers.google.com/web/updates/2018/01/paintapi)
+* 🇺🇸 [Exploring the CSS Paint API](https://bobrov.dev/blog/exploring-the-css-paint-api/)
 
 #### Parser API
 
@@ -230,6 +287,10 @@
 
 * 🇺🇸 [Font Metrics API Explained](https://github.com/w3c/css-houdini-drafts/blob/master/font-metrics-api/README.md)
 
+### Онлайн-инструменты
+
+* 🇺🇸 [range.css – CSS Style Generator for Range Inputs](http://danielstern.ca/range.css/)
+
 ## Шрифты
 
 * 🇷🇺 [20 вопросов про веб-шрифты](https://habr.com/ru/company/adv/blog/184864/)
@@ -240,6 +301,7 @@
 * 🇺🇸 [CSS font-display: The Future of Font Rendering on the Web — про font-display](https://www.sitepoint.com/css-font-display-future-font-rendering-web/)
 * 🇷🇺/🇺🇸 Glyphhanger — инструмент для оптимизации шрифтов [перевод](https://anatolykulikov.ru/review/glyphhanger-tool-to-optimize-fonts/)/[оригинал](https://www.zachleat.com/web/glyphhanger/)
 * 🇺🇸 [eBay’s Font Loading Strategy](https://tech.ebayinc.com/engineering/ebays-font-loading-strategy/)
+* 🇷🇺/🇺🇸 Система font fallback: что происходит, когда шрифт не может найти нужный символ [перевод](https://habr.com/ru/post/521740/)/[оригинал](https://www.figma.com/blog/when-fonts-fall/)
 
 ### Вариантивные шрифты
 
@@ -255,6 +317,7 @@
 ## Стили для печати
 
 * 🇷🇺 [Инструкция: CSS-оптимизация веб-страницы для печати](https://vc.ru/flood/23660-print-style-sheets)
+* 🇷🇺/🇺🇸 Я совсем забыл о стилях для печати [перевод](http://prgssr.ru/development/ya-sovsem-zabyl-o-stilyah-dlya-pechati.html)/[оригинал](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6)
 
 ## Вёрстка писем
 
@@ -277,14 +340,12 @@
 * 🇺🇸 [Introducing Web APIs for Dual Screen and Foldable Devices](https://blogs.windows.com/msedgedev/2020/09/14/introducing-dual-screen-foldable-web-apis/)
 * 🇺🇸 [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26)
 * 🇺🇸 Gettin’ Foldy with the Dual-screen Web [part 1](https://daverupert.com/2020/07/gettin-foldy-with-the-dual-screen-web-part-i/), [part 2](https://daverupert.com/2020/07/gettin-foldy-with-the-dual-screen-web-part-ii/)
-
-## Вёрстка текстов с направлением письма справа налево
-
-* 🇺🇸 [RTL Styling 101](https://www.rtlstyling.com/)
-* 🇷🇺 [Справа налево. Что такое dir=rtl и как приручить арабский язык](https://habr.com/ru/company/2gis/blog/358148/)
+* 🇺🇸 [Folding the Web](https://medium.com/samsung-internet-dev/folding-the-web-90952c925d52)
 
 ## Доступность
 
+* 🇺🇸 [Web Accessibility Resources](https://marcysutton.com/web-accessibility-resources)
+* 🇺🇸 [a11yresources](https://a11yresources.webflow.io/)
 * 🇷🇺/🇺🇸 Чему меня научил год изучения и преподавания доступности [перевод](https://medium.com/web-standards/what-accessibility-taught-me-207d1ff0e80c)/[оригинал](https://www.sarasoueidan.com/blog/what-accessibility-taught-me/)
 * 🇺🇸 [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
 * 🇷🇺 [Доступность и закон](https://medium.com/web-standards/a11y-and-law-a81dd9dd5fc8)
@@ -317,9 +378,17 @@
 * 🇷🇺 [Недоступность в картинках](http://css.yoksel.ru/inaccessibility/)
 * 🇺🇸 [5 самых раздражающих особенностей веб-сайта, с которыми я сталкиваюсь каждый божий день, будучи слепым](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/)
 * 🇺🇸 [Разница между aria-label и aria-labelledby](https://tink.uk/the-difference-between-aria-label-and-aria-labelledby/)
+* 🇺🇸 [Not so short note on aria-label usage – Big Table Edition](https://html5accessibility.com/stuff/2020/11/07/not-so-short-note-on-aria-label-usage-big-table-edition/)
+* 🇷🇺/🇺🇸 Советы по доступности интерактивных элементов на мобильных устройствах [перевод](https://medium.com/web-standards/mobile-a11y-aac0330569ae)/[оригинал](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/)
+* 🇷🇺/🇺🇸 Фокусы со стилями для фокуса [перевод](https://css-live.ru/articles/fokusy-so-stilyami-dlya-fokusa.html)/[оригинал](https://css-tricks.com/focusing-on-focus-styles/)
+* 🇷🇺 [Как русскоязычные пользователи с особыми потребностями пользуются сайтами](https://medium.com/web-standards/a11y-poll-2019-dd42928f10ba)
+* 🇺🇸 [Alt vs Figcaption](https://thoughtbot.com/blog/alt-vs-figcaption)
+* 🇺🇸 [What a Year of Learning and Teaching Accessibility Taught Me](https://www.24a11y.com/2019/what-a-year-of-learning-and-teaching-accessibility-taught-me/)
+* 🇺🇸 [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/)
 
 ### Инклюзивные компоненты
 
+* 🇺🇸 [Van11y – A collection of accessible scripts, made in ES2015](https://van11y.net/)
 * 🇷🇺/🇺🇸 Инклюзивные компоненты: тултипы и тоглтипы [перевод](https://medium.com/web-standards/tooltips-toggletips-c20691665ac7)/[оригинал](https://inclusive-components.design/tooltips-toggletips/)
 * 🇺🇸 [Tooltips in the time of WCAG 2.1](https://sarahmhigley.com/writing/tooltips-in-wcag-21/)
 * 🇷🇺 Инклюзивные компоненты: интерфейсы со вкладками [перевод](https://medium.com/web-standards/tabbed-interfaces-a125212e6c35)/[оригинал](https://inclusive-components.design/tabbed-interfaces/)
@@ -327,6 +396,11 @@
 * 🇷🇺/🇺🇸 Инклюзивные компоненты: сворачиваемые секции [перевод](https://medium.com/web-standards/collapsibl-sections-c0de689e0ebe)/[оригинал](https://inclusive-components.design/collapsible-sections/)
 * 🇷🇺/🇺🇸 🔥 Инклюзивные компоненты: слайдер [перевод](https://medium.com/web-standards/a-content-slider-a9ebddaae274)/[оригинал](https://inclusive-components.design/a-content-slider/)
 * 🇺🇸 [Menus & Menu Buttons](https://inclusive-components.design/menus-menu-buttons/)
+* 🇷🇺/🇺🇸 Инклюзивные компоненты: переключатели [перевод](https://medium.com/web-standards/toggle-buttons-a41388e80974)/[оригинал](https://inclusive-components.design/toggle-button/)
+
+#### Модальные окна
+
+* 🇷🇺 [Вы не знаете как должны работать модальные окна](https://habr.com/ru/post/521422/)
 
 ## Графика
 
@@ -342,13 +416,23 @@
 * 🇷🇺/🇺🇸 Новый кодек AV1: ускоряем загрузку видео в браузере [перевод](https://habr.com/ru/post/442020/)/[оригинал](https://evilmartians.com/chronicles/better-web-video-with-av1-codec)
 * 🇺🇸 [AV1: next generation video – The Constrained Directional Enhancement Filter](https://hacks.mozilla.org/2018/06/av1-next-generation-video-the-constrained-directional-enhancement-filter/)
 * 🇺🇸 [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
+* 🇺🇸 [Overlaying Video With Transparency While Wrangling Cross-Browser Support](https://css-tricks.com/overlaying-video-with-transparency-while-wrangling-cross-browser-support/)
 
 ## SVG
 
 * 🇺🇸 [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
 * 🇺🇸 [Understanding the SVG viewBox](http://thenewcode.com/1151/Understanding-the-SVG-viewBox)
+* 🇷🇺 [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)
 
-Также смотри Эффекты и демо -> Эффекты и демо SVG
+### SVG фильтры
+
+* 🇺🇸 [SVG Filters 101](https://tympanus.net/codrops/2019/01/15/svg-filters-101/)
+* 🇺🇸 [SVG Filter Effects: Outline Text with <feMorphology>](https://tympanus.net/codrops/2019/01/22/svg-filter-effects-outline-text-with-femorphology/)
+* 🇺🇸 [SVG Filter Effects: Poster Image Effect with <feComponentTransfer>](https://tympanus.net/codrops/2019/01/29/svg-filter-effects-poster-image-effect-with-fecomponenttransfer/)
+* 🇺🇸 [SVG Filter Effects: Duotone Images with <feComponentTransfer>](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
+* 🇺🇸 [SVG Filter Effects: Conforming Text to Surface Texture with <feDisplacementMap>](https://tympanus.net/codrops/2019/02/12/svg-filter-effects-conforming-text-to-surface-texture-with-fedisplacementmap/)
+* 🇺🇸 [SVG Filter Effects: Creating Texture with <feTurbulence>](https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/)
+* 🇺🇸 [SVG Filter Effects: Moving Forward](https://tympanus.net/codrops/2019/02/26/svg-filter-effects-moving-forward/)
 
 ## Эффекты и демо
 
@@ -361,6 +445,4 @@
 
 ### Эффекты и демо SVG
 
-* 🇺🇸 [SVG Filter Effects: Duotone Images with feComponentTransfer](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
-* 🇺🇸 [SVG Filter Effects: Creating Texture with <feTurbulence>](https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/)
 * 🏳 [SVG Animation демо](https://jsbin.com/kirupal/)

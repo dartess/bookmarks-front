@@ -85,11 +85,13 @@
 
 ### Прочее
 
+* 🇺🇸 [Mozilla Specification Positions](https://mozilla.github.io/standards-positions/)
 * 🇺🇸 [Техподдержка SamsungInternet](https://github.com/SamsungInternet/support) 
 
 ## Работа с событиями
 
 * 🇺🇸 [A Simple Explanation of Event Delegation in JavaScript](https://dmitripavlutin.com/javascript-event-delegation/)
+* 🇺🇸 [addEventListener accepts functions and (!) objects](https://www.stefanjudis.com/today-i-learned/addeventlistener-accepts-functions-and-objects/)
 
 ## Библиотеки
 
@@ -110,6 +112,10 @@
 * 🇺🇸 🔥 [uuid — генератор UUID (universally unique identifier «универсальный уникальный идентификатор»)](https://www.npmjs.com/package/uuid)
 * 🇺🇸 [Piecon — Pie charts in your favicon!](http://lipka.github.io/piecon/)
 * 🇺🇸 [AR.js - Augmented Reality on the Web](https://github.com/AR-js-org/AR.js)
+* 🇺🇸 [Cashify – Lightweight currency conversion library, successor of money.js](https://github.com/xxczaki/cashify)
+* 🇺🇸 [Mousetrap – работа с шорткатами](https://craig.is/killing/mice)
+* 🇺🇸 [shiki – Syntax Highlighter (подсветка синтаксиса)](https://shiki.matsu.io/)
+* 🇺🇸 [Fluid Framework](https://fluidframework.com/)
 
 ### Карусели
 
@@ -128,6 +134,10 @@
 * 🇺🇸 [Luxon — A powerful, modern, and friendly wrapper for Javascript dates and times.](https://moment.github.io/luxon/)
 
 Также см. JavaScript -> Intl
+
+#### Календари
+
+* 🇺🇸 [Duet Date Picker – на веб-компонентах](https://duetds.github.io/date-picker/)
 
 ### Формы
 
@@ -174,15 +184,21 @@
 #### D3.js
 
 * 🇺🇸 [How to learn D3.js](https://wattenberger.com/blog/d3)
-* 🇺🇸 [Britecharts — based on D3.js v5](https://eventbrite.github.io/britecharts/index.html)
 * 🇷🇺 [Визуализация геоданных в D3.js](https://frontender.info/d3js-map-visualization/)
 * 🇺🇸 [d3-pre](https://github.com/fivethirtyeight/d3-pre)
 * 🇺🇸 [Rendering One Million Datapoints with D3 and WebGL](https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html)
 * 🇷🇺 [Просто о D3.js](https://habr.com/ru/post/342106/)
+* 🇷🇺 [Визуализация сложных данных с использованием D3 и React](https://habr.com/ru/post/517562/)
+
+##### Библиотеки на основе D3.js
+
+* 🇺🇸 [Britecharts](https://eventbrite.github.io/britecharts/index.html)
+* 🇺🇸 [billboard.js](https://naver.github.io/billboard.js/)
 
 ### Медиа (аудио, видео)
 
 * 🇺🇸 [Plyr — a simple, accessible and customisable media player](https://plyr.io/)
+* 🇺🇸 [Vime – a customizable, extensible, accessible and framework agnostic media player](https://vimejs.com/)
 * 🇷🇺 [Обзор видеоплееров для веба](https://habr.com/ru/post/493674/)
 
 ### drag & drop library
@@ -257,14 +273,19 @@
 * 🇺🇸 [Appscope - Progressive Web Apps Examples](https://appsco.pe/)
 * 🇺🇸 [Javascript to check if PWA or Mobile Web](https://stackoverflow.com/questions/41742390/javascript-to-check-if-pwa-or-mobile-web)
 * 🇺🇸 [Awesome Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
+* 🇺🇸 [What makes a good Progressive Web App?](https://web.dev/pwa-checklist/)
+* 🇺🇸 📺 [Going Offline First (Video Series)](https://bitsofco.de/going-offline-first/)
+* 🇺🇸 [Add to Home Screen](https://developers.google.com/web/fundamentals/app-install-banners/)
 
 ### Web App Manifest
 
 * 🇺🇸 [PWACompat to bring Web App Manifest to older browsers](https://github.com/GoogleChromeLabs/pwacompat)
+* 🇺🇸 [You shouldn’t use Chrome’s PWACompat library in your Progressive Web Apps](https://medium.com/@firt/you-shouldnt-use-chrome-s-pwacompat-library-in-your-progressive-web-apps-6b3496faab62)
 * 🇺🇸 [iWAM — An experiment to polyfill Web App Manifest (WAM) into Safari on iOS useful for Progressive Web Apps](https://github.com/firtman/iWAM)
-* 🇺🇸 [Add to Home Screen](https://developers.google.com/web/fundamentals/app-install-banners/)
 * 🇺🇸 [PWA series: the manifest file cheatsheet](https://medium.com/samsung-internet-dev/pwa-series-the-manifest-file-cheatsheet-459b4a5e2098)
 * 🇷🇺 [Выйти за грань браузера (theme-color)](https://habr.com/ru/post/245007/)
+* 🇺🇸 [Creating a Custom PWA Splash Screen](https://www.simicart.com/blog/pwa-splash-screen/)
+* 🇺🇸 [pwa-asset-generator ✨](https://github.com/onderceylan/pwa-asset-generator)
 
 #### Маскируемеые иконки
 
@@ -282,7 +303,6 @@
 * 🇷🇺 [Создание сервис-воркера: разбор примера](http://prgssr.ru/development/sozdaem-service-worker.html)
 * 🇺🇸 [Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
 * 🇺🇸 📺 [Максим Сальников — Сервис-воркеры: используем накопленный опыт и смотрим в будущее](https://www.youtube.com/watch?v=sly5O_f6w6g)
-* 🇺🇸 [Workbox — JavaScript Libraries for adding offline support to web apps](https://developers.google.com/web/tools/workbox/)
 * 🇺🇸 [Service workers at TPAC](https://jakearchibald.com/2019/service-workers-tpac/)
 * 🇷🇺 [Продуманные запросы: стратегии кэширования в век PWA](https://habr.com/ru/company/ruvds/blog/478326/)
 * 🇺🇸 [ServiceWorker Cookbook](https://serviceworke.rs/)
@@ -295,6 +315,13 @@
 * 🇺🇸 [Service Worker Lifecycle Explained](https://felixgerschau.com/service-worker-lifecycle-update/)
 * 🇺🇸 [How much data should my Service Worker put upfront in the offline cache?](https://nicolas-hoizey.com/articles/2017/01/12/how-much-data-should-my-service-worker-put-upfront-in-the-offline-cache/)<!--- в общем, не кэшируйте всё пордяд, подумайте о пользователе; кэшируйте основу, то что пользователь посетил и то что будет полезно ему в режиме оффлайн --->
 * 🇺🇸 [Offline POSTs with Progressive Web Apps](https://medium.com/web-on-the-edge/offline-posts-with-progressive-web-apps-fc2dc4ad895)
+* 🇺🇸 [Adaptive loading with service workers](https://web.dev/adaptive-loading-with-service-workers/)
+* 🇺🇸 [Understanding Service Workers](http://blog.88mph.io/2017/07/28/understanding-service-workers/)
+
+#### Workbox
+
+* 🇺🇸 [Workbox — JavaScript Libraries for adding offline support to web apps](https://developers.google.com/web/tools/workbox/)
+* 🇷🇺 [WorkBox: ваш toolkit в мире сервис-воркеров](https://habr.com/ru/company/domclick/blog/523106/)
 
 ### Особенности платформ
 
@@ -338,13 +365,6 @@
 
 ## API
 
-### Console API / Command Line API
-
-* 🇷🇺/🇺🇸 Используем console на полную [перевод](https://habr.com/ru/post/114483/)/[оригинал](https://www.thecssninja.com/javascript/console)
-* 🇷🇺/🇺🇸 Руководство по API командной строки [перевод](https://medium.com/@stylesam/api-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4-d5b87608cbf1)/[оригинал](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
-* 🇺🇸 [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
-* 🇺🇸 [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
-
 ### API для работы с DOM
 
 #### IntersectionObserver — слежение за попаданием элемента в область видимости
@@ -365,9 +385,15 @@
 * 🇺🇸 [DOMChangeList proposal](https://github.com/whatwg/dom/issues/270)
 * 🇺🇸 [worker-node proposal](https://github.com/drufball/worker-node)
 
-### API для работы с камерой и микрофоном
+
+### API для работы с CSS
+
+* 🇺🇸 [An Introduction and Guide to the CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/)
+
+### API для работы с камерой, микрофоном и медиа
 
 * 🇺🇸 [JS Tidbits - MediaStream API](https://areknawo.com/js-tidbits-mediastream-api/)
+* 🇺🇸 [Web 🧡 Camera](https://github.com/riju/WebCamera)
 
 #### Media Capture and Streams API (MediaStream API) — получение аудио и видео
 
@@ -384,6 +410,11 @@
 * 🇺🇸 [MDN — MediaStream Recording API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
 * 🇺🇸 [Recording Media](https://whatwebcando.today/recording.html)
 * 🇺🇸 [Building a Dictaphone Using Media Recorder and getUserMedia](https://24ways.org/2019/building-a-dictaphone-using-media-recorder-and-getusermedia)
+* 🇺🇸 [webkit – MediaRecorder API](https://webkit.org/blog/11353/mediarecorder-api/)
+
+#### Media Source API
+
+* 🇺🇸 [Media Source API – MDN](https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API)
 
 #### WebRTC API — реал-тайм коммуникация
 
@@ -391,12 +422,31 @@
 * 🇺🇸 [Real-Time Communication](https://whatwebcando.today/realtime.html)
 * 🇺🇸 [A comprehensive dive into WebRTC for client-server web games](http://blog.brkho.com/2017/03/15/dive-into-client-server-web-games-webrtc/)
 
+#### WebCodecs API
+
+* 🇺🇸 [WebCodecs – черновик предложения](https://wicg.github.io/web-codecs/)
+* 🇺🇸 [Video processing with WebCodecs](https://web.dev/webcodecs/)
+
+#### PTZ-камеры (pan, tilt, zoom)
+
+* 🇺🇸 [Control camera pan, tilt, and zoom](https://web.dev/camera-pan-tilt-zoom/)
+
+#### Picture-in-Picture API
+
+* 🇺🇸 [Picture-in-Picture](https://www.w3.org/TR/picture-in-picture/)
+* 🇺🇸 [How we built Picture-in-Picture in Firefox Desktop with more control over video](https://hacks.mozilla.org/2020/01/how-we-built-picture-in-picture-in-firefox-desktop/)
+
+#### Web Video Text Tracks Format (WebVTT) — формат субтитров (подписей) для video
+
+* 🇺🇸 [Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
+
 ### Доступ к аппаратным ресурсам устройства (Device Features)
 
 #### Network Information API
 
 * 🇺🇸 [MDN — Network Information API](https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API)
 * 🇺🇸 [Network Type & Speed](https://whatwebcando.today/network-type-speed.html)
+* 🇺🇸 [Adaptive serving based on network quality](https://web.dev/adaptive-serving-based-on-network-quality/)
 
 #### NavigatorOnLine
 
@@ -462,10 +512,11 @@
 * 🇺🇸 [File Access](https://whatwebcando.today/files.html)
 * 🇺🇸 [MDN — Using files from web applications](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 
-#### Native File System API — доступ к файловой системе
+#### File System Access (ex Native File System API ) — доступ к файловой системе
 
-* 🇺🇸 [Native File System API — explainer](https://github.com/WICG/native-file-system/blob/master/EXPLAINER.md)
-* 🇺🇸 [The Native File System API: Simplifying access to local files](https://web.dev/native-file-system/)
+* 🇺🇸 [File System Access – черновик предложения](https://wicg.github.io/file-system-access/)
+* 🇺🇸 [The File System Access API: simplifying access to local files](https://web.dev/file-system-access/)
+* 🇺🇸 [Native File System API — explainer](https://github.com/WICG/file-system-access/blob/master/EXPLAINER.md)
 
 #### Contact Picker API — доступ к контактам
 
@@ -503,11 +554,12 @@
 
 #### Task Scheduler API — запуск задач по расписанию
 
-* 🇺🇸 [Task Scheduling](https://whatwebcando.today/scheduler.html)
 * 🇺🇸 [Task Scheduler API — черновик спецификации](https://www.w3.org/TR/task-scheduler/)
+* 🇺🇸 [Task Scheduling](https://whatwebcando.today/scheduler.html)
 
 #### Background Sync API — возможность отправлять данные после восстановления связи
 
+* 🇺🇸 [Web Background Synchronization — черновик предложения](https://wicg.github.io/background-sync/spec/)
 * 🇺🇸 [Background Sync](https://whatwebcando.today/background-sync.html)
 * 🇺🇸 [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync)
 
@@ -520,6 +572,7 @@
 
 * 🇺🇸 [Background Fetch API — черновик спецификации](https://wicg.github.io/background-fetch/)
 * 🇺🇸 [Introducing Background Fetch](https://developers.google.com/web/updates/2018/12/background-fetch)
+* 🇺🇸 [Background Fetch API: Get Ready To Use It!](https://medium.com/google-developer-experts/background-fetch-api-get-ready-to-use-it-69cca522cd8f)
 
 #### Notifications API
 
@@ -564,6 +617,7 @@
 * 🇺🇸 [Share like a native app with the Web Share API](https://web.dev/web-share/)
 * 🇺🇸 [Web Share API — черновик спецификации](https://w3c.github.io/web-share/)
 * 🇺🇸 [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
+* 🇺🇸 [On the Web Share API](https://css-tricks.com/on-the-web-share-api/)
 
 #### Web Share Target API
 
@@ -571,8 +625,9 @@
 * 🇺🇸 [Web Share Target API — черновик предложения](https://wicg.github.io/web-share-target/)
 * 🇺🇸 [Web Share Target API — Level 2 — черновик предложения](https://wicg.github.io/web-share-target/level-2/)
 
-#### File Handling
+#### File Handling API
 
+* 🇺🇸 [Let web applications be file handlers](https://web.dev/file-handling/)
 * 🇺🇸 [File Handling explainer](https://github.com/WICG/file-handling/blob/master/explainer.md)
 
 ### API для платежей
@@ -598,16 +653,17 @@
 
 ### API для авторизации
 
-#### Credential Management API
-
-* 🇷🇺 [Автоматический вход на сайт с использованием Credential Management API](https://noteskeeper.ru/1373/)
-* 🇺🇸 [Credentials](https://whatwebcando.today/credentials.html)
-
 #### Web Authentication API (WebAuthn)
 
 * 🇺🇸 [Guide to Web Authentication](https://webauthn.guide/)
 * 🇷🇺 [Новые стандарты для беспарольной аутентификации: как они работают](https://habr.com/ru/company/1cloud/blog/353966)
 * 🇷🇺 [WebAuthn в реальной жизни](https://habr.com/ru/company/mailru/blog/489270/)
+* 🇺🇸 [Meet Face ID and Touch ID for the Web](https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/)
+
+#### Credential Management API
+
+* 🇷🇺 [Автоматический вход на сайт с использованием Credential Management API](https://noteskeeper.ru/1373/)
+* 🇺🇸 [Credentials](https://whatwebcando.today/credentials.html)
 
 #### Прочие API, связанные с авторизацией
 
@@ -619,23 +675,30 @@
 
 * 🇺🇸 [Pointer Events API](https://developers.google.com/web/updates/2016/10/pointer-events)
 
-#### Web Speech API — распознавание и синтезация речи
+#### Pointer Lock API
 
-* 🇺🇸 [Speech Recognition](https://whatwebcando.today/speech-recognition.html)
+* 🇺🇸 [Pointer Lock – спецификация](https://www.w3.org/TR/pointerlock/)
+
+##### unadjustedMovement – отключение ускорения указателя
+
+* 🇺🇸 [Disable mouse acceleration to provide a better FPS gaming experience](https://web.dev/disable-mouse-acceleration/)
 
 #### Clipboard API — работа с буфером обмена
 
 * 🇺🇸 [Clipboard API and events Editor’s Draft](https://w3c.github.io/clipboard-apis/)
 * 🇺🇸 [Clipboard (Copy & Paste)](https://whatwebcando.today/clipboard.html)
 
-#### WebXR Device API
+#### Early detection of input events
 
-* 🇺🇸 [Virtual & Augmented Reality](https://whatwebcando.today/vr.html)
-* 🇺🇸 [WebXR Device API Explained](https://github.com/immersive-web/webxr/blob/master/explainer.md)
-* 🇺🇸 [WebXR Device API Specification](https://immersive-web.github.io/webxr/)
-* 🇺🇸 [Virtual reality comes to the web](https://web.dev/vr-comes-to-the-web/)
-* 🇺🇸 [Virtual reality comes to the web, part II](https://web.dev/vr-comes-to-the-web-pt-ii/)
-* 🇺🇸 [Positioning virtual objects in real-world views](https://web.dev/ar-hit-test/)
+* 🇺🇸 [Early detection of input events — черновик предложения](https://wicg.github.io/is-input-pending/)
+* 🇺🇸 [isInputPending — explainer](https://github.com/WICG/is-input-pending)
+* 🇷🇺/🇺🇸 Первый вклад в API браузера от Facebook [перевод](https://habr.com/ru/post/451900/)/[оригинал](https://engineering.fb.com/developer-tools/isinputpending-api/)
+
+### API для работы с экранами
+
+#### Multi-Screen Window Placement API
+
+* 🇺🇸 [Managing several displays with the Multi-Screen Window Placement API](https://web.dev/multi-screen-window-placement/)
 
 #### Fullscreen API
 
@@ -660,38 +723,35 @@
 * 🇺🇸 [Presentation API demos](https://www.w3.org/community/webscreens/presentation-api-demos/)
 * 🇺🇸 [Google Cast for Chrome on Android](https://developers.google.com/web/updates/2015/11/presentation-api?hl=en)
 
-#### Picture-in-Picture API
-
-* 🇺🇸 [Picture-in-Picture](https://www.w3.org/TR/picture-in-picture/)
-* 🇺🇸 [How we built Picture-in-Picture in Firefox Desktop with more control over video](https://hacks.mozilla.org/2020/01/how-we-built-picture-in-picture-in-firefox-desktop/)
-
-#### Multi-Screen Window Placement API
-
-* 🇺🇸 [Managing several displays with the Multi-Screen Window Placement API](https://web.dev/multi-screen-window-placement/)
-
-#### Early detection of input events
-
-* 🇺🇸 [Early detection of input events — черновик предложения](https://wicg.github.io/is-input-pending/)
-* 🇺🇸 [isInputPending — explainer](https://github.com/WICG/is-input-pending)
-* 🇷🇺/🇺🇸 Первый вклад в API браузера от Facebook [перевод](https://habr.com/ru/post/451900/)/[оригинал](https://engineering.fb.com/developer-tools/isinputpending-api/)
-
-#### Web Audio API
-
-* 🇷🇺/🇺🇸 Концепции, лежащие в основе Web Audio API [перевод](https://habr.com/ru/post/495690/)/[оригинал](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
-
 #### Visual Viewport API — определение размера визуально видимой части страницы
 
 * 🇺🇸 [Visual Viewport API — черновик предложения](https://wicg.github.io/visual-viewport/)
 * 🇺🇸 [Visual Viewport API — explainer](https://github.com/WICG/visual-viewport)
 
-#### Web Video Text Tracks Format (WebVTT) — формат субтитров (подписей) для video
+#### WebXR Device API
 
-* 🇺🇸 [Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
+* 🇺🇸 [Virtual & Augmented Reality](https://whatwebcando.today/vr.html)
+* 🇺🇸 [WebXR Device API Explained](https://github.com/immersive-web/webxr/blob/master/explainer.md)
+* 🇺🇸 [WebXR Device API Specification](https://immersive-web.github.io/webxr/)
+* 🇺🇸 [Virtual reality comes to the web](https://web.dev/vr-comes-to-the-web/)
+* 🇺🇸 [Virtual reality comes to the web, part II](https://web.dev/vr-comes-to-the-web-pt-ii/)
+* 🇺🇸 [Positioning virtual objects in real-world views](https://web.dev/ar-hit-test/)
+
+### API для работы со звуком
+
+#### Web Speech API — распознавание и синтезация речи
+
+* 🇺🇸 [Speech Recognition](https://whatwebcando.today/speech-recognition.html)
+
+#### Web Audio API
+
+* 🇷🇺/🇺🇸 Концепции, лежащие в основе Web Audio API [перевод](https://habr.com/ru/post/495690/)/[оригинал](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
 
 ### API для работы с устройствами
 
 #### Gamepad API
 
+* 🇺🇸 [Play the Chrome dino game with your gamepad](https://web.dev/gamepad/)
 🇷🇺/🇺🇸 Серфинг интернета геймпадом (Javascript) [перевод](https://habr.com/ru/post/485562/)/[оригинал](https://www.voorhoede.nl/en/blog/navigating-the-web-with-a-gamepad/)
 * 🇺🇸 [The Gamepad Reloaded](https://medium.com/samsung-internet-dev/the-gamepad-reloaded-5ba866770003)
 
@@ -707,7 +767,9 @@
 
 #### WebHID API
 
+* 🇺🇸 [WebHID API – черновик предложения](https://wicg.github.io/webhid/)
 * 🇺🇸 [Human interface devices on the web: a few quick examples](https://web.dev/hid-examples/)
+* 🇺🇸 [Connecting to uncommon HID devices](https://web.dev/hid/)
 * 🇺🇸 [Upcoming WebHID API - access Bluetooth/USB HID devices in web applications](https://blog.scottlogic.com/2019/04/03/upcoming-webhid-api.html)
 
 #### Serial API
@@ -715,7 +777,14 @@
 * 🇺🇸 [Read and write from a serial port](https://web.dev/serial/)
 * 🇺🇸 [Serial API — черновик предложения](https://wicg.github.io/serial/)
 
-### API для отладки и оптимизации
+### API для разработки, отладки и оптимизации
+
+#### Console API / Command Line API
+
+* 🇷🇺/🇺🇸 Используем console на полную [перевод](https://habr.com/ru/post/114483/)/[оригинал](https://www.thecssninja.com/javascript/console)
+* 🇷🇺/🇺🇸 Руководство по API командной строки [перевод](https://medium.com/@stylesam/api-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4-d5b87608cbf1)/[оригинал](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
+* 🇺🇸 [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
+* 🇺🇸 [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
 
 #### Layout Instability API
 
@@ -735,27 +804,57 @@
 
 * 🇺🇸 [JavaScript Self-Profiling API Proposal](https://github.com/WICG/js-self-profiling)
 
+
+### API для работы с сетью
+
+#### FormData
+
+* 🇺🇸 🔥 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
+
+#### XMLHttpRequest
+
+#### Fetch API
+
+#### WebSocket API (WebSockets)
+
+* 🇺🇸 [WebSockets - A Conceptual Deep Dive](https://www.ably.io/topic/websockets)
+
+#### Beacon API
+
+* 🇺🇸 [Logging Activity With The Web Beacon API](https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/)
+
+#### Raw Sockets API — низкоуровневый прямой доступ к TCP/UDP
+
+* 🇺🇸 [Direct Sockets explainer](https://github.com/WICG/raw-sockets/blob/master/docs/explainer.md)
+
 ### Прочие API
+
+#### requestAnimationFrame
+
+* 🇺🇸 [Browsers may throttle requestAnimationFrame](https://mattperry.is/writing-code/browsers-may-throttle-requestanimationframe-to-30fps)
+
+#### Cooperative Scheduling of Background Tasks
+
+* 🇺🇸 [Cooperative Scheduling of Background Tasks – спецификация](https://w3c.github.io/requestidlecallback/)
+* 🇷🇺/🇺🇸 Как организовать выполнение фоновых задач в JavaScript [перевод](http://prgssr.ru/development/kak-organizovat-vypolnenie-fonovyh-zadach-v-javascript.html)/[оригинал](https://www.sitepoint.com/how-to-schedule-background-tasks-in-javascript/)
 
 #### Streams API
 
 * 🇺🇸 [Streams for reactive programming](https://dassur.ma/things/streams-for-reactive-programming/)
 * 🇺🇸 [Compression Streams Explained](https://github.com/WICG/compression/blob/master/explainer.md)
 
-#### FormData
-
-* 🇺🇸 🔥 [formdata-polyfill](https://www.npmjs.com/package/formdata-polyfill)
-
-
-#### Beacon API
-
-* 🇺🇸 [Logging Activity With The Web Beacon API](https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/)
-
 #### Content Indexing API
 
 * 🇺🇸 [Indexing your offline-capable pages with the Content Indexing API](https://web.dev/content-indexing-api/)
 
-#### Raw Sockets API — низкоуровневый прямой доступ к TCP/UDP
+#### Web Animations API
+
+* 🇺🇸 [Playing With Particles Using the Web Animations API](https://css-tricks.com/playing-with-particles-using-the-web-animations-api/)
+
+#### Web Cryptography API
+
+* 🇺🇸 [Web Cryptography API – спецификация](https://www.w3.org/TR/WebCryptoAPI/)
+* 🇺🇸 [Update on Web Cryptography](https://webkit.org/blog/7790/update-on-web-cryptography/)
 
 ## Совсем прочее
 
@@ -784,6 +883,7 @@
 * 🇷🇺 [JavaScript Web Workers: руководство для начинающих](https://webdevblog.ru/javascript-web-workers-rukovodstvo-dlya-nachinajushhih/)
 * 🇺🇸 [Use web workers to run JavaScript off the browser's main thread](https://web.dev/off-main-thread/)
 * 🇺🇸 [Threading the web with module workers](https://web.dev/module-workers/)
+* 🇺🇸 [Workers overview](https://web.dev/workers-overview/)
 
 ## Canvas
 
@@ -801,8 +901,13 @@
 * 🇷🇺/D [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/)/[defront](https://defront.ru/posts/2019/03-march/12-fast-generalization-of-markers/)
 * 🇺🇸 [WebGL guide](https://xem.github.io/articles/webgl-guide.html)
 
+### WebGL2
+
+* 🇺🇸 [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
+
 ### Библиотеки для WebGL
 
+* 🇺🇸 [Your WebGL aiders](Your WebGL aiders)
 * 🇺🇸 [ogl](https://oframe.github.io/ogl/)
 * 🇺🇸 [Post Processing](https://vanruesc.github.io/postprocessing/)
 * 🇺🇸 [three.js](https://threejs.org/)
@@ -814,6 +919,10 @@
 * 🇷🇺 [Продвинутый Three.js: шейдерные материалы и постобработка](https://habr.com/ru/post/436482/)
 * 🇺🇸 [How to Learn Three.js for Game Development](https://gamedevelopment.tutsplus.com/articles/how-to-learn-threejs-for-game-development--gamedev-11787)
 * 🇷🇺 [Рендер в текстуру с использованием Three.js](https://habr.com/ru/company/plarium/blog/305408/)
+
+### Демо WebGL
+
+* 🇺🇸 [Animated Heat Distortion Effects with WebGL](http://tympanus.net/codrops/2016/05/03/animated-heat-distortion-effects-webgl/)
 
 ## UserAgent и Client Hints
 
@@ -832,11 +941,16 @@
 * 🇺🇸 [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 * 🇺🇸 [Web Components will replace your frontend framework](https://www.dannymoerkerke.com/blog/web-components-will-replace-your-frontend-framework)
 * 🇷🇺 Веб-компоненты в реальном мире [часть 1](https://habr.com/ru/post/443032/), [часть 2](https://habr.com/ru/post/515332/)
+
+### Shadow DOM
+
+#### Declarative Shadow DOM
+
 * 🇺🇸 [Declarative Shadow DOM](https://web.dev/declarative-shadow-dom/)
 
 ## Устройство браузеров
 
-* 🇺🇸 Inside look at modern web browser [part 1](https://developers.google.com/web/updates/2018/09/inside-browser-part1), [part 2](https://developers.google.com/web/updates/2018/09/inside-browser-part2), [part 3](https://developers.google.com/web/updates/2018/09/inside-browser-part3), [part 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
+* 🇷🇺/🇺🇸 Устройство современного веб-браузера Chrome – перевод [часть 1](https://habr.com/ru/post/526696/), [часть 2](https://habr.com/ru/post/529248/), [часть 3](https://habr.com/ru/post/529252/), [часть 4](https://habr.com/ru/post/529258/)/оригинал [часть 1](https://developers.google.com/web/updates/2018/09/inside-browser-part1), [часть 2](https://developers.google.com/web/updates/2018/09/inside-browser-part2), [часть 3](https://developers.google.com/web/updates/2018/09/inside-browser-part3), [часть 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4)
 * 🇺🇸 [JavaScript Engines: An Overview](https://blog.bitsrc.io/javascript-engines-an-overview-2162bffa1187)
 
 ## well-known URL

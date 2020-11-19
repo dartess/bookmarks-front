@@ -42,6 +42,8 @@
 * 🇷🇺 [Lock-файлы npm](https://habr.com/ru/company/domclick/blog/513130/)
 * 🇷🇺 [Как npm обеспечивает безопасность](https://habr.com/ru/company/domclick/blog/515848/)
 * 🇷🇺 Безопасность npm-проектов [часть 1](https://habr.com/ru/company/domclick/blog/516792/), [часть 2](https://habr.com/ru/company/domclick/blog/518502/)
+* 🇺🇸 [Why does package-lock.json exist, and how does it work?](https://lucasfcosta.com/2020/10/17/lockfile-guide.html)
+* 🇺🇸 [NPM Tips and Tricks](https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6)
 
 ### semver
 
@@ -51,6 +53,7 @@
 
 ### Webpack
 
+* 🇷🇺/🇺🇸 Настройка Webpack 5 с нуля [перевод](https://habr.com/ru/post/524260/)/[оригинал](https://www.taniarascia.com/how-to-use-webpack/)
 * 🇺🇸 🔥 [Webpack Manifest Plugin — плагин для генерации файла с информацией о собранных файлах](https://www.npmjs.com/package/webpack-manifest-plugin)
 * 🇺🇸 🔥 [webpack-merge — объединение нескольких конфигов вебпака](https://www.npmjs.com/package/webpack-merge)
 * 🇺🇸 [link rel="prefetch/preload" in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
@@ -59,6 +62,7 @@
 * 🇺🇸 [Poi — bundler built on the top of webpack, trying to make developing and bundling apps with webpack as easy as possible](https://poi.js.org/)
 * 🇺🇸 [Hash vs chunkhash vs ContentHash](https://medium.com/@sahilkkrazy/hash-vs-chunkhash-vs-contenthash-e94d38a32208)
 * 🇺🇸 [webpack-demos](https://github.com/ruanyf/webpack-demos)
+* 🇺🇸 [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 
 ### Rollup
 
@@ -75,6 +79,10 @@
 * 🇺🇸 [Rome — an experimental JavaScript toolchain](https://romejs.dev/)
 * 🇺🇸 [Rome, a new JavaScript Toolchain](https://jasonformat.com/rome-javascript-toolchain/)
 * 🇷🇺 [Знакомство с Rome от создателей Babel — компилятор, сборщик, линтер, тесты в одном флаконе](https://habr.com/ru/post/515914/)
+
+### esbuild
+
+* 🇺🇸 [esbuild](https://esbuild.github.io/)
 
 ## Babel
 
@@ -169,3 +177,7 @@
 ## Deno (Node.js альтернатива)
 
 * 🇺🇸 [Everything You Need to Know to Get Started with Deno](https://www.telerik.com/blogs/how-to-get-started-with-deno)
+
+## Elsa (Node.js альтернатива)
+
+* 🇺🇸 [Elsa](https://github.com/elsaland/elsa)

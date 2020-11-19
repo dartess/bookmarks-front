@@ -28,9 +28,15 @@
 
 * 🇷🇺 [Крутой шаринг страниц в соцсети с помощью Open Graph](https://habr.com/ru/post/278459/)
 
+### oembed
+
+* 🇷🇺 [Выдергивание информации из URL, в стиле Slack и Twitter](https://habr.com/ru/post/269055/)
+
 ## Сети
 
 * 🇺🇸 [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+* 🇷🇺 [Сети для начинающего IT-специалиста. Обязательная база](https://habr.com/ru/post/491540/)
+* 🇺🇸 [What every developer should know about TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
 
 ### CORS
 
@@ -39,13 +45,30 @@
 * 🇷🇺 [Руководство по кросс-доменным запросам (CORS)](https://grishaev.me/cors/)
 * 🇺🇸 [✋🏼🔥 CS Visualized: CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 
-### Кэширование
+### Кэширование (cache)
 
 * 🇺🇸 [HTTP Caching](https://frontendian.co/http-caching)
 * 🇺🇸 [Short basics of caching](https://iamakulov.com/notes/caching/)
 * 🇺🇸 [HTTP Heuristic Caching (Missing Cache-Control and Expires Headers) Explained](https://paulcalvano.com/index.php/2018/03/14/http-heuristic-caching-missing-cache-control-and-expires-headers-explained/)
 * 🇷🇺 [Кеширование одной строкой](https://t.me/iamakulov_channel/505)
 * 🇷🇺/🇺🇸 Веб-кэширование на примере покупки молока в магазине [перевод](https://habr.com/ru/company/alconost/blog/416255/)/[оригинал](https://dev.to/kbk0125/web-caching-explained-by-buying-milk-at-the-supermarket-9k4)
+* 🇷🇺/🇺🇸 Лучшие практики кэширования [перевод](http://prgssr.ru/development/luchshie-praktiki-keshirovaniya.html)/[оригинал](https://jakearchibald.com/2016/caching-best-practices/)
+* 🇺🇸 [Back/forward cache](https://web.dev/bfcache/)
+* 🇺🇸 [Love your cache ❤️](https://web.dev/love-your-cache/)
+
+## Сетевое взаимодействие
+
+* 🇷🇺 🔥 [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/company/yandex/blog/442762/)
+
+### REST
+
+* 🇷🇺/🇺🇸 Противостояние SOAP и REST [перевод](https://medium.com/@slonoed/%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-soap-%D0%B8-rest-1cc092e39fee)/[оригинал](http://thehistoryoftheweb.com/soap-rest-odds/)
+
+### GraphQL
+
+* 🇺🇸 [How to GraphQL – The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+* 🇺🇸 [Public GraphQL APIs](https://github.com/APIs-guru/graphql-apis)
+* 🇺🇸 [How we learned to stop worrying and love GraphQL](https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9)
 
 ## Дизайн
 
@@ -54,9 +77,10 @@
 * 🇷🇺 [Как проектировать для людей с цветовой слепотой](https://habr.com/ru/post/275001/)
 * 🇷🇺/🇺🇸 10 советов по дизайну интерфейса [перевод](https://habr.com/ru/post/417959/)/[оригинал](https://www.onepixelout.com/design-academy/10-tips-to-designing-forms/)
 * 🇺🇸 [Smart Interface Design Patterns Checklists (нужно подписаться на рассылку для доступа)](https://www.smashingmagazine.com/2020/03/smart-interface-design-patterns-checklists/)
-* 🇺🇸 [The Art of UI Skeletons](http://farmdev.com/)
 * 🇺🇸 [Design System Checklist](https://designsystemchecklist.com/)
 * 🇷🇺 [Дизайн текста: матчасть](https://design.glvrd.ru/learn.html)
+* 🇺🇸 Create your design system [part 1: Typography](https://medium.com/codyhouse/create-your-design-system-part-1-typography-7c630d9092bd), [part 2: Grid & Layout](https://medium.com/codyhouse/create-your-design-system-part-2-grid-layout-aa961d59b8d6), [part 3: Colors](https://medium.com/codyhouse/create-your-design-system-part-3-colors-798e4729921f), [part 4: Spacing](https://medium.com/codyhouse/create-your-design-system-part-4-spacing-895c9213e2b9), [part 5: Icons](https://medium.com/codyhouse/create-your-design-system-part-5-icons-594f39cfb1b), [part 6: Buttons](https://medium.com/codyhouse/create-your-design-system-part-6-buttons-58e2eda2173e)
+* 🇺🇸 [Image and Video sizes for Social Media.](https://socialsizes.io/)
 
 ### UX
 
@@ -71,11 +95,21 @@
 * 🇺🇸 [Reactive Web Design: The secret to building web apps that feel amazing](https://medium.com/@owencm/reactive-web-design-the-secret-to-building-web-apps-that-feel-amazing-b5cbfe9b7c50)
 * 🇷🇺 [Как писать интерфейсные надписи](http://igorshevchenko.ru/blog/entries/interface-copy)
 * 🇺🇸 [Enhancing User Experience With CSS Animations](https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/)
+* 🇷🇺/🇺🇸 Отзывчивый веб-дизайн и учёт высоты окна браузера [перевод](https://habr.com/ru/company/ruvds/blog/525410/)/[оригинал](https://ishadeed.com/article/responsive-design-height/)
+
+#### Тексты
+
+* 🇷🇺/🇺🇸 Невозможная типографика [перевод](http://prgssr.ru/development/nevozmozhnaya-tipografika.html)/[оригинал](https://medium.engineering/typography-is-impossible-5872b0c7f891#.rl3wnatka)
 
 #### Таблицы
 
 * 🇺🇸 [Table Design Patterns On The Web](https://www.smashingmagazine.com/2019/01/table-design-patterns-web/)
 * 🇺🇸 [Designing better tables for enterprise applications](https://uxdesign.cc/designing-better-tables-for-enterprise-applications-f9ef545e9fbd)
+
+#### Формы
+
+* 🇺🇸 [Sign-up form best practices](https://web.dev/sign-up-form-best-practices/)
+* 🇺🇸 [Payment and address form best practices](https://web.dev/payment-and-address-form-best-practices/)
 
 ### Инструменты
 
@@ -85,9 +119,18 @@
 * 🇷🇺 [Как создавать Pixel Perfect изображения в Adobe Illustrator](https://habr.com/ru/post/259723/)
 * 🇷🇺 [Чем Figma лучше Photoshop для разработки веб-интерфейсов](https://habr.com/ru/company/skillbox/blog/359258/)
 
+### Ресурсы
+
+* 🇺🇸 [Remix Icon - Open source icon library](https://remixicon.com/)
+
 ### Тёмная тема
 
 * 🇺🇸 [Designing a Dark Theme for OLED iPhones](https://medium.com/lookup-design/designing-a-dark-theme-for-oled-iphones-e13cdfea7ffe)
+
+### Skeletons
+
+* 🇺🇸 [The Art of UI Skeletons](http://farmdev.com/thoughts/108/the-art-of-ui-skeletons/)
+* 🇺🇸 [Effective Skeleton Screens](https://timkadlec.com/remembers/2020-11-02-skeleton-screens/)
 
 ## Тестирование
 
@@ -101,6 +144,11 @@
 * 🇺🇸 [Что такое TDD и BDD на пальцах, и что должен знать о них фронтендер](https://medium.com/@lucyhackwrench/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-tdd-%D0%B8-bdd-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D1%85-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-%D0%BD%D0%B8%D1%85-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-701a10e06bb9)
 * 🇺🇸 [Measuring Code Quality with Test Coverage Metrics](https://reqtest.com/testing-blog/test-coverage-metrics/)
 * 🇷🇺 [Эффективное тестирование верстки](https://habr.com/ru/company/oleg-bunin/blog/499638/)
+* 🇺🇸 [Testing like a Pro in JavaScript](https://vueschool.io/articles/series/testing-like-a-pro-in-javascript/)
+
+### Тестирование со стороны тестировщика
+
+* 🇷🇺 [Кодекс тестировщика](https://blog.csssr.com/ru/article/qa-codex/)
 
 ### Тестирование React
 
@@ -113,9 +161,10 @@
 * 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
 * 🇺🇸 [Modern React testing](https://dev.to/sapegin/modern-react-testing-part-1-best-practices-1o93)
 
-### Визуальное тестирование
+### Визуальное тестирование (тестирование вёрстки)
 
 * 🇷🇺 [Разработка визуальных тестов на базе Gemini и Storybook](https://habr.com/ru/post/454464/)
+* 🇷🇺 [Как и зачем тестировать верстку](https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D1%83-84a378bf7bb4)
 
 ### Puppeteer
 
@@ -133,6 +182,10 @@
 * 🇺🇸 [Building Secure JavaScript Applications](https://nemethgergely.com/building-secure-javascript-applications/)
 * 🇺🇸 [Web Security 101: An Interactive Cross-Site Request Forgery (CSRF) Demo](https://victorzhou.com/blog/csrf/)
 * 🇷🇺/🇺🇸 Как обеспечить безопасность REST API [перевод](https://webdevblog.ru/kak-obespechit-bezopasnost-rest-api/)/[оригинал](https://www.netsparker.com/blog/web-security/rest-api-web-service-security/)
+* 🇺🇸 [Why you need "cross-origin isolated" for powerful features](https://web.dev/why-coop-coep/)
+* 🇺🇸 [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
+* 🇺🇸 [Kontra OWASP Top 10](https://application.security/free-application-security-training)
+* 🇺🇸 [CORS, XSS and CSRF with examples in 10 minutes](https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3)
 
 ## Оптимизация
 
@@ -149,6 +202,10 @@
 * 🇺🇸 [Adaptive loading: improving web performance on slow devices](https://web.dev/adaptive-loading-cds-2019/)
 * 🇺🇸 [Browser Back/Forward Caches and their Benefit to Web Performance](https://paulcalvano.com/2020-08-03-browser-backforward-caches-and-their-benefit-to-web-performance/)
 * 🇺🇸 [Web Performance: Minimising DOM Reflow / Layout Shift](https://medium.com/better-programming/web-performance-dom-reflow-76ac7c4d2d4f)
+* 🇺🇸 [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/)
+* 🇺🇸 [Reducing the Site-Speed Impact of Third-Party Tags](https://andydavies.me/blog/2020/10/02/reducing-the-site-speed-impact-of-third-party-tags/)
+* 🇺🇸 [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/)
+* 🇺🇸 [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
 
 ### Презагрузка ресурсов
 
@@ -167,14 +224,23 @@
 * 🇺🇸 [Comparing file sizes of lossless WebP vs FLIF vs PNG](https://www.ctrl.blog/entry/webp-flif-comparison.html)
 * 🇺🇸 [How to Use AVIF: The New Next-Gen Image Compression Format](https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/)
 * 🇺🇸 [AVIF has landed](https://jakearchibald.com/2020/avif-has-landed/)
+* 🇺🇸 [Squoosh CLI](https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli)
+* 🇺🇸 [plaiceholder](https://github.com/joe-bell/plaiceholder)
 
 Также смотри: Онлайн-инструменты -> Конвертеры и оптимизаторы
+
+### Оптимизация под медленные соединения
+
+* 🇺🇸 [Creating websites with prefers-reduced-data](https://polypane.app/blog/creating-websites-with-prefers-reduced-data/)
+
+Также см. BROWSERDEVICES -> API -> Network Information API
 
 ### Оптимизация шрифтов
 
 * 🇷🇺 [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/useful/css/better-webfont-loading-with-localstorage-and-woff2)
 * 🇺🇸 [subfont](https://www.npmjs.com/package/subfont)
 * 🇷🇺/🇺🇸 Оптимизация шрифтов [перевод](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)/[оригинал](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
+* 🇺🇸 [A font-display setting for slow connections](https://calendar.perfplanet.com/2020/a-font-display-setting-for-slow-connections/)
 
 ### Оптимизация CSS
 
@@ -197,12 +263,15 @@
 * 🇷🇺/🇺🇸 Анализ и оптимизация React-приложений [перевод](https://habr.com/ru/company/ruvds/blog/442650/)/[оригинал](https://houssein.me/progressive-react)
 * 🇺🇸 [Profile a React App for Performance](https://kentcdodds.com/blog/profile-a-react-app-for-performance)
 * 🇺🇸 [React Performance – A Definitive Guide to React js Performance Optimization](https://www.simform.com/react-performance/)
-* 🇺🇸 [Profiling React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
 * 🇺🇸 [What to do when your React app feels slow](https://itnext.io/what-to-do-when-your-react-app-feels-slow-3744c966ddf)
+* 🇷🇺/🇺🇸 Анализ производительности React 16 приложений с помощью инструментов разработчика Chrome [перевод](https://habr.com/ru/company/ruvds/blog/343888/)/[оригинал](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
 
 ### Разбор практических кейсов
 
 * 🇷🇺/🇺🇸 Ускорение instagram.com, перевод [часть 1](https://habr.com/ru/company/ruvds/blog/468227/), [часть 2](https://habr.com/ru/company/ruvds/blog/468413/), [часть 3](https://habr.com/ru/company/ruvds/blog/472336/)/[оригинал](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
+* 🇺🇸 [Why is the Google Cloud UI so slow?](https://www.debugbear.com/blog/slow-google-cloud-ui)
+* 🇺🇸 [A Tokopedia Mobile Web Performance Case Study](https://medium.com/tokopedia-engineering/a-tokopedia-mobile-web-performance-case-study-48ee5c6e4d5c)
+* 🇺🇸 [How focusing on web performance improved Tokopedia's click-through rate by 35%](https://web.dev/tokopedia/)
 
 ### Метрики производительности
 
@@ -217,7 +286,8 @@
 * 🇺🇸 [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
 * 🇺🇸 [Optimize Cumulative Layout Shift](https://web.dev/optimize-cls/)
 * 🇺🇸 [Infinite Scroll without Layout Shifts](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)
-* 🇺🇸 [Preload late-discovered Hero images faster](https://addyosmani.com/blog/preload-hero-images/в)
+* 🇺🇸 [Preload late-discovered Hero images faster](https://addyosmani.com/blog/preload-hero-images/)
+* 🇺🇸 [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice/)
 
 #### Total Blocking Time (TBT)
 
@@ -248,6 +318,7 @@
 * 🇺🇸 [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/ )
 * 🇺🇸 [CSS Sprite Generator](https://instantsprite.com/)
 * 🇺🇸 [FontDrop! — просмотр информации о шрифте](https://fontdrop.info/)
+* 🇺🇸 [JSON Generator](https://next.json-generator.com/)
 
 ### Конструкторы
 
@@ -268,11 +339,13 @@
 
 ## WebAssembly (wasm)
 
+* 🇷🇺/🇺🇸 Начало работы с WebAssembly, используя только 14 строк на JavaScript [перевод](https://medium.com/devschacht/daniel-simmons-get-started-with-webassembly-using-only-14-lines-of-javascript-89960df71498)/[оригинал](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/)
 * 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
 * 🇺🇸 [WebAssembly Studio](https://webassembly.studio/)
 * 🇷🇺/🇺🇸 Как мы при помощи WebAssembly в 20 раз веб-приложение ускорили [перевод](https://habr.com/ru/company/skillbox/blog/452190/)/[оригинал](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
 * 🇺🇸 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/)
 * 🇺🇸 [Hands-on WebAssembly: Try the basics](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+* 🇺🇸 [Get Started Using WebAssembly (wasm)](https://egghead.io/courses/get-started-using-webassembly-wasm)
 
 ### AssemblyScript (компиляция из TypeScript-like подобного языка)
 
@@ -284,18 +357,16 @@
 
 * 🇺🇸 [Emscripten — toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins.](https://emscripten.org/)
 
-## GraphQL
-
-* 🇺🇸 [Public GraphQL APIs](https://github.com/APIs-guru/graphql-apis)
-* 🇺🇸 [How we learned to stop worrying and love GraphQL](https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9)
-
 ## История
 
+* 🇷🇺/🇺🇸 JavaScript с нами уже 25 лет [перевод](https://www.jetbrains.com/ru-ru/lp/javascript-25/)/[оригинал](https://www.jetbrains.com/lp/javascript-25/)
 * 🇷🇺/🇺🇸 Браузерный войны, часть 1: когда Netscape встретил Microsoft, перевод [часть 1](https://medium.com/@slonoed/351dcf170e59), [часть 2](https://medium.com/@slonoed/92168ce17ae5)/[оригинал](http://thehistoryoftheweb.com/browser-wars/)
 * 🇷🇺 [SGVsbG8gd29ybGQh или история base64](https://habr.com/ru/post/88077/)
-* 🇺🇸 [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
+* 🇷🇺/🇺🇸 Краткая история JavaScript: перевод [часть 1](https://habr.com/ru/company/livetyping/blog/324196/), [часть 2](https://habr.com/ru/company/livetyping/blog/324506/), [часть 3](https://habr.com/ru/company/livetyping/blog/324908/)/[оригинал](https://auth0.com/blog/a-brief-history-of-javascript/)
 * 🇺🇸 [ECMAScript 4: The missing version](https://evertpot.com/ecmascript-4-the-missing-version/)
 * 🇷🇺/🇺🇸 История URL'а: часть 1: домен, протокол и порт [перевод](https://habr.com/ru/post/305484/)/[оригинал](https://eager.io/blog/the-history-of-the-url-domain-and-protocol/), часть 2: путь, фрагмент, запрос и авторизация [перевод](https://habr.com/ru/post/305654/)/[оригинал](https://eager.io/blog/the-history-of-the-url-path-fragment-query-auth/)
+* 🇷🇺/🇺🇸 Движок, который смог: как Chromium удалось захватить 90% рынка браузеров [перевод](https://habr.com/ru/company/vdsina/blog/518416/)/[оригинал](https://thehistoryoftheweb.com/how-a-browser-engine-dominates-the-market/)
+* 🇷🇺/🇺🇸 Языки, которые почти стали CSS [перевод](https://habr.com/ru/company/qiwi/blog/528942/)/[оригинал](https://eager.io/blog/the-languages-which-almost-were-css/)
 
 ## Демо
 
@@ -319,13 +390,17 @@
 * 🇺🇸 [Pure CSS Font](https://github.com/cyanharlow/PureCSS-Font)
 * 🇺🇸 [Pure CSS Game — игра без единой строчки HTML/JS (будет работать до Chrome 75)](http://selenit.freeoda.com/experiments/nohtml/1/)
 
-## Стандарты около web-технологий
+## Стандарты (и около) около web-технологий
 
 ### base64
 
 * 🇺🇸 [Base64 Encoding: A Visual Explanation](https://www.lucidchart.com/techblog/2017/10/23/base64-encoding-a-visual-explanation/)
 
-## Рабочее окружение и инструменты
+### JSX
+
+* 🇺🇸 [An Overview of JSX With 3 Non-React Examples](http://thecodebarbarian.com/overview-of-jsx-with-non-react-examples.html)
+
+## Инструменты для работы
 
 ### Git
 
@@ -334,6 +409,7 @@
 * 🇷🇺 [Глоссарий терминов для Git и GitHub](https://htmlacademy.ru/blog/boost/tools/git-and-github-glossary)
 * 🇷🇺 [Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://habr.com/ru/company/yandex/blog/431432/)
 * 🇺🇸 [Better Git configuration](https://blog.scottnonnenberg.com/better-git-configuration/)
+* 🇺🇸 [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 
 #### Git GUI
 
@@ -342,10 +418,12 @@
 ### Редакторы кода и IDE
 
 * 🇺🇸 🔥 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
+* 🇺🇸 [Coding Fonts](https://coding-fonts.css-tricks.com/)
 
-#### vi
+#### vi/vim/etc
 
 * 🇷🇺/🇺🇸 Почему, ну почему, эти #?@! придурки используют vi? [перевод](https://habr.com/ru/post/307084/)/[оригинал](http://www.viemu.com/a-why-vi-vim.html)
+* 🇷🇺 [Зачем vi-топор программисту 21-го века](https://habr.com/ru/post/247487/)
 * 🇷🇺/🇺🇸 Коаны Vim [перевод](https://habr.com/ru/post/176187/)/[оригинал](https://sanctum.geek.nz/arabesque/vim-koans/)
 
 ### Bash, терминал, консоль
@@ -353,15 +431,27 @@
 * 🇺🇸 [bash-guide — A guide to learn bash](https://github.com/Idnan/bash-guide)
 * 🇷🇺 [Как сделать красивую консоль в Mac и Linux](https://htmlacademy.ru/blog/useful/programming/how-to-make-a-beautiful-console-for-mac-and-linux)
 
+### macOS
+
+* 🇺🇸 [How to Run GUI Apps as root in Mac OS X](https://osxdaily.com/2013/02/06/how-to-run-gui-apps-as-root-in-mac-os-x/)
+
 ### Деплой
 
 * 🇺🇸 [Deploy React.js app on Firebase](https://medium.com/@julienrioux/deploy-react-js-app-on-firebase-c7fa6ddc153f)
 
-## Профессиональное развитие
+### Прочее
+
+* 🇺🇸 [ngrok – создание публичных урлов для локальных ресурсов](https://ngrok.com/)
+
+## Личное развитие, огранизация работы, софтскиллы
 
 * 🇺🇸 [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/)
+* 🇷🇺 [Стимуляторы работы программиста. Обстановка](https://blog.csssr.com/ru/article/work-better/)
+* 🇷🇺 [Стимуляторы работы программиста. Мотивация](https://blog.csssr.com/ru/article/work-harder/)
+* 🇷🇺 [Стимуляторы работы программиста. Здоровье](https://blog.csssr.com/ru/article/work-stronger/)
+* 🇷🇺 [Есть ли жизнь на удалёнке или как перестать верить в единорогов](https://blog.csssr.com/ru/article/unicorn-busters/)
 
-### Архитектура и разработка
+#### Архитектура и разработка
 
 * 🇺🇸 [Пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
@@ -372,11 +462,22 @@
 * 🇺🇸 [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)
 * 🇺🇸 [Psychology of Code Readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
 
-### Код ревью
+#### Код ревью
 
 * 🇷🇺/🇺🇸 Code review по-человечески, перевод [часть 1](https://habr.com/ru/post/340550/), [часть 2](https://habr.com/ru/post/342244/)/оригинал [часть 1](https://mtlynch.io/human-code-reviews-1/), [часть 2](https://mtlynch.io/human-code-reviews-2/)
 * 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
 * 🇺🇸 [On Code Reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
+* 🇷🇺 [Как потерять друзей и заставить всех себя ненавидеть, делая код-ревью](https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8-%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D1%81%D0%B5%D1%85-%D1%81%D0%B5%D0%B1%D1%8F-%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D0%BE%D0%B4-%D1%80%D0%B5%D0%B2%D1%8C%D1%8E-11fec8e17000)
+
+#### Собеседования
+
+* 🇷🇺 [Ask About Company](https://askabout.company/)
+
+## Другие материалы
+
+### Другие списки:
+
+* 🇺🇸 [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ### Что читать/смотреть
 
@@ -395,16 +496,9 @@
 * 🇷🇺 📺 [FrontendConf](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A/videos)
 * 🇺🇸 [web.dev](https://web.dev/)
 * 🇷🇺 [CSS-LIVE — жизнь во фронтенде](https://css-live.ru/)
+* 🇺🇸 [Web Fundamentals – Google's opinionated reference for building amazing web experiences.](https://developers.google.com/web/fundamentals)
 
-### Собеседования
-
-* 🇷🇺 [Ask About Company](https://askabout.company/)
-
-#### Другие списки:
-
-* 🇺🇸 [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-
-#### Эпики:
+### Эпики:
 
 * 🇷🇺/🇺🇸 [frontend case studies](https://github.com/andrew--r/frontend-case-studies)
 * 🇷🇺 [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/)
@@ -413,6 +507,36 @@
 * 🇷🇺 [Сборник рекомендаций от CSSSR](https://github.com/CSSSR/sputnik)
 * 🇷🇺 [Вёрстка — это не тупо. Пособие для тех, кому надо верстать.](http://webmasters.teamdev.com/)
 * 🇷🇺 [Советы для разработчика интерфейсов](https://github.com/forwebdev/ui-developer-tips)
+
+## Webmention
+
+* 🇺🇸 [Webmention – спецификация](https://www.w3.org/TR/webmention/)
+* 🇺🇸 [Webmentions: Enabling Better Communication on the Internet](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/)
+
+## Поиск
+
+* 🇷🇺 [На что обратить внимание, когда делаешь поиск](http://mikeozornin.ru/blog/all/search-ui-tricks/)
+* 🇺🇸 [What every software engineer should know about search](https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d)
+
+## Локализация, интернационализация, перевод
+
+* 🇺🇸 [Localisation and Translation on the Web](https://bitsofco.de/localisation-and-translation/)
+
+### Вёрстка текстов с направлением письма справа налево
+
+* 🇺🇸 [RTL Styling 101](https://www.rtlstyling.com/)
+* 🇷🇺 [Справа налево. Что такое dir=rtl и как приручить арабский язык](https://habr.com/ru/company/2gis/blog/358148/)
+* 🇷🇺 [Правосторонний интерфейс: адаптируем контролы к right-to-left языкам](https://habr.com/ru/company/badoo/blog/511926/)
+
+Также см. JavaScript -> Intl
+
+## Serverless-приложения
+
+* 🇺🇸 [The Power of Serverless for Front-End Developers](https://serverless.css-tricks.com/)
+
+## Разработка приложений
+
+* 🇷🇺 [На чём писать мобильные кроссплатформенные приложения](https://livetyping.com/ru/blog/na-chem-pisat-krossplatformennye-prilozhenija)
 
 ## Прочее
 
@@ -442,13 +566,15 @@
 * 🇷🇺/🇺🇸 [Learn X in Y minutes](https://learnxinyminutes.com/)
 * 🇺🇸 [FE webdev on iPad (2019)](https://medium.com/@pixelthing/fe-webdev-on-ipad-2019-d2a63e2d2177)
 * 🇷🇺/🇺🇸 Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, перевод [часть 1](https://habr.com/ru/post/158639/), [часть 2](https://habr.com/ru/post/158895/)/[оригинал](https://kunststube.net/encoding/)
-* 🇷🇺 [На что обратить внимание, когда делаешь поиск](http://mikeozornin.ru/blog/all/search-ui-tricks/)
 * 🇺🇸 [Generating Images in JavaScript Without Using the Canvas API](https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad)
 * 🇺🇸 [MockIt: A tool to quickly create mocked APIs](https://github.com/boyney123/mockit)
 * 🇺🇸 [Globalize — A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data](https://github.com/globalizejs/globalize)
 * 🇺🇸 [Generating UUIDs at scale on the Web](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
 * 🇺🇸 [Conventions for Command Line Options](https://nullprogram.com/blog/2020/08/01/)
 * 🇺🇸 [How To Control Music With A PS4 DualShock and JavaScript](https://itnext.io/how-to-control-music-with-a-ps4-dualshock-and-javascript-54237206c104)
-* 🇷🇺/🇺🇸 Противостояние SOAP и REST [перевод](https://medium.com/@slonoed/%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-soap-%D0%B8-rest-1cc092e39fee)/[оригинал](http://thehistoryoftheweb.com/soap-rest-odds/)
 * 🇺🇸 [Improving page dismissal in synchronous XMLHttpRequest()](https://web.dev/disallow-synchronous-xhr/)
 * 🇺🇸 [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
+* 🇺🇸 [Scroll to text fragment: How to link & highlight any text on a web page](https://mgearon.com/html/text-fragments/)
+* 🇺🇸 [Nano ID – A tiny, secure, URL-friendly, unique string ID generator for JavaScript.](https://github.com/ai/nanoid)
+* 🇺🇸 [Pika](https://www.pika.dev/)
+* 🇺🇸 [Robust Client-Side JavaScript](https://molily.de/robust-javascript/)
