@@ -420,6 +420,10 @@
 * 🇺🇸 🔥 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 * 🇺🇸 [Coding Fonts](https://coding-fonts.css-tricks.com/)
 
+### Базы данных
+
+* 🇺🇸 [DBeaver Community - Free Universal Database Tool](https://dbeaver.io/)
+
 #### vi/vim/etc
 
 * 🇷🇺/🇺🇸 Почему, ну почему, эти #?@! придурки используют vi? [перевод](https://habr.com/ru/post/307084/)/[оригинал](http://www.viemu.com/a-why-vi-vim.html)
