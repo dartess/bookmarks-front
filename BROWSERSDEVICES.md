@@ -819,6 +819,10 @@
 
 * 🇺🇸 [WebSockets - A Conceptual Deep Dive](https://www.ably.io/topic/websockets)
 
+#### Server-sent events
+
+* 🇷🇺 [Server Sent Events – learn.javascript.ru](https://learn.javascript.ru/server-sent-events)
+
 #### Beacon API
 
 * 🇺🇸 [Logging Activity With The Web Beacon API](https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/)
