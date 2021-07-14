@@ -1,4 +1,4 @@
-# Прочее
+# Прочее (рядом с веб-разработкой)
 
 <!--
 * 🇺🇸 []()
@@ -362,3 +362,9 @@
 ## Serverless-приложения
 
 * 🇺🇸 [The Power of Serverless for Front-End Developers](https://serverless.css-tricks.com/)
+
+
+## Vue.JS
+
+* 🇺🇸 [What You Need to Know About Vue3 in 2020](https://medium.com/swlh/what-you-need-to-know-about-vue3-in-2020-b36a2feb5dad)
+* 🇷🇺 🔥 [Vue JS - Быстрый курс за 50 минут (Все Включено!)](https://www.youtube.com/watch?v=OlnwgS-gk8Y)

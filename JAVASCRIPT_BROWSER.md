@@ -1,4 +1,4 @@
-# Браузеры, API, PWA
+# Браузеры, API, PWA, WebAssembly, Web Components
 
 <!--
 * 🇺🇸 []()
@@ -932,7 +932,7 @@
 Также см. React -> Библиотеки -> PDF
 
 
-## WebAssembly (wasm)
+## WebAssembly (WASM)
 
 * 🇷🇺/🇺🇸 Начало работы с WebAssembly, используя только 14 строк на JavaScript [перевод](https://medium.com/devschacht/daniel-simmons-get-started-with-webassembly-using-only-14-lines-of-javascript-89960df71498)/[оригинал](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/)
 * 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)

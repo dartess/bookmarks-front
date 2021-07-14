@@ -1,4 +1,4 @@
-## React
+# React
 
 <!--
 * 🇺🇸 []()
@@ -19,7 +19,7 @@
 * 🇷🇺/🇺🇸 Как работает Virtual DOM? [перевод](https://medium.com/@abraztsov/how-virtual-dom-work-567128ed77e9)/[оригинал](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
 * 🇺🇸 [A better React 18 startTransition demo](https://swizec.com/blog/a-better-react-18-starttransition-demo/)
 
-### Хуки
+## Хуки
 
 * 🇷🇺 [Функциональные компоненты с React Hooks. Чем они лучше?](https://habr.com/ru/post/443488/)
 * 🇺🇸 [react-use — библиотека хуков](https://github.com/streamich/react-use)
@@ -31,18 +31,18 @@
 * 🇺🇸 [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 * 🇺🇸 🤔 [5 ways that will change how you write React hooks](https://dev.to/adamklein/5-ways-that-will-change-how-you-write-react-hooks-1h71)
 
-### Библиотеки
+## Библиотеки
 
 * 🇺🇸 [downshift — выпадающий список (select)](https://github.com/downshift-js/downshift)
 * 🇺🇸 [react-yandex-maps — Yandex Maps API bindings for React](https://github.com/gribnoysup/react-yandex-maps)
 * 🇺🇸 [react-tooltip](https://wwayne.github.io/react-tooltip/)
 
-#### Роутинг
+### Роутинг
 
 * 🇺🇸 [wouter](https://github.com/molefrog/wouter)
 * 🇺🇸 [react-router](https://reactrouter.com/)
 
-#### Формы и элементы ввода
+### Формы и элементы ввода
 
 * 🇺🇸 🔥 [react-dropzone](https://react-dropzone.netlify.com/)
 * 🇺🇸 🔥 [React Final Form](https://final-form.org/react)
@@ -50,17 +50,17 @@
 * 🇺🇸 🔥 [React Text Mask](https://github.com/text-mask/text-mask/tree/master/react/#readme)
 * 🇺🇸 [Formik — build forms in React, without the tears](https://jaredpalmer.com/formik)
 
-##### Календари
+#### Календари
 
 * 🇺🇸 [Duet Date Picker – на веб-компонентах](https://github.com/duetds/date-picker#usage-with-react)
 
-#### Слайдеры (карусели)
+### Слайдеры (карусели)
 
 * 🇺🇸 [nuka-carousel — Pure ReactJS Carousel Component](https://github.com/FormidableLabs/nuka-carousel)
 * 🇺🇸 [ReactSiema](https://www.npmjs.com/package/react-siema)
 * 🇺🇸 [Embla Carousel](https://davidcetinkaya.github.io/embla-carousel/)
 
-#### Анимация
+### Анимация
 
 * 🇺🇸 [react-motion](https://github.com/chenglou/react-motion)
 * 🇺🇸 [react-spring](https://www.react-spring.io/docs/hooks/basics)
@@ -71,13 +71,13 @@
 * 🇺🇸 [Framer Motion](https://www.framer.com/motion/)
 * 🇺🇸 [Another React animation library? Here’s why you should use Framer Motion](https://blog.logrocket.com/another-react-animation-library-heres-why-you-should-use-framer-motion/)
 
-#### Markdown
+### Markdown
 
 * 🇺🇸 [react-showdown](https://github.com/jerolimov/react-showdown)
 * 🇺🇸 [blocks](https://mdx-blocks.com/)
 * 🇺🇸 [An Introduction to MDXJS](https://css-tricks.com/an-introduction-to-mdxjs/)
 
-#### Графики
+### Графики
 
 * 🇺🇸 [victory](https://formidable.com/open-source/victory/)
 * 🇺🇸 🔥 [Recharts](http://recharts.org/en-US/)
@@ -85,18 +85,18 @@
 * 🇷🇺/🇺🇸 Visx — коллекция графических примитивов для React-приложений, созданная в Airbnb [перевод](https://habr.com/ru/company/ruvds/blog/521068/)/[оригинал](https://medium.com/airbnb-engineering/introducing-visx-from-airbnb-fd6155ac4658)
 * 🇺🇸 [visx](https://airbnb.io/visx)
 
-#### Интернационализация
+### Интернационализация
 
 * 🇺🇸 [react-i18next](https://react.i18next.com/)
 * 🇺🇸 [localize-react — Lightweight React Localization Library](https://github.com/yankouskia/localize-react)
 
-#### PDF
+### PDF
 
 * 🇺🇸 [React-PDF](https://github.com/wojtekmaj/react-pdf)
 
-### Стейт-менеджеры (СТМ)
+## Стейт-менеджеры (СТМ)
 
-#### Redux
+### Redux
 
 * 🇷🇺 [Редакс в реальной жизни](https://iamakulov.com/talks/redux-in-real-life/)
 * 🇷🇺 [Redux для начинающих (2-е издание)](https://yadi.sk/d/E31I1kD7_onkwg/Redux-v2.0.0)
@@ -108,17 +108,17 @@
 * 🇷🇺 🔥 [Redux Toolkit как средство эффективной Redux-разработки](https://habr.com/ru/company/inobitec/blog/481288/)
 * 🇷🇺/🇺🇸 Разбираемся в redux-saga: От генераторов действий к сагам [перевод](https://habr.com/ru/post/351168/)/[оригинал](https://blog.logrocket.com/understanding-redux-saga-from-action-creators-to-sagas-2587298b5e71/)
 
-#### Effector
+### Effector
 
 * 🇺🇸 [Effector](https://effector.now.sh/)
 * 🇷🇺 📺 [Проблемы стейт-менеджмента и их решение с Effector.js](https://www.youtube.com/watch?v=48XSmEIqbkI)
 * 🇷🇺 [Использование Effector в стеке React + TypeScript](https://habr.com/ru/company/domclick/blog/532016/)
 
-#### Jōtai
+### Jōtai
 
 * 🇺🇸 [Jōtai — Primitive and flexible state management for React.](https://github.com/pmndrs/jotai)
 
-### Create React App (CRA)
+## Create React App (CRA)
 
 * 🇺🇸 [Статьи о Create React App на web.dev](https://web.dev/react/#create-react-app)
 * 🇺🇸 [Get started: optimize your React app](https://web.dev/get-started-optimize-react/)
@@ -129,16 +129,16 @@
 * 🇺🇸 [Add a web app manifest with Create React App](https://web.dev/add-manifest-react/)
 * 🇺🇸 [Accessibility auditing with react-axe and eslint-plugin-jsx-a11y](https://web.dev/accessibility-auditing-react/)
 
-### UI-киты
+## UI-киты
 
 * 🇺🇸 🔥 [Material-UI](https://material-ui.com/ru/)
 * 🇺🇸 [Blueprint](https://blueprintjs.com/docs/)
 * 🇺🇸 [dialog components](https://dialogs.github.io/dialog-web-components/)
 * 🇺🇸 [React95 — A React components library with Win95 UI](https://github.com/React95/React95)
 
-### Фреймворки на основе React
+## Фреймворки на основе React
 
-#### Next.js
+### Next.js
 
 * 🇺🇸 [Next.js](https://nextjs.org/)
 * 🇺🇸 [Статьи о Next.js на web.dev](https://web.dev/react/#next.js)
@@ -147,25 +147,20 @@
 * 🇺🇸 [Code splitting with dynamic imports in Next.js](https://web.dev/code-splitting-with-dynamic-imports-in-nextjs/)
 * 🇺🇸 [How AMP can guarantee fastness in your Next.js app](https://web.dev/how-amp-can-guarantee-fastness-in-your-nextjs-app/)
 
-#### ReactN — расширение реакта с менеджером состояния
+### ReactN — расширение реакта с менеджером состояния
 
 * 🇺🇸 [ReactN](https://github.com/CharlesStover/reactn)
 
-### Server-Side Rendering
+## Server-Side Rendering
 
 * 🇺🇸 [Why you should render React on the server side](https://blog.logrocket.com/why-you-should-render-react-on-the-server-side-a50507163b79/)
 * 🇺🇸 [Улучшение производительности передачи состояния Redux с помощью JSON.parse()](https://joreteg.com/blog/improving-redux-state-transfer-performance)
 
-### Генераторы статических сайтов
+## Генераторы статических сайтов
 
 * 🇷🇺 [Gatsby.js в деталях](https://habr.com/ru/post/442298/)
 
-### React-like альтернативы
+## React-like альтернативы
 
 * 🇺🇸 [Preact](https://preactjs.com/)
 * 🇺🇸 [Nerv](https://nerv.aotu.io/)
-
-## Vue.JS
-
-* 🇺🇸 [What You Need to Know About Vue3 in 2020](https://medium.com/swlh/what-you-need-to-know-about-vue3-in-2020-b36a2feb5dad)
-* 🇷🇺 🔥 [Vue JS - Быстрый курс за 50 минут (Все Включено!)](https://www.youtube.com/watch?v=OlnwgS-gk8Y)

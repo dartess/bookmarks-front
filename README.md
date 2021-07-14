@@ -26,7 +26,7 @@
 * WebAssembly
 * ...
 
-## [JavaScript: сборка, NPM, Node.js](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT_NODE.md)
+## [JavaScript: сборка, NPM, Node.js](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT_TOOLS.md)
 
 * Node.js
 * NPM
@@ -34,18 +34,17 @@
 * линтинг кода
 * препроцессоры
 
-## [JavaScript: фреймворки](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT_FRAMEWORKS.md)
-
-* React.js
-* немного по другим фреймворкам
+## [JavaScript: React.js](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT_REACT.md)
 
 ## [TypeScript](https://github.com/dartess/bookmarks-front/blob/master/TYPESCRIPT.md)
 
-## [Прочее](https://github.com/dartess/bookmarks-front/blob/master/OTHER.md)
+## [Прочее связанное с разработкой веб-приложений](https://github.com/dartess/bookmarks-front/blob/master/OTHER_WEBDEV.md)
 
 * SEO
 * Дизайн
 * Тестирование
 * GIT
 * Оптимизация
-* ...прочее
+* ...
+
+## [Прочее (иное)](https://github.com/dartess/bookmarks-front/blob/master/OTHER_NOT_DEV.md)

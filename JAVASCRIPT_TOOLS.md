@@ -1,4 +1,4 @@
-## Сборка
+# Сборка и инструментарий рядом
 
 <!--
 * 🇺🇸 []()
@@ -9,7 +9,7 @@
 
 * 🇺🇸 [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 
-### Модули
+## Модули
 
 * 🇺🇸 [JavaScript Modules: A beginner’s guide](https://www.preethikasireddy.com/post/javascript-modules-a-beginners-guide)
 * 🇺🇸 [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://blogs.windows.com/msedgedev/2016/07/08/the-progress-of-web-apps/)
@@ -49,7 +49,7 @@
 
 * 🇺🇸 [What's the difference between tilde(~) and caret(^) in package.json?](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json/33067594#33067594)
 
-## Сборка проекта (бандлинг)
+## Бандлинг кода
 
 ### Webpack
 
@@ -105,8 +105,6 @@
 #### Pug (Jade)
 
 * 🇷🇺/🇺🇸 Туториал по Jade для начинающих [перевод](https://habr.com/ru/post/278109/)/[оригинал](https://www.sitepoint.com/jade-tutorial-for-beginners/)
-
-### CSS
 
 ## Линтинг кода
 
@@ -205,14 +203,9 @@
 * 🇺🇸 [Playwright — Node library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
 * 🇺🇸 [Fast and reliable cross-browser testing with Playwright 🎭](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 
-## Node.JS
+## CSS
 
-* 🇷🇺/🇺🇸 Node Hero [перевод](https://medium.com/devschacht/node-hero-6a07ef8d822d)/[оригинал](https://risingstack.com/resources/node-hero)
-* 🇺🇸 [Node.js Features Support — kangax's compat-table applied only to Node.js](https://node.green/)
-* 🇷🇺 [Выкладываем Node.js приложение в сеть](https://telegra.ph/Vykladyvaem-Nodejs-prilozhenie-v-set-09-21)
-* 🇷🇺/🇺🇸 Руководство по логированию в Node.js [перевод](https://habr.com/ru/company/funcorp/blog/461881/)/[оригинал](https://www.twilio.com/blog/guide-node-js-logging)
-
-## CSS Modules
+### CSS Modules
 
 * 🇷🇺/🇺🇸 Конец эры глобального CSS [перевод](https://habr.com/ru/post/276417/)/[оригинал](https://medium.com/seek-blog/the-end-of-global-css-90d2a4a06284#.rx1co7cd0)
 * 🇷🇺/🇺🇸 Практическое руководство по использованию CSS Modules в React приложениях [перевод](https://habr.com/ru/post/335244/)/[оригинал](https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/)
@@ -220,9 +213,16 @@
 * 🇺🇸 [CSS modules, part 2: Getting Started with CSS Modules](https://css-tricks.com/css-modules-part-2-getting-started/)
 * 🇺🇸 [CSS modules, part 3: CSS Modules and React](https://css-tricks.com/css-modules-part-3-react/)
 
-## CSS-in-JS
+### CSS-in-JS
 
 * 🇺🇸 [In what way is JS any more maintainable than CSS? How does writing CSS in JS make it any more maintainable?](https://gist.github.com/threepointone/731b0c47e78d8350ae4e105c1a83867d)
+
+## Node.JS
+
+* 🇷🇺/🇺🇸 Node Hero [перевод](https://medium.com/devschacht/node-hero-6a07ef8d822d)/[оригинал](https://risingstack.com/resources/node-hero)
+* 🇺🇸 [Node.js Features Support — kangax's compat-table applied only to Node.js](https://node.green/)
+* 🇷🇺 [Выкладываем Node.js приложение в сеть](https://telegra.ph/Vykladyvaem-Nodejs-prilozhenie-v-set-09-21)
+* 🇷🇺/🇺🇸 Руководство по логированию в Node.js [перевод](https://habr.com/ru/company/funcorp/blog/461881/)/[оригинал](https://www.twilio.com/blog/guide-node-js-logging)
 
 ## Deno (Node.js альтернатива)
 
