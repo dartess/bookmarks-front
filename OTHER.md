@@ -70,6 +70,14 @@
 * 🇺🇸 [Public GraphQL APIs](https://github.com/APIs-guru/graphql-apis)
 * 🇺🇸 [How we learned to stop worrying and love GraphQL](https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9)
 
+### Protocol Buffers
+
+* 🇺🇸 [Protocol Buffers](https://developers.google.com/protocol-buffers)
+
+### gRPC
+
+* 🇷🇺 📺 [gRPC - всё, что нужно для коммуникаций микросервисов (Алексей Вахренев (DINS))](https://www.youtube.com/watch?v=q4kz_4nB714)
+
 ## Дизайн
 
 * 🇺🇸 [Golden Ratio Typography Calculator](https://grtcalculator.com/)
@@ -131,51 +139,6 @@
 
 * 🇺🇸 [The Art of UI Skeletons](http://farmdev.com/thoughts/108/the-art-of-ui-skeletons/)
 * 🇺🇸 [Effective Skeleton Screens](https://timkadlec.com/remembers/2020-11-02-skeleton-screens/)
-
-## Тестирование
-
-* 🇺🇸 [An Overview of JavaScript Testing in 2020](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870)
-* 🇷🇺 [TDD на практическом примере](https://bespoyasov.ru/ttt-tdd/)
-* 🇷🇺 [Инструменты для тестирования JavaScript-проектов](https://habr.com/ru/company/ruvds/blog/349452/)
-* 🇺🇸 [Пакет для простого мока других пакетов или свойств объекта](https://www.npmjs.com/package/identity-obj-proxy)
-* 🇺🇸 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
-* 🇺🇸 [флаги для WebRTC-related testing](https://webrtc.org/testing/)
-* 🇺🇸 🔥 [Sentry — Application Monitoring and Error Tracking Software](https://sentry.io/)
-* 🇺🇸 [Что такое TDD и BDD на пальцах, и что должен знать о них фронтендер](https://medium.com/@lucyhackwrench/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-tdd-%D0%B8-bdd-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D1%85-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-%D0%BD%D0%B8%D1%85-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-701a10e06bb9)
-* 🇺🇸 [Measuring Code Quality with Test Coverage Metrics](https://reqtest.com/testing-blog/test-coverage-metrics/)
-* 🇷🇺 [Эффективное тестирование верстки](https://habr.com/ru/company/oleg-bunin/blog/499638/)
-* 🇺🇸 [Testing like a Pro in JavaScript](https://vueschool.io/articles/series/testing-like-a-pro-in-javascript/)
-
-### Тестирование со стороны тестировщика
-
-* 🇷🇺 [Кодекс тестировщика](https://blog.csssr.com/ru/article/qa-codex/)
-
-### Тестирование React
-
-* 🇷🇺 [Основы тестирования в документации React](https://ru.reactjs.org/docs/testing.html)
-* 🇷🇺/🇺🇸 Обзор библиотеки react-testing-library [перевод](https://habr.com/ru/company/ruvds/blog/353076/)/[оригинал](https://kentcdodds.com/blog/introducing-the-react-testing-library)
-* 🇺🇸 [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/dom-testing-react-application-jest-k4ll4f8sd)
-* 🇺🇸 [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/)
-* 🇺🇸 [@testing-library/react — React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-* 🇺🇸 [@testing-library/react-hooks](https://www.npmjs.com/package/@testing-library/react-hooks)
-* 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
-* 🇺🇸 [Modern React testing](https://dev.to/sapegin/modern-react-testing-part-1-best-practices-1o93)
-
-### Визуальное тестирование (тестирование вёрстки)
-
-* 🇷🇺 [Разработка визуальных тестов на базе Gemini и Storybook](https://habr.com/ru/post/454464/)
-* 🇷🇺 [Как и зачем тестировать верстку](https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D1%83-84a378bf7bb4)
-
-### Puppeteer
-
-* 🇺🇸 [Getting Started with Puppeteer](https://www.sitepoint.com/getting-started-with-puppeteer/)
-* 🇺🇸 [Puppeteer examples](https://github.com/checkly/puppeteer-examples)
-* 🇷🇺/🇺🇸 Puppeteer для краулинга страниц сайта и сохранения их в Markdown [перевод](https://medium.com/web-standards/puppeteer-crawl-to-markdown-7752dff36b68)/[оригинал](https://justmarkup.com/articles/2019-01-04-using-puppeteer-to-crawl-pages-and-save-them-as-markdown-files/)
-
-### Playwright
-
-* 🇺🇸 [Playwright — Node library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
-* 🇺🇸 [Fast and reliable cross-browser testing with Playwright 🎭](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 
 ## Безопасность
 
@@ -315,10 +278,13 @@
 * 🇺🇸 [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
 * 🇺🇸 [Base64 File Encoder](http://jpillora.com/base64-encoder/)
 * 🇷🇺 [Типограф Лебедева](https://www.artlebedev.ru/typograf/)
-* 🇺🇸 [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/ )
 * 🇺🇸 [CSS Sprite Generator](https://instantsprite.com/)
 * 🇺🇸 [FontDrop! — просмотр информации о шрифте](https://fontdrop.info/)
+
+### JSON
+
 * 🇺🇸 [JSON Generator](https://next.json-generator.com/)
+* 🇺🇸 [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 
 ### Конструкторы
 
@@ -368,6 +334,10 @@
 * 🇷🇺/🇺🇸 Движок, который смог: как Chromium удалось захватить 90% рынка браузеров [перевод](https://habr.com/ru/company/vdsina/blog/518416/)/[оригинал](https://thehistoryoftheweb.com/how-a-browser-engine-dominates-the-market/)
 * 🇷🇺/🇺🇸 Языки, которые почти стали CSS [перевод](https://habr.com/ru/company/qiwi/blog/528942/)/[оригинал](https://eager.io/blog/the-languages-which-almost-were-css/)
 
+## Rescript
+
+* 🇺🇸 [Rescript Articles](https://dusty.phillips.codes/rescript/)
+
 ## Демо
 
 * 🇺🇸 [Trippy CSS Distortion Effects](https://1stwebdesigner.com/trippy-css-distortion-effects/)
@@ -400,6 +370,16 @@
 
 * 🇺🇸 [An Overview of JSX With 3 Non-React Examples](http://thecodebarbarian.com/overview-of-jsx-with-non-react-examples.html)
 
+## Базы данныз
+
+### SQL
+
+* 🇷🇺 📺 [Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.](https://www.youtube.com/watch?v=WpojDncIWOw)
+
+### Инструменты
+
+* 🇺🇸 [DBeaver Community - Free Universal Database Tool](https://dbeaver.io/)
+
 ## Инструменты для работы
 
 ### Git
@@ -419,10 +399,6 @@
 
 * 🇺🇸 🔥 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 * 🇺🇸 [Coding Fonts](https://coding-fonts.css-tricks.com/)
-
-### Базы данных
-
-* 🇺🇸 [DBeaver Community - Free Universal Database Tool](https://dbeaver.io/)
 
 #### vi/vim/etc
 
@@ -453,9 +429,13 @@
 * 🇷🇺 [Стимуляторы работы программиста. Обстановка](https://blog.csssr.com/ru/article/work-better/)
 * 🇷🇺 [Стимуляторы работы программиста. Мотивация](https://blog.csssr.com/ru/article/work-harder/)
 * 🇷🇺 [Стимуляторы работы программиста. Здоровье](https://blog.csssr.com/ru/article/work-stronger/)
-* 🇷🇺 [Есть ли жизнь на удалёнке или как перестать верить в единорогов](https://blog.csssr.com/ru/article/unicorn-busters/)
 
-#### Архитектура и разработка
+### Удалённая работа
+
+* 🇷🇺 [Есть ли жизнь на удалёнке или как перестать верить в единорогов](https://blog.csssr.com/ru/article/unicorn-busters/)
+* 🇷🇺 [Работа из дома: руководство для специалиста](https://vc.ru/hr/111879-rabota-iz-doma-rukovodstvo-dlya-specialista)
+
+### Архитектура и разработка
 
 * 🇺🇸 [Пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
@@ -466,14 +446,14 @@
 * 🇺🇸 [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)
 * 🇺🇸 [Psychology of Code Readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
 
-#### Код ревью
+### Код ревью
 
 * 🇷🇺/🇺🇸 Code review по-человечески, перевод [часть 1](https://habr.com/ru/post/340550/), [часть 2](https://habr.com/ru/post/342244/)/оригинал [часть 1](https://mtlynch.io/human-code-reviews-1/), [часть 2](https://mtlynch.io/human-code-reviews-2/)
 * 🇷🇺 [Код ревью](https://slonoed.net/ru/code-review/)
 * 🇺🇸 [On Code Reviews](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c)
 * 🇷🇺 [Как потерять друзей и заставить всех себя ненавидеть, делая код-ревью](https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8-%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D1%81%D0%B5%D1%85-%D1%81%D0%B5%D0%B1%D1%8F-%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D0%BE%D0%B4-%D1%80%D0%B5%D0%B2%D1%8C%D1%8E-11fec8e17000)
 
-#### Собеседования
+### Собеседования
 
 * 🇷🇺 [Ask About Company](https://askabout.company/)
 
@@ -582,3 +562,4 @@
 * 🇺🇸 [Nano ID – A tiny, secure, URL-friendly, unique string ID generator for JavaScript.](https://github.com/ai/nanoid)
 * 🇺🇸 [Pika](https://www.pika.dev/)
 * 🇺🇸 [Robust Client-Side JavaScript](https://molily.de/robust-javascript/)
+* 🇺🇸 [Логика подсказок автозаполнения полей Chromium](https://chromium.googlesource.com/chromium/chromium/+/refs/heads/main/chrome/browser/autofill/autofill_regex_constants.cc.utf8)

@@ -17,6 +17,7 @@
 * 🇺🇸 [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
 * 🇺🇸 [Creating a Gauge in React](https://wattenberger.com/blog/gauge)
 * 🇷🇺/🇺🇸 Как работает Virtual DOM? [перевод](https://medium.com/@abraztsov/how-virtual-dom-work-567128ed77e9)/[оригинал](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
+* 🇺🇸 [A better React 18 startTransition demo](https://swizec.com/blog/a-better-react-18-starttransition-demo/)
 
 ### Хуки
 
@@ -128,7 +129,7 @@
 * 🇺🇸 [Add a web app manifest with Create React App](https://web.dev/add-manifest-react/)
 * 🇺🇸 [Accessibility auditing with react-axe and eslint-plugin-jsx-a11y](https://web.dev/accessibility-auditing-react/)
 
-### Тулкиты (UI-киты)
+### UI-киты
 
 * 🇺🇸 🔥 [Material-UI](https://material-ui.com/ru/)
 * 🇺🇸 [Blueprint](https://blueprintjs.com/docs/)

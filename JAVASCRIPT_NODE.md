@@ -155,6 +155,56 @@
 
 * 🇺🇸 [ls-lint — An extremely fast file and directory name linter - Bring some structure to your file and directory names](https://github.com/loeffel-io/ls-lint)
 
+## Тестирование
+
+* 🇺🇸 [An Overview of JavaScript Testing in 2020](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870)
+* 🇷🇺 [TDD на практическом примере](https://bespoyasov.ru/ttt-tdd/)
+* 🇷🇺 [Инструменты для тестирования JavaScript-проектов](https://habr.com/ru/company/ruvds/blog/349452/)
+* 🇺🇸 [Пакет для простого мока других пакетов или свойств объекта](https://www.npmjs.com/package/identity-obj-proxy)
+* 🇺🇸 [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
+* 🇺🇸 [флаги для WebRTC-related testing](https://webrtc.org/testing/)
+* 🇺🇸 🔥 [Sentry — Application Monitoring and Error Tracking Software](https://sentry.io/)
+* 🇺🇸 [Что такое TDD и BDD на пальцах, и что должен знать о них фронтендер](https://medium.com/@lucyhackwrench/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-tdd-%D0%B8-bdd-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B0%D1%85-%D0%B8-%D1%87%D1%82%D0%BE-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-%D0%BD%D0%B8%D1%85-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80-701a10e06bb9)
+* 🇺🇸 [Measuring Code Quality with Test Coverage Metrics](https://reqtest.com/testing-blog/test-coverage-metrics/)
+* 🇷🇺 [Эффективное тестирование верстки](https://habr.com/ru/company/oleg-bunin/blog/499638/)
+* 🇺🇸 [Testing like a Pro in JavaScript](https://vueschool.io/articles/series/testing-like-a-pro-in-javascript/)
+
+### Тестирование со стороны тестировщика
+
+* 🇷🇺 [Кодекс тестировщика](https://blog.csssr.com/ru/article/qa-codex/)
+
+### Тестирование React
+
+* 🇷🇺 [Основы тестирования в документации React](https://ru.reactjs.org/docs/testing.html)
+* 🇷🇺/🇺🇸 Обзор библиотеки react-testing-library [перевод](https://habr.com/ru/company/ruvds/blog/353076/)/[оригинал](https://kentcdodds.com/blog/introducing-the-react-testing-library)
+* 🇺🇸 [@testing-library/react — React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+* 🇺🇸 [@testing-library/react-hooks](https://www.npmjs.com/package/@testing-library/react-hooks)
+* 🇺🇸 [Modern React testing](https://dev.to/sapegin/modern-react-testing-part-1-best-practices-1o93)
+
+#### Enzyme
+
+* 🇺🇸 📺 🔥 [Jest & Enzyme. Полный курс](https://sentry.io/)
+* 🇺🇸 [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/dom-testing-react-application-jest-k4ll4f8sd)
+* 🇺🇸 👴🏽 [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/)
+* 🇺🇸 [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json)
+<!-- * 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54) спорная статья, не несет полезной нагрузки, см. комменты  -->
+
+### Визуальное тестирование (тестирование вёрстки)
+
+* 🇷🇺 [Разработка визуальных тестов на базе Gemini и Storybook](https://habr.com/ru/post/454464/)
+* 🇷🇺 [Как и зачем тестировать верстку](https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D1%83-84a378bf7bb4)
+
+### Puppeteer
+
+* 🇺🇸 [Getting Started with Puppeteer](https://www.sitepoint.com/getting-started-with-puppeteer/)
+* 🇺🇸 [Puppeteer examples](https://github.com/checkly/puppeteer-examples)
+* 🇷🇺/🇺🇸 Puppeteer для краулинга страниц сайта и сохранения их в Markdown [перевод](https://medium.com/web-standards/puppeteer-crawl-to-markdown-7752dff36b68)/[оригинал](https://justmarkup.com/articles/2019-01-04-using-puppeteer-to-crawl-pages-and-save-them-as-markdown-files/)
+
+### Playwright
+
+* 🇺🇸 [Playwright — Node library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
+* 🇺🇸 [Fast and reliable cross-browser testing with Playwright 🎭](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
+
 ## Node.JS
 
 * 🇷🇺/🇺🇸 Node Hero [перевод](https://medium.com/devschacht/node-hero-6a07ef8d822d)/[оригинал](https://risingstack.com/resources/node-hero)
