@@ -183,7 +183,7 @@
 
 #### Enzyme
 
-* 🇺🇸 📺 🔥 [Jest & Enzyme. Полный курс](https://sentry.io/)
+* 🇺🇸 📺 🔥 [Jest & Enzyme. Полный курс](https://www.youtube.com/watch?v=9g4tsfIJz50)
 * 🇺🇸 [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/dom-testing-react-application-jest-k4ll4f8sd)
 * 🇺🇸 👴🏽 [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/)
 * 🇺🇸 [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json)

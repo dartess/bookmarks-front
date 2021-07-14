@@ -1,6 +1,6 @@
 # Закладки по фронтэнду и смежному
 
-## [Вёрстка](https://github.com/dartess/bookmarks-front/blob/master/HTMLCSS.md)
+## [Вёрстка и темы около неё](https://github.com/dartess/bookmarks-front/blob/master/HTMLCSS.md)
 
 * HTML, CSS, SVG
 * Доступность
@@ -8,14 +8,14 @@
 * Графика
 * Особенности вёрстки рассылок
 * Особенности вёрстки под нестандратные устройства и экраны
+* Тёмная тема
 
 ## [JavaScript: теория и стандарты](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT.md)
 
 * Общая теория
 * Intl
-* WebAssembly
 
-## [JavaScript: браузеры, API, PWA](https://github.com/dartess/bookmarks-front/blob/master/BROWSERSDEVICES.md)
+## [JavaScript: браузеры, API, PWA](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT_BROWSERS.md)
 
 * Общая информация
 * VanillaJS библиотеки
@@ -23,6 +23,8 @@
 * PWA
 * Canvas
 * Web Components
+* WebAssembly
+* ...
 
 ## [JavaScript: сборка, NPM, Node.js](https://github.com/dartess/bookmarks-front/blob/master/JAVASCRIPT_NODE.md)
 

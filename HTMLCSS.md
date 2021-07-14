@@ -446,3 +446,11 @@
 ### Эффекты и демо SVG
 
 * 🏳 [SVG Animation демо](https://jsbin.com/kirupal/)
+
+## Тёмная тема
+
+* 🇺🇸 [prefers-color-scheme: Hello darkness, my old friend](https://web.dev/prefers-color-scheme/)
+* 🇺🇸 [A guide to implementing dark modes on websites](https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website?ref=heydesigner)
+* 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
+* 🇷🇺 [Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты](https://habr.com/ru/company/yandex/blog/446780/)
+* 🇺🇸 [Light and dark themed SVG favicon using the CSS prefers-color-scheme media feature](https://catalin.red/svg-favicon-light-dark-theme/)

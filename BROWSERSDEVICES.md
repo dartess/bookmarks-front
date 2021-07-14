@@ -870,14 +870,6 @@
 
 * 🇺🇸 [PWA Builder](https://www.pwabuilder.com/generator)
 
-## Тёмная тема
-
-* 🇺🇸 [prefers-color-scheme: Hello darkness, my old friend](https://web.dev/prefers-color-scheme/)
-* 🇺🇸 [A guide to implementing dark modes on websites](https://www.kooslooijesteijn.net/blog/add-dark-mode-to-website?ref=heydesigner)
-* 🇺🇸 [Dark Mode Support in WebKit](https://webkit.org/blog/8840/dark-mode-support-in-webkit/)
-* 🇷🇺 [Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты](https://habr.com/ru/company/yandex/blog/446780/)
-* 🇺🇸 [Light and dark themed SVG favicon using the CSS prefers-color-scheme media feature](https://catalin.red/svg-favicon-light-dark-theme/)
-
 ## Web Bundles — упаковка сайта в один файл
 
 * 🇺🇸 [Get started with Web Bundles](https://web.dev/web-bundles/)
@@ -938,6 +930,27 @@
 * 🇺🇸 [pdfmake — Client/server side PDF printing in pure JavaScript](http://pdfmake.org)
 
 Также см. React -> Библиотеки -> PDF
+
+
+## WebAssembly (wasm)
+
+* 🇷🇺/🇺🇸 Начало работы с WebAssembly, используя только 14 строк на JavaScript [перевод](https://medium.com/devschacht/daniel-simmons-get-started-with-webassembly-using-only-14-lines-of-javascript-89960df71498)/[оригинал](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/)
+* 🇷🇺 [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/)
+* 🇺🇸 [WebAssembly Studio](https://webassembly.studio/)
+* 🇷🇺/🇺🇸 Как мы при помощи WebAssembly в 20 раз веб-приложение ускорили [перевод](https://habr.com/ru/company/skillbox/blog/452190/)/[оригинал](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
+* 🇺🇸 [WebAssembly: How and why](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/)
+* 🇺🇸 [Hands-on WebAssembly: Try the basics](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
+* 🇺🇸 [Get Started Using WebAssembly (wasm)](https://egghead.io/courses/get-started-using-webassembly-wasm)
+
+### AssemblyScript (компиляция из TypeScript-like подобного языка)
+
+* 🇺🇸 [AssemblyScript — A language made for WebAssembly](https://www.assemblyscript.org/)
+* 🇷🇺/🇺🇸 Первое знакомство с AssemblyScript [перевод](https://habr.com/ru/company/ruvds/blog/477272/)/[оригинал](https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/)
+* 🇺🇸 [Adding a WebAssembly component to a React App](https://blog.scottlogic.com/2019/06/14/add-webassembly-to-react-app.html)
+
+### Emscripten (компиляция из C или C++)
+
+* 🇺🇸 [Emscripten — toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins.](https://emscripten.org/)
 
 ## Web Components (веб-компоненты)
 
