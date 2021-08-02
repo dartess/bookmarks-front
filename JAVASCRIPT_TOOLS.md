@@ -173,11 +173,14 @@
 
 ### Тестирование React
 
-* 🇷🇺 [Основы тестирования в документации React](https://ru.reactjs.org/docs/testing.html)
+* 🇷🇺/🇺🇸 Основы тестирования в документации React [перевод](https://ru.reactjs.org/docs/testing.html)/[оригинал](https://reactjs.org/docs/testing.html)
+
+#### React Testing Library
+
+* 🇺🇸 📺 🔥 [React Testing Library. Полный курс](https://www.youtube.com/watch?v=n79PMyqcCJ8)
 * 🇷🇺/🇺🇸 Обзор библиотеки react-testing-library [перевод](https://habr.com/ru/company/ruvds/blog/353076/)/[оригинал](https://kentcdodds.com/blog/introducing-the-react-testing-library)
 * 🇺🇸 [@testing-library/react — React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 * 🇺🇸 [@testing-library/react-hooks](https://www.npmjs.com/package/@testing-library/react-hooks)
-* 🇺🇸 [Modern React testing](https://dev.to/sapegin/modern-react-testing-part-1-best-practices-1o93)
 
 #### Enzyme
 

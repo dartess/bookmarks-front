@@ -22,7 +22,7 @@
 ## Хуки
 
 * 🇷🇺 [Функциональные компоненты с React Hooks. Чем они лучше?](https://habr.com/ru/post/443488/)
-* 🇺🇸 [react-use — библиотека хуков](https://github.com/streamich/react-use)
+* 🇺🇸 🔥 [react-use — библиотека хуков](https://github.com/streamich/react-use)
 * 🇺🇸 🔥 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
 * 🇺🇸 [react-use-gesture — работа с жестами (тач, мышь)](https://github.com/react-spring/react-use-gesture)
 * 🇺🇸 🔥 [use-debounce](https://www.npmjs.com/package/use-debounce)
@@ -95,6 +95,8 @@
 * 🇺🇸 [React-PDF](https://github.com/wojtekmaj/react-pdf)
 
 ## Стейт-менеджеры (СТМ)
+
+* 🇺🇸 [Blogged Answers: Why Redux Toolkit Uses Thunks for Async Logic](https://blog.isquaredsoftware.com/2020/02/blogged-answers-why-redux-toolkit-uses-thunks-for-async-logic/)
 
 ### Redux
 
