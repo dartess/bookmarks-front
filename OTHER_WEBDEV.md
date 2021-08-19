@@ -78,6 +78,10 @@
 
 * 🇷🇺 📺 [gRPC - всё, что нужно для коммуникаций микросервисов (Алексей Вахренев (DINS))](https://www.youtube.com/watch?v=q4kz_4nB714)
 
+### Kafka
+
+* 🇷🇺 📺 🔥 [Про Kafka (основы)](https://www.youtube.com/watch?v=-AZOi3kP9Js)
+
 ## Безопасность
 
 * 🇺🇸 [Building Secure JavaScript Applications](https://nemethgergely.com/building-secure-javascript-applications/)

@@ -174,21 +174,27 @@
 ### Тестирование React
 
 * 🇷🇺/🇺🇸 Основы тестирования в документации React [перевод](https://ru.reactjs.org/docs/testing.html)/[оригинал](https://reactjs.org/docs/testing.html)
+* 🇺🇸 🔥 [Modern React testing, part 1: best practices](https://dev.to/sapegin/modern-react-testing-part-1-best-practices-1o93)
 
 #### React Testing Library
 
-* 🇺🇸 📺 🔥 [React Testing Library. Полный курс](https://www.youtube.com/watch?v=n79PMyqcCJ8)
-* 🇷🇺/🇺🇸 Обзор библиотеки react-testing-library [перевод](https://habr.com/ru/company/ruvds/blog/353076/)/[оригинал](https://kentcdodds.com/blog/introducing-the-react-testing-library)
 * 🇺🇸 [@testing-library/react — React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+* 🇺🇸 📺 🔥 [React Testing Library. Полный курс](https://www.youtube.com/watch?v=n79PMyqcCJ8)
+* 🇺🇸 [Modern React testing, part 3: Jest and React Testing Library](https://dev.to/sapegin/modern-react-testing-part-3-jest-and-react-testing-library-3n0i)
 * 🇺🇸 [@testing-library/react-hooks](https://www.npmjs.com/package/@testing-library/react-hooks)
 
 #### Enzyme
 
 * 🇺🇸 📺 🔥 [Jest & Enzyme. Полный курс](https://www.youtube.com/watch?v=9g4tsfIJz50)
+* 🇺🇸 [Modern React testing, part 2: Jest and Enzyme](https://dev.to/sapegin/modern-react-testing-part-2-jest-and-enzyme-46kk)
 * 🇺🇸 [DOM Testing React Applications with Jest](https://www.codementor.io/pkodmad/dom-testing-react-application-jest-k4ll4f8sd)
-* 🇺🇸 👴🏽 [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/)
 * 🇺🇸 [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json)
+<!-- * 🇺🇸 👴🏽 [Testing React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest/) -->
 <!-- * 🇺🇸/🇷🇺 Что и как тестировать с помощью Jest и Enzyme. Полная инструкция по тестированию React-компонентов: [оригинал](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/), [перевод](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54) спорная статья, не несет полезной нагрузки, см. комменты  -->
+
+#### Cypress
+
+* 🇺🇸 [Modern React testing, part 4: Cypress and Cypress Testing Library](https://dev.to/sapegin/modern-react-testing-part-4-cypress-and-cypress-testing-library-1emj)
 
 ### Визуальное тестирование (тестирование вёрстки)
 
