@@ -111,6 +111,10 @@
 * 🇷🇺/🇺🇸 Разбираемся в redux-saga: От генераторов действий к сагам [перевод](https://habr.com/ru/post/351168/)/[оригинал](https://blog.logrocket.com/understanding-redux-saga-from-action-creators-to-sagas-2587298b5e71/)
 * 🇺🇸 [Blogged Answers: React, Redux, and Context Behavior](https://blog.isquaredsoftware.com/2020/01/blogged-answers-react-redux-and-context-behavior/)
 
+### Mobx
+
+* 🇷🇺 📺 [MobX & React. Полный курс](https://www.youtube.com/watch?v=Yqz4rA85o68)
+
 ### Effector
 
 * 🇺🇸 [Effector](https://effector.now.sh/)
