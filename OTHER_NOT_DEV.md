@@ -108,6 +108,7 @@
 * 🇷🇺 [Стимуляторы работы программиста. Обстановка](https://blog.csssr.com/ru/article/work-better/)
 * 🇷🇺 [Стимуляторы работы программиста. Мотивация](https://blog.csssr.com/ru/article/work-harder/)
 * 🇷🇺 [Стимуляторы работы программиста. Здоровье](https://blog.csssr.com/ru/article/work-stronger/)
+* 🇷🇺 📺 🔥 [Принцип экономии мыслетоплива / Максим Дорофеев (mnogosdelal.ru)](https://www.youtube.com/watch?v=fWR5SFhBUWc)
 
 ### Удалённая работа
 
