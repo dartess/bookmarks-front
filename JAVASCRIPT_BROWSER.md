@@ -385,7 +385,6 @@
 * 🇺🇸 [DOMChangeList proposal](https://github.com/whatwg/dom/issues/270)
 * 🇺🇸 [worker-node proposal](https://github.com/drufball/worker-node)
 
-
 ### API для работы с CSS
 
 * 🇺🇸 [An Introduction and Guide to the CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/)
@@ -498,6 +497,7 @@
 
 * 🇺🇸 [MDN — IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * 🇺🇸 [React, Web Workers and IndexedDB](https://dev.to/daviddalbusco/react-web-workers-and-indexeddb-55ip)
+* 🇺🇸 [IDB-Keyval](https://github.com/jakearchibald/idb-keyval)
 
 ##### ServiceWorker Cache
 
