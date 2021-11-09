@@ -129,7 +129,7 @@
 * 🇺🇸 🔥 [eslint-plugin-jsx-a11y — для работы с доступностью в React](https://www.npmjs.com/package/eslint-plugin-jsx-a11y)
 * 🇺🇸 🔥 [eslint-plugin-no-storage — для настройки использования Storage API](https://www.npmjs.com/package/eslint-plugin-no-storage)
 * 🇺🇸 🔥 [eslint-plugin-unicorn — набор дополнительных правил](https://www.npmjs.com/package/eslint-plugin-unicorn)
-* 🇺🇸 [eslint-plugin-boundaries — контроль архитектурных ограничений](https://github.com/javierbrea/eslint-plugin-boundaries)
+* 🇺🇸 🔥 [eslint-plugin-boundaries — контроль архитектурных ограничений](https://github.com/javierbrea/eslint-plugin-boundaries)
 
 ### Стили
 
