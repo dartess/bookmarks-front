@@ -44,6 +44,7 @@
 * 🇷🇺 Безопасность npm-проектов [часть 1](https://habr.com/ru/company/domclick/blog/516792/), [часть 2](https://habr.com/ru/company/domclick/blog/518502/)
 * 🇺🇸 [Why does package-lock.json exist, and how does it work?](https://lucasfcosta.com/2020/10/17/lockfile-guide.html)
 * 🇺🇸 [NPM Tips and Tricks](https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6)
+* 🇺🇸 🔥 [bundle — a quick npm package size checker](https://bundle.js.org/)
 
 ### semver
 
