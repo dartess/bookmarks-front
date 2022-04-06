@@ -297,6 +297,8 @@
 ### macOS
 
 * 🇺🇸 [How to Run GUI Apps as root in Mac OS X](https://osxdaily.com/2013/02/06/how-to-run-gui-apps-as-root-in-mac-os-x/)
+* 🇺🇸 [Rectangle - Move and resize windows in macOS using keyboard shortcuts or snap areas](https://rectangleapp.com/)
+* 🇺🇸 [MonitorControl - Controls your external display brightness and volume and shows native OSD](https://github.com/MonitorControl/MonitorControl)
 
 ### Деплой
 
