@@ -332,6 +332,7 @@
 
 #### Особенности PWA на iOS
 
+* 🇺🇸 🔥 [iOS PWA Compatibility](https://firt.dev/notes/pwa-ios/)
 * 🇺🇸 [PWAs are coming to iOS 11.3: Cupertino, we have a problem](https://medium.com/@firt/pwas-are-coming-to-ios-11-3-cupertino-we-have-a-problem-2ff49fd7d6ea)
 * 🇺🇸 [What’s new on iOS 12.2 for Progressive Web Apps](https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945)
 * 🇺🇸 [iPhone 11, iPadOS and iOS 13 for PWAs and web development](https://medium.com/@firt/iphone-11-ipados-and-ios-13-for-pwas-and-web-development-5d5d9071cc49)
