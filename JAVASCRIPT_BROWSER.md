@@ -252,32 +252,40 @@
 ## PWA
 
 * 🇷🇺 🔥 📺 [Введение в Progressive Web Apps, Сергей Пугачев (Google)](https://www.youtube.com/watch?v=skmvycNQ_TM)
-* 🇺🇸 [Progressive Web Apps — Websites that took all the right vitamins](https://web.dev/progressive-web-apps/)
+<!--
++ зачем pwa
++ что такое pwa (быстрые, оффлайн, хомскрин, пуш)
++ как выглядит добавление на хомскрин
++ как выглядит пуш
++ creditnals API
++ web payments API
++ background sync api
+- lighthous показан по старинке
+ВЫВОД: хорошо как обзор
+-->
+* 🇷🇺/🇺🇸 [Progressive Web Apps — Websites that took all the right vitamins](https://web.dev/progressive-web-apps/)
+* 🇺🇸 [Learn PWA](https://web.dev/learn/pwa/)
 * 🇺🇸 📺 [Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
-* 🇺🇸 [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps)
-* 🇺🇸 [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
-* 🇺🇸 [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 * 🇺🇸 [MDN: Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
-* 🇺🇸 [Progressive Web Apps Training от Google](https://developers.google.com/web/ilt/pwa/)
-* 🇺🇸 [pwa-install-prompt](https://jacobdb.github.io/pwa-install-prompt/demo/)
-* 🇺🇸 [Myth Busting PWAs – The New Edge Edition](https://www.davrous.com/2019/10/18/myth-busting-pwas-the-new-edge-edition/)
-* 🇷🇺 [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
-* 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support/)
-* 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12)
+ [Могут ли PWA (Progressive Web Apps) образца 2018 года составить достойную конкуренцию нативным приложениям?](https://habr.com/ru/company/google/blog/414609/)
 * 🇺🇸 [Building offline-first web and mobile apps using event-sourcing](https://flpvsk.com/blog/2019-07-20-offline-first-apps-event-sourcing/)
 * 🇺🇸 [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
+<!--
++ Сервис-воркер: установка, активация, кэширование запросов
++ Пуши: клиент, сервер
++ Indexed DB
++ Добавление на рабочий стол
++ misc
+-->
 * 🇺🇸 Designing And Building A Progressive Web Application Without A Framework [Part 1](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-1/), [Part 2](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-2/), [Part 3](https://www.smashingmagazine.com/2019/07/progressive-web-application-pwa-framework-part-3/)
-* 🇷🇺 🇺🇸 Прогрессивные веб-приложения (PWA). Будущее мобильного интернета [перевод, часть 1](https://blog.sibirix.ru/2019/11/06/PWA-book-part1/), [перевод, часть 2](https://blog.sibirix.ru/2019/11/07/PWA-book-part2/)/[оригинал](https://www.awwwards.com/PWA-ebook/)
 * 🇺🇸 [Progressive Web Apps. The Superpowers of the Web and Native Apps Combined](https://www.awwwards.com/PWA-ebook-vol2/)
-* 🇷🇺 [Как сделать из сайта приложение и выложить его в Google Play за несколько часов. Часть 1/2: Progressive Web App](https://habr.com/ru/company/mailru/blog/450504/)
 * 🇺🇸 [Appscope - Progressive Web Apps Examples](https://appsco.pe/)
 * 🇺🇸 [Javascript to check if PWA or Mobile Web](https://stackoverflow.com/questions/41742390/javascript-to-check-if-pwa-or-mobile-web)
 * 🇺🇸 [Awesome Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 * 🇺🇸 [What makes a good Progressive Web App?](https://web.dev/pwa-checklist/)
 * 🇺🇸 📺 [Going Offline First (Video Series)](https://bitsofco.de/going-offline-first/)
-* 🇺🇸 [Add to Home Screen](https://developers.google.com/web/fundamentals/app-install-banners/)
 
-### Web App Manifest
+### Web App Manifest и прочие иконки
 
 * 🇺🇸 [PWACompat to bring Web App Manifest to older browsers](https://github.com/GoogleChromeLabs/pwacompat)
 * 🇺🇸 [You shouldn’t use Chrome’s PWACompat library in your Progressive Web Apps](https://medium.com/@firt/you-shouldnt-use-chrome-s-pwacompat-library-in-your-progressive-web-apps-6b3496faab62)
@@ -286,6 +294,7 @@
 * 🇷🇺 [Выйти за грань браузера (theme-color)](https://habr.com/ru/post/245007/)
 * 🇺🇸 [Creating a Custom PWA Splash Screen](https://www.simicart.com/blog/pwa-splash-screen/)
 * 🇺🇸 [pwa-asset-generator ✨](https://github.com/onderceylan/pwa-asset-generator)
+* 🇷🇺 [Разработка анимированных фавиконов](https://habr.com/ru/company/ruvds/blog/464127/)
 
 #### Маскируемеые иконки
 
@@ -323,6 +332,14 @@
 * 🇺🇸 [Workbox — JavaScript Libraries for adding offline support to web apps](https://developers.google.com/web/tools/workbox/)
 * 🇷🇺 [WorkBox: ваш toolkit в мире сервис-воркеров](https://habr.com/ru/company/domclick/blog/523106/)
 
+### Настраиваемый процесс установки 
+
+* 🇷🇺/🇺🇸 [Как предоставлять собственный процесс установки в приложении](https://web.dev/customize-install/)
+
+#### iOS
+
+* 🇺🇸 [pwa-install-prompt](https://jacobdb.github.io/pwa-install-prompt/demo/)
+
 ### Особенности платформ
 
 * 🇺🇸 [PWA Bugs](https://github.com/PWA-POLICE/pwa-bugs)
@@ -355,14 +372,16 @@
 * 🇺🇸 [A complete implementation guide to Trusted Web Activity(TWA)- OYO Lite](https://medium.com/oyotech/a-complete-guide-to-trusted-web-activity-twa-oyo-case-study-3dd327d7afc5)
 * 🇺🇸 [How can I detect if my website is opened inside a Trusted Web Actvity?](https://stackoverflow.com/questions/54580414/how-can-i-detect-if-my-website-is-opened-inside-a-trusted-web-actvity)
 
-### favicon и другие изображения для иконок
-
-* 🇷🇺 [Разработка анимированных фавиконов](https://habr.com/ru/company/ruvds/blog/464127/)
-
 ### Project Fugu
 
 * 🇺🇸 [🐡 Chromium https://goo.gle/fugu-api-tracker](https://goo.gle/fugu-api-tracker)
 * 🇺🇸 [Project Fugu 🐡 at W3C TPAC](https://blog.tomayac.com/2019/09/21/project-fugu-at-w3c-tpac/)
+
+### Кейсы компаний
+
+* 🇺🇸 ⚠️ [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+* 🇺🇸 ⚠️ [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+* 🇷🇺/🇺🇸 Сервис-воркеры в клиенте Slack: об ускорении загрузки и оффлайн-режиме [перевод](https://habr.com/ru/company/ruvds/blog/468409/)/[оригинал](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support/)
 
 ## API
 
@@ -974,3 +993,12 @@
 ## well-known URL
 
 * 🇺🇸 [Help users change passwords easily by adding a well-known URL for changing passwords](https://web.dev/change-password-url/)
+
+<!-- TRASH -->
+
+<!-- * 🇺🇸 [Progressive Web Apps — Websites that took all the right vitamins](https://web.dev/progressive-web-apps/) -->
+<!-- * 🇺🇸 [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps) -->
+<!-- * 🇺🇸 [Myth Busting PWAs – The New Edge Edition](https://www.davrous.com/2019/10/18/myth-busting-pwas-the-new-edge-edition/) -->
+<!-- * 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12) -->
+<!-- * 🇷🇺 🇺🇸 Прогрессивные веб-приложения (PWA). Будущее мобильного интернета [перевод, часть 1](https://blog.sibirix.ru/2019/11/06/PWA-book-part1/), [перевод, часть 2](https://blog.sibirix.ru/2019/11/07/PWA-book-part2/)/[оригинал](https://www.awwwards.com/PWA-ebook/) -->
+<!-- * 🇷🇺 [Как сделать из сайта приложение и выложить его в Google Play за несколько часов. Часть 1/2: Progressive Web App](https://habr.com/ru/company/mailru/blog/450504/) -->
