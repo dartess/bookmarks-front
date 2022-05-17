@@ -996,7 +996,6 @@
 
 <!-- TRASH -->
 
-<!-- * 🇺🇸 [Progressive Web Apps — Websites that took all the right vitamins](https://web.dev/progressive-web-apps/) -->
 <!-- * 🇺🇸 [Progressive Web Apps](https://www.manning.com/books/progressive-web-apps) -->
 <!-- * 🇺🇸 [Myth Busting PWAs – The New Edge Edition](https://www.davrous.com/2019/10/18/myth-busting-pwas-the-new-edge-edition/) -->
 <!-- * 🇺🇸 [Turning Your Existing App Into a Progressive Web App](https://medium.com/better-programming/turning-your-existing-application-into-a-pwa-776d65b0aa12) -->
