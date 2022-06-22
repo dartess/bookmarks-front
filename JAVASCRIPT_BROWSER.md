@@ -338,6 +338,7 @@
 
 #### iOS
 
+* 🇺🇸 🔥 [@khmyznikov/pwa-install](https://github.com/khmyznikov/pwa-install)
 * 🇺🇸 [pwa-install-prompt](https://jacobdb.github.io/pwa-install-prompt/demo/)
 
 ### Особенности платформ
