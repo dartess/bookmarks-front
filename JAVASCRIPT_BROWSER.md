@@ -361,17 +361,27 @@
 
 ### PWA и магазины приложений
 
-* 🇷🇺 [Play Store теперь принимает прогрессивные веб-приложения (PWA)](https://habr.com/ru/post/439238/)
-* 🇺🇸 [Introducing Progressive Web Apps to Samsung Galaxy Store](https://medium.com/samsung-internet-dev/introducing-progressive-web-apps-to-samsung-galaxy-store-47ecd317725b)
-* 🇺🇸 [Publishing PWA to Microsoft Store](https://kolappan.dev/2020/07/27/publishing-pwa-to-ms-store)
+#### Google Play (TWA)
 
-#### TWA
-
-* 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
+* 🇺🇸 🔥 [Trusted Web Activity — Chrome Developers](https://developer.chrome.com/docs/android/trusted-web-activity/)
 * 🇺🇸 [Bubblewrap — CLI that helps developers to create a Project for an Android application that launches an existing (PWAs) using a TWA](https://github.com/GoogleChromeLabs/bubblewrap)
 * 🇷🇺 [Как сделать из сайта приложение и выложить его в Google Play за несколько часов. Часть 2/2: Trusted Web Activity](https://habr.com/ru/company/mailru/blog/450506/)
 * 🇺🇸 [A complete implementation guide to Trusted Web Activity(TWA)- OYO Lite](https://medium.com/oyotech/a-complete-guide-to-trusted-web-activity-twa-oyo-case-study-3dd327d7afc5)
 * 🇺🇸 [How can I detect if my website is opened inside a Trusted Web Actvity?](https://stackoverflow.com/questions/54580414/how-can-i-detect-if-my-website-is-opened-inside-a-trusted-web-actvity)
+* 🇷🇺 ⚠️ [Play Store теперь принимает прогрессивные веб-приложения (PWA)](https://habr.com/ru/post/439238/)
+<!-- ^ информация частично устарела -->
+<!-- 
+* 🇺🇸 [Introducing a Trusted Web Activity for Android](https://blog.chromium.org/2019/02/introducing-trusted-web-activity-for.html)
+(не актуальная информация, всё содержится в https://developer.chrome.com/docs/android/trusted-web-activity/ и/или https://habr.com/ru/post/439238/)
+-->
+
+#### Samsung Galaxy Store
+
+* 🇺🇸 [Introducing Progressive Web Apps to Samsung Galaxy Store](https://medium.com/samsung-internet-dev/introducing-progressive-web-apps-to-samsung-galaxy-store-47ecd317725b)
+
+#### Microsoft Store
+
+* 🇺🇸 [Publishing PWA to Microsoft Store](https://kolappan.dev/2020/07/27/publishing-pwa-to-ms-store)
 
 ### Project Fugu
 
