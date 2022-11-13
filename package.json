@@ -3,13 +3,9 @@
   "version": "1.0.0",
   "description": "Закладки по фронтенду и смежному",
   "main": "check.js",
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test"
-    }
-  },
   "scripts": {
-    "test": "node utils/check-duplicates"
+    "test": "node utils/check-duplicates",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -21,8 +17,7 @@
     "url": "https://github.com/dartess/bookmarks-front/issues"
   },
   "homepage": "https://github.com/dartess/bookmarks-front#readme",
-  "dependencies": {},
   "devDependencies": {
-    "husky": "^4.3.0"
+    "husky": "^8.0.2"
   }
 }
