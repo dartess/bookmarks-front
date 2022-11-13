@@ -45,6 +45,7 @@
 * 🇺🇸 [Why does package-lock.json exist, and how does it work?](https://lucasfcosta.com/2020/10/17/lockfile-guide.html)
 * 🇺🇸 [NPM Tips and Tricks](https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6)
 * 🇺🇸 🔥 [bundle — a quick npm package size checker](https://bundle.js.org/)
+* 🇺🇸 🔥 [npmtrends — Compare package download counts over time (поиск аналогов пакетов)](https://npmtrends.com/)
 
 ### semver
 
@@ -238,6 +239,6 @@
 
 * 🇺🇸 [Everything You Need to Know to Get Started with Deno](https://www.telerik.com/blogs/how-to-get-started-with-deno)
 
-## Elsa (Node.js альтернатива)
+## Прочее
 
-* 🇺🇸 [Elsa](https://github.com/elsaland/elsa)
+* 🇺🇸 🔥 [husky — Modern native git hooks made easy](https://typicode.github.io/husky/)

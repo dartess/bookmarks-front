@@ -23,6 +23,7 @@
 
 * 🇷🇺 [Функциональные компоненты с React Hooks. Чем они лучше?](https://habr.com/ru/post/443488/)
 * 🇺🇸 🔥 [react-use — библиотека хуков](https://github.com/streamich/react-use)
+* 🇺🇸 [A high-quality & reliable React Hooks library](https://ahooks.js.org/)
 * 🇺🇸 🔥 [react-timer-hook](https://github.com/amrlabib/react-timer-hook)
 * 🇺🇸 [react-use-gesture — работа с жестами (тач, мышь)](https://github.com/react-spring/react-use-gesture)
 * 🇺🇸 🔥 [use-debounce](https://www.npmjs.com/package/use-debounce)
@@ -45,8 +46,8 @@
 ### Формы и элементы ввода
 
 * 🇺🇸 🔥 [react-dropzone](https://react-dropzone.netlify.com/)
-* 🇺🇸 🔥 [React Final Form](https://final-form.org/react)
-* 🇺🇸 🔥 [React Final Form Arrays — работа с массивами в React Final Form](https://www.npmjs.com/package/react-final-form-arrays)
+* 🇺🇸 [React Final Form](https://final-form.org/react)
+* 🇺🇸 [React Final Form Arrays — работа с массивами в React Final Form](https://www.npmjs.com/package/react-final-form-arrays)
 * 🇺🇸 🔥 [React Text Mask](https://github.com/text-mask/text-mask/tree/master/react/#readme)
 * 🇺🇸 [Formik — build forms in React, without the tears](https://jaredpalmer.com/formik)
 
@@ -94,6 +95,11 @@
 
 * 🇺🇸 [React-PDF](https://github.com/wojtekmaj/react-pdf)
 
+### Виртуализация
+
+* 🇺🇸 [react-window – React components for efficiently rendering large lists and tabular data](https://www.npmjs.com/package/react-window)
+* 🇺🇸 [react-virtuoso – React Virtuoso is the most powerful React virtual list/table component, full stop.](https://www.npmjs.com/package/react-virtuoso)
+
 ## Стейт-менеджеры (СТМ)
 
 * 🇺🇸 [Blogged Answers: Why Redux Toolkit Uses Thunks for Async Logic](https://blog.isquaredsoftware.com/2020/02/blogged-answers-why-redux-toolkit-uses-thunks-for-async-logic/)
@@ -140,6 +146,7 @@
 
 * 🇺🇸 🔥 [Material-UI](https://material-ui.com/ru/)
 * 🇺🇸 [Blueprint](https://blueprintjs.com/docs/)
+* 🇺🇸 [Ant Design](https://ant.design/)
 * 🇺🇸 [dialog components](https://dialogs.github.io/dialog-web-components/)
 * 🇺🇸 [React95 — A React components library with Win95 UI](https://github.com/React95/React95)
 
