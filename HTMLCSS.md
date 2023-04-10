@@ -53,9 +53,15 @@
 * 🇺🇸 [Next-generation web styling](https://web.dev/next-gen-css-2019/)
 * 🇺🇸 [Dashed border using background-image property](https://codepen.io/amitsheen/pen/xxZeyjO)
 * 🇺🇸 [CSS Ruleset Terminology](https://css-tricks.com/css-ruleset-terminology/)
-* 🇺🇸 [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
 * 🇺🇸 [cssreference.io – A free visual guide to CSS](https://cssreference.io/)
 * 🇷🇺/🇺🇸 CSS: интересные возможности border-radius [перевод](https://habr.com/ru/company/ruvds/blog/426731/)/[оригинал](https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae)
+* 🇷🇺 [Правильная шпаргалка по CSS-каскаду](https://css-live.ru/css/pravilnaya-shpargalka-po-css-kaskadu.html)
+* 🇺🇸 [Control your drop caps with CSS initial-letter](https://developer.chrome.com/en/blog/control-your-drop-caps-with-css-initial-letter/)
+
+### Адаптивная вёрстка
+
+* 🇺🇸 [The Guide To Responsive Design In 2023 and Beyond](https://ishadeed.com/article/responsive-design/)
+* 🇺🇸 [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
 
 ### Единицы измерения, ключевые слова, функции
 
@@ -77,6 +83,7 @@
 
 * 🇺🇸 [CSS media queries are not just max-width](https://medium.com/mabiloft/css-media-queries-are-not-just-max-width-e543ee5d1a5b)
 * 🇺🇸 [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+* 🇺🇸 [The New CSS Media Query Range Syntax](https://css-tricks.com/the-new-css-media-query-range-syntax/)
 
 ### Текст
 
@@ -101,6 +108,7 @@
 * 🇺🇸 [Min and Max Width/Height in CSS](https://ishadeed.com/article/min-max-css/#use-cases-for-min-and-max-properties)
 * 🇺🇸 [Understanding positioning in CSS](https://chenhuijing.com/blog/understanding-positioning-in-css/)
 * 🇺🇸 [How display: contents; Works](https://bitsofco.de/how-display-contents-works/)
+* 🇺🇸 [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/)
 
 #### Two-Value Display Syntax
 
@@ -112,12 +120,9 @@
 
 * 🇺🇸 [Managing Z-Index In A Component-Based Web Application](https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/)
 * 🇺🇸 [CSS Painting Order](https://abandonedwig.info/blog/2020/07/03/css-painting-order.html)
+* 🇺🇸 [4 reasons your z-index isn’t working (and how to fix it)](https://www.freecodecamp.org/news/4-reasons-your-z-index-isnt-working-and-how-to-fix-it-coder-coder-6bc05f103e6c/)
 
-### Flexbox и grid
-
-* 🇺🇸 [Learn Box Alignment](https://ishadeed.com/article/learn-box-alignment/)
-
-#### Flexbox
+### Flexbox
 
 * 🇷🇺 [FLEXBOX FROGGY — игра с основами раскладки flexbox, не охватывает basis/grow/shrink](http://flexboxfroggy.com/)
 * 🇷🇺 [11 вещей которые я узнал, читая спецификацию flexbox](https://habr.com/ru/post/329820/)
@@ -125,7 +130,7 @@
 * 🇺🇸 [Flexbugs](https://github.com/philipwalton/flexbugs)
 * 🇺🇸 [Understanding Flexbox: Everything you need to know](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=vsyo--chto-vam-nuzhno-znat-o-fleksbokse-o#.lvfe7wt7h)
 
-#### Grid
+### Grid
 
 * 🇷🇺/🇺🇸 Именование в CSS Grid [перевод](https://habr.com/ru/post/478850/)/[оригинал](https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/)
 * 🇺🇸 [Как сломать грид](https://daverupert.com/2017/09/breaking-the-grid/)
@@ -138,11 +143,11 @@
 * 🇺🇸 [Learn CSS Grid](https://learncssgrid.com/)
 * 🇷🇺/🇺🇸 🔥 Убираем сдвиги в верстке наложением в CSS Grid [перевод](https://css-live.ru/css/ubiraem-sdvigi-v-verstke-nalozheniyem-v-css-grid.html)/[оригинал](https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/)
 
-##### Subgrid
+#### Subgrid
 
 * 🇺🇸 [CSS Grid Level 2 – subgrid is coming to Firefox](https://hacks.mozilla.org/2019/06/css-grid-level-2-subgrid-is-coming-to-firefox/)
 
-##### Grid Masonry
+#### Grid Masonry
 
 * 🇷🇺/🇺🇸 Нативный Masonry Layout в CSS Grid Level 3 [перевод](https://habr.com/ru/post/526008/)/[оригинал](https://www.smashingmagazine.com/native-css-masonry-layout-css-grid/)
 
@@ -198,6 +203,7 @@
 ### Режимы наложения
 
 * 🇷🇺 [Укрощаем режимы наложения в CSS](https://medium.com/@juwain/selective-desaturation-with-blend-modes-54eb1143f105)
+* 🇷🇺 [Как понять режимы наложения раз и навсегда](https://awdee.ru/blending-modes/)
 
 ### Фильтры
 
@@ -302,6 +308,7 @@
 * 🇷🇺/🇺🇸 Glyphhanger — инструмент для оптимизации шрифтов [перевод](https://anatolykulikov.ru/review/glyphhanger-tool-to-optimize-fonts/)/[оригинал](https://www.zachleat.com/web/glyphhanger/)
 * 🇺🇸 [eBay’s Font Loading Strategy](https://tech.ebayinc.com/engineering/ebays-font-loading-strategy/)
 * 🇷🇺/🇺🇸 Система font fallback: что происходит, когда шрифт не может найти нужный символ [перевод](https://habr.com/ru/post/521740/)/[оригинал](https://www.figma.com/blog/when-fonts-fall/)
+* 🇺🇸 🔥 [SYSTEM FONT STACK](https://systemfontstack.com/)
 
 ### Вариантивные шрифты
 
@@ -331,9 +338,13 @@
 ## Вёрстка под нестандартные устройства, экраны и пр.
 
 * 🇷🇺/🇺🇸 Понимание вьюпорта WebView в iOS 11 [перевод](https://css-live.ru/articles/ponimanie-vyuporta-webview-v-ios-11.html)/[оригинал](https://ayogo.com/blog/ios11-viewport/)
-* 🇺🇸 [watchOS, the wrist and the web for smaller screens](https://dev.to/meduzen/watchos-the-wrist-and-the-web-bbj)
 * 🇷🇺/🇺🇸 Микробраузеры повсюду. Но что мы о них знаем? [перевод](https://habr.com/ru/company/dcmiran/blog/485386/)/[оригинал](https://24ways.org/2019/microbrowsers-are-everywhere/)
 * 🇺🇸 [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/)
+
+### Вёрстка под watchOS
+
+* 🇺🇸 📺 [Designing Web Content for watchOS](https://developer.apple.com/videos/play/wwdc2018/239/)
+* 🇺🇸 [watchOS, the wrist and the web for smaller screens](https://dev.to/meduzen/watchos-the-wrist-and-the-web-bbj)
 
 ### Вёрстка под гибкие и двойные экраны
 
@@ -417,9 +428,11 @@
 * 🇺🇸 [AV1: next generation video – The Constrained Directional Enhancement Filter](https://hacks.mozilla.org/2018/06/av1-next-generation-video-the-constrained-directional-enhancement-filter/)
 * 🇺🇸 [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 * 🇺🇸 [Overlaying Video With Transparency While Wrangling Cross-Browser Support](https://css-tricks.com/overlaying-video-with-transparency-while-wrangling-cross-browser-support/)
+* 🇺🇸 [Auto-Play Policy Changes for macOS](https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/)
 
 ## SVG
 
+* 🇺🇸 🔥 [SSSVGInteractive SVG Reference](https://fffuel.co/sssvg/)
 * 🇺🇸 [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg)
 * 🇺🇸 [Understanding the SVG viewBox](http://thenewcode.com/1151/Understanding-the-SVG-viewBox)
 * 🇷🇺 [Размеры в SVG](http://css.yoksel.ru/svg-sizes/)

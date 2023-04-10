@@ -117,7 +117,6 @@
 
 ### Архитектура и разработка
 
-* 🇺🇸 [Пример приложения React+Redux](https://github.com/reactjs/redux/tree/master/examples/shopping-cart/src)
 * 🇷🇺 [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.pro/idiomatic-pre-CSS/)
 * 🇷🇺 🔥 [UIKit: типичная «ошибка» — разбор недостатков булевых пропсов](https://medium.com/@ibnRubaXa/uikit-%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0-33702309cec4?)
 * 🇷🇺 🔥 [Качество кода](https://habr.com/ru/company/oleg-bunin/blog/433326/)
@@ -125,6 +124,8 @@
 * 🇺🇸 [Layout-isolated components](https://visly.app/blog/layout-isolated-components)
 * 🇺🇸 [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)
 * 🇺🇸 [Psychology of Code Readability](https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a)
+* 🇷🇺 [Состояние загружаемых данных](https://forweb.dev/ru/blog/2020-04-29-data-state)
+* 🇷🇺/🇺🇸 Рефакторинг на максималках [оригинал](https://refactor-like-a-superhero.vercel.app/ru)/[перевод](https://refactor-like-a-superhero.vercel.app/en)
 
 ### Код ревью
 
@@ -146,7 +147,6 @@
 * 🇷🇺 [БЭМ](https://ru.bem.info/methodology/key-concepts/)
 * 🇷🇺 [HTML теги для Internet Explorer и Windows](https://snipp.ru/view/162#link-msapplication-tap-highlight)
 * 🏳 [Сравнение различных способов приведения к числу в JS](https://i.stack.imgur.com/dzin3.png)
-* 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
 * 🇺🇸 [A free guide to HTML5 head elements](https://htmlhead.dev/)
 * 🇺🇸 [Основные возможности SASS](https://sass-lang.com/guide)
 * 🇷🇺 [Фантастические веб-спецификации и где они обитают](https://css-live.ru/css/fantasticheskie-veb-specifikacii-i-gde-oni-obitayut.html)
@@ -177,7 +177,6 @@
 * 🇺🇸 [How To Control Music With A PS4 DualShock and JavaScript](https://itnext.io/how-to-control-music-with-a-ps4-dualshock-and-javascript-54237206c104)
 * 🇺🇸 [Improving page dismissal in synchronous XMLHttpRequest()](https://web.dev/disallow-synchronous-xhr/)
 * 🇺🇸 [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
-* 🇺🇸 [Scroll to text fragment: How to link & highlight any text on a web page](https://mgearon.com/html/text-fragments/)
 * 🇺🇸 [Nano ID – A tiny, secure, URL-friendly, unique string ID generator for JavaScript.](https://github.com/ai/nanoid)
 * 🇺🇸 [Pika](https://www.pika.dev/)
 * 🇺🇸 [Robust Client-Side JavaScript](https://molily.de/robust-javascript/)

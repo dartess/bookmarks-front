@@ -20,11 +20,11 @@
 		],
 		"description": "tr"
 	},
-	"l": {
-		"prefix": "l",
+	"f": {
+		"prefix": "f",
 		"body": [
 			"🔥 "
 		],
-		"description": "l"
+		"description": "f"
 	},
 }

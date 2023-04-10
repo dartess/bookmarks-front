@@ -62,6 +62,11 @@
 * 🇷🇺 [BIDI (unicode bidirectional algorithm)](https://habr.com/ru/post/181123/)
 * 🇷🇺 [Emoji.prototype.length — рассказ об эмоциональных символах в Юникоде](https://habr.com/ru/post/322446/)
 
+### Копирование объектов
+
+* 🇺🇸 [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
+* 🇺🇸 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
+
 ## Шаблоны (паттерны) проектирования
 
 * 🇷🇺 📺 🔥 [JavaScript Design Patterns](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
@@ -106,6 +111,10 @@
 ### Intl.RelativeTimeFormat
 
 * 🇺🇸 [Intl.RelativeTimeFormat v3.dev](https://v8.dev/features/intl-relativetimeformat)
+
+### Intl.Segmenter
+
+* 🇺🇸 [How to split JavaScript strings into sentences, words or graphemes with "Intl.Segmenter"](https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/)
 
 ## Объектно-ориентированное программирование
 

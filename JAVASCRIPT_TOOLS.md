@@ -66,6 +66,10 @@
 * 🇺🇸 [webpack-demos](https://github.com/ruanyf/webpack-demos)
 * 🇺🇸 [esbuild-loader](https://github.com/privatenumber/esbuild-loader)
 
+#### Webpack plugins
+
+* 🇺🇸 [case-sensitive-paths-webpack-plugin](https://www.npmjs.com/package/case-sensitive-paths-webpack-plugin)
+
 ### Rollup
 
 ### Parcel
@@ -234,6 +238,7 @@
 * 🇺🇸 [Node.js Features Support — kangax's compat-table applied only to Node.js](https://node.green/)
 * 🇷🇺 [Выкладываем Node.js приложение в сеть](https://telegra.ph/Vykladyvaem-Nodejs-prilozhenie-v-set-09-21)
 * 🇷🇺/🇺🇸 Руководство по логированию в Node.js [перевод](https://habr.com/ru/company/funcorp/blog/461881/)/[оригинал](https://www.twilio.com/blog/guide-node-js-logging)
+* 🇺🇸 [You should never ever run directly against Node.js in production. Maybe.](https://www.freecodecamp.org/news/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6/)
 
 ## Deno (Node.js альтернатива)
 

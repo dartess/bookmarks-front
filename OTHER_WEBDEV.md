@@ -91,6 +91,7 @@
 * 🇺🇸 [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm)
 * 🇺🇸 [Kontra OWASP Top 10](https://application.security/free-application-security-training)
 * 🇺🇸 [CORS, XSS and CSRF with examples in 10 minutes](https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3)
+* 🇺🇸 [DOM Clobbering](https://www.htmhell.dev/adventcalendar/2022/12/)
 
 ## Оптимизация
 
@@ -162,6 +163,11 @@
 
 * 🇷🇺 📺 [Алексей Золотых, Сжимаем Javascript по-взрослому](https://www.youtube.com/watch?v=feptFoey_bU)
 
+#### memlab
+
+* 🇺🇸 [MemLab: An open source framework for finding JavaScript memory leaks](https://engineering.fb.com/2022/09/12/open-source/memlab/)
+* 🇺🇸 [memlab — Analyzes JavaScript heap and finds memory leaks in browser and node.js](https://facebook.github.io/memlab/)
+
 ### Оптимизация React-приложений
 
 * 🇺🇸 [React, performance и -500 миллисекунд на старте — история наших оптимизаций в цифрах](https://habr.com/ru/post/495984/)
@@ -222,6 +228,7 @@
 * 🇷🇺 [Типограф Лебедева](https://www.artlebedev.ru/typograf/)
 * 🇺🇸 [CSS Sprite Generator](https://instantsprite.com/)
 * 🇺🇸 [FontDrop! — просмотр информации о шрифте](https://fontdrop.info/)
+* 🇺🇸 [WebContainers](https://webcontainers.io/)
 
 ### JSON
 
@@ -280,7 +287,7 @@
 
 ### Редакторы кода и IDE
 
-* 🇺🇸 🔥 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
+* 🇺🇸 [TabNine — расширение автодополнения любого кода на основе нейросети](https://tabnine.com/)
 * 🇺🇸 [Coding Fonts](https://coding-fonts.css-tricks.com/)
 
 #### vi/vim/etc
@@ -377,3 +384,8 @@
 ## Принципы, подходы, техники, и т.д.
 
 * 🇺🇸 [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+
+## Text Fragments
+
+* 🇺🇸 [Boldly link where no one has linked before: Text Fragments](https://web.dev/text-fragments/)
+* 🇺🇸 [Scroll to text fragment: How to link & highlight any text on a web page](https://mgearon.com/html/text-fragments/)

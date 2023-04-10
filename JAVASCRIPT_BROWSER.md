@@ -836,7 +836,6 @@
 
 * 🇺🇸 [JavaScript Self-Profiling API Proposal](https://github.com/WICG/js-self-profiling)
 
-
 ### API для работы с сетью
 
 #### FormData
@@ -891,6 +890,15 @@
 
 * 🇺🇸 [Web Cryptography API – спецификация](https://www.w3.org/TR/WebCryptoAPI/)
 * 🇺🇸 [Update on Web Cryptography](https://webkit.org/blog/7790/update-on-web-cryptography/)
+
+#### Portals
+
+* 🇺🇸 [Portals – черновик предложения](https://wicg.github.io/portals/)
+* 🇺🇸 [Hands-on with Portals: seamless navigation on the web](https://web.dev/hands-on-portals/)
+
+#### Channel Messaging API
+
+* 🇺🇸 [MDN — Channel Messaging API](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API)
 
 ## Совсем прочее
 
